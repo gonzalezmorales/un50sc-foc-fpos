@@ -8,38 +8,84 @@ library(RColorBrewer)
 setwd("C:/Users/L.GonzalezMorales/Documents/GitHub/un50sc-foc-fpos/Analysis/")
 
 # load functions
-source('f_doughnut.r')
-source('f_read.tab2dataTable.r')
-
-#set margins for plots
-
+source('Code/f_doughnut.r')
+source('Code/f_read.tab2dataTable.r')
+source('Code/f_writeTable2tab.r')
 
 #----------------------------------
 # Read raw data
 #----------------------------------
 
-responses <- read.tab2dataTable("CleanResponses.txt")
-columns   <- read.tab2dataTable("Columns.txt")
+responses <- read.tab2dataTable("Data/CleanResponses.txt")
+columns   <- read.tab2dataTable("Data/Columns.txt")
+
 
 #=====================================
 # Organize questions into individual files
 #=====================================
 
-
 countryInfo <- names(responses)[1:14]
 
-# See https://stackoverflow.com/questions/32184252/how-to-select-columns-in-data-table-using-a-character-vector-of-certain-column-n
-T0.0.respondents <- responses[,c(countryInfo, "C01", paste("C0", 3:8, sep = "")), with = FALSE]
+#-----------------------------
+# T0.0 -- Respondents Details
+#-----------------------------
 
-setnames(T0.0.respondents, 
+# Select columns from main "responses" file
+respondents <- responses[,c(countryInfo, "C01", paste("C0", 3:8, sep = "")), with = FALSE]
+
+# Rename using tags from "columns" file
+setnames(respondents, 
          c("C01", paste("C0", 3:8, sep = "")), 
          columns[Column%in%c(countryInfo, "C01", paste("C0", 3:8, sep = "")),QuestionText])
 
+# Write as tab-delimited file:
+
+writeTable2tab( respondents , "Output/Respondents.txt" )
+
+#---------------------------------
+# Questions
+#---------------------------------
+
+questions <- unique(columns[substr(QuestionID, 1, 1) != "X",list(QuestionID, QuestionText)])
+
+response.keys <- dcast(columns[substr(QuestionID, 1, 1) != "X",], QuestionID + QuestionText ~ ResponseID, value.var = "MultipleChoiceText")
+
+writeTable2tab( response.keys , "Output/Response-keys.txt" )
+
+#------------------------------
+  
+#for(i in 1:nrow(questions))
+for(i in 1:1)
+{
+  
+  question.details <- columns[QuestionID == questions[1,QuestionID],]
+  
+  question.responses <- responses[,c(countryInfo,question.details[,Column]),with = FALSE]
+  response.labels <- paste("Response",1:nrow(question.details), sep=".")
+  
+  setnames(question.responses, 
+           question.details[,Column], 
+           response.labels)
+  
+  question.responses <- cbind(question.details[,list(QuestionID, QuestionText)],
+                              question.responses)
+  
+  setcolorder(question.responses,
+              c(countryInfo,
+                "QuestionID", "QuestionText",
+                response.labels))
+  
+  writeTable2tab( question.responses,
+                  paste("Output/Responses-", questions[1,QuestionID], ".txt", sep="") )
+  
+  
+}
 
 
 
-
-
+#-----------------------------
+# T0.1 -- Respondents Details
+#-----------------------------
 
 # T00 - Respondents by region
 
