@@ -1,0 +1,9 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01		Fully integrated in statistical law or legal framework	57	61
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01		In STATEC's law a reference is made to the European statistics Code of Practice	1	1
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01		No statistical Law of legal framework	1	1
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01		Not integrated in statistical law or legal framework	6	6
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01		Partially integrated in statistical law or legal framework	25	27
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01		There is no formal NSS or institutional framework	1	1
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01		UNFPOS adherence, though, not explicitly written in legal framework	1	1
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01		We follow EU Code of Practices	1	1

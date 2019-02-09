@@ -1,0 +1,225 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies			
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	0	22	24
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	1	71	76
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	This is done for European statistics - official statistics is		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 			
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	0	10	11
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	1	83	89
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	This is done for European statistics - official statistics is		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases			
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	0	20	22
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	1	73	78
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	This is done for European statistics - official statistics is		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes			
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	0	34	37
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	1	59	63
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	This is done for European statistics - official statistics is		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies			
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	0	71	76
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	1	22	24
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	This is done for European statistics - official statistics is		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies			
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	0	68	73
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	1	25	27
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	This is done for European statistics - official statistics is		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection			
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	0	66	71
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	1	27	29
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	This is done for European statistics - official statistics is		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies			
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	0	46	49
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	1	47	51
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	This is done for European statistics - official statistics is		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies			
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	0	76	82
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	1	17	18
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	This is done for European statistics - official statistics is		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection			
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	0	51	55
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	1	42	45
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	This is done for European statistics - official statistics is		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities			
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	0	43	46
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	1	50	54
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	This is done for European statistics - official statistics is		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS			
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	0	64	69
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	1	29	31
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	This is done for European statistics - official statistics is		
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other		80	86
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	0		
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	1		
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	Agreement with the National Central Bank	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	Bilateral meetings with line ministries	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	Cooperation at professional/working level	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	Development of a website for the statistical system	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	Meeting with the responsable of the reseach institutions to share knowledge and experience	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	Providing technical assistance and statistical advice on use of data	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	Share resources between entities to execute statistical operations	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	Sharing of information and also attachment of staff of other institutions to the NSO	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	Signing of contracts on cooperation and data exchange for official statistics purposes.	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	This is done for European statistics - official statistics is	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above			
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	0	92	99
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	1	1	1
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews		
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	Agreement with the National Central Bank		
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	Bilateral meetings with line ministries		
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	Cooperation at professional/working level		
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	Development of a website for the statistical system		
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	Meeting with the responsable of the reseach institutions to share knowledge and experience		
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as		
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	Providing technical assistance and statistical advice on use of data		
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	Share resources between entities to execute statistical operations		
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	Sharing of information and also attachment of staff of other institutions to the NSO		
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	Signing of contracts on cooperation and data exchange for official statistics purposes.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.		
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	This is done for European statistics - official statistics is		

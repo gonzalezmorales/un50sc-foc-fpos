@@ -1,0 +1,10 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q09.1	Version of the SNA currently used	R01			3	3
+Q09.1	Version of the SNA currently used	R01		1993 SNA	19	20
+Q09.1	Version of the SNA currently used	R01		1993 and 2008	1	1
+Q09.1	Version of the SNA currently used	R01		2008 SNA	61	66
+Q09.1	Version of the SNA currently used	R01		ESA 2010	4	4
+Q09.1	Version of the SNA currently used	R01		ESA2010	1	1
+Q09.1	Version of the SNA currently used	R01		I don't know	1	1
+Q09.1	Version of the SNA currently used	R01		None	2	2
+Q09.1	Version of the SNA currently used	R01		Please see comment 9.1a	1	1

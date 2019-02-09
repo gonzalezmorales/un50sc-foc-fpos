@@ -1,0 +1,100 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R01	Statistical offices at the sub-national level (region, province, etc.)			
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R01	Statistical offices at the sub-national level (region, province, etc.)	0	56	60
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R01	Statistical offices at the sub-national level (region, province, etc.)	1	37	40
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R01	Statistical offices at the sub-national level (region, province, etc.)	Australian Institute for Health and Welfare (AIHW) which is a statutory body		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R01	Statistical offices at the sub-national level (region, province, etc.)	Other ELSS agencies (National Documentation Centre, Hellenic Telecommunications and Post Commission)		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R01	Statistical offices at the sub-national level (region, province, etc.)	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/LawSTATEC.pdf. Statec's law covers the missions of the Committee on Public Statistics which is made up of representatives of administrations, ministries and observatories active in holding, producing and disseminating statistics.		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R01	Statistical offices at the sub-national level (region, province, etc.)	State institutions, which provide official statistics		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R01	Statistical offices at the sub-national level (region, province, etc.)	Statistical services under line ministries which are gazetted under the Statistics Act		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R01	Statistical offices at the sub-national level (region, province, etc.)	The informants		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R02	Statistical services in line ministries			
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R02	Statistical services in line ministries	0	45	48
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R02	Statistical services in line ministries	1	48	52
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R02	Statistical services in line ministries	Australian Institute for Health and Welfare (AIHW) which is a statutory body		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R02	Statistical services in line ministries	Other ELSS agencies (National Documentation Centre, Hellenic Telecommunications and Post Commission)		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R02	Statistical services in line ministries	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/LawSTATEC.pdf. Statec's law covers the missions of the Committee on Public Statistics which is made up of representatives of administrations, ministries and observatories active in holding, producing and disseminating statistics.		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R02	Statistical services in line ministries	State institutions, which provide official statistics		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R02	Statistical services in line ministries	Statistical services under line ministries which are gazetted under the Statistics Act		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R02	Statistical services in line ministries	The informants		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R03	Statistical services in the Central Bank			
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R03	Statistical services in the Central Bank	0	52	56
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R03	Statistical services in the Central Bank	1	41	44
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R03	Statistical services in the Central Bank	Australian Institute for Health and Welfare (AIHW) which is a statutory body		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R03	Statistical services in the Central Bank	Other ELSS agencies (National Documentation Centre, Hellenic Telecommunications and Post Commission)		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R03	Statistical services in the Central Bank	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/LawSTATEC.pdf. Statec's law covers the missions of the Committee on Public Statistics which is made up of representatives of administrations, ministries and observatories active in holding, producing and disseminating statistics.		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R03	Statistical services in the Central Bank	State institutions, which provide official statistics		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R03	Statistical services in the Central Bank	Statistical services under line ministries which are gazetted under the Statistics Act		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R03	Statistical services in the Central Bank	The informants		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R04	Custodians of administrative data			
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R04	Custodians of administrative data	0	55	59
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R04	Custodians of administrative data	1	38	41
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R04	Custodians of administrative data	Australian Institute for Health and Welfare (AIHW) which is a statutory body		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R04	Custodians of administrative data	Other ELSS agencies (National Documentation Centre, Hellenic Telecommunications and Post Commission)		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R04	Custodians of administrative data	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/LawSTATEC.pdf. Statec's law covers the missions of the Committee on Public Statistics which is made up of representatives of administrations, ministries and observatories active in holding, producing and disseminating statistics.		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R04	Custodians of administrative data	State institutions, which provide official statistics		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R04	Custodians of administrative data	Statistical services under line ministries which are gazetted under the Statistics Act		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R04	Custodians of administrative data	The informants		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R05	Chambers of commerce or other business networks			
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R05	Chambers of commerce or other business networks	0	83	89
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R05	Chambers of commerce or other business networks	1	10	11
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R05	Chambers of commerce or other business networks	Australian Institute for Health and Welfare (AIHW) which is a statutory body		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R05	Chambers of commerce or other business networks	Other ELSS agencies (National Documentation Centre, Hellenic Telecommunications and Post Commission)		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R05	Chambers of commerce or other business networks	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/LawSTATEC.pdf. Statec's law covers the missions of the Committee on Public Statistics which is made up of representatives of administrations, ministries and observatories active in holding, producing and disseminating statistics.		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R05	Chambers of commerce or other business networks	State institutions, which provide official statistics		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R05	Chambers of commerce or other business networks	Statistical services under line ministries which are gazetted under the Statistics Act		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R05	Chambers of commerce or other business networks	The informants		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R06	Trade unions			
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R06	Trade unions	0	86	92
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R06	Trade unions	1	7	8
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R06	Trade unions	Australian Institute for Health and Welfare (AIHW) which is a statutory body		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R06	Trade unions	Other ELSS agencies (National Documentation Centre, Hellenic Telecommunications and Post Commission)		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R06	Trade unions	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/LawSTATEC.pdf. Statec's law covers the missions of the Committee on Public Statistics which is made up of representatives of administrations, ministries and observatories active in holding, producing and disseminating statistics.		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R06	Trade unions	State institutions, which provide official statistics		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R06	Trade unions	Statistical services under line ministries which are gazetted under the Statistics Act		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R06	Trade unions	The informants		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R07	Statistical research and training centres 			
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R07	Statistical research and training centres 	0	74	80
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R07	Statistical research and training centres 	1	19	20
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R07	Statistical research and training centres 	Australian Institute for Health and Welfare (AIHW) which is a statutory body		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R07	Statistical research and training centres 	Other ELSS agencies (National Documentation Centre, Hellenic Telecommunications and Post Commission)		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R07	Statistical research and training centres 	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/LawSTATEC.pdf. Statec's law covers the missions of the Committee on Public Statistics which is made up of representatives of administrations, ministries and observatories active in holding, producing and disseminating statistics.		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R07	Statistical research and training centres 	State institutions, which provide official statistics		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R07	Statistical research and training centres 	Statistical services under line ministries which are gazetted under the Statistics Act		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R07	Statistical research and training centres 	The informants		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R08	Private institutions			
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R08	Private institutions	0	80	86
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R08	Private institutions	1	13	14
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R08	Private institutions	Australian Institute for Health and Welfare (AIHW) which is a statutory body		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R08	Private institutions	Other ELSS agencies (National Documentation Centre, Hellenic Telecommunications and Post Commission)		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R08	Private institutions	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/LawSTATEC.pdf. Statec's law covers the missions of the Committee on Public Statistics which is made up of representatives of administrations, ministries and observatories active in holding, producing and disseminating statistics.		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R08	Private institutions	State institutions, which provide official statistics		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R08	Private institutions	Statistical services under line ministries which are gazetted under the Statistics Act		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R08	Private institutions	The informants		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R09	Supra-national bodies (e.g. Eurostat)			
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R09	Supra-national bodies (e.g. Eurostat)	0	90	97
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R09	Supra-national bodies (e.g. Eurostat)	1	3	3
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R09	Supra-national bodies (e.g. Eurostat)	Australian Institute for Health and Welfare (AIHW) which is a statutory body		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R09	Supra-national bodies (e.g. Eurostat)	Other ELSS agencies (National Documentation Centre, Hellenic Telecommunications and Post Commission)		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R09	Supra-national bodies (e.g. Eurostat)	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/LawSTATEC.pdf. Statec's law covers the missions of the Committee on Public Statistics which is made up of representatives of administrations, ministries and observatories active in holding, producing and disseminating statistics.		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R09	Supra-national bodies (e.g. Eurostat)	State institutions, which provide official statistics		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R09	Supra-national bodies (e.g. Eurostat)	Statistical services under line ministries which are gazetted under the Statistics Act		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R09	Supra-national bodies (e.g. Eurostat)	The informants		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R10	Other		87	94
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R10	Other	0		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R10	Other	1		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R10	Other	Australian Institute for Health and Welfare (AIHW) which is a statutory body	1	1
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R10	Other	Other ELSS agencies (National Documentation Centre, Hellenic Telecommunications and Post Commission)	1	1
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R10	Other	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/LawSTATEC.pdf. Statec's law covers the missions of the Committee on Public Statistics which is made up of representatives of administrations, ministries and observatories active in holding, producing and disseminating statistics.	1	1
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R10	Other	State institutions, which provide official statistics	1	1
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R10	Other	Statistical services under line ministries which are gazetted under the Statistics Act	1	1
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R10	Other	The informants	1	1
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R11	None Of The Above			
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R11	None Of The Above	0	92	99
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R11	None Of The Above	1	1	1
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R11	None Of The Above	Australian Institute for Health and Welfare (AIHW) which is a statutory body		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R11	None Of The Above	Other ELSS agencies (National Documentation Centre, Hellenic Telecommunications and Post Commission)		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R11	None Of The Above	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/LawSTATEC.pdf. Statec's law covers the missions of the Committee on Public Statistics which is made up of representatives of administrations, ministries and observatories active in holding, producing and disseminating statistics.		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R11	None Of The Above	State institutions, which provide official statistics		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R11	None Of The Above	Statistical services under line ministries which are gazetted under the Statistics Act		
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R11	None Of The Above	The informants		

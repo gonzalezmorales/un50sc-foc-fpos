@@ -1,0 +1,2 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q03.3a	Reasons why no accompanying text is provided with published data	R01			93	100

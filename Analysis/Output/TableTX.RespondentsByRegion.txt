@@ -1,0 +1,6 @@
+Table	RegionName	N	Percentage
+Respondents by region	Europe	35	38
+Respondents by region	Asia	24	26
+Respondents by region	Africa	17	18
+Respondents by region	Americas	13	14
+Respondents by region	Oceania	4	4

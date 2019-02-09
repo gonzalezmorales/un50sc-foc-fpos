@@ -1,0 +1,65 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions			
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	0	81	87
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	1	12	13
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	Misinterpretation of key concepts and data		
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	Misinterpretation of methodologies		
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	Misuse because of serious incompetence		
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	SCI prevents misuse  through timely  information  dissemination .		
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	US Statistical agencies cooperate with media to make every effort to get the reporting correct.  For example, there is 1/2 hour prior to the GDP and Unemployment news releases.  This is done to give them time to write their stories correctly before the 8:30 a.m. release.		
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations			
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	0	59	63
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	1	34	37
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	Misinterpretation of key concepts and data		
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	Misinterpretation of methodologies		
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	Misuse because of serious incompetence		
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	SCI prevents misuse  through timely  information  dissemination .		
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	US Statistical agencies cooperate with media to make every effort to get the reporting correct.  For example, there is 1/2 hour prior to the GDP and Unemployment news releases.  This is done to give them time to write their stories correctly before the 8:30 a.m. release.		
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings			
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	0	35	38
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	1	58	62
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	Misinterpretation of key concepts and data		
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	Misinterpretation of methodologies		
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	Misuse because of serious incompetence		
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	SCI prevents misuse  through timely  information  dissemination .		
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	US Statistical agencies cooperate with media to make every effort to get the reporting correct.  For example, there is 1/2 hour prior to the GDP and Unemployment news releases.  This is done to give them time to write their stories correctly before the 8:30 a.m. release.		
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)			
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	0	64	69
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	1	29	31
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	Misinterpretation of key concepts and data		
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	Misinterpretation of methodologies		
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	Misuse because of serious incompetence		
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	SCI prevents misuse  through timely  information  dissemination .		
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	US Statistical agencies cooperate with media to make every effort to get the reporting correct.  For example, there is 1/2 hour prior to the GDP and Unemployment news releases.  This is done to give them time to write their stories correctly before the 8:30 a.m. release.		
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization			
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	0	74	80
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	1	19	20
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	Misinterpretation of key concepts and data		
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	Misinterpretation of methodologies		
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	Misuse because of serious incompetence		
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	SCI prevents misuse  through timely  information  dissemination .		
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	US Statistical agencies cooperate with media to make every effort to get the reporting correct.  For example, there is 1/2 hour prior to the GDP and Unemployment news releases.  This is done to give them time to write their stories correctly before the 8:30 a.m. release.		
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality			
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	0	66	71
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	1	27	29
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	Misinterpretation of key concepts and data		
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	Misinterpretation of methodologies		
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	Misuse because of serious incompetence		
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	SCI prevents misuse  through timely  information  dissemination .		
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	US Statistical agencies cooperate with media to make every effort to get the reporting correct.  For example, there is 1/2 hour prior to the GDP and Unemployment news releases.  This is done to give them time to write their stories correctly before the 8:30 a.m. release.		
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above			
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	0	90	97
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	1	3	3
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	Misinterpretation of key concepts and data		
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	Misinterpretation of methodologies		
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	Misuse because of serious incompetence		
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	SCI prevents misuse  through timely  information  dissemination .		
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	US Statistical agencies cooperate with media to make every effort to get the reporting correct.  For example, there is 1/2 hour prior to the GDP and Unemployment news releases.  This is done to give them time to write their stories correctly before the 8:30 a.m. release.		
+Q04.2a	Types of misuse identified in the past two years?	R08	Other		88	95
+Q04.2a	Types of misuse identified in the past two years?	R08	Other	0		
+Q04.2a	Types of misuse identified in the past two years?	R08	Other	1		
+Q04.2a	Types of misuse identified in the past two years?	R08	Other	Misinterpretation of key concepts and data	1	1
+Q04.2a	Types of misuse identified in the past two years?	R08	Other	Misinterpretation of methodologies	1	1
+Q04.2a	Types of misuse identified in the past two years?	R08	Other	Misuse because of serious incompetence	1	1
+Q04.2a	Types of misuse identified in the past two years?	R08	Other	SCI prevents misuse  through timely  information  dissemination .	1	1
+Q04.2a	Types of misuse identified in the past two years?	R08	Other	US Statistical agencies cooperate with media to make every effort to get the reporting correct.  For example, there is 1/2 hour prior to the GDP and Unemployment news releases.  This is done to give them time to write their stories correctly before the 8:30 a.m. release.	1	1

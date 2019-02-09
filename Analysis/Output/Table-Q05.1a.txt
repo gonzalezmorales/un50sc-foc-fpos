@@ -1,0 +1,57 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)			
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	0	8	9
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	1	85	91
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	Data Integration		
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	Linking to census and survey sources to add information content.		
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	Quality Assurance Purposes		
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	Research		
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)			
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	0	20	22
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	1	73	78
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	Data Integration		
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	Linking to census and survey sources to add information content.		
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	Quality Assurance Purposes		
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	Research		
+Q05.1a	How administrative records are currently used	R03	As sampling frames			
+Q05.1a	How administrative records are currently used	R03	As sampling frames	0	28	30
+Q05.1a	How administrative records are currently used	R03	As sampling frames	1	65	70
+Q05.1a	How administrative records are currently used	R03	As sampling frames	Data Integration		
+Q05.1a	How administrative records are currently used	R03	As sampling frames	Linking to census and survey sources to add information content.		
+Q05.1a	How administrative records are currently used	R03	As sampling frames	Quality Assurance Purposes		
+Q05.1a	How administrative records are currently used	R03	As sampling frames	Research		
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.			
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	0	19	20
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	1	74	80
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	Data Integration		
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	Linking to census and survey sources to add information content.		
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	Quality Assurance Purposes		
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	Research		
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews			
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	0	31	33
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	1	62	67
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	Data Integration		
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	Linking to census and survey sources to add information content.		
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	Quality Assurance Purposes		
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	Research		
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys			
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	0	48	52
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	1	45	48
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	Data Integration		
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	Linking to census and survey sources to add information content.		
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	Quality Assurance Purposes		
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	Research		
+Q05.1a	How administrative records are currently used	R07	None of the above			
+Q05.1a	How administrative records are currently used	R07	None of the above	0	93	100
+Q05.1a	How administrative records are currently used	R07	None of the above	1		
+Q05.1a	How administrative records are currently used	R07	None of the above	Data Integration		
+Q05.1a	How administrative records are currently used	R07	None of the above	Linking to census and survey sources to add information content.		
+Q05.1a	How administrative records are currently used	R07	None of the above	Quality Assurance Purposes		
+Q05.1a	How administrative records are currently used	R07	None of the above	Research		
+Q05.1a	How administrative records are currently used	R08	Other		89	96
+Q05.1a	How administrative records are currently used	R08	Other	0		
+Q05.1a	How administrative records are currently used	R08	Other	1		
+Q05.1a	How administrative records are currently used	R08	Other	Data Integration	1	1
+Q05.1a	How administrative records are currently used	R08	Other	Linking to census and survey sources to add information content.	1	1
+Q05.1a	How administrative records are currently used	R08	Other	Quality Assurance Purposes	1	1
+Q05.1a	How administrative records are currently used	R08	Other	Research	1	1

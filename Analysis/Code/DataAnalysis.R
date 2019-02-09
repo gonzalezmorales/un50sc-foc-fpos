@@ -4,6 +4,7 @@ library(data.table)
 library(plotly)
 library(RColorBrewer)
 library(stringr)
+library(optiRum)
 
 
 # set your working directory - change as needed
@@ -92,59 +93,129 @@ rm(list = c("questions",
             "question.responses", 
             "response.labels",
             "countryInfo",
-            "responses"))
+            "responses",
+            "columns"))
 
+#====================================
+# ANALYSIS
+#====================================
 
 #-----------------------------
-# T0.1 -- Respondents Details
-#-----------------------------
-
 # T00 - Respondents by region
+#-----------------------------
 
-TX.RespondentsByRegion <- responses[, .(.N), , by = .(RegionName)]
-TX.RespondentsByRegion[, Percentage := round(N/nrow(responses)*100,0)]
+TX.RespondentsByRegion <- respondents[, .(.N), , by = .(RegionName)]
+TX.RespondentsByRegion[, Percentage := round(N/nrow(respondents)*100,0)]
+TX.RespondentsByRegion[, Table := "Respondents by region"]
 
-TX.RespondentsByRegion<- TX.RespondentsByRegion[order(-rank(N)),list(RegionName,N,Percentage)]
+TX.RespondentsByRegion<- TX.RespondentsByRegion[order(-rank(N)),
+                                                list(Table, RegionName, N, Percentage)]
 
-x <- as.data.frame(TX.RespondentsByRegion)
+writeTable2tab( TX.RespondentsByRegion,"Output/TableTX.RespondentsByRegion.txt")
 
-svg(filename="PlotT00.RespondentsByRegion.svg", 
-    width=6, 
-    height=4)
+#- - - - - - - -
+x        <- TX.RespondentsByRegion[,Percentage]
+x.labels <- paste(TX.RespondentsByRegion[,RegionName],"\n",TX.RespondentsByRegion[,Percentage],"%",sep = "")
+x.color  <- brewer.pal(nrow(TX.RespondentsByRegion),"Blues")
+#- - - - - - - -
+
+svg(filename="PlotTX.RespondentsByRegion.svg", width=6, height=4)
 
     par(mar=c(0,0,0,0))
     
-    TX.RespondentsByRegion.Plot <- 
-      doughnut(x$Percentage, 
-               labels = paste(x$RegionName,
-                              "\n",
-                              x$Percentage,
-                              "%", 
-                              sep = ""), 
-               edges = 1000, 
-               outer.radius = 0.8, 
-               inner.radius=0.4, 
-               col = brewer.pal(length(x$Percentage),"Blues"), 
-               border = FALSE, 
-               lty = NULL, 
-               main = NULL,
-               cex = 1)
+    doughnut(x,
+            labels = x.labels, 
+            edges = 1000, 
+            outer.radius = 0.70, 
+            inner.radius=0.35, 
+            col = x.color, 
+            border = FALSE, 
+            lty = NULL, 
+            main = NULL,
+            cex = 1)
     
 dev.off()
-
-
-
 
 #=============================
 
 # T0.1 - Respondents answering on behalf or NSO
 
-T0.1.RespondentsOnBehalfOf <- responses[, .(.N), , by = .(C09)]
-T0.1.RespondentsOnBehalfOf[, Percentage := round(N/nrow(responses)*100,0)]
+for(q in 1:nrow(response.keys)){
+  
+  QuestionID <- response.keys[q, QuestionID]
+  QuestionText <- response.keys[q,QuestionText]
+  
+  responses <- read.tab2dataTable(paste("Output/Responses-",QuestionID,".txt",sep=""))
+  
+  response.columns <- names(responses[,-(1:16),with = FALSE])
+  
+  if(length(response.columns) == 1){
+      
+      response.labels <- QuestionText
+      
+      summary <- responses[, .(.N), by = R01]
+      summary[, Percentage := round(N/nrow(responses)*100,0)]
+  
+      summary <- cbind(QuestionID, QuestionText, eval(response.columns[1]), "", summary)
+      setnames(summary, "V3", "BlockID")
+      setnames(summary, "V4", "BlockText")
+      
+      setnames(summary, eval(response.columns[1]), "Answer")
+      
+    } else {
+      
+      response.labels <- unlist(response.keys[q, response.columns, with = FALSE])
+      
+      summary <- responses[, .(.N), by = eval(response.columns[1])]
+      summary[, Percentage := round(N/nrow(responses)*100,0)]
+      
+      summary <- cbind(QuestionID, QuestionText, eval(response.columns[1]), response.labels[1], summary)
+  
+      setnames(summary, "V3", "BlockID")
+      setnames(summary, "V4", "BlockText")
+      setnames(summary, eval(response.columns[1]), "Answer")
+      
+      for (i in 2:length(response.columns))
+      {
+        summary.b <- responses[, .(.N), by = eval(response.columns[i])]
+        summary.b[, Percentage := round(N/nrow(responses)*100,0)]
+       
+        summary.b <- cbind(QuestionID, QuestionText, eval(response.columns[i]), response.labels[i], summary.b)
+        
+        setnames(summary.b, "V3", "BlockID")
+        setnames(summary.b, "V4", "BlockText")
+        setnames(summary.b, eval(response.columns[i]), "Answer")
+  
+        summary <- rbind(summary, summary.b)
+        
+      }
+      
+      
+      rm(list = c("summary.b"))
+      
+    }
+  
+  
+  
+  summary <- merge(CJ.dt(unique(summary[, list(QuestionID, QuestionText, BlockID, BlockText)]),
+                         unique(summary[, list(Answer)])),
+                   summary, 
+                   by = c("QuestionID", "QuestionText", "BlockID", "BlockText", "Answer"),
+                   all = TRUE)
+  
+  summary
+  
+  
+  table.name <- paste("Table-",QuestionID, sep="")
+  
+  assign(table.name, summary)
+  
+  writeTable2tab(get(table.name),paste("Output/",table.name,".txt", sep = ""))
+  
+  
+}
 
-T0.1.RespondentsOnBehalfOf<- T0.1.RespondentsOnBehalfOf[order(-rank(N)),list(C09,N,Percentage)]
 
-setnames(T0.1.RespondentsOnBehalfOf, "C09", "Answering on behalf of")
 
 #=============================
 

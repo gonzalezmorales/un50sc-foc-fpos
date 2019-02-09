@@ -1,0 +1,5 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q09.5	SDMX currently in use	R01		Do not know	2	2
+Q09.5	SDMX currently in use	R01		No	25	27
+Q09.5	SDMX currently in use	R01		Partially, only in some statistical domains or data sets	32	34
+Q09.5	SDMX currently in use	R01		Yes	34	37

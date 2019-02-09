@@ -1,0 +1,204 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System			
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	0	58	62
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	1	35	38
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	ABS Data Quality Framework, IMF SDDS Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	ASEAN Community Statistical System Code of Practice		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	ASPIRE (Stats Sweden adaptation)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	CARICOM Good Statistical Practices and CARICOM  RSDS		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	EFQM, SDDS, GSBPM		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	European Statistics Code of Practice; National Statistics Code of Practice		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	Generally, referred to as		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	ISO 20252:2012		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	ISO 27001		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	ISO 27001 ongoing		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	ISO EN 27 001		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	Lean. But first and foremost European Code of Practice.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	National Quality Assurance Framework (NQAF)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	Quality Assurance Framework for the NSO		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	Quality framework based  on NQAF.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	Quality guidelines of the office		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	SDDS		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	SGDD-a		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	Special Data Dissemination Standards (SDDS)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	StatCan Quality Assurance Framework Guidelines		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	Statistical quality assurance framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	The NSO is planning a National Integral Statistical Quality Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	There is no international quality framework implemented at NBS, yet, there are elements of quality management system in place.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	TurkStat Quality  Assurance Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	UN-National Quality Assurance Framework, EFQM-excellence model, ENP-COP.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	US943 and US942		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework			
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	0	50	54
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	1	43	46
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	ABS Data Quality Framework, IMF SDDS Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	ASEAN Community Statistical System Code of Practice		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	ASPIRE (Stats Sweden adaptation)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	CARICOM Good Statistical Practices and CARICOM  RSDS		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	EFQM, SDDS, GSBPM		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	European Statistics Code of Practice; National Statistics Code of Practice		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	Generally, referred to as		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	ISO 20252:2012		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	ISO 27001		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	ISO 27001 ongoing		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	ISO EN 27 001		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	Lean. But first and foremost European Code of Practice.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	National Quality Assurance Framework (NQAF)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	Quality Assurance Framework for the NSO		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	Quality framework based  on NQAF.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	Quality guidelines of the office		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	SDDS		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	SGDD-a		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	Special Data Dissemination Standards (SDDS)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	StatCan Quality Assurance Framework Guidelines		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	Statistical quality assurance framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	The NSO is planning a National Integral Statistical Quality Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	There is no international quality framework implemented at NBS, yet, there are elements of quality management system in place.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	TurkStat Quality  Assurance Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	UN-National Quality Assurance Framework, EFQM-excellence model, ENP-COP.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	US943 and US942		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework			
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	0	53	57
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	1	40	43
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	ABS Data Quality Framework, IMF SDDS Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	ASEAN Community Statistical System Code of Practice		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	ASPIRE (Stats Sweden adaptation)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	CARICOM Good Statistical Practices and CARICOM  RSDS		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	EFQM, SDDS, GSBPM		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	European Statistics Code of Practice; National Statistics Code of Practice		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	Generally, referred to as		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	ISO 20252:2012		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	ISO 27001		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	ISO 27001 ongoing		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	ISO EN 27 001		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	Lean. But first and foremost European Code of Practice.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	National Quality Assurance Framework (NQAF)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	Quality Assurance Framework for the NSO		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	Quality framework based  on NQAF.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	Quality guidelines of the office		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	SDDS		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	SGDD-a		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	Special Data Dissemination Standards (SDDS)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	StatCan Quality Assurance Framework Guidelines		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	Statistical quality assurance framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	The NSO is planning a National Integral Statistical Quality Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	There is no international quality framework implemented at NBS, yet, there are elements of quality management system in place.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	TurkStat Quality  Assurance Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	UN-National Quality Assurance Framework, EFQM-excellence model, ENP-COP.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	US943 and US942		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management			
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	0	72	77
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	1	21	23
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	ABS Data Quality Framework, IMF SDDS Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	ASEAN Community Statistical System Code of Practice		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	ASPIRE (Stats Sweden adaptation)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	CARICOM Good Statistical Practices and CARICOM  RSDS		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	EFQM, SDDS, GSBPM		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	European Statistics Code of Practice; National Statistics Code of Practice		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	Generally, referred to as		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	ISO 20252:2012		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	ISO 27001		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	ISO 27001 ongoing		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	ISO EN 27 001		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	Lean. But first and foremost European Code of Practice.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	National Quality Assurance Framework (NQAF)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	Quality Assurance Framework for the NSO		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	Quality framework based  on NQAF.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	Quality guidelines of the office		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	SDDS		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	SGDD-a		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	Special Data Dissemination Standards (SDDS)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	StatCan Quality Assurance Framework Guidelines		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	Statistical quality assurance framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	The NSO is planning a National Integral Statistical Quality Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	There is no international quality framework implemented at NBS, yet, there are elements of quality management system in place.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	TurkStat Quality  Assurance Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	UN-National Quality Assurance Framework, EFQM-excellence model, ENP-COP.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	US943 and US942		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001			
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	0	81	87
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	1	12	13
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	ABS Data Quality Framework, IMF SDDS Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	ASEAN Community Statistical System Code of Practice		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	ASPIRE (Stats Sweden adaptation)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	CARICOM Good Statistical Practices and CARICOM  RSDS		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	EFQM, SDDS, GSBPM		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	European Statistics Code of Practice; National Statistics Code of Practice		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	Generally, referred to as		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	ISO 20252:2012		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	ISO 27001		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	ISO 27001 ongoing		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	ISO EN 27 001		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	Lean. But first and foremost European Code of Practice.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	National Quality Assurance Framework (NQAF)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	Quality Assurance Framework for the NSO		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	Quality framework based  on NQAF.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	Quality guidelines of the office		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	SDDS		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	SGDD-a		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	Special Data Dissemination Standards (SDDS)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	StatCan Quality Assurance Framework Guidelines		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	Statistical quality assurance framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	The NSO is planning a National Integral Statistical Quality Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	There is no international quality framework implemented at NBS, yet, there are elements of quality management system in place.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	TurkStat Quality  Assurance Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	UN-National Quality Assurance Framework, EFQM-excellence model, ENP-COP.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	US943 and US942		
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other		67	72
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	0		
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	1		
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	ABS Data Quality Framework, IMF SDDS Framework	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	ASEAN Community Statistical System Code of Practice	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	ASPIRE (Stats Sweden adaptation)	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	CARICOM Good Statistical Practices and CARICOM  RSDS	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	EFQM, SDDS, GSBPM	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	European Statistics Code of Practice; National Statistics Code of Practice	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	Generally, referred to as	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	ISO 20252:2012	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	ISO 27001	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	ISO 27001 ongoing	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	ISO EN 27 001	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	Lean. But first and foremost European Code of Practice.	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	National Quality Assurance Framework (NQAF)	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	Quality Assurance Framework for the NSO	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	Quality framework based  on NQAF.	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	Quality guidelines of the office	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	SDDS	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	SGDD-a	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	Special Data Dissemination Standards (SDDS)	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	StatCan Quality Assurance Framework Guidelines	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	Statistical quality assurance framework	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	The NSO is planning a National Integral Statistical Quality Framework	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	There is no international quality framework implemented at NBS, yet, there are elements of quality management system in place.	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	TurkStat Quality  Assurance Framework	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	UN-National Quality Assurance Framework, EFQM-excellence model, ENP-COP.	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	US943 and US942	1	1
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above			
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	0	87	94
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	1	6	6
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	ABS Data Quality Framework, IMF SDDS Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	ASEAN Community Statistical System Code of Practice		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	ASPIRE (Stats Sweden adaptation)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	CARICOM Good Statistical Practices and CARICOM  RSDS		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	EFQM, SDDS, GSBPM		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	European Statistics Code of Practice; National Statistics Code of Practice		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	Generally, referred to as		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	ISO 20252:2012		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	ISO 27001		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	ISO 27001 ongoing		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	ISO EN 27 001		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	Lean. But first and foremost European Code of Practice.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	National Quality Assurance Framework (NQAF)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	Quality Assurance Framework for the NSO		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	Quality framework based  on NQAF.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	Quality guidelines of the office		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	SDDS		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	SGDD-a		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	Special Data Dissemination Standards (SDDS)		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	StatCan Quality Assurance Framework Guidelines		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	Statistical quality assurance framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	The NSO is planning a National Integral Statistical Quality Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	There is no international quality framework implemented at NBS, yet, there are elements of quality management system in place.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	TurkStat Quality  Assurance Framework		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	UN-National Quality Assurance Framework, EFQM-excellence model, ENP-COP.		
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	US943 and US942		

@@ -1,0 +1,417 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway			
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	0	81	87
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	1	12	13
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	IMF Open Data Platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	LankaSis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	Mexico open data portal (datos.gob.mx)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	NATIONAL SUMMERY PAGE		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	National Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	National Open Data portal accessible at: https://data.govmu.org/dkan/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	National web page (NSDP) on eGDDS		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	Open Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	Oracle databases in-house developed		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	PC-Axis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	PX-Web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	PX-web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	PxWeb for statistical database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	REDATAM for census		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	ReDATAM		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	Redatam		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	STATcube - Statistics Austrias Database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	SingStat Mobile Application		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	The NSA App as the custom-developed data platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	agency websites		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	gov. data (German Data Platform)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	https://www.data.gouv.fr/, https://www.insee.fr/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	own website		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS			
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	0	64	69
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	1	29	31
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	IMF Open Data Platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	LankaSis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	Mexico open data portal (datos.gob.mx)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	NATIONAL SUMMERY PAGE		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	National Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	National Open Data portal accessible at: https://data.govmu.org/dkan/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	National web page (NSDP) on eGDDS		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	Open Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	Oracle databases in-house developed		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	PC-Axis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	PX-Web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	PX-web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	PxWeb for statistical database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	REDATAM for census		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	ReDATAM		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	Redatam		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	STATcube - Statistics Austrias Database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	SingStat Mobile Application		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	The NSA App as the custom-developed data platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	agency websites		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	gov. data (German Data Platform)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	https://www.data.gouv.fr/, https://www.insee.fr/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	own website		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT			
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	0	78	84
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	1	15	16
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	IMF Open Data Platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	LankaSis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	Mexico open data portal (datos.gob.mx)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	NATIONAL SUMMERY PAGE		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	National Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	National Open Data portal accessible at: https://data.govmu.org/dkan/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	National web page (NSDP) on eGDDS		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	Open Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	Oracle databases in-house developed		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	PC-Axis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	PX-Web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	PX-web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	PxWeb for statistical database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	REDATAM for census		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	ReDATAM		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	Redatam		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	STATcube - Statistics Austrias Database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	SingStat Mobile Application		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	The NSA App as the custom-developed data platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	agency websites		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	gov. data (German Data Platform)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	https://www.data.gouv.fr/, https://www.insee.fr/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	own website		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo			
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	0	75	81
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	1	18	19
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	IMF Open Data Platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	LankaSis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	Mexico open data portal (datos.gob.mx)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	NATIONAL SUMMERY PAGE		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	National Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	National Open Data portal accessible at: https://data.govmu.org/dkan/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	National web page (NSDP) on eGDDS		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	Open Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	Oracle databases in-house developed		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	PC-Axis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	PX-Web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	PX-web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	PxWeb for statistical database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	REDATAM for census		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	ReDATAM		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	Redatam		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	STATcube - Statistics Austrias Database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	SingStat Mobile Application		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	The NSA App as the custom-developed data platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	agency websites		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	gov. data (German Data Platform)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	https://www.data.gouv.fr/, https://www.insee.fr/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	own website		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal			
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	0	68	73
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	1	25	27
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	IMF Open Data Platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	LankaSis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	Mexico open data portal (datos.gob.mx)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	NATIONAL SUMMERY PAGE		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	National Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	National Open Data portal accessible at: https://data.govmu.org/dkan/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	National web page (NSDP) on eGDDS		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	Open Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	Oracle databases in-house developed		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	PC-Axis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	PX-Web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	PX-web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	PxWeb for statistical database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	REDATAM for census		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	ReDATAM		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	Redatam		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	STATcube - Statistics Austrias Database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	SingStat Mobile Application		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	The NSA App as the custom-developed data platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	agency websites		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	gov. data (German Data Platform)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	https://www.data.gouv.fr/, https://www.insee.fr/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	own website		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS			
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	0	88	95
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	1	5	5
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	IMF Open Data Platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	LankaSis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	Mexico open data portal (datos.gob.mx)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	NATIONAL SUMMERY PAGE		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	National Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	National Open Data portal accessible at: https://data.govmu.org/dkan/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	National web page (NSDP) on eGDDS		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	Open Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	Oracle databases in-house developed		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	PC-Axis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	PX-Web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	PX-web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	PxWeb for statistical database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	REDATAM for census		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	ReDATAM		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	Redatam		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	STATcube - Statistics Austrias Database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	SingStat Mobile Application		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	The NSA App as the custom-developed data platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	agency websites		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	gov. data (German Data Platform)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	https://www.data.gouv.fr/, https://www.insee.fr/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	own website		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA			
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	0	73	78
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	1	20	22
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	IMF Open Data Platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	LankaSis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	Mexico open data portal (datos.gob.mx)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	NATIONAL SUMMERY PAGE		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	National Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	National Open Data portal accessible at: https://data.govmu.org/dkan/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	National web page (NSDP) on eGDDS		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	Open Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	Oracle databases in-house developed		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	PC-Axis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	PX-Web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	PX-web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	PxWeb for statistical database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	REDATAM for census		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	ReDATAM		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	Redatam		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	STATcube - Statistics Austrias Database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	SingStat Mobile Application		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	The NSA App as the custom-developed data platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	agency websites		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	gov. data (German Data Platform)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	https://www.data.gouv.fr/, https://www.insee.fr/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	own website		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat			
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	0	70	75
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	1	23	25
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	IMF Open Data Platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	LankaSis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	Mexico open data portal (datos.gob.mx)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	NATIONAL SUMMERY PAGE		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	National Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	National Open Data portal accessible at: https://data.govmu.org/dkan/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	National web page (NSDP) on eGDDS		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	Open Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	Oracle databases in-house developed		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	PC-Axis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	PX-Web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	PX-web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	PxWeb for statistical database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	REDATAM for census		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	ReDATAM		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	Redatam		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	STATcube - Statistics Austrias Database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	SingStat Mobile Application		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	The NSA App as the custom-developed data platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	agency websites		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	gov. data (German Data Platform)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	https://www.data.gouv.fr/, https://www.insee.fr/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	own website		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform			
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	0	84	90
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	1	9	10
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	IMF Open Data Platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	LankaSis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	Mexico open data portal (datos.gob.mx)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	NATIONAL SUMMERY PAGE		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	National Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	National Open Data portal accessible at: https://data.govmu.org/dkan/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	National web page (NSDP) on eGDDS		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	Open Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	Oracle databases in-house developed		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	PC-Axis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	PX-Web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	PX-web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	PxWeb for statistical database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	REDATAM for census		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	ReDATAM		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	Redatam		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	STATcube - Statistics Austrias Database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	SingStat Mobile Application		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	The NSA App as the custom-developed data platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	agency websites		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	gov. data (German Data Platform)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	https://www.data.gouv.fr/, https://www.insee.fr/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	own website		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema			
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	0	85	91
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	1	8	9
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	IMF Open Data Platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	LankaSis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	Mexico open data portal (datos.gob.mx)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	NATIONAL SUMMERY PAGE		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	National Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	National Open Data portal accessible at: https://data.govmu.org/dkan/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	National web page (NSDP) on eGDDS		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	Open Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	Oracle databases in-house developed		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	PC-Axis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	PX-Web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	PX-web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	PxWeb for statistical database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	REDATAM for census		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	ReDATAM		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	Redatam		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	STATcube - Statistics Austrias Database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	SingStat Mobile Application		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	The NSA App as the custom-developed data platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	agency websites		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	gov. data (German Data Platform)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	https://www.data.gouv.fr/, https://www.insee.fr/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	own website		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform			
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	0	52	56
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	1	41	44
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	IMF Open Data Platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	LankaSis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	Mexico open data portal (datos.gob.mx)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	NATIONAL SUMMERY PAGE		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	National Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	National Open Data portal accessible at: https://data.govmu.org/dkan/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	National web page (NSDP) on eGDDS		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	Open Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	Oracle databases in-house developed		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	PC-Axis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	PX-Web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	PX-web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	PxWeb for statistical database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	REDATAM for census		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	ReDATAM		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	Redatam		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	STATcube - Statistics Austrias Database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	SingStat Mobile Application		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	The NSA App as the custom-developed data platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	agency websites		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	gov. data (German Data Platform)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	https://www.data.gouv.fr/, https://www.insee.fr/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	own website		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other		63	68
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	0		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	1		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	IMF Open Data Platform	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	LankaSis	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	Mexico open data portal (datos.gob.mx)	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	NATIONAL SUMMERY PAGE	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	National Data Portal	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	National Open Data portal accessible at: https://data.govmu.org/dkan/	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	National web page (NSDP) on eGDDS	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	Open Data Portal	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	Oracle databases in-house developed	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	PC-Axis	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	PX-Web	2	2
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	PX-web	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	PxWeb for statistical database	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	REDATAM for census	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	ReDATAM	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	Redatam	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	STATcube - Statistics Austrias Database	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	SingStat Mobile Application	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	The NSA App as the custom-developed data platform	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	agency websites	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	gov. data (German Data Platform)	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	https://www.data.gouv.fr/, https://www.insee.fr/	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	own website	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.	1	1
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above			
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	0	90	97
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	1	3	3
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	IMF Open Data Platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	LankaSis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	Mexico open data portal (datos.gob.mx)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	NATIONAL SUMMERY PAGE		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	National Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	National Open Data portal accessible at: https://data.govmu.org/dkan/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	National web page (NSDP) on eGDDS		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	Open Data Portal		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	Oracle databases in-house developed		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	PC-Axis		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	PX-Web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	PX-web		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	PxWeb for statistical database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	REDATAM for census		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	ReDATAM		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	Redatam		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	STATcube - Statistics Austrias Database		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	SingStat Mobile Application		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	The NSA App as the custom-developed data platform		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	agency websites		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	gov. data (German Data Platform)		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	https://www.data.gouv.fr/, https://www.insee.fr/		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	own website		
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.		
