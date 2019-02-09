@@ -1,0 +1,94 @@
+QuestionID	QuestionText	OrderM49	RegionCode	RegionName	SubRegionCode	SubRegionName	Subregion2Code	Subregion2Name	CountryName	M49	ISOalpha3	LDC	LLDC	SIDS	DevelopmentStatus	R01
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	195	150	Europe	39	Southern Europe			Albania	8	ALB				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	30	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Angola	24	AGO	1			Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	97	19	Americas	419	Latin America and the Caribbean	5	South America	Argentina	32	ARG				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	220	9	Oceania	53	Australia and New Zealand			Australia	36	AUS				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	211	150	Europe	155	Western Europe			Austria	40	AUT				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	168	150	Europe	151	Eastern Europe			Belarus	112	BLR				Developed	The norms of the Law on State Statistics of the Republic of Belarus complies with the norms of the Generic Law on Official Statistics developed by the United Nations Economic Commission for Europe.
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	212	150	Europe	155	Western Europe			Belgium	56	BEL				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	89	19	Americas	419	Latin America and the Caribbean	13	Central America	Belize	84	BLZ			1	Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	143	142	Asia	34	Southern Asia			Bhutan	64	BTN	1	1		Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	197	150	Europe	39	Southern Europe			Bosnia and Herzegovina	70	BIH				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	39	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	Botswana	72	BWA		1		Developing	The Information Bill is to be tabled before parliament by the relevant Ministry.
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	130	142	Asia	35	South-eastern Asia			Brunei Darussalam	96	BRN				Developing	To review existing law to meet current needs
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	169	150	Europe	151	Eastern Europe			Bulgaria	100	BGR				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	46	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Cabo Verde	132	CPV			1	Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	114	19	Americas	21	Northern America			Canada	124	CAN				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	68	19	Americas	419	Latin America and the Caribbean	29	Caribbean	Cayman Islands	136	CYM				Developing	Although we have a National Statistics Coordination Committee, it is not legislated and other data producers' statistical functions are not governed by the Statistics Law
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	123	142	Asia	30	Eastern Asia			China	156	CHN				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	102	19	Americas	419	Latin America and the Caribbean	5	South America	Colombia	170	COL				Developing	We do not have further comments about this principle.
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	34	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Congo	178	COG				Developing	THE LAXW STATISTICAL IS NOT KNOWN BY ANYONE
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	90	19	Americas	419	Latin America and the Caribbean	13	Central America	Costa Rica	188	CRI				Developing	7.6. The legal framework of the SEN is published, but not the legislation and administrative guidelines issued by the Government and which must be complied by the INEC.
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	47	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Côte d’Ivoire	384	CIV				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	198	150	Europe	39	Southern Europe			Croatia	191	HRV				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	170	150	Europe	151	Eastern Europe			Czechia	203	CZE				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	182	150	Europe	154	Northern Europe			Denmark	208	DNK				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	103	19	Americas	419	Latin America and the Caribbean	5	South America	Ecuador	218	ECU				Developing	The current statistical law dates from 1976, so its updating is essential for the proper functioning of the INEC and other entities that produce statistical information, on issues of functions of the INEC, the NSS and the National Council of Statistics and Census, as well as the fact of being an independent entity with technical, professional and financial autonomy.
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	2	2	Africa	15	Northern Africa			Egypt	818	EGY				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	36	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Equatorial Guinea	226	GNQ				Developing	http://www.inege.gq/wp-content/uploads/2018/11/Reglamento-Organico-y-Funcional-del-INEGE.pdf
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	183	150	Europe	154	Northern Europe			Estonia	233	EST				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	185	150	Europe	154	Northern Europe			Finland	246	FIN				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	213	150	Europe	155	Western Europe			France	250	FRA				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	154	142	Asia	145	Western Asia			Georgia	268	GEO				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	214	150	Europe	155	Western Europe			Germany	276	DEU				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	200	150	Europe	39	Southern Europe			Greece	300	GRC				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	50	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Guinea	324	GIN	1			Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	93	19	Americas	419	Latin America and the Caribbean	13	Central America	Honduras	340	HND				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	171	150	Europe	151	Eastern Europe			Hungary	348	HUN				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	186	150	Europe	154	Northern Europe			Iceland	352	ISL				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	155	142	Asia	145	Western Asia			Iraq	368	IRQ				Developing	Law of statistics sarees is due to 1972 and there is a new law discussed in the state Council has not acknowledges after
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	187	150	Europe	154	Northern Europe			Ireland	372	IRL				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	145	142	Asia	34	Southern Asia			Iran (Islamic Republic of)	364	IRN				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	156	142	Asia	145	Western Asia			Israel	376	ISR				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	202	150	Europe	39	Southern Europe			Italy	380	ITA				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	76	19	Americas	419	Latin America and the Caribbean	29	Caribbean	Jamaica	388	JAM			1	Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	157	142	Asia	145	Western Asia			Jordan	400	JOR				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	133	142	Asia	35	South-eastern Asia			Lao People's Democratic Republic	418	LAO	1	1		Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	189	150	Europe	154	Northern Europe			Latvia	428	LVA				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	215	150	Europe	155	Western Europe			Liechtenstein	438	LIE				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	190	150	Europe	154	Northern Europe			Lithuania	440	LTU				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	216	150	Europe	155	Western Europe			Luxembourg	442	LUX				Developed	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/index.html
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	210	150	Europe	39	Southern Europe			The former Yugoslav Republic of Macedonia	807	MKD		1		Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	134	142	Asia	35	South-eastern Asia			Malaysia	458	MYS				Developing	Additional info for 7.5 - Process of preparing statistics or carrying out research (official statistics) is exempted from Personal Data Protection Act 2010 (Law of Malaysia)
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	18	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Mauritius	480	MUS			1	Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	94	19	Americas	419	Latin America and the Caribbean	13	Central America	Mexico	484	MEX				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	128	142	Asia	30	Eastern Asia			Mongolia	496	MNG		1		Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	20	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Mozambique	508	MOZ	1			Developing	The big challenge is the approval of revised legal framework.
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	135	142	Asia	35	South-eastern Asia			Myanmar	104	MMR	1			Developing	Nil
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	42	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	Namibia	516	NAM				Developing	None
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	224	9	Oceania	53	Australia and New Zealand			New Zealand	554	NZL				Developed	Stats NZ operates under the authority of the Statistics Act 1975. Our work is guided by the following legislation: Statistics Act 1975 â€“ our role, responsibilities, and authority. Privacy Act 1993 â€“ we protect your personal information. Official Information Act 1982 â€“ we make official information available while maintaining personal privacy. Public Records Act 2005 â€“ we keep full and accurate records, and provide access to records of long-term value. Stats NZ is currently working with the government to review our legislation as it is outdated and not fit for purpose in a modern data environment.
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	191	150	Europe	154	Northern Europe			Norway	578	NOR				Developed	Norway is currently in process of revising the Statistics Act from 1989. It is forseen that a new legal act will be implemented 1 to 2 years from now. The new legal act will most likely be more detailed when it comes to the national statistical system, the coordination role of the NSO and the establishment of a national statistical program.
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	160	142	Asia	145	Western Asia			Oman	512	OMN				Developing	none
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	163	142	Asia	145	Western Asia			State of Palestine	275	PSE				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	228	9	Oceania	54	Melanesia			Papua New Guinea	598	PNG			1	Developing	There is still very little knowledge and understanding by National leaders on the roles and functions of NSO therefore resources allocate seem to be less despite the many data collection activities we perform every year.
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	108	19	Americas	419	Latin America and the Caribbean	5	South America	Peru	604	PER				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	136	142	Asia	35	South-eastern Asia			Philippines	608	PHL				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	172	150	Europe	151	Eastern Europe			Poland	616	POL				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	161	142	Asia	145	Western Asia			Qatar	634	QAT				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	150	142	Asia	145	Western Asia			Armenia	51	ARM		1		Developing	The new Law on Official Statistics has entered into force on 9 April 2018 and it is fully based on GSL, and posted on the website at https://www.armstat.am/file/doc/99509428.pdf.
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	173	150	Europe	151	Eastern Europe			Republic of Moldova	498	MDA		1		Developed	- comprehensive legislative provisions guiding the activity of NBS and NSS are in place, ensuring proper activity of both;- GLOS was used for the development of the national law on official statistics
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	174	150	Europe	151	Eastern Europe			Romania	642	ROU				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	175	150	Europe	151	Eastern Europe			Russian Federation	643	RUS				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	244	9	Oceania	61	Polynesia			Samoa	882	WSM			1	Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	162	142	Asia	145	Western Asia			Saudi Arabia	682	SAU				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	58	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Senegal	686	SEN	1			Developing	Cf. Lois et règlements du SSN (http://www.ansd.sn/index.php?option=com_docman&Itemid=259)
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	207	150	Europe	39	Southern Europe			Serbia	688	SRB				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	59	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Sierra Leone	694	SLE	1			Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	137	142	Asia	35	South-eastern Asia			Singapore	702	SGP			1	Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	208	150	Europe	39	Southern Europe			Slovenia	705	SVN				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	43	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	South Africa	710	ZAF				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	209	150	Europe	39	Southern Europe			Spain	724	ESP				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	149	142	Asia	34	Southern Asia			Sri Lanka	144	LKA				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	110	19	Americas	419	Latin America and the Caribbean	5	South America	Suriname	740	SUR			1	Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	193	150	Europe	154	Northern Europe			Sweden	752	SWE				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	219	150	Europe	155	Western Europe			Switzerland	756	CHE				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	138	142	Asia	35	South-eastern Asia			Thailand	764	THA				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	6	2	Africa	15	Northern Africa			Tunisia	788	TUN				Developing	the new law define official statistics and chef statistician
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	165	142	Asia	145	Western Asia			Turkey	792	TUR				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	26	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Uganda	800	UGA	1	1		Developing	Need to Revise the law to be inclusive
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	177	150	Europe	151	Eastern Europe			Ukraine	804	UKR				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	166	142	Asia	145	Western Asia			United Arab Emirates	784	ARE				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	194	150	Europe	154	Northern Europe			United Kingdom of Great Britain and Northern Ireland	826	GBR				Developed	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	117	19	Americas	21	Northern America			United States of America	840	USA				Developed	Most legislation related US statistics is covered by Statistical Policy Directive #3.Relevant legislation are published on agency websites.Here is an example from the Census Bureau's Title 13, 26 and Confidentiality :https://www.census.gov/history/www/reference/privacy_confidentiality/privacy_and_confidentiality_2.html
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	140	142	Asia	35	South-eastern Asia			Viet Nam	704	VNM				Developing	
+Q07.7 	Additional comments on challenges to the implementation of Principle 7	29	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Zimbabwe	716	ZWE		1		Developing	

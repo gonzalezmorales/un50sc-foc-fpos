@@ -1,0 +1,94 @@
+QuestionID	QuestionText	OrderM49	RegionCode	RegionName	SubRegionCode	SubRegionName	Subregion2Code	Subregion2Name	CountryName	M49	ISOalpha3	LDC	LLDC	SIDS	DevelopmentStatus	R01	R02	R03	R04
+Q01.1a	Mandate of user council or organized user group	195	150	Europe	39	Southern Europe			Albania	8	ALB				Developed	1	0	0	
+Q01.1a	Mandate of user council or organized user group	30	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Angola	24	AGO	1			Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	97	19	Americas	419	Latin America and the Caribbean	5	South America	Argentina	32	ARG				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	220	9	Oceania	53	Australia and New Zealand			Australia	36	AUS				Developed	1	1	1	
+Q01.1a	Mandate of user council or organized user group	211	150	Europe	155	Western Europe			Austria	40	AUT				Developed	1	1	1	
+Q01.1a	Mandate of user council or organized user group	168	150	Europe	151	Eastern Europe			Belarus	112	BLR				Developed	1	1	1	
+Q01.1a	Mandate of user council or organized user group	212	150	Europe	155	Western Europe			Belgium	56	BEL				Developed	0	0	0	
+Q01.1a	Mandate of user council or organized user group	89	19	Americas	419	Latin America and the Caribbean	13	Central America	Belize	84	BLZ			1	Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	143	142	Asia	34	Southern Asia			Bhutan	64	BTN	1	1		Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	197	150	Europe	39	Southern Europe			Bosnia and Herzegovina	70	BIH				Developed	0	0	0	
+Q01.1a	Mandate of user council or organized user group	39	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	Botswana	72	BWA		1		Developing	0	1	1	
+Q01.1a	Mandate of user council or organized user group	130	142	Asia	35	South-eastern Asia			Brunei Darussalam	96	BRN				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	169	150	Europe	151	Eastern Europe			Bulgaria	100	BGR				Developed	0	0	0	
+Q01.1a	Mandate of user council or organized user group	46	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Cabo Verde	132	CPV			1	Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	114	19	Americas	21	Northern America			Canada	124	CAN				Developed	1	1	0	
+Q01.1a	Mandate of user council or organized user group	68	19	Americas	419	Latin America and the Caribbean	29	Caribbean	Cayman Islands	136	CYM				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	123	142	Asia	30	Eastern Asia			China	156	CHN				Developing	1	1	1	
+Q01.1a	Mandate of user council or organized user group	102	19	Americas	419	Latin America and the Caribbean	5	South America	Colombia	170	COL				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	34	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Congo	178	COG				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	90	19	Americas	419	Latin America and the Caribbean	13	Central America	Costa Rica	188	CRI				Developing	1	0	1	
+Q01.1a	Mandate of user council or organized user group	47	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Côte d’Ivoire	384	CIV				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	198	150	Europe	39	Southern Europe			Croatia	191	HRV				Developed	1	1	1	we have both user groups and Statistical Council, council deals with stategic advice and a bit of coordination, while user groupps give tehnical advice on specific statistical areas
+Q01.1a	Mandate of user council or organized user group	170	150	Europe	151	Eastern Europe			Czechia	203	CZE				Developed	1	0	1	
+Q01.1a	Mandate of user council or organized user group	182	150	Europe	154	Northern Europe			Denmark	208	DNK				Developed	1	1	1	
+Q01.1a	Mandate of user council or organized user group	103	19	Americas	419	Latin America and the Caribbean	5	South America	Ecuador	218	ECU				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	2	2	Africa	15	Northern Africa			Egypt	818	EGY				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	36	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Equatorial Guinea	226	GNQ				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	183	150	Europe	154	Northern Europe			Estonia	233	EST				Developed	1	1	1	
+Q01.1a	Mandate of user council or organized user group	185	150	Europe	154	Northern Europe			Finland	246	FIN				Developed	0	1	1	
+Q01.1a	Mandate of user council or organized user group	213	150	Europe	155	Western Europe			France	250	FRA				Developed	1	0	1	
+Q01.1a	Mandate of user council or organized user group	154	142	Asia	145	Western Asia			Georgia	268	GEO				Developing	1	1	1	
+Q01.1a	Mandate of user council or organized user group	214	150	Europe	155	Western Europe			Germany	276	DEU				Developed	1	0	1	
+Q01.1a	Mandate of user council or organized user group	200	150	Europe	39	Southern Europe			Greece	300	GRC				Developed	1	0	0	
+Q01.1a	Mandate of user council or organized user group	50	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Guinea	324	GIN	1			Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	93	19	Americas	419	Latin America and the Caribbean	13	Central America	Honduras	340	HND				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	171	150	Europe	151	Eastern Europe			Hungary	348	HUN				Developed	1	1	0	
+Q01.1a	Mandate of user council or organized user group	186	150	Europe	154	Northern Europe			Iceland	352	ISL				Developed	1	0	0	
+Q01.1a	Mandate of user council or organized user group	155	142	Asia	145	Western Asia			Iraq	368	IRQ				Developing	1	1	1	
+Q01.1a	Mandate of user council or organized user group	187	150	Europe	154	Northern Europe			Ireland	372	IRL				Developed	1	0	0	
+Q01.1a	Mandate of user council or organized user group	145	142	Asia	34	Southern Asia			Iran (Islamic Republic of)	364	IRN				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	156	142	Asia	145	Western Asia			Israel	376	ISR				Developed	1	1	1	
+Q01.1a	Mandate of user council or organized user group	202	150	Europe	39	Southern Europe			Italy	380	ITA				Developed	0	1	0	
+Q01.1a	Mandate of user council or organized user group	76	19	Americas	419	Latin America and the Caribbean	29	Caribbean	Jamaica	388	JAM			1	Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	157	142	Asia	145	Western Asia			Jordan	400	JOR				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	133	142	Asia	35	South-eastern Asia			Lao People's Democratic Republic	418	LAO	1	1		Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	189	150	Europe	154	Northern Europe			Latvia	428	LVA				Developed	0	0	1	
+Q01.1a	Mandate of user council or organized user group	215	150	Europe	155	Western Europe			Liechtenstein	438	LIE				Developed	0	1	0	
+Q01.1a	Mandate of user council or organized user group	190	150	Europe	154	Northern Europe			Lithuania	440	LTU				Developed	1	1	0	
+Q01.1a	Mandate of user council or organized user group	216	150	Europe	155	Western Europe			Luxembourg	442	LUX				Developed	1	0	0	
+Q01.1a	Mandate of user council or organized user group	210	150	Europe	39	Southern Europe			The former Yugoslav Republic of Macedonia	807	MKD		1		Developed	0	0	0	
+Q01.1a	Mandate of user council or organized user group	134	142	Asia	35	South-eastern Asia			Malaysia	458	MYS				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	18	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Mauritius	480	MUS			1	Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	94	19	Americas	419	Latin America and the Caribbean	13	Central America	Mexico	484	MEX				Developing	1	1	1	
+Q01.1a	Mandate of user council or organized user group	128	142	Asia	30	Eastern Asia			Mongolia	496	MNG		1		Developing	1	1	1	
+Q01.1a	Mandate of user council or organized user group	20	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Mozambique	508	MOZ	1			Developing	1	0	1	
+Q01.1a	Mandate of user council or organized user group	135	142	Asia	35	South-eastern Asia			Myanmar	104	MMR	1			Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	42	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	Namibia	516	NAM				Developing	1	1	1	
+Q01.1a	Mandate of user council or organized user group	224	9	Oceania	53	Australia and New Zealand			New Zealand	554	NZL				Developed	0	1	0	
+Q01.1a	Mandate of user council or organized user group	191	150	Europe	154	Northern Europe			Norway	578	NOR				Developed	1	0	1	
+Q01.1a	Mandate of user council or organized user group	160	142	Asia	145	Western Asia			Oman	512	OMN				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	163	142	Asia	145	Western Asia			State of Palestine	275	PSE				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	228	9	Oceania	54	Melanesia			Papua New Guinea	598	PNG			1	Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	108	19	Americas	419	Latin America and the Caribbean	5	South America	Peru	604	PER				Developing	0	0	1	
+Q01.1a	Mandate of user council or organized user group	136	142	Asia	35	South-eastern Asia			Philippines	608	PHL				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	172	150	Europe	151	Eastern Europe			Poland	616	POL				Developed	1	1	0	
+Q01.1a	Mandate of user council or organized user group	161	142	Asia	145	Western Asia			Qatar	634	QAT				Developing	1	1	1	
+Q01.1a	Mandate of user council or organized user group	150	142	Asia	145	Western Asia			Armenia	51	ARM		1		Developing	1	1	1	
+Q01.1a	Mandate of user council or organized user group	173	150	Europe	151	Eastern Europe			Republic of Moldova	498	MDA		1		Developed	0	1	0	
+Q01.1a	Mandate of user council or organized user group	174	150	Europe	151	Eastern Europe			Romania	642	ROU				Developed	1	1	1	
+Q01.1a	Mandate of user council or organized user group	175	150	Europe	151	Eastern Europe			Russian Federation	643	RUS				Developed	1	1	0	One of the functions of the Rosstat Public Council is the consideration of Rosstat's plans for activities.
+Q01.1a	Mandate of user council or organized user group	244	9	Oceania	61	Polynesia			Samoa	882	WSM			1	Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	162	142	Asia	145	Western Asia			Saudi Arabia	682	SAU				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	58	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Senegal	686	SEN	1			Developing	1	0	1	Comité de pilotage d'enquàªte
+Q01.1a	Mandate of user council or organized user group	207	150	Europe	39	Southern Europe			Serbia	688	SRB				Developed	0	0	0	
+Q01.1a	Mandate of user council or organized user group	59	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Sierra Leone	694	SLE	1			Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	137	142	Asia	35	South-eastern Asia			Singapore	702	SGP			1	Developing	1	1	1	
+Q01.1a	Mandate of user council or organized user group	208	150	Europe	39	Southern Europe			Slovenia	705	SVN				Developed	0	0	0	SURS established statistical advisory committees for individual fields of national statistics. They have a long tradition in the national statistics in Slovenia; they were established in the 1980s and were formally introduced in 1995 with the Decree on the Establishment of Statistical Advisory Committees on the basis of Article 15 of the National Statistics Act. Statistical advisory committees have a significant impact on the development of national statistics in Slovenia at expert level and in cooperation of institutions in common efforts to provide quality, timely and relevant statistics.  Rules of procedures: https://www.stat.si/dokument/5184/StatisticalAdvisoryCommittees_RulesofProcedure_EN.pdf List of statistical advisory committees: Administrative Data Sources Advisory Committee, National Accounts and Financial and Monetary Statistics Advisory Committee, Regional Statistics Advisory Committee, Price Statistics Advisory Committee, Labour Statistics Advisory Committee, Energy Statistics Advisory Committee, Construction Statistics Advisory Committee, Industry and Mining Statistics Advisory Committee, Information Society Statistics Advisory Committee, Education and Training Statistics Advisory Committee, Agriculture, Forestry and Fisheries Statistics Advisory Committee, Crime Statistics Advisory Committee, Culture Statistics Advisory Committee, Natural Resources and Environment Statistics Advisory Committee, Real Estate Statistics Advisory Committee, Domestic Trade and Services Statistics Advisory Committee, Population Statistics Advisory Committee, Research and Development, and Technology Statistics Advisory Committee, Transport Statistics Advisory Committee, Tourism Statistics Advisory Committee, External Trade Statistics Advisory Committee, Health Advisory Committee, Standard of Living and Social Protection Statistics Advisory Committee, Business Statistics Advisory Committee
+Q01.1a	Mandate of user council or organized user group	43	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	South Africa	710	ZAF				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	209	150	Europe	39	Southern Europe			Spain	724	ESP				Developed	1	1	1	
+Q01.1a	Mandate of user council or organized user group	149	142	Asia	34	Southern Asia			Sri Lanka	144	LKA				Developing	1	1	1	
+Q01.1a	Mandate of user council or organized user group	110	19	Americas	419	Latin America and the Caribbean	5	South America	Suriname	740	SUR			1	Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	193	150	Europe	154	Northern Europe			Sweden	752	SWE				Developed	0	0	1	
+Q01.1a	Mandate of user council or organized user group	219	150	Europe	155	Western Europe			Switzerland	756	CHE				Developed	0	0	1	
+Q01.1a	Mandate of user council or organized user group	138	142	Asia	35	South-eastern Asia			Thailand	764	THA				Developing	1	0	1	
+Q01.1a	Mandate of user council or organized user group	6	2	Africa	15	Northern Africa			Tunisia	788	TUN				Developing	0	1	1	
+Q01.1a	Mandate of user council or organized user group	165	142	Asia	145	Western Asia			Turkey	792	TUR				Developing	1	0	0	
+Q01.1a	Mandate of user council or organized user group	26	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Uganda	800	UGA	1	1		Developing	1	1	1	
+Q01.1a	Mandate of user council or organized user group	177	150	Europe	151	Eastern Europe			Ukraine	804	UKR				Developed	1	0	0	
+Q01.1a	Mandate of user council or organized user group	166	142	Asia	145	Western Asia			United Arab Emirates	784	ARE				Developing	0	0	0	
+Q01.1a	Mandate of user council or organized user group	194	150	Europe	154	Northern Europe			United Kingdom of Great Britain and Northern Ireland	826	GBR				Developed	0	0	0	
+Q01.1a	Mandate of user council or organized user group	117	19	Americas	21	Northern America			United States of America	840	USA				Developed	1	1	1	Various Advisory Committees from public, private, nonprofit and academia stakeholders
+Q01.1a	Mandate of user council or organized user group	140	142	Asia	35	South-eastern Asia			Viet Nam	704	VNM				Developing	1	1	1	
+Q01.1a	Mandate of user council or organized user group	29	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Zimbabwe	716	ZWE		1		Developing	0	0	0	

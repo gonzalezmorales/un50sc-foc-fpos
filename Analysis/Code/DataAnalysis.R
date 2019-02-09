@@ -3,6 +3,8 @@ library(tidyr)
 library(data.table)
 library(plotly)
 library(RColorBrewer)
+library(stringr)
+
 
 # set your working directory - change as needed
 setwd("C:/Users/L.GonzalezMorales/Documents/GitHub/un50sc-foc-fpos/Analysis/")
@@ -54,33 +56,43 @@ writeTable2tab( response.keys , "Output/Response-keys.txt" )
 
 #------------------------------
   
-#for(i in 1:nrow(questions))
-for(i in 1:1)
+for(i in 1:nrow(questions))
+#for(i in 1:1)
 {
   
-  question.details <- columns[QuestionID == questions[1,QuestionID],]
+  question.details <- columns[QuestionID == questions[i,QuestionID],]
   
   question.responses <- responses[,c(countryInfo,question.details[,Column]),with = FALSE]
-  response.labels <- paste("Response",1:nrow(question.details), sep=".")
+  
+  response.labels <- columns[QuestionID == questions[i,QuestionID],
+                             ResponseID]
   
   setnames(question.responses, 
            question.details[,Column], 
            response.labels)
   
-  question.responses <- cbind(question.details[,list(QuestionID, QuestionText)],
+  question.responses <- cbind(question.details[1,list(QuestionID, QuestionText)],
                               question.responses)
   
   setcolorder(question.responses,
-              c(countryInfo,
-                "QuestionID", "QuestionText",
+              c("QuestionID", "QuestionText",
+                countryInfo,
                 response.labels))
   
   writeTable2tab( question.responses,
-                  paste("Output/Responses-", questions[1,QuestionID], ".txt", sep="") )
+                  paste("Output/Responses-", questions[i,QuestionID], ".txt", sep="") )
   
   
 }
 
+
+
+rm(list = c("questions",
+            "question.details",
+            "question.responses", 
+            "response.labels",
+            "countryInfo",
+            "responses"))
 
 
 #-----------------------------

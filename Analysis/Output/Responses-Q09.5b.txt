@@ -1,0 +1,94 @@
+QuestionID	QuestionText	OrderM49	RegionCode	RegionName	SubRegionCode	SubRegionName	Subregion2Code	Subregion2Name	CountryName	M49	ISOalpha3	LDC	LLDC	SIDS	DevelopmentStatus	R01
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	195	150	Europe	39	Southern Europe			Albania	8	ALB				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	30	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Angola	24	AGO	1			Developing	The NSO is preparing necessary conditions for the use of SMDX.
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	97	19	Americas	419	Latin America and the Caribbean	5	South America	Argentina	32	ARG				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	220	9	Oceania	53	Australia and New Zealand			Australia	36	AUS				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	211	150	Europe	155	Western Europe			Austria	40	AUT				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	168	150	Europe	151	Eastern Europe			Belarus	112	BLR				Developed	Belstat is currently exploring the possibility of using SDMX for data transmission to the Eurasian Economic Commission, a national reporting platform for SDGs is being developed using the SDMX standard, which will be launched in early 2019. The main problems related to SDMX implementation are as follows: â€¢ insufficient training of NSS professionals; â€¢ lack of description of DSD structures from the Eurasian Economic Commission; â€¢ lack of technical assistance.
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	212	150	Europe	155	Western Europe			Belgium	56	BEL				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	89	19	Americas	419	Latin America and the Caribbean	13	Central America	Belize	84	BLZ			1	Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	143	142	Asia	34	Southern Asia			Bhutan	64	BTN	1	1		Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	197	150	Europe	39	Southern Europe			Bosnia and Herzegovina	70	BIH				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	39	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	Botswana	72	BWA		1		Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	130	142	Asia	35	South-eastern Asia			Brunei Darussalam	96	BRN				Developing	To be explore for future considerations.
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	169	150	Europe	151	Eastern Europe			Bulgaria	100	BGR				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	46	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Cabo Verde	132	CPV			1	Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	114	19	Americas	21	Northern America			Canada	124	CAN				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	68	19	Americas	419	Latin America and the Caribbean	29	Caribbean	Cayman Islands	136	CYM				Developing	Lack of staff and other resources especially time as we are a very small office.
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	123	142	Asia	30	Eastern Asia			China	156	CHN				Developing	We do not have proper metadata base at the moment.
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	102	19	Americas	419	Latin America and the Caribbean	5	South America	Colombia	170	COL				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	34	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Congo	178	COG				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	90	19	Americas	419	Latin America and the Caribbean	13	Central America	Costa Rica	188	CRI				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	47	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Côte d’Ivoire	384	CIV				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	198	150	Europe	39	Southern Europe			Croatia	191	HRV				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	170	150	Europe	151	Eastern Europe			Czechia	203	CZE				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	182	150	Europe	154	Northern Europe			Denmark	208	DNK				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	103	19	Americas	419	Latin America and the Caribbean	5	South America	Ecuador	218	ECU				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	2	2	Africa	15	Northern Africa			Egypt	818	EGY				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	36	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Equatorial Guinea	226	GNQ				Developing	We are working with the IMF to be part of the e-GDDS, after that we will start to use SDMX
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	183	150	Europe	154	Northern Europe			Estonia	233	EST				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	185	150	Europe	154	Northern Europe			Finland	246	FIN				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	213	150	Europe	155	Western Europe			France	250	FRA				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	154	142	Asia	145	Western Asia			Georgia	268	GEO				Developing	Lack of resources.
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	214	150	Europe	155	Western Europe			Germany	276	DEU				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	200	150	Europe	39	Southern Europe			Greece	300	GRC				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	50	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Guinea	324	GIN	1			Developing	à€ ce jour, rien n'est prévu par rapport à  cela. Nous avons besoin de renforcer les capacités à  ce niveau
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	93	19	Americas	419	Latin America and the Caribbean	13	Central America	Honduras	340	HND				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	171	150	Europe	151	Eastern Europe			Hungary	348	HUN				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	186	150	Europe	154	Northern Europe			Iceland	352	ISL				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	155	142	Asia	145	Western Asia			Iraq	368	IRQ				Developing	The system uses the statistical currently in the document the dues: 1. the model the standard for production of statistical 2. the general framework of the data meta 3.puf seeks to use sdmx in his work
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	187	150	Europe	154	Northern Europe			Ireland	372	IRL				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	145	142	Asia	34	Southern Asia			Iran (Islamic Republic of)	364	IRN				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	156	142	Asia	145	Western Asia			Israel	376	ISR				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	202	150	Europe	39	Southern Europe			Italy	380	ITA				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	76	19	Americas	419	Latin America and the Caribbean	29	Caribbean	Jamaica	388	JAM			1	Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	157	142	Asia	145	Western Asia			Jordan	400	JOR				Developing	not yet but we are intending to start using it in the very near future
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	133	142	Asia	35	South-eastern Asia			Lao People's Democratic Republic	418	LAO	1	1		Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	189	150	Europe	154	Northern Europe			Latvia	428	LVA				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	215	150	Europe	155	Western Europe			Liechtenstein	438	LIE				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	190	150	Europe	154	Northern Europe			Lithuania	440	LTU				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	216	150	Europe	155	Western Europe			Luxembourg	442	LUX				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	210	150	Europe	39	Southern Europe			The former Yugoslav Republic of Macedonia	807	MKD		1		Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	134	142	Asia	35	South-eastern Asia			Malaysia	458	MYS				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	18	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Mauritius	480	MUS			1	Developing	This has to be considered in the overall context of data release in anonymised / open data format through a forthcoming e-business plan to revamp the processes of the office by optimising on Information Technology. Also, training on SDMX is required.
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	94	19	Americas	419	Latin America and the Caribbean	13	Central America	Mexico	484	MEX				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	128	142	Asia	30	Eastern Asia			Mongolia	496	MNG		1		Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	20	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Mozambique	508	MOZ	1			Developing	The SDMX is in the process of implementation.
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	135	142	Asia	35	South-eastern Asia			Myanmar	104	MMR	1			Developing	Technical and infrastructure Barrier.
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	42	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	Namibia	516	NAM				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	224	9	Oceania	53	Australia and New Zealand			New Zealand	554	NZL				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	191	150	Europe	154	Northern Europe			Norway	578	NOR				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	160	142	Asia	145	Western Asia			Oman	512	OMN				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	163	142	Asia	145	Western Asia			State of Palestine	275	PSE				Developing	PCBS uses Accelerated Data Program (ADP).
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	228	9	Oceania	54	Melanesia			Papua New Guinea	598	PNG			1	Developing	Capacity and capability
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	108	19	Americas	419	Latin America and the Caribbean	5	South America	Peru	604	PER				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	136	142	Asia	35	South-eastern Asia			Philippines	608	PHL				Developing	lack of technical capacity on the use of SDMX
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	172	150	Europe	151	Eastern Europe			Poland	616	POL				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	161	142	Asia	145	Western Asia			Qatar	634	QAT				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	150	142	Asia	145	Western Asia			Armenia	51	ARM		1		Developing	Lack of resources and knowledge
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	173	150	Europe	151	Eastern Europe			Republic of Moldova	498	MDA		1		Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	174	150	Europe	151	Eastern Europe			Romania	642	ROU				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	175	150	Europe	151	Eastern Europe			Russian Federation	643	RUS				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	244	9	Oceania	61	Polynesia			Samoa	882	WSM			1	Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	162	142	Asia	145	Western Asia			Saudi Arabia	682	SAU				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	58	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Senegal	686	SEN	1			Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	207	150	Europe	39	Southern Europe			Serbia	688	SRB				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	59	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Sierra Leone	694	SLE	1			Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	137	142	Asia	35	South-eastern Asia			Singapore	702	SGP			1	Developing	Our plan is to explore the use of SDMX in the coming years.
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	208	150	Europe	39	Southern Europe			Slovenia	705	SVN				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	43	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	South Africa	710	ZAF				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	209	150	Europe	39	Southern Europe			Spain	724	ESP				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	149	142	Asia	34	Southern Asia			Sri Lanka	144	LKA				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	110	19	Americas	419	Latin America and the Caribbean	5	South America	Suriname	740	SUR			1	Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	193	150	Europe	154	Northern Europe			Sweden	752	SWE				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	219	150	Europe	155	Western Europe			Switzerland	756	CHE				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	138	142	Asia	35	South-eastern Asia			Thailand	764	THA				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	6	2	Africa	15	Northern Africa			Tunisia	788	TUN				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	165	142	Asia	145	Western Asia			Turkey	792	TUR				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	26	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Uganda	800	UGA	1	1		Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	177	150	Europe	151	Eastern Europe			Ukraine	804	UKR				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	166	142	Asia	145	Western Asia			United Arab Emirates	784	ARE				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	194	150	Europe	154	Northern Europe			United Kingdom of Great Britain and Northern Ireland	826	GBR				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	117	19	Americas	21	Northern America			United States of America	840	USA				Developed	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	140	142	Asia	35	South-eastern Asia			Viet Nam	704	VNM				Developing	
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	29	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Zimbabwe	716	ZWE		1		Developing	

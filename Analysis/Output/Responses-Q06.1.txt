@@ -1,0 +1,94 @@
+QuestionID	QuestionText	OrderM49	RegionCode	RegionName	SubRegionCode	SubRegionName	Subregion2Code	Subregion2Name	CountryName	M49	ISOalpha3	LDC	LLDC	SIDS	DevelopmentStatus	R01
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	195	150	Europe	39	Southern Europe			Albania	8	ALB				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	30	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Angola	24	AGO	1			Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	97	19	Americas	419	Latin America and the Caribbean	5	South America	Argentina	32	ARG				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	220	9	Oceania	53	Australia and New Zealand			Australia	36	AUS				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	211	150	Europe	155	Western Europe			Austria	40	AUT				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	168	150	Europe	151	Eastern Europe			Belarus	112	BLR				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	212	150	Europe	155	Western Europe			Belgium	56	BEL				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	89	19	Americas	419	Latin America and the Caribbean	13	Central America	Belize	84	BLZ			1	Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	143	142	Asia	34	Southern Asia			Bhutan	64	BTN	1	1		Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	197	150	Europe	39	Southern Europe			Bosnia and Herzegovina	70	BIH				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	39	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	Botswana	72	BWA		1		Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	130	142	Asia	35	South-eastern Asia			Brunei Darussalam	96	BRN				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	169	150	Europe	151	Eastern Europe			Bulgaria	100	BGR				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	46	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Cabo Verde	132	CPV			1	Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	114	19	Americas	21	Northern America			Canada	124	CAN				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	68	19	Americas	419	Latin America and the Caribbean	29	Caribbean	Cayman Islands	136	CYM				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	123	142	Asia	30	Eastern Asia			China	156	CHN				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	102	19	Americas	419	Latin America and the Caribbean	5	South America	Colombia	170	COL				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	34	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Congo	178	COG				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	90	19	Americas	419	Latin America and the Caribbean	13	Central America	Costa Rica	188	CRI				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	47	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Côte d’Ivoire	384	CIV				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	198	150	Europe	39	Southern Europe			Croatia	191	HRV				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	170	150	Europe	151	Eastern Europe			Czechia	203	CZE				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	182	150	Europe	154	Northern Europe			Denmark	208	DNK				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	103	19	Americas	419	Latin America and the Caribbean	5	South America	Ecuador	218	ECU				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	2	2	Africa	15	Northern Africa			Egypt	818	EGY				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	36	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Equatorial Guinea	226	GNQ				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	183	150	Europe	154	Northern Europe			Estonia	233	EST				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	185	150	Europe	154	Northern Europe			Finland	246	FIN				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	213	150	Europe	155	Western Europe			France	250	FRA				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	154	142	Asia	145	Western Asia			Georgia	268	GEO				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	214	150	Europe	155	Western Europe			Germany	276	DEU				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	200	150	Europe	39	Southern Europe			Greece	300	GRC				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	50	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Guinea	324	GIN	1			Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	93	19	Americas	419	Latin America and the Caribbean	13	Central America	Honduras	340	HND				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	171	150	Europe	151	Eastern Europe			Hungary	348	HUN				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	186	150	Europe	154	Northern Europe			Iceland	352	ISL				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	155	142	Asia	145	Western Asia			Iraq	368	IRQ				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	187	150	Europe	154	Northern Europe			Ireland	372	IRL				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	145	142	Asia	34	Southern Asia			Iran (Islamic Republic of)	364	IRN				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	156	142	Asia	145	Western Asia			Israel	376	ISR				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	202	150	Europe	39	Southern Europe			Italy	380	ITA				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	76	19	Americas	419	Latin America and the Caribbean	29	Caribbean	Jamaica	388	JAM			1	Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	157	142	Asia	145	Western Asia			Jordan	400	JOR				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	133	142	Asia	35	South-eastern Asia			Lao People's Democratic Republic	418	LAO	1	1		Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	189	150	Europe	154	Northern Europe			Latvia	428	LVA				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	215	150	Europe	155	Western Europe			Liechtenstein	438	LIE				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	190	150	Europe	154	Northern Europe			Lithuania	440	LTU				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	216	150	Europe	155	Western Europe			Luxembourg	442	LUX				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	210	150	Europe	39	Southern Europe			The former Yugoslav Republic of Macedonia	807	MKD		1		Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	134	142	Asia	35	South-eastern Asia			Malaysia	458	MYS				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	18	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Mauritius	480	MUS			1	Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	94	19	Americas	419	Latin America and the Caribbean	13	Central America	Mexico	484	MEX				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	128	142	Asia	30	Eastern Asia			Mongolia	496	MNG		1		Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	20	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Mozambique	508	MOZ	1			Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	135	142	Asia	35	South-eastern Asia			Myanmar	104	MMR	1			Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	42	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	Namibia	516	NAM				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	224	9	Oceania	53	Australia and New Zealand			New Zealand	554	NZL				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	191	150	Europe	154	Northern Europe			Norway	578	NOR				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	160	142	Asia	145	Western Asia			Oman	512	OMN				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	163	142	Asia	145	Western Asia			State of Palestine	275	PSE				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	228	9	Oceania	54	Melanesia			Papua New Guinea	598	PNG			1	Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	108	19	Americas	419	Latin America and the Caribbean	5	South America	Peru	604	PER				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	136	142	Asia	35	South-eastern Asia			Philippines	608	PHL				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	172	150	Europe	151	Eastern Europe			Poland	616	POL				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	161	142	Asia	145	Western Asia			Qatar	634	QAT				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	150	142	Asia	145	Western Asia			Armenia	51	ARM		1		Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	173	150	Europe	151	Eastern Europe			Republic of Moldova	498	MDA		1		Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	174	150	Europe	151	Eastern Europe			Romania	642	ROU				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	175	150	Europe	151	Eastern Europe			Russian Federation	643	RUS				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	244	9	Oceania	61	Polynesia			Samoa	882	WSM			1	Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	162	142	Asia	145	Western Asia			Saudi Arabia	682	SAU				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	58	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Senegal	686	SEN	1			Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	207	150	Europe	39	Southern Europe			Serbia	688	SRB				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	59	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Sierra Leone	694	SLE	1			Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	137	142	Asia	35	South-eastern Asia			Singapore	702	SGP			1	Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	208	150	Europe	39	Southern Europe			Slovenia	705	SVN				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	43	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	South Africa	710	ZAF				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	209	150	Europe	39	Southern Europe			Spain	724	ESP				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	149	142	Asia	34	Southern Asia			Sri Lanka	144	LKA				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	110	19	Americas	419	Latin America and the Caribbean	5	South America	Suriname	740	SUR			1	Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	193	150	Europe	154	Northern Europe			Sweden	752	SWE				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	219	150	Europe	155	Western Europe			Switzerland	756	CHE				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	138	142	Asia	35	South-eastern Asia			Thailand	764	THA				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	6	2	Africa	15	Northern Africa			Tunisia	788	TUN				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	165	142	Asia	145	Western Asia			Turkey	792	TUR				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	26	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Uganda	800	UGA	1	1		Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	177	150	Europe	151	Eastern Europe			Ukraine	804	UKR				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	166	142	Asia	145	Western Asia			United Arab Emirates	784	ARE				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	194	150	Europe	154	Northern Europe			United Kingdom of Great Britain and Northern Ireland	826	GBR				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	117	19	Americas	21	Northern America			United States of America	840	USA				Developed	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	140	142	Asia	35	South-eastern Asia			Viet Nam	704	VNM				Developing	Yes
+Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	29	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Zimbabwe	716	ZWE		1		Developing	Yes

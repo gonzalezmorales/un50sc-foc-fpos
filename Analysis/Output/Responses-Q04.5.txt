@@ -1,0 +1,94 @@
+QuestionID	QuestionText	OrderM49	RegionCode	RegionName	SubRegionCode	SubRegionName	Subregion2Code	Subregion2Name	CountryName	M49	ISOalpha3	LDC	LLDC	SIDS	DevelopmentStatus	R01
+Q04.5	Additional comments on challenges to the implementation of Principle 4	195	150	Europe	39	Southern Europe			Albania	8	ALB				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	30	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Angola	24	AGO	1			Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	97	19	Americas	419	Latin America and the Caribbean	5	South America	Argentina	32	ARG				Developing	Questions 4.2.a./4.2.b.: All misuses were related to the political intervention (2007-2015).
+Q04.5	Additional comments on challenges to the implementation of Principle 4	220	9	Oceania	53	Australia and New Zealand			Australia	36	AUS				Developed	While the ABS priorities remain essentially unchanged for the medium term we are very conscious of the need to adjust to the evolving expectations of the community and our customers in industry and government. It is important that we remain a trusted and reliable provider of official statistics and it is equally important that we continuously re-examine our information products and services to remain relevant. We will continue to consult widely with our stakeholders to ensure our choices reflect a sound balance between continuity and change, but change itself is necessary. The ABS is required to manage within the resources provided by Government and the Parliament, with user funding enabling us to deliver critical social statistics. The environment in which we are operating is challenging. There are increasing demands for new statistics and improved access to data. Our stakeholders expect quality statistics, first time every time, and we are confronting new business risks that are amplified while we transform our statistical business systems. When considering our corporate direction for 2018â€“19 and beyond, a number of key themes have been prominent: collaboration and partnering to build effectiveness and relevance; capital renewal to build systems resilience and stakeholder confidence; technical innovation to increase efficiency and enhance our capability to deliver in a more challenging environment; and workplace flexibility to maintain capacity. Underneath all of this change, the purpose and role of the ABS remains constant.
+Q04.5	Additional comments on challenges to the implementation of Principle 4	211	150	Europe	155	Western Europe			Austria	40	AUT				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	168	150	Europe	151	Eastern Europe			Belarus	112	BLR				Developed	The Strategy for the development of state statistics of the Republic of Belarus until 2022 provides for the development and implementation of tools for statistical literacy development among users (conducting training workshops for users, conferences, presentations, posting useful information on Belstat's website (instructions, videos) to train various user groups to work databases/ databanks.
+Q04.5	Additional comments on challenges to the implementation of Principle 4	212	150	Europe	155	Western Europe			Belgium	56	BEL				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	89	19	Americas	419	Latin America and the Caribbean	13	Central America	Belize	84	BLZ			1	Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	143	142	Asia	34	Southern Asia			Bhutan	64	BTN	1	1		Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	197	150	Europe	39	Southern Europe			Bosnia and Herzegovina	70	BIH				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	39	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	Botswana	72	BWA		1		Developing	In the past five, the country has not had any erroneous interpretation, hence they was no response to that effect.
+Q04.5	Additional comments on challenges to the implementation of Principle 4	130	142	Asia	35	South-eastern Asia			Brunei Darussalam	96	BRN				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	169	150	Europe	151	Eastern Europe			Bulgaria	100	BGR				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	46	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Cabo Verde	132	CPV			1	Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	114	19	Americas	21	Northern America			Canada	124	CAN				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	68	19	Americas	419	Latin America and the Caribbean	29	Caribbean	Cayman Islands	136	CYM				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	123	142	Asia	30	Eastern Asia			China	156	CHN				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	102	19	Americas	419	Latin America and the Caribbean	5	South America	Colombia	170	COL				Developing	We do not have further comments about this principle.
+Q04.5	Additional comments on challenges to the implementation of Principle 4	34	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Congo	178	COG				Developing	WE HAVE JUST MADE THE LAW STATISTICAL REVIEW. SO WE ARE AT THE BEGINIG OF THE CREATION OF NSO AND WE ARE ALSO AT THE BEGINING OF THE IMPLEMENTATION OF THIS LAW.
+Q04.5	Additional comments on challenges to the implementation of Principle 4	90	19	Americas	419	Latin America and the Caribbean	13	Central America	Costa Rica	188	CRI				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	47	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Côte d’Ivoire	384	CIV				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	198	150	Europe	39	Southern Europe			Croatia	191	HRV				Developed	We aare in the process of implementation of CRM system in CBS (ongoing project).
+Q04.5	Additional comments on challenges to the implementation of Principle 4	170	150	Europe	151	Eastern Europe			Czechia	203	CZE				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	182	150	Europe	154	Northern Europe			Denmark	208	DNK				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	103	19	Americas	419	Latin America and the Caribbean	5	South America	Ecuador	218	ECU				Developing	A mechanisms must be implemented to guarantee or reduce the percentage of cases of misinterpretation of information, wich could be through the elaboration of a technical norm or the identification of statistical products as methodological notes that give greater explanation to the information that is disseminated.
+Q04.5	Additional comments on challenges to the implementation of Principle 4	2	2	Africa	15	Northern Africa			Egypt	818	EGY				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	36	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Equatorial Guinea	226	GNQ				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	183	150	Europe	154	Northern Europe			Estonia	233	EST				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	185	150	Europe	154	Northern Europe			Finland	246	FIN				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	213	150	Europe	155	Western Europe			France	250	FRA				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	154	142	Asia	145	Western Asia			Georgia	268	GEO				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	214	150	Europe	155	Western Europe			Germany	276	DEU				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	200	150	Europe	39	Southern Europe			Greece	300	GRC				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	50	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Guinea	324	GIN	1			Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	93	19	Americas	419	Latin America and the Caribbean	13	Central America	Honduras	340	HND				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	171	150	Europe	151	Eastern Europe			Hungary	348	HUN				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	186	150	Europe	154	Northern Europe			Iceland	352	ISL				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	155	142	Asia	145	Western Asia			Iraq	368	IRQ				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	187	150	Europe	154	Northern Europe			Ireland	372	IRL				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	145	142	Asia	34	Southern Asia			Iran (Islamic Republic of)	364	IRN				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	156	142	Asia	145	Western Asia			Israel	376	ISR				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	202	150	Europe	39	Southern Europe			Italy	380	ITA				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	76	19	Americas	419	Latin America and the Caribbean	29	Caribbean	Jamaica	388	JAM			1	Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	157	142	Asia	145	Western Asia			Jordan	400	JOR				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	133	142	Asia	35	South-eastern Asia			Lao People's Democratic Republic	418	LAO	1	1		Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	189	150	Europe	154	Northern Europe			Latvia	428	LVA				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	215	150	Europe	155	Western Europe			Liechtenstein	438	LIE				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	190	150	Europe	154	Northern Europe			Lithuania	440	LTU				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	216	150	Europe	155	Western Europe			Luxembourg	442	LUX				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	210	150	Europe	39	Southern Europe			The former Yugoslav Republic of Macedonia	807	MKD		1		Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	134	142	Asia	35	South-eastern Asia			Malaysia	458	MYS				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	18	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Mauritius	480	MUS			1	Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	94	19	Americas	419	Latin America and the Caribbean	13	Central America	Mexico	484	MEX				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	128	142	Asia	30	Eastern Asia			Mongolia	496	MNG		1		Developing	It is necessary to enhance statistical education of users
+Q04.5	Additional comments on challenges to the implementation of Principle 4	20	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Mozambique	508	MOZ	1			Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	135	142	Asia	35	South-eastern Asia			Myanmar	104	MMR	1			Developing	Nil
+Q04.5	Additional comments on challenges to the implementation of Principle 4	42	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	Namibia	516	NAM				Developing	None
+Q04.5	Additional comments on challenges to the implementation of Principle 4	224	9	Oceania	53	Australia and New Zealand			New Zealand	554	NZL				Developed	Stats NZ looks to prevent misuse through good relationships with the media, government officials and others to engage ahead of their publications and statements to ensure accuracy. Cases of deliberate misuse are rare.
+Q04.5	Additional comments on challenges to the implementation of Principle 4	191	150	Europe	154	Northern Europe			Norway	578	NOR				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	160	142	Asia	145	Western Asia			Oman	512	OMN				Developing	NO CHALLENGES
+Q04.5	Additional comments on challenges to the implementation of Principle 4	163	142	Asia	145	Western Asia			State of Palestine	275	PSE				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	228	9	Oceania	54	Melanesia			Papua New Guinea	598	PNG			1	Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	108	19	Americas	419	Latin America and the Caribbean	5	South America	Peru	604	PER				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	136	142	Asia	35	South-eastern Asia			Philippines	608	PHL				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	172	150	Europe	151	Eastern Europe			Poland	616	POL				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	161	142	Asia	145	Western Asia			Qatar	634	QAT				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	150	142	Asia	145	Western Asia			Armenia	51	ARM		1		Developing	The lack of statistical literacy
+Q04.5	Additional comments on challenges to the implementation of Principle 4	173	150	Europe	151	Eastern Europe			Republic of Moldova	498	MDA		1		Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	174	150	Europe	151	Eastern Europe			Romania	642	ROU				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	175	150	Europe	151	Eastern Europe			Russian Federation	643	RUS				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	244	9	Oceania	61	Polynesia			Samoa	882	WSM			1	Developing	1. Line ministries also have their own statistical activities for administrative purposes. We do not interfere with their own data analysis and their own interpretation. The users will make their own decision based on the quality of the data they trusted.
+Q04.5	Additional comments on challenges to the implementation of Principle 4	162	142	Asia	145	Western Asia			Saudi Arabia	682	SAU				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	58	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Senegal	686	SEN	1			Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	207	150	Europe	39	Southern Europe			Serbia	688	SRB				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	59	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Sierra Leone	694	SLE	1			Developing	The general level of statistical education and awareness is very low
+Q04.5	Additional comments on challenges to the implementation of Principle 4	137	142	Asia	35	South-eastern Asia			Singapore	702	SGP			1	Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	208	150	Europe	39	Southern Europe			Slovenia	705	SVN				Developed	Explanation to the question 4.2:According to the National Statistical Act, article 6, SURS responds in the events of unintentional or deliberate wrongful use of statistics, as well as the Mass Media Act (2006) gives in articles 26-44 to any person the right to demand that the editor publish free of charge a correction or reply to any report that infringed upon the person's right or interest.To prevent misuse and erroneous interpretation of statistics SURS conducts training courses for the use of statistical data and information and for the interpretation of statistics for different users' groups including also media. All statistical results are disseminated together with respective metadata on SURS's website to give users comprehensive information. Meaningful comparisons and storytelling principles are clearly included and used in releases, when appropriate to increase right understanding of the data.
+Q04.5	Additional comments on challenges to the implementation of Principle 4	43	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	South Africa	710	ZAF				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	209	150	Europe	39	Southern Europe			Spain	724	ESP				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	149	142	Asia	34	Southern Asia			Sri Lanka	144	LKA				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	110	19	Americas	419	Latin America and the Caribbean	5	South America	Suriname	740	SUR			1	Developing	User Engagement takes place, preparatory to all Population and Establishment Censuses
+Q04.5	Additional comments on challenges to the implementation of Principle 4	193	150	Europe	154	Northern Europe			Sweden	752	SWE				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	219	150	Europe	155	Western Europe			Switzerland	756	CHE				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	138	142	Asia	35	South-eastern Asia			Thailand	764	THA				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	6	2	Africa	15	Northern Africa			Tunisia	788	TUN				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	165	142	Asia	145	Western Asia			Turkey	792	TUR				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	26	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Uganda	800	UGA	1	1		Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	177	150	Europe	151	Eastern Europe			Ukraine	804	UKR				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	166	142	Asia	145	Western Asia			United Arab Emirates	784	ARE				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	194	150	Europe	154	Northern Europe			United Kingdom of Great Britain and Northern Ireland	826	GBR				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	117	19	Americas	21	Northern America			United States of America	840	USA				Developed	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	140	142	Asia	35	South-eastern Asia			Viet Nam	704	VNM				Developing	
+Q04.5	Additional comments on challenges to the implementation of Principle 4	29	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Zimbabwe	716	ZWE		1		Developing	

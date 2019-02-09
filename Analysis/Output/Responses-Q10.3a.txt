@@ -1,0 +1,94 @@
+QuestionID	QuestionText	OrderM49	RegionCode	RegionName	SubRegionCode	SubRegionName	Subregion2Code	Subregion2Name	CountryName	M49	ISOalpha3	LDC	LLDC	SIDS	DevelopmentStatus	R01
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	195	150	Europe	39	Southern Europe			Albania	8	ALB				Developed	Under governments structure, a specific unit is in charge to coordinate the donor's contribution in national level. Within INSTAT's structural organization, a specific unit implement the coordination of projects covered by donors for statistical activities under INSTAT's responsibility.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	30	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Angola	24	AGO	1			Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	97	19	Americas	419	Latin America and the Caribbean	5	South America	Argentina	32	ARG				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	220	9	Oceania	53	Australia and New Zealand			Australia	36	AUS				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	211	150	Europe	155	Western Europe			Austria	40	AUT				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	168	150	Europe	151	Eastern Europe			Belarus	112	BLR				Developed	The coordination mechanism for receipt and use of international technical assistance is regulated by the Presidential Decree On international technical assistance provided to the Republic of Belarus No. 460 of 22 October 2003.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	212	150	Europe	155	Western Europe			Belgium	56	BEL				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	89	19	Americas	419	Latin America and the Caribbean	13	Central America	Belize	84	BLZ			1	Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	143	142	Asia	34	Southern Asia			Bhutan	64	BTN	1	1		Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	197	150	Europe	39	Southern Europe			Bosnia and Herzegovina	70	BIH				Developed	A donor coordination mechanism is regulated through the Steering Committee
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	39	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	Botswana	72	BWA		1		Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	130	142	Asia	35	South-eastern Asia			Brunei Darussalam	96	BRN				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	169	150	Europe	151	Eastern Europe			Bulgaria	100	BGR				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	46	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Cabo Verde	132	CPV			1	Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	114	19	Americas	21	Northern America			Canada	124	CAN				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	68	19	Americas	419	Latin America and the Caribbean	29	Caribbean	Cayman Islands	136	CYM				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	123	142	Asia	30	Eastern Asia			China	156	CHN				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	102	19	Americas	419	Latin America and the Caribbean	5	South America	Colombia	170	COL				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	34	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Congo	178	COG				Developing	EXISTENCE OF A STATISTICAL CAPACITY BUILDING PROJET
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	90	19	Americas	419	Latin America and the Caribbean	13	Central America	Costa Rica	188	CRI				Developing	The country has a mechanism established by the international cooperation departments of the Ministry of National Planning and Economic Policy (Mideplà¡n) and the Ministry of Foreign Affairs.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	47	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Côte d’Ivoire	384	CIV				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	198	150	Europe	39	Southern Europe			Croatia	191	HRV				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	170	150	Europe	151	Eastern Europe			Czechia	203	CZE				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	182	150	Europe	154	Northern Europe			Denmark	208	DNK				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	103	19	Americas	419	Latin America and the Caribbean	5	South America	Ecuador	218	ECU				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	2	2	Africa	15	Northern Africa			Egypt	818	EGY				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	36	2	Africa	202	Sub-Saharan Africa	17	Middle Africa	Equatorial Guinea	226	GNQ				Developing	AfDB, AU, PAS support some of our activities
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	183	150	Europe	154	Northern Europe			Estonia	233	EST				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	185	150	Europe	154	Northern Europe			Finland	246	FIN				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	213	150	Europe	155	Western Europe			France	250	FRA				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	154	142	Asia	145	Western Asia			Georgia	268	GEO				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	214	150	Europe	155	Western Europe			Germany	276	DEU				Developed	Germany receives support from the EU - for the "Feasibility Study for Setting up a Large Cases Unit (LCU) within the Statistical System of Germany" (EU Structural Reform Support Programme) - for the implementation of new methods of production of European statistics (EU Grants to provide financial support in different statistical Areas)
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	200	150	Europe	39	Southern Europe			Greece	300	GRC				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	50	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Guinea	324	GIN	1			Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	93	19	Americas	419	Latin America and the Caribbean	13	Central America	Honduras	340	HND				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	171	150	Europe	151	Eastern Europe			Hungary	348	HUN				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	186	150	Europe	154	Northern Europe			Iceland	352	ISL				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	155	142	Asia	145	Western Asia			Iraq	368	IRQ				Developing	By funding surveys that provide data on sustainable development indicators or economic, social and environmental indicators
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	187	150	Europe	154	Northern Europe			Ireland	372	IRL				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	145	142	Asia	34	Southern Asia			Iran (Islamic Republic of)	364	IRN				Developing	Statistical Centre of Iran receives some financial support from UN agencies in Iran.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	156	142	Asia	145	Western Asia			Israel	376	ISR				Developed	EU: Twinning, TAIEX, etc.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	202	150	Europe	39	Southern Europe			Italy	380	ITA				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	76	19	Americas	419	Latin America and the Caribbean	29	Caribbean	Jamaica	388	JAM			1	Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	157	142	Asia	145	Western Asia			Jordan	400	JOR				Developing	through MOU with Doners
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	133	142	Asia	35	South-eastern Asia			Lao People's Democratic Republic	418	LAO	1	1		Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	189	150	Europe	154	Northern Europe			Latvia	428	LVA				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	215	150	Europe	155	Western Europe			Liechtenstein	438	LIE				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	190	150	Europe	154	Northern Europe			Lithuania	440	LTU				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	216	150	Europe	155	Western Europe			Luxembourg	442	LUX				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	210	150	Europe	39	Southern Europe			The former Yugoslav Republic of Macedonia	807	MKD		1		Developed	There is donor questionare from Eurostat.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	134	142	Asia	35	South-eastern Asia			Malaysia	458	MYS				Developing	Technical assistance for the development of SEEA and SUT
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	18	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Mauritius	480	MUS			1	Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	94	19	Americas	419	Latin America and the Caribbean	13	Central America	Mexico	484	MEX				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	128	142	Asia	30	Eastern Asia			Mongolia	496	MNG		1		Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	20	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Mozambique	508	MOZ	1			Developing	NSO has received support from donors. One of coordination mechanism in place is "Trust Fund" that is a financial platform reached through agreement or memorandum of understanding between NSO and donors/partners.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	135	142	Asia	35	South-eastern Asia			Myanmar	104	MMR	1			Developing	Statistics Sector Coordination Group was formed and periodically meeting is being organized.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	42	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	Namibia	516	NAM				Developing	The Ministry of Economic Planning and National Planning Commission always has a national Donors Forum on an annual basis.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	224	9	Oceania	53	Australia and New Zealand			New Zealand	554	NZL				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	191	150	Europe	154	Northern Europe			Norway	578	NOR				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	160	142	Asia	145	Western Asia			Oman	512	OMN				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	163	142	Asia	145	Western Asia			State of Palestine	275	PSE				Developing	PCBS is using a basket fund which we call the ( Core funding Group) (CFG). This group was first started in 2003 and included many mind-like donors who believed in the importance of supporting our core activities to maintain sustainability. The CFG concept has proved to be a successful model in terms of reporting, efficiency and Program monitoring and evaluation.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	228	9	Oceania	54	Melanesia			Papua New Guinea	598	PNG			1	Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	108	19	Americas	419	Latin America and the Caribbean	5	South America	Peru	604	PER				Developing	Mediante suscripcià³n de acuerdos y convenios.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	136	142	Asia	35	South-eastern Asia			Philippines	608	PHL				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	172	150	Europe	151	Eastern Europe			Poland	616	POL				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	161	142	Asia	145	Western Asia			Qatar	634	QAT				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	150	142	Asia	145	Western Asia			Armenia	51	ARM		1		Developing	Task Force within the UN system, including Armstat that coordinates capacity building activities on SDGs.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	173	150	Europe	151	Eastern Europe			Republic of Moldova	498	MDA		1		Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	174	150	Europe	151	Eastern Europe			Romania	642	ROU				Developed	European structural funds and grants awarded by the European Commission.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	175	150	Europe	151	Eastern Europe			Russian Federation	643	RUS				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	244	9	Oceania	61	Polynesia			Samoa	882	WSM			1	Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	162	142	Asia	145	Western Asia			Saudi Arabia	682	SAU				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	58	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Senegal	686	SEN	1			Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	207	150	Europe	39	Southern Europe			Serbia	688	SRB				Developed	Coordination is done by Eurostat according to our needs and various donors.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	59	2	Africa	202	Sub-Saharan Africa	11	Western Africa	Sierra Leone	694	SLE	1			Developing	At the Ministry of Finance
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	137	142	Asia	35	South-eastern Asia			Singapore	702	SGP			1	Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	208	150	Europe	39	Southern Europe			Slovenia	705	SVN				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	43	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	South Africa	710	ZAF				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	209	150	Europe	39	Southern Europe			Spain	724	ESP				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	149	142	Asia	34	Southern Asia			Sri Lanka	144	LKA				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	110	19	Americas	419	Latin America and the Caribbean	5	South America	Suriname	740	SUR			1	Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	193	150	Europe	154	Northern Europe			Sweden	752	SWE				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	219	150	Europe	155	Western Europe			Switzerland	756	CHE				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	138	142	Asia	35	South-eastern Asia			Thailand	764	THA				Developing	MICS survey supported by UNICEF and SEEA : OCEAN Account supported by ESCAP
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	6	2	Africa	15	Northern Africa			Tunisia	788	TUN				Developing	MEETING
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	165	142	Asia	145	Western Asia			Turkey	792	TUR				Developing	Turkey's EU candidacy in 1999 was a breakpoint in TurkStat for capacity building efforts. Turkstat has benefited from EU Programmes (national and multi-beneficiary) a lot. Upgrading the Statistical System of Turkey (USST) Programmes Phases I-II-III (2003-2014) and IPA projects have contributed to TurkStat and its staff.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	26	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Uganda	800	UGA	1	1		Developing	Individual donors fund specific programs, no basket funding exists.
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	177	150	Europe	151	Eastern Europe			Ukraine	804	UKR				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	166	142	Asia	145	Western Asia			United Arab Emirates	784	ARE				Developing	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	194	150	Europe	154	Northern Europe			United Kingdom of Great Britain and Northern Ireland	826	GBR				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	117	19	Americas	21	Northern America			United States of America	840	USA				Developed	
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	140	142	Asia	35	South-eastern Asia			Viet Nam	704	VNM				Developing	WB, UN, GIZ, ADB...
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	29	2	Africa	202	Sub-Saharan Africa	14	Eastern Africa	Zimbabwe	716	ZWE		1		Developing	Through data for development group meetings
