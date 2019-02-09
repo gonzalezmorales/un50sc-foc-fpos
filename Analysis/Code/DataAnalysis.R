@@ -22,8 +22,24 @@ responses <- read.tab2dataTable("CleanResponses.txt")
 columns   <- read.tab2dataTable("Columns.txt")
 
 #=====================================
-# Analisis
+# Organize questions into individual files
 #=====================================
+
+
+countryInfo <- names(responses)[1:14]
+
+# See https://stackoverflow.com/questions/32184252/how-to-select-columns-in-data-table-using-a-character-vector-of-certain-column-n
+T0.0.respondents <- responses[,c(countryInfo, "C01", paste("C0", 3:8, sep = "")), with = FALSE]
+
+setnames(T0.0.respondents, 
+         c("C01", paste("C0", 3:8, sep = "")), 
+         columns[Column%in%c(countryInfo, "C01", paste("C0", 3:8, sep = "")),QuestionText])
+
+
+
+
+
+
 
 # T00 - Respondents by region
 
