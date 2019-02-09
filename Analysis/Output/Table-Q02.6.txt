@@ -1,79 +1,21 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law			
-Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	0	13	14
 Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	1	80	86
-Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	DOSM Transformation Plan, 2015-2020		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	Federal employees are required to take Annual Ethics training.  There are also additional ethics training for specific careers, such as contracting and budget officers, etc.		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	Fundamental Principles of Official Statistics and ISI Declaration of Professional Ethics		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	Law on Civil Service		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	ON THE APPLICATION OF THE DECLARATION ON PROFESSIONAL ETHICS has been translated into Armenian and approved by the State Council on Statistics and posted on the website at https://www.armstat.am/file/doc/Ethics.pdf		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	Philippine Statistical Association, Inc.'s Code of Ethics for Statisticians		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	Statut du personnel, Règlement intérieur		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	The Law on Public Service in the Republic of Belarus, the Rules of professional ethics of public servants of state statistics bodies		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	engagement of confidentiality		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	ethical code for civil servants		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules			
-Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	0	17	18
+Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	0	13	14
 Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	1	76	82
-Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	DOSM Transformation Plan, 2015-2020		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	Federal employees are required to take Annual Ethics training.  There are also additional ethics training for specific careers, such as contracting and budget officers, etc.		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	Fundamental Principles of Official Statistics and ISI Declaration of Professional Ethics		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	Law on Civil Service		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	ON THE APPLICATION OF THE DECLARATION ON PROFESSIONAL ETHICS has been translated into Armenian and approved by the State Council on Statistics and posted on the website at https://www.armstat.am/file/doc/Ethics.pdf		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	Philippine Statistical Association, Inc.'s Code of Ethics for Statisticians		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	Statut du personnel, Règlement intérieur		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	The Law on Public Service in the Republic of Belarus, the Rules of professional ethics of public servants of state statistics bodies		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	engagement of confidentiality		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	ethical code for civil servants		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants			
-Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	0	24	26
+Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	0	17	18
 Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	1	69	74
-Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	DOSM Transformation Plan, 2015-2020		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	Federal employees are required to take Annual Ethics training.  There are also additional ethics training for specific careers, such as contracting and budget officers, etc.		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	Fundamental Principles of Official Statistics and ISI Declaration of Professional Ethics		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	Law on Civil Service		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	ON THE APPLICATION OF THE DECLARATION ON PROFESSIONAL ETHICS has been translated into Armenian and approved by the State Council on Statistics and posted on the website at https://www.armstat.am/file/doc/Ethics.pdf		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	Philippine Statistical Association, Inc.'s Code of Ethics for Statisticians		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	Statut du personnel, Règlement intérieur		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	The Law on Public Service in the Republic of Belarus, the Rules of professional ethics of public servants of state statistics bodies		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	engagement of confidentiality		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	ethical code for civil servants		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel			
+Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	0	24	26
 Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	0	53	57
 Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	1	40	43
-Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	DOSM Transformation Plan, 2015-2020		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	Federal employees are required to take Annual Ethics training.  There are also additional ethics training for specific careers, such as contracting and budget officers, etc.		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	Fundamental Principles of Official Statistics and ISI Declaration of Professional Ethics		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	Law on Civil Service		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	ON THE APPLICATION OF THE DECLARATION ON PROFESSIONAL ETHICS has been translated into Armenian and approved by the State Council on Statistics and posted on the website at https://www.armstat.am/file/doc/Ethics.pdf		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	Philippine Statistical Association, Inc.'s Code of Ethics for Statisticians		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	Statut du personnel, Règlement intérieur		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	The Law on Public Service in the Republic of Belarus, the Rules of professional ethics of public servants of state statistics bodies		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	engagement of confidentiality		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	ethical code for civil servants		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above			
 Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	0	93	100
-Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	1		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	DOSM Transformation Plan, 2015-2020		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	Federal employees are required to take Annual Ethics training.  There are also additional ethics training for specific careers, such as contracting and budget officers, etc.		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	Fundamental Principles of Official Statistics and ISI Declaration of Professional Ethics		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	Law on Civil Service		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	ON THE APPLICATION OF THE DECLARATION ON PROFESSIONAL ETHICS has been translated into Armenian and approved by the State Council on Statistics and posted on the website at https://www.armstat.am/file/doc/Ethics.pdf		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	Philippine Statistical Association, Inc.'s Code of Ethics for Statisticians		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	Statut du personnel, Règlement intérieur		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	The Law on Public Service in the Republic of Belarus, the Rules of professional ethics of public servants of state statistics bodies		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	engagement of confidentiality		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	ethical code for civil servants		
 Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other		83	89
-Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	0		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	1		
-Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	DOSM Transformation Plan, 2015-2020	1	1
-Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	Federal employees are required to take Annual Ethics training.  There are also additional ethics training for specific careers, such as contracting and budget officers, etc.	1	1
-Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	Fundamental Principles of Official Statistics and ISI Declaration of Professional Ethics	1	1
-Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	Law on Civil Service	1	1
-Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	ON THE APPLICATION OF THE DECLARATION ON PROFESSIONAL ETHICS has been translated into Armenian and approved by the State Council on Statistics and posted on the website at https://www.armstat.am/file/doc/Ethics.pdf	1	1
-Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	Philippine Statistical Association, Inc.'s Code of Ethics for Statisticians	1	1
-Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	Statut du personnel, Règlement intérieur	1	1
 Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	The Law on Public Service in the Republic of Belarus, the Rules of professional ethics of public servants of state statistics bodies	1	1
 Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	engagement of confidentiality	1	1
 Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	ethical code for civil servants	1	1
+Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	Law on Civil Service	1	1
+Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	DOSM Transformation Plan, 2015-2020	1	1
+Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	Philippine Statistical Association, Inc.'s Code of Ethics for Statisticians	1	1
+Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	ON THE APPLICATION OF THE DECLARATION ON PROFESSIONAL ETHICS has been translated into Armenian and approved by the State Council on Statistics and posted on the website at https://www.armstat.am/file/doc/Ethics.pdf	1	1
+Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	Statut du personnel, Règlement intérieur	1	1
+Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	Fundamental Principles of Official Statistics and ISI Declaration of Professional Ethics	1	1
+Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	Federal employees are required to take Annual Ethics training.  There are also additional ethics training for specific careers, such as contracting and budget officers, etc.	1	1

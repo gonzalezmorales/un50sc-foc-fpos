@@ -1,151 +1,32 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)			
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	0	39	42
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	1	54	58
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	Analysts, tourism industry, Eurostat		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	Central Bank; Ministry of Finance		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	Environmental associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	Lithuanian Bishops' Conference		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	Ministries and Government bodies, Professional Associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	Ministry representatives		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	National Bank		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	National Central Bank, local authorities		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	Parlement; Banque centrale		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	Research organizations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	Researchers from public, private and academia		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	Students, researchers and businesses		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)			
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	0	51	55
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	0	39	42
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	1	42	45
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	Analysts, tourism industry, Eurostat		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	Central Bank; Ministry of Finance		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	Environmental associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	Lithuanian Bishops' Conference		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	Ministries and Government bodies, Professional Associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	Ministry representatives		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	National Bank		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	National Central Bank, local authorities		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	Parlement; Banque centrale		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	Research organizations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	Researchers from public, private and academia		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	Students, researchers and businesses		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions			
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	0	51	55
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	0	68	73
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	1	25	27
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	Analysts, tourism industry, Eurostat		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	Central Bank; Ministry of Finance		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	Environmental associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	Lithuanian Bishops' Conference		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	Ministries and Government bodies, Professional Associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	Ministry representatives		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	National Bank		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	National Central Bank, local authorities		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	Parlement; Banque centrale		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	Research organizations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	Researchers from public, private and academia		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	Students, researchers and businesses		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks			
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	0	48	52
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	1	45	48
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	Analysts, tourism industry, Eurostat		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	Central Bank; Ministry of Finance		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	Environmental associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	Lithuanian Bishops' Conference		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	Ministries and Government bodies, Professional Associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	Ministry representatives		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	National Bank		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	National Central Bank, local authorities		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	Parlement; Banque centrale		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	Research organizations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	Researchers from public, private and academia		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	Students, researchers and businesses		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)			
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	0	41	44
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	0	48	52
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	1	52	56
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	Analysts, tourism industry, Eurostat		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	Central Bank; Ministry of Finance		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	Environmental associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	Lithuanian Bishops' Conference		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	Ministries and Government bodies, Professional Associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	Ministry representatives		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	National Bank		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	National Central Bank, local authorities		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	Parlement; Banque centrale		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	Research organizations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	Researchers from public, private and academia		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	Students, researchers and businesses		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)			
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	0	56	60
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	0	41	44
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	1	37	40
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	Analysts, tourism industry, Eurostat		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	Central Bank; Ministry of Finance		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	Environmental associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	Lithuanian Bishops' Conference		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	Ministries and Government bodies, Professional Associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	Ministry representatives		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	National Bank		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	National Central Bank, local authorities		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	Parlement; Banque centrale		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	Research organizations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	Researchers from public, private and academia		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	Students, researchers and businesses		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media			
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	0	65	70
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	0	56	60
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	1	28	30
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	Analysts, tourism industry, Eurostat		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	Central Bank; Ministry of Finance		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	Environmental associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	Lithuanian Bishops' Conference		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	Ministries and Government bodies, Professional Associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	Ministry representatives		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	National Bank		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	National Central Bank, local authorities		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	Parlement; Banque centrale		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	Research organizations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	Researchers from public, private and academia		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	Students, researchers and businesses		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public			
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	0	72	77
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	0	65	70
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	1	21	23
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	Analysts, tourism industry, Eurostat		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	Central Bank; Ministry of Finance		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	Environmental associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	Lithuanian Bishops' Conference		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	Ministries and Government bodies, Professional Associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	Ministry representatives		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	National Bank		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	National Central Bank, local authorities		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	Parlement; Banque centrale		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	Research organizations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	Researchers from public, private and academia		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	Students, researchers and businesses		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions			
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	0	70	75
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	0	72	77
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	1	23	25
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	Analysts, tourism industry, Eurostat		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	Central Bank; Ministry of Finance		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	Environmental associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	Lithuanian Bishops' Conference		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	Ministries and Government bodies, Professional Associations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	Ministry representatives		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	National Bank		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	National Central Bank, local authorities		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	Parlement; Banque centrale		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	Research organizations		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	Researchers from public, private and academia		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	Students, researchers and businesses		
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	0	70	75
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other		81	87
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	0		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	1		
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Analysts, tourism industry, Eurostat	1	1
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Central Bank; Ministry of Finance	1	1
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Environmental associations	1	1
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Lithuanian Bishops' Conference	1	1
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Ministries and Government bodies, Professional Associations	1	1
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Ministry representatives	1	1
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	National Bank	1	1
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	National Central Bank, local authorities	1	1
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Parlement; Banque centrale	1	1
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Research organizations	1	1
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Researchers from public, private and academia	1	1
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Analysts, tourism industry, Eurostat	1	1
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Lithuanian Bishops' Conference	1	1
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Central Bank; Ministry of Finance	1	1
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Ministry representatives	1	1
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	National Central Bank, local authorities	1	1
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Ministries and Government bodies, Professional Associations	1	1
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Parlement; Banque centrale	1	1
 Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Students, researchers and businesses	1	1
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	National Bank	1	1
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	Researchers from public, private and academia	1	1

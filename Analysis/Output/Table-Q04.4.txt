@@ -1,4 +1,4 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01			2	2
-Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		No	11	12
 Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		Yes	80	86
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		No	11	12
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01			2	2

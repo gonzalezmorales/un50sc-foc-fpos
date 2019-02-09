@@ -1,6 +1,6 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01			17	18
 Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		1	36	39
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	18	19
 Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		3	20	22
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	18	19
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01			17	18
 Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		4	2	2

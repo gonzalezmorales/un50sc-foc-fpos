@@ -1,4 +1,4 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No	8	9
-Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No such law exists	17	18
 Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		Yes	68	73
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No such law exists	17	18
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No	8	9

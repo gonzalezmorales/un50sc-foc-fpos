@@ -1,73 +1,21 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups			
-Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	0	4	4
 Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	1	89	96
-Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	Bileteral co-operation with different countries (Memorandum of Understanding)		
-Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	More than 300 business trips are organized each year (and the number is increasing- 386 in 2017). Moreover, Statistics Poland hosts incoming delegations (around 30 a year). We have not yet entered yet into twinning projects. Visits within TAIEX as well as bilateral cooperation within Polish Aid programme were undertaken.		
-Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	Study visits to NSOs		
-Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	Through the statistical certification system, external evaluations are promoted among peers and other United Nations agencies.		
-Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	hosting many international events like UN World Data Forum		
-Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	participation in different international projects		
-Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups			
-Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	0	7	8
+Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	0	4	4
 Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	1	86	92
-Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	Bileteral co-operation with different countries (Memorandum of Understanding)		
-Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	More than 300 business trips are organized each year (and the number is increasing- 386 in 2017). Moreover, Statistics Poland hosts incoming delegations (around 30 a year). We have not yet entered yet into twinning projects. Visits within TAIEX as well as bilateral cooperation within Polish Aid programme were undertaken.		
-Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	Study visits to NSOs		
-Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	Through the statistical certification system, external evaluations are promoted among peers and other United Nations agencies.		
-Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	hosting many international events like UN World Data Forum		
-Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	participation in different international projects		
-Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation			
-Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	0	10	11
+Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	0	7	8
 Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	1	83	89
-Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	Bileteral co-operation with different countries (Memorandum of Understanding)		
-Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	More than 300 business trips are organized each year (and the number is increasing- 386 in 2017). Moreover, Statistics Poland hosts incoming delegations (around 30 a year). We have not yet entered yet into twinning projects. Visits within TAIEX as well as bilateral cooperation within Polish Aid programme were undertaken.		
-Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	Study visits to NSOs		
-Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	Through the statistical certification system, external evaluations are promoted among peers and other United Nations agencies.		
-Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	hosting many international events like UN World Data Forum		
-Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	participation in different international projects		
-Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)			
+Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	0	10	11
 Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	0	49	53
 Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	1	44	47
-Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	Bileteral co-operation with different countries (Memorandum of Understanding)		
-Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	More than 300 business trips are organized each year (and the number is increasing- 386 in 2017). Moreover, Statistics Poland hosts incoming delegations (around 30 a year). We have not yet entered yet into twinning projects. Visits within TAIEX as well as bilateral cooperation within Polish Aid programme were undertaken.		
-Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	Study visits to NSOs		
-Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	Through the statistical certification system, external evaluations are promoted among peers and other United Nations agencies.		
-Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	hosting many international events like UN World Data Forum		
-Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	participation in different international projects		
-Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel			
-Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	0	10	11
 Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	1	83	89
-Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	Bileteral co-operation with different countries (Memorandum of Understanding)		
-Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	More than 300 business trips are organized each year (and the number is increasing- 386 in 2017). Moreover, Statistics Poland hosts incoming delegations (around 30 a year). We have not yet entered yet into twinning projects. Visits within TAIEX as well as bilateral cooperation within Polish Aid programme were undertaken.		
-Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	Study visits to NSOs		
-Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	Through the statistical certification system, external evaluations are promoted among peers and other United Nations agencies.		
-Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	hosting many international events like UN World Data Forum		
-Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	participation in different international projects		
-Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations			
-Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	0	25	27
+Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	0	10	11
 Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	1	68	73
-Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	Bileteral co-operation with different countries (Memorandum of Understanding)		
-Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	More than 300 business trips are organized each year (and the number is increasing- 386 in 2017). Moreover, Statistics Poland hosts incoming delegations (around 30 a year). We have not yet entered yet into twinning projects. Visits within TAIEX as well as bilateral cooperation within Polish Aid programme were undertaken.		
-Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	Study visits to NSOs		
-Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	Through the statistical certification system, external evaluations are promoted among peers and other United Nations agencies.		
-Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	hosting many international events like UN World Data Forum		
-Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	participation in different international projects		
+Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	0	25	27
 Q10.1	Types of international cooperation activities the NSS engages in	R07	Other		87	94
-Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	0		
-Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	1		
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	Through the statistical certification system, external evaluations are promoted among peers and other United Nations agencies.	1	1
 Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	Bileteral co-operation with different countries (Memorandum of Understanding)	1	1
 Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	More than 300 business trips are organized each year (and the number is increasing- 386 in 2017). Moreover, Statistics Poland hosts incoming delegations (around 30 a year). We have not yet entered yet into twinning projects. Visits within TAIEX as well as bilateral cooperation within Polish Aid programme were undertaken.	1	1
 Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	Study visits to NSOs	1	1
-Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	Through the statistical certification system, external evaluations are promoted among peers and other United Nations agencies.	1	1
-Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	hosting many international events like UN World Data Forum	1	1
 Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	participation in different international projects	1	1
-Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above			
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	hosting many international events like UN World Data Forum	1	1
 Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	0	93	100
-Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	1		
-Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	Bileteral co-operation with different countries (Memorandum of Understanding)		
-Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	More than 300 business trips are organized each year (and the number is increasing- 386 in 2017). Moreover, Statistics Poland hosts incoming delegations (around 30 a year). We have not yet entered yet into twinning projects. Visits within TAIEX as well as bilateral cooperation within Polish Aid programme were undertaken.		
-Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	Study visits to NSOs		
-Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	Through the statistical certification system, external evaluations are promoted among peers and other United Nations agencies.		
-Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	hosting many international events like UN World Data Forum		
-Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	participation in different international projects		

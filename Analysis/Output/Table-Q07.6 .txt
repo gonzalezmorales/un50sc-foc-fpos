@@ -1,4 +1,4 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q07.6 	Regulations affect the functioning of the NSOs published on the website	R01		NSO does not have a website	1	1
-Q07.6 	Regulations affect the functioning of the NSOs published on the website	R01		No	19	20
 Q07.6 	Regulations affect the functioning of the NSOs published on the website	R01		Yes	73	78
+Q07.6 	Regulations affect the functioning of the NSOs published on the website	R01		No	19	20
+Q07.6 	Regulations affect the functioning of the NSOs published on the website	R01		NSO does not have a website	1	1

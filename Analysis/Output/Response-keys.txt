@@ -1,7 +1,7 @@
 QuestionID	QuestionText	R01	R02	R03	R04	R05	R06	R07	R08	R09	R10	R11	R12	R13	R14	R15	R16
 Q00.1	Answering on behalf of																
 Q00.2	Awareness of existence UNFPOS	NSO / Chief Statistician	Heads/Senior managers of other agencies of NSS	Line ministry / Department to which NSO reports													
-Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework																
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	Response	Other (detail)														
 Q00.4	How UNFPOS are communicated to raise awareness at the national level	UNFPOS are mentioned in reports, strategy and policy papers, publications	UNFPOS are discussed in meetings and events, such as the World Statistics Day	None of the above	Does not know 	Other	Other (detail)										
 Q01.1	Source of feedback from users on statistical products and services (e.g. needs, satisfaction) sought in the past five years	User council or organized user group	User satisfaction surveys	Independent review(s) of key stakeholders' satisfaction	User workshops/ stakeholder coordination meetings 	Website traffic analysis	None of the above	Does not know 	Other								
 Q01.1a	Mandate of user council or organized user group	Strategic advice on statistical policy and priorities	Technical advice, in general or on specific statistical programmes and topics	Coordination of statistical activities	Other												

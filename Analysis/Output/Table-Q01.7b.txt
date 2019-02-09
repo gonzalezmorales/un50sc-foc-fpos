@@ -1,126 +1,32 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes			
 Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	0	55	59
 Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	1	38	41
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	Aggregates - under condition of attribution of the source; Anonymized microdata â€“ any re-distribution is not foreseen.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	Aggregates can be re-distributed for commercial purposes. Anonymized microdata cannot be re-distributed under any circumstances.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	Anonymised microdata cannot be redistributed		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	Anonymised microdata cannot be redistributed but others can such as data downloads available in proprietary formats on the website of Statistics Mauritius.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	By negotiation		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	For research. Only Danish research environments are granted authorisation. Access is given to anonymised micro data.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	In conformity with Law 226/2009 and Reg. No. 557/2013.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	Microdata canÂ´t be re-distributed		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	N/A  The conditions in which (post-release) micro data is available may happen, varying amongst agencies.  For example, to access certain Census Bureau microdata, you have to be a sworn Census Bureau employee.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	Never, unless express approval from SIB is obtained		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	No		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	Not applicable		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	Not for anonymised microdata		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	Only aggregates can be distributed for any purposes (commercial and non-commercial).		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	Other: Statistics Canada's open license now applies to public use microdata files.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	Under condition of respecting data protection rules		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	free of charge		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	if bilateral agreement is made and a minimal fee is paid		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	only aggregated datrasets for non-commercial purposes with the indication of the source		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	only aggregates can be re-distributed		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	quelques microdonnées sont fournies aux bureaux d'étude privés contre paiement marginal		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	x		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes			
 Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	0	75	81
 Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	1	18	19
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	Aggregates - under condition of attribution of the source; Anonymized microdata â€“ any re-distribution is not foreseen.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	Aggregates can be re-distributed for commercial purposes. Anonymized microdata cannot be re-distributed under any circumstances.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	Anonymised microdata cannot be redistributed		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	Anonymised microdata cannot be redistributed but others can such as data downloads available in proprietary formats on the website of Statistics Mauritius.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	By negotiation		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	For research. Only Danish research environments are granted authorisation. Access is given to anonymised micro data.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	In conformity with Law 226/2009 and Reg. No. 557/2013.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	Microdata canÂ´t be re-distributed		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	N/A  The conditions in which (post-release) micro data is available may happen, varying amongst agencies.  For example, to access certain Census Bureau microdata, you have to be a sworn Census Bureau employee.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	Never, unless express approval from SIB is obtained		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	No		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	Not applicable		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	Not for anonymised microdata		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	Only aggregates can be distributed for any purposes (commercial and non-commercial).		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	Other: Statistics Canada's open license now applies to public use microdata files.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	Under condition of respecting data protection rules		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	free of charge		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	if bilateral agreement is made and a minimal fee is paid		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	only aggregated datrasets for non-commercial purposes with the indication of the source		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	only aggregates can be re-distributed		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	quelques microdonnées sont fournies aux bureaux d'étude privés contre paiement marginal		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	x		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee			
 Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	0	79	85
 Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	1	14	15
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	Aggregates - under condition of attribution of the source; Anonymized microdata â€“ any re-distribution is not foreseen.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	Aggregates can be re-distributed for commercial purposes. Anonymized microdata cannot be re-distributed under any circumstances.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	Anonymised microdata cannot be redistributed		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	Anonymised microdata cannot be redistributed but others can such as data downloads available in proprietary formats on the website of Statistics Mauritius.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	By negotiation		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	For research. Only Danish research environments are granted authorisation. Access is given to anonymised micro data.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	In conformity with Law 226/2009 and Reg. No. 557/2013.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	Microdata canÂ´t be re-distributed		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	N/A  The conditions in which (post-release) micro data is available may happen, varying amongst agencies.  For example, to access certain Census Bureau microdata, you have to be a sworn Census Bureau employee.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	Never, unless express approval from SIB is obtained		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	No		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	Not applicable		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	Not for anonymised microdata		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	Only aggregates can be distributed for any purposes (commercial and non-commercial).		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	Other: Statistics Canada's open license now applies to public use microdata files.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	Under condition of respecting data protection rules		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	free of charge		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	if bilateral agreement is made and a minimal fee is paid		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	only aggregated datrasets for non-commercial purposes with the indication of the source		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	only aggregates can be re-distributed		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	quelques microdonnées sont fournies aux bureaux d'étude privés contre paiement marginal		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	x		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 			
 Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	0	39	42
 Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	1	54	58
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	Aggregates - under condition of attribution of the source; Anonymized microdata â€“ any re-distribution is not foreseen.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	Aggregates can be re-distributed for commercial purposes. Anonymized microdata cannot be re-distributed under any circumstances.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	Anonymised microdata cannot be redistributed		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	Anonymised microdata cannot be redistributed but others can such as data downloads available in proprietary formats on the website of Statistics Mauritius.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	By negotiation		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	For research. Only Danish research environments are granted authorisation. Access is given to anonymised micro data.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	In conformity with Law 226/2009 and Reg. No. 557/2013.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	Microdata canÂ´t be re-distributed		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	N/A  The conditions in which (post-release) micro data is available may happen, varying amongst agencies.  For example, to access certain Census Bureau microdata, you have to be a sworn Census Bureau employee.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	Never, unless express approval from SIB is obtained		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	No		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	Not applicable		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	Not for anonymised microdata		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	Only aggregates can be distributed for any purposes (commercial and non-commercial).		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	Other: Statistics Canada's open license now applies to public use microdata files.		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	Under condition of respecting data protection rules		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	free of charge		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	if bilateral agreement is made and a minimal fee is paid		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	only aggregated datrasets for non-commercial purposes with the indication of the source		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	only aggregates can be re-distributed		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	quelques microdonnées sont fournies aux bureaux d'étude privés contre paiement marginal		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	x		
 Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other		70	75
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	0		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	1		
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Aggregates - under condition of attribution of the source; Anonymized microdata â€“ any re-distribution is not foreseen.	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Aggregates can be re-distributed for commercial purposes. Anonymized microdata cannot be re-distributed under any circumstances.	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Anonymised microdata cannot be redistributed	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Anonymised microdata cannot be redistributed but others can such as data downloads available in proprietary formats on the website of Statistics Mauritius.	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	By negotiation	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	For research. Only Danish research environments are granted authorisation. Access is given to anonymised micro data.	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	In conformity with Law 226/2009 and Reg. No. 557/2013.	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Microdata canÂ´t be re-distributed	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	N/A  The conditions in which (post-release) micro data is available may happen, varying amongst agencies.  For example, to access certain Census Bureau microdata, you have to be a sworn Census Bureau employee.	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Never, unless express approval from SIB is obtained	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	No	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Not applicable	2	2
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Not for anonymised microdata	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Only aggregates can be distributed for any purposes (commercial and non-commercial).	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Other: Statistics Canada's open license now applies to public use microdata files.	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Under condition of respecting data protection rules	1	1
 Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	free of charge	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	if bilateral agreement is made and a minimal fee is paid	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	only aggregated datrasets for non-commercial purposes with the indication of the source	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Never, unless express approval from SIB is obtained	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Not applicable	2	2
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Other: Statistics Canada's open license now applies to public use microdata files.	1	1
 Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	only aggregates can be re-distributed	1	1
-Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	quelques microdonnées sont fournies aux bureaux d'étude privés contre paiement marginal	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Microdata canÂ´t be re-distributed	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	For research. Only Danish research environments are granted authorisation. Access is given to anonymised micro data.	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	only aggregated datrasets for non-commercial purposes with the indication of the source	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Anonymised microdata cannot be redistributed	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Only aggregates can be distributed for any purposes (commercial and non-commercial).	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Aggregates - under condition of attribution of the source; Anonymized microdata â€“ any re-distribution is not foreseen.	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Under condition of respecting data protection rules	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Anonymised microdata cannot be redistributed but others can such as data downloads available in proprietary formats on the website of Statistics Mauritius.	1	1
 Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	x	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Aggregates can be re-distributed for commercial purposes. Anonymized microdata cannot be re-distributed under any circumstances.	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	No	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	In conformity with Law 226/2009 and Reg. No. 557/2013.	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	if bilateral agreement is made and a minimal fee is paid	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	quelques microdonnées sont fournies aux bureaux d'étude privés contre paiement marginal	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	By negotiation	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	Not for anonymised microdata	1	1
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	N/A  The conditions in which (post-release) micro data is available may happen, varying amongst agencies.  For example, to access certain Census Bureau microdata, you have to be a sworn Census Bureau employee.	1	1

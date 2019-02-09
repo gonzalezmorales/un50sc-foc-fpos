@@ -11,7 +11,8 @@ C09	Q00.1	R01	Answering on behalf of
 C10	Q00.2	R01	Awareness of existence UNFPOS	NSO / Chief Statistician
 C11	Q00.2	R02	Awareness of existence UNFPOS	Heads/Senior managers of other agencies of NSS
 C12	Q00.2	R03	Awareness of existence UNFPOS	Line ministry / Department to which NSO reports
-C13	Q00.3	R01	Extent to which UNFPOS are integrated into the NSS institutional framework	
+C13	Q00.3	R01	Extent to which UNFPOS are integrated into the NSS institutional framework	Response
+C13a	Q00.3	R02	Extent to which UNFPOS are integrated into the NSS institutional framework	Other (detail)
 C14	Q00.4	R01	How UNFPOS are communicated to raise awareness at the national level	UNFPOS are mentioned in reports, strategy and policy papers, publications
 C15	Q00.4	R02	How UNFPOS are communicated to raise awareness at the national level	UNFPOS are discussed in meetings and events, such as the World Statistics Day
 C16	Q00.4	R03	How UNFPOS are communicated to raise awareness at the national level	None of the above

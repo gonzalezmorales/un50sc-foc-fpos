@@ -7,5 +7,5 @@ Q04.2b	Number of times the NSO/NSS commented on erroneous interpretation and mis
 Q04.2b	Number of times the NSO/NSS commented on erroneous interpretation and misuse of statistics in the past five years	R03	Once per year	1	13	14
 Q04.2b	Number of times the NSO/NSS commented on erroneous interpretation and misuse of statistics in the past five years	R04	Twice or more per year 	0	60	65
 Q04.2b	Number of times the NSO/NSS commented on erroneous interpretation and misuse of statistics in the past five years	R04	Twice or more per year 	1	33	35
-Q04.2b	Number of times the NSO/NSS commented on erroneous interpretation and misuse of statistics in the past five years	R05	None of the above	0	89	96
 Q04.2b	Number of times the NSO/NSS commented on erroneous interpretation and misuse of statistics in the past five years	R05	None of the above	1	4	4
+Q04.2b	Number of times the NSO/NSS commented on erroneous interpretation and misuse of statistics in the past five years	R05	None of the above	0	89	96

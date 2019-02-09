@@ -1,81 +1,22 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)			
-Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	0	24	26
 Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	1	69	74
-Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	Internal reviews using external experts		
-Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	Peer Reviews; Sector Reviews; Quality Audit; internal auditing		
-Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	Risk management		
-Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	The ABS uses data quality gates and has invested in risk management frameworks and strategies		
-Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	The Statistical Certification System considers external specialists who analyze official statistics		
-Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	extensive internal (across agency) reviews, to ensure consistency		
-Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	risk management		
-Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)			
-Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	0	31	33
+Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	0	24	26
 Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	1	62	67
-Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	Internal reviews using external experts		
-Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	Peer Reviews; Sector Reviews; Quality Audit; internal auditing		
-Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	Risk management		
-Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	The ABS uses data quality gates and has invested in risk management frameworks and strategies		
-Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	The Statistical Certification System considers external specialists who analyze official statistics		
-Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	extensive internal (across agency) reviews, to ensure consistency		
-Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	risk management		
-Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)			
-Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	0	38	41
+Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	0	31	33
 Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	1	55	59
-Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	Internal reviews using external experts		
-Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	Peer Reviews; Sector Reviews; Quality Audit; internal auditing		
-Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	Risk management		
-Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	The ABS uses data quality gates and has invested in risk management frameworks and strategies		
-Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	The Statistical Certification System considers external specialists who analyze official statistics		
-Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	extensive internal (across agency) reviews, to ensure consistency		
-Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	risk management		
-Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))			
-Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	0	32	34
+Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	0	38	41
 Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	1	61	66
-Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	Internal reviews using external experts		
-Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	Peer Reviews; Sector Reviews; Quality Audit; internal auditing		
-Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	Risk management		
-Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	The ABS uses data quality gates and has invested in risk management frameworks and strategies		
-Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	The Statistical Certification System considers external specialists who analyze official statistics		
-Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	extensive internal (across agency) reviews, to ensure consistency		
-Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	risk management		
-Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff			
-Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	0	31	33
+Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	0	32	34
 Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	1	62	67
-Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	Internal reviews using external experts		
-Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	Peer Reviews; Sector Reviews; Quality Audit; internal auditing		
-Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	Risk management		
-Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	The ABS uses data quality gates and has invested in risk management frameworks and strategies		
-Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	The Statistical Certification System considers external specialists who analyze official statistics		
-Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	extensive internal (across agency) reviews, to ensure consistency		
-Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	risk management		
-Q05.3a	Aspects considered in the quality management framework	R06	External reviews			
-Q05.3a	Aspects considered in the quality management framework	R06	External reviews	0	57	61
+Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	0	31	33
 Q05.3a	Aspects considered in the quality management framework	R06	External reviews	1	36	39
-Q05.3a	Aspects considered in the quality management framework	R06	External reviews	Internal reviews using external experts		
-Q05.3a	Aspects considered in the quality management framework	R06	External reviews	Peer Reviews; Sector Reviews; Quality Audit; internal auditing		
-Q05.3a	Aspects considered in the quality management framework	R06	External reviews	Risk management		
-Q05.3a	Aspects considered in the quality management framework	R06	External reviews	The ABS uses data quality gates and has invested in risk management frameworks and strategies		
-Q05.3a	Aspects considered in the quality management framework	R06	External reviews	The Statistical Certification System considers external specialists who analyze official statistics		
-Q05.3a	Aspects considered in the quality management framework	R06	External reviews	extensive internal (across agency) reviews, to ensure consistency		
-Q05.3a	Aspects considered in the quality management framework	R06	External reviews	risk management		
+Q05.3a	Aspects considered in the quality management framework	R06	External reviews	0	57	61
 Q05.3a	Aspects considered in the quality management framework	R07	Other		86	92
-Q05.3a	Aspects considered in the quality management framework	R07	Other	0		
-Q05.3a	Aspects considered in the quality management framework	R07	Other	1		
-Q05.3a	Aspects considered in the quality management framework	R07	Other	Internal reviews using external experts	1	1
-Q05.3a	Aspects considered in the quality management framework	R07	Other	Peer Reviews; Sector Reviews; Quality Audit; internal auditing	1	1
-Q05.3a	Aspects considered in the quality management framework	R07	Other	Risk management	1	1
 Q05.3a	Aspects considered in the quality management framework	R07	Other	The ABS uses data quality gates and has invested in risk management frameworks and strategies	1	1
-Q05.3a	Aspects considered in the quality management framework	R07	Other	The Statistical Certification System considers external specialists who analyze official statistics	1	1
-Q05.3a	Aspects considered in the quality management framework	R07	Other	extensive internal (across agency) reviews, to ensure consistency	1	1
 Q05.3a	Aspects considered in the quality management framework	R07	Other	risk management	1	1
-Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above			
+Q05.3a	Aspects considered in the quality management framework	R07	Other	Peer Reviews; Sector Reviews; Quality Audit; internal auditing	1	1
+Q05.3a	Aspects considered in the quality management framework	R07	Other	Internal reviews using external experts	1	1
+Q05.3a	Aspects considered in the quality management framework	R07	Other	The Statistical Certification System considers external specialists who analyze official statistics	1	1
+Q05.3a	Aspects considered in the quality management framework	R07	Other	Risk management	1	1
+Q05.3a	Aspects considered in the quality management framework	R07	Other	extensive internal (across agency) reviews, to ensure consistency	1	1
 Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	0	93	100
-Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	1		
-Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	Internal reviews using external experts		
-Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	Peer Reviews; Sector Reviews; Quality Audit; internal auditing		
-Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	Risk management		
-Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	The ABS uses data quality gates and has invested in risk management frameworks and strategies		
-Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	The Statistical Certification System considers external specialists who analyze official statistics		
-Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	extensive internal (across agency) reviews, to ensure consistency		
-Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	risk management		

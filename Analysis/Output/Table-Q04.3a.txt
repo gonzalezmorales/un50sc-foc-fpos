@@ -1,10 +1,10 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01			6	6
+Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Twice or more per year	68	73
+Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Once per year	11	12
 Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		150+	1	1
-Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		As appropriate, it varies. If there is a launch of a new statistical product or prior to a major release, there will be more events.	1	1
+Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Twice over the five-year period	2	2
+Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01			6	6
+Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Seminars are regularly held	1	1
 Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		More than 100	1	1
 Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Once over the five-year period	2	2
-Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Once per year	11	12
-Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Seminars are regularly held	1	1
-Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Twice or more per year	68	73
-Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Twice over the five-year period	2	2
+Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		As appropriate, it varies. If there is a launch of a new statistical product or prior to a major release, there will be more events.	1	1

@@ -1,78 +1,21 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction			
-Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	0	36	39
 Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	1	57	61
-Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	Analysis of data		
-Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	Concepts and Definitions, Scope & Data Sources are provided in historical series and data published in reports and social and economic indicators.		
-Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	Data users receive no information  on quality of data. Only in weighing method , non-response issue is implicitly  explained.		
-Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	INE publish ESMS (SDMX) metadata with each statistics		
-Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	SingStat Website has videos and infographics to explain statistical concepts and data, and the statistical tables on SingStat Table Builder contains explanatory footnotes.		
-Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	Statistical Analyses		
-Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	each section of the yearbook has methodological notes		
-Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	press releases		
-Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes			
-Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	0	19	20
+Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	0	36	39
 Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	1	74	80
-Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	Analysis of data		
-Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	Concepts and Definitions, Scope & Data Sources are provided in historical series and data published in reports and social and economic indicators.		
-Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	Data users receive no information  on quality of data. Only in weighing method , non-response issue is implicitly  explained.		
-Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	INE publish ESMS (SDMX) metadata with each statistics		
-Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	SingStat Website has videos and infographics to explain statistical concepts and data, and the statistical tables on SingStat Table Builder contains explanatory footnotes.		
-Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	Statistical Analyses		
-Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	each section of the yearbook has methodological notes		
-Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	press releases		
-Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset			
-Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	0	16	17
+Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	0	19	20
 Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	1	77	83
-Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	Analysis of data		
-Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	Concepts and Definitions, Scope & Data Sources are provided in historical series and data published in reports and social and economic indicators.		
-Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	Data users receive no information  on quality of data. Only in weighing method , non-response issue is implicitly  explained.		
-Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	INE publish ESMS (SDMX) metadata with each statistics		
-Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	SingStat Website has videos and infographics to explain statistical concepts and data, and the statistical tables on SingStat Table Builder contains explanatory footnotes.		
-Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	Statistical Analyses		
-Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	each section of the yearbook has methodological notes		
-Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	press releases		
-Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates			
-Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	0	49	53
+Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	0	16	17
 Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	1	44	47
-Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	Analysis of data		
-Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	Concepts and Definitions, Scope & Data Sources are provided in historical series and data published in reports and social and economic indicators.		
-Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	Data users receive no information  on quality of data. Only in weighing method , non-response issue is implicitly  explained.		
-Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	INE publish ESMS (SDMX) metadata with each statistics		
-Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	SingStat Website has videos and infographics to explain statistical concepts and data, and the statistical tables on SingStat Table Builder contains explanatory footnotes.		
-Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	Statistical Analyses		
-Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	each section of the yearbook has methodological notes		
-Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	press releases		
-Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS			
+Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	0	49	53
 Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	0	44	47
 Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	1	49	53
-Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	Analysis of data		
-Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	Concepts and Definitions, Scope & Data Sources are provided in historical series and data published in reports and social and economic indicators.		
-Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	Data users receive no information  on quality of data. Only in weighing method , non-response issue is implicitly  explained.		
-Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	INE publish ESMS (SDMX) metadata with each statistics		
-Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	SingStat Website has videos and infographics to explain statistical concepts and data, and the statistical tables on SingStat Table Builder contains explanatory footnotes.		
-Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	Statistical Analyses		
-Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	each section of the yearbook has methodological notes		
-Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	press releases		
 Q03.3	Types of explanatory texts that accompany published data	R06	Other		85	91
-Q03.3	Types of explanatory texts that accompany published data	R06	Other	0		
-Q03.3	Types of explanatory texts that accompany published data	R06	Other	1		
 Q03.3	Types of explanatory texts that accompany published data	R06	Other	Analysis of data	1	1
-Q03.3	Types of explanatory texts that accompany published data	R06	Other	Concepts and Definitions, Scope & Data Sources are provided in historical series and data published in reports and social and economic indicators.	1	1
 Q03.3	Types of explanatory texts that accompany published data	R06	Other	Data users receive no information  on quality of data. Only in weighing method , non-response issue is implicitly  explained.	1	1
-Q03.3	Types of explanatory texts that accompany published data	R06	Other	INE publish ESMS (SDMX) metadata with each statistics	1	1
-Q03.3	Types of explanatory texts that accompany published data	R06	Other	SingStat Website has videos and infographics to explain statistical concepts and data, and the statistical tables on SingStat Table Builder contains explanatory footnotes.	1	1
-Q03.3	Types of explanatory texts that accompany published data	R06	Other	Statistical Analyses	1	1
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	Concepts and Definitions, Scope & Data Sources are provided in historical series and data published in reports and social and economic indicators.	1	1
 Q03.3	Types of explanatory texts that accompany published data	R06	Other	each section of the yearbook has methodological notes	1	1
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	Statistical Analyses	1	1
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	SingStat Website has videos and infographics to explain statistical concepts and data, and the statistical tables on SingStat Table Builder contains explanatory footnotes.	1	1
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	INE publish ESMS (SDMX) metadata with each statistics	1	1
 Q03.3	Types of explanatory texts that accompany published data	R06	Other	press releases	1	1
-Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above			
 Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	0	93	100
-Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	1		
-Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	Analysis of data		
-Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	Concepts and Definitions, Scope & Data Sources are provided in historical series and data published in reports and social and economic indicators.		
-Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	Data users receive no information  on quality of data. Only in weighing method , non-response issue is implicitly  explained.		
-Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	INE publish ESMS (SDMX) metadata with each statistics		
-Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	SingStat Website has videos and infographics to explain statistical concepts and data, and the statistical tables on SingStat Table Builder contains explanatory footnotes.		
-Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	Statistical Analyses		
-Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	each section of the yearbook has methodological notes		
-Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	press releases		
