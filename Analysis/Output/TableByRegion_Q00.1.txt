@@ -1,0 +1,13 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q00.1	Answering on behalf of	R01		National Statistical System (NSS)	Europe	5	5.38
+Q00.1	Answering on behalf of	R01		National Statistical Office (NSO)	Africa	15	16.13
+Q00.1	Answering on behalf of	R01		National Statistical Office (NSO)	Americas	10	10.75
+Q00.1	Answering on behalf of	R01		National Statistical Office (NSO)	Oceania	3	3.23
+Q00.1	Answering on behalf of	R01		National Statistical Office (NSO)	Europe	30	32.26
+Q00.1	Answering on behalf of	R01		National Statistical Office (NSO)	Asia	22	23.66
+Q00.1	Answering on behalf of	R01		National Statistical System (NSS)	Americas	2	2.15
+Q00.1	Answering on behalf of	R01		National Statistical System (NSS)	Asia	2	2.15
+Q00.1	Answering on behalf of	R01		Both NSO & NSS	Americas	1	1.08
+Q00.1	Answering on behalf of	R01		National Statistical System (NSS)	Oceania	1	1.08
+Q00.1	Answering on behalf of	R01		Senior Statistician	Africa	1	1.08
+Q00.1	Answering on behalf of	R01		National Statistical System (NSS)	Africa	1	1.08

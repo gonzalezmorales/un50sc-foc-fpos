@@ -1,0 +1,21 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01			Europe	34	36.56
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01			Africa	12	12.9
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01			Americas	11	11.83
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01			Oceania	2	2.15
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		Not sure.	Americas	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01			Asia	19	20.43
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		BECAUSE THOSE KIND OF INFORMATIONS ARE NOT AVAILABLE TO ANYONE.	Africa	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		I do not know if they have receive training about this topics.	Africa	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		Faiblesse des ressources financières	Africa	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		Open data is not yet operational	Asia	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		We are not sure that other agency maybe have the experience with open data	Asia	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		Nil	Asia	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		None of the NSS institutions could attend the previous training that PARIS 21 was conducting.	Africa	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		Lack of personal and capacity	Oceania	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		The invitations is usually given to the NSO by the Ministry of Foreign Affairs which is responsible for coordination of international training.	Oceania	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		We have no information	Europe	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		Don't know	Asia	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		Nobody approached the NSO (and vice versa) to discuss matters regarding Open data	Americas	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		its new topic, limit finance	Asia	1	1.08
+Q02.10b	Reasons why other agencies of NSS have not received training concerning open data, data privacy or access to information policies and principles	R01		No platforms have requested other agencies of the NSS	Africa	1	1.08

@@ -1,0 +1,10 @@
+QuestionID	QuestionText	BlockID	BlockText	0	1	Data Integration	Linking to census and survey sources to add information content.	Quality Assurance Purposes	Research	NA
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	8.6	91.4					
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	21.51	78.49					
+Q05.1a	How administrative records are currently used	R03	As sampling frames	30.11	69.89					
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	20.43	79.57					
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	33.33	66.67					
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	51.61	48.39					
+Q05.1a	How administrative records are currently used	R07	None of the above	100						
+Q05.1a	How administrative records are currently used	R08	Other	95.7	4.3					
+Q05.1a	How administrative records are currently used	R09	Other (detail)			1.08	1.08	1.08	1.08	95.7

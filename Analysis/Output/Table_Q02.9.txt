@@ -1,0 +1,4 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01		Yes	85	91.4
+Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01		No	7	7.53
+Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01			1	1.08

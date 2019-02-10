@@ -1,0 +1,11 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	2011	2013	2014	2015	2016	2017	2018	2019	2020	2021	2022	2023	2025	2027	2040	NA
+Q01.2a	Time span of current NSDS	R01	From	Africa		2.15	1.08	2.15	3.23	3.23	1.08									5.38
+Q01.2a	Time span of current NSDS	R01	From	Americas				1.08	1.08	2.15	2.15									7.53
+Q01.2a	Time span of current NSDS	R01	From	Asia	1.08			2.15	3.23	3.23	4.3	1.08								10.75
+Q01.2a	Time span of current NSDS	R01	From	Europe		4.3	1.08	2.15	3.23	2.15	6.45	2.15								16.13
+Q01.2a	Time span of current NSDS	R01	From	Oceania	1.08						1.08									2.15
+Q01.2a	Time span of current NSDS	R02	To	Africa								2.15	5.38	1.08	3.23		1.08			5.38
+Q01.2a	Time span of current NSDS	R02	To	Americas									2.15		3.23				1.08	7.53
+Q01.2a	Time span of current NSDS	R02	To	Asia							1.08		4.3	3.23	3.23	2.15	1.08			10.75
+Q01.2a	Time span of current NSDS	R02	To	Europe								2.15	10.75	1.08	6.45	1.08				16.13
+Q01.2a	Time span of current NSDS	R02	To	Oceania										1.08				1.08		2.15

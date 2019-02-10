@@ -1,0 +1,60 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	1	Europe	10	10.75
+Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	1	Africa	7	7.53
+Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	0	Americas	11	11.83
+Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	0	Oceania	4	4.3
+Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	0	Europe	25	26.88
+Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	0	Asia	15	16.13
+Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	0	Africa	10	10.75
+Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	1	Americas	2	2.15
+Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	1	Asia	9	9.68
+Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	1	Europe	3	3.23
+Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	0	Africa	16	17.2
+Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	1	Americas	2	2.15
+Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	0	Oceania	4	4.3
+Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	0	Europe	32	34.41
+Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	0	Americas	11	11.83
+Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	0	Asia	23	24.73
+Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	1	Africa	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	1	Asia	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	0	Europe	28	30.11
+Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	0	Africa	14	15.05
+Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	1	Americas	2	2.15
+Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	0	Oceania	4	4.3
+Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	1	Europe	7	7.53
+Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	0	Americas	11	11.83
+Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	0	Asia	18	19.35
+Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	1	Africa	3	3.23
+Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	1	Asia	6	6.45
+Q08.4	How is dissemination coordinated across the NSS	R04	Other	0	Europe	33	35.48
+Q08.4	How is dissemination coordinated across the NSS	R04	Other	0	Africa	17	18.28
+Q08.4	How is dissemination coordinated across the NSS	R04	Other	0	Americas	12	12.9
+Q08.4	How is dissemination coordinated across the NSS	R04	Other	0	Oceania	3	3.23
+Q08.4	How is dissemination coordinated across the NSS	R04	Other	0	Asia	20	21.51
+Q08.4	How is dissemination coordinated across the NSS	R04	Other	1	Europe	2	2.15
+Q08.4	How is dissemination coordinated across the NSS	R04	Other	1	Asia	4	4.3
+Q08.4	How is dissemination coordinated across the NSS	R04	Other	1	Oceania	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R04	Other	1	Americas	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)		Europe	33	35.48
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)		Africa	17	18.28
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)		Americas	12	12.9
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)		Oceania	3	3.23
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)		Asia	20	21.51
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	coordination is implemented indirectly through the principles of the Code of Practice;	Europe	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	Research Data Centres of official statistrics, coordinated between the Federal Statistical Office and the Research Data Centre of the Statistical Offices of the Federal States.	Europe	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	Dissemination  calendar is at NSO level  only.	Asia	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	meeting, trainning	Asia	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	ARC under DOSM	Asia	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	There is no coordinated dissemination portal	Oceania	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	Key statistics are released in Yearbook of Statistics and Economic Survey of Singapore	Asia	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	Data dissemination is dictated by the producing agencies.	Americas	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	0	Europe	18	19.35
+Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	0	Africa	9	9.68
+Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	0	Americas	5	5.38
+Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	1	Oceania	3	3.23
+Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	1	Europe	17	18.28
+Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	1	Americas	8	8.6
+Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	1	Asia	6	6.45
+Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	0	Asia	18	19.35
+Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	1	Africa	8	8.6
+Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	0	Oceania	1	1.08

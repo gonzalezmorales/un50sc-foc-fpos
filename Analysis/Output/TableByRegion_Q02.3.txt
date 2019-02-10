@@ -1,0 +1,10 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		No	Europe	34	36.56
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		No	Africa	15	16.13
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		Yes	Americas	1	1.08
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		No	Oceania	4	4.3
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		No	Americas	12	12.9
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		No	Asia	22	23.66
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		Yes	Asia	2	2.15
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		Yes	Europe	1	1.08
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		Yes	Africa	2	2.15

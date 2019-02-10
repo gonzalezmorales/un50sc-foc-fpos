@@ -1,0 +1,8 @@
+QuestionID	QuestionText	BlockID	BlockText	0	1	DOSM Transformation Plan, 2015-2020	Federal employees are required to take Annual Ethics training.  There are also additional ethics training for specific careers, such as contracting and budget officers, etc.	Fundamental Principles of Official Statistics and ISI Declaration of Professional Ethics	Law on Civil Service	ON THE APPLICATION OF THE DECLARATION ON PROFESSIONAL ETHICS has been translated into Armenian and approved by the State Council on Statistics and posted on the website at https://www.armstat.am/file/doc/Ethics.pdf	Philippine Statistical Association, Inc.'s Code of Ethics for Statisticians	Statut du personnel, Règlement intérieur	The Law on Public Service in the Republic of Belarus, the Rules of professional ethics of public servants of state statistics bodies	engagement of confidentiality	ethical code for civil servants	NA
+Q02.6	Document(s) providing guidance on professional ethics for staff	R01	Statistical law	13.98	86.02											
+Q02.6	Document(s) providing guidance on professional ethics for staff	R02	Internal regulations and staff rules	18.28	81.72											
+Q02.6	Document(s) providing guidance on professional ethics for staff	R03	Codes of conduct for civil servants	25.81	74.19											
+Q02.6	Document(s) providing guidance on professional ethics for staff	R04	Specific codes for statistical personnel	56.99	43.01											
+Q02.6	Document(s) providing guidance on professional ethics for staff	R05	None of the above	100												
+Q02.6	Document(s) providing guidance on professional ethics for staff	R06	Other	89.25	10.75											
+Q02.6	Document(s) providing guidance on professional ethics for staff	R07	Other (detail)			1.08	1.08	1.08	1.08	1.08	1.08	1.08	1.08	1.08	1.08	89.25

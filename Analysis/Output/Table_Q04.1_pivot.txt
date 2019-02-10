@@ -1,0 +1,2 @@
+QuestionID	QuestionText	BlockID	BlockText	No	Yes
+Q04.1	The NSO/NSS has reacted to erroneous interpretation and misuse of statistics during the past five years	R01		22.58	77.42

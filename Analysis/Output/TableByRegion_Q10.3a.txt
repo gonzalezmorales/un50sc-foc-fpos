@@ -1,0 +1,34 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		Under governments structure, a specific unit is in charge to coordinate the donor's contribution in national level. Within INSTAT's structural organization, a specific unit implement the coordination of projects covered by donors for statistical activities under INSTAT's responsibility.	Europe	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01			Africa	9	9.68
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01			Americas	11	11.83
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01			Oceania	4	4.3
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01			Europe	28	30.11
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		The coordination mechanism for receipt and use of international technical assistance is regulated by the Presidential Decree On international technical assistance provided to the Republic of Belarus No. 460 of 22 October 2003.	Europe	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01			Asia	13	13.98
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		A donor coordination mechanism is regulated through the Steering Committee	Europe	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		EXISTENCE OF A STATISTICAL CAPACITY BUILDING PROJET	Africa	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		The country has a mechanism established by the international cooperation departments of the Ministry of National Planning and Economic Policy (Mideplà¡n) and the Ministry of Foreign Affairs.	Americas	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		AfDB, AU, PAS support some of our activities	Africa	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		Germany receives support from the EU - for the "Feasibility Study for Setting up a Large Cases Unit (LCU) within the Statistical System of Germany" (EU Structural Reform Support Programme) - for the implementation of new methods of production of European statistics (EU Grants to provide financial support in different statistical Areas)	Europe	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		By funding surveys that provide data on sustainable development indicators or economic, social and environmental indicators	Asia	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		Statistical Centre of Iran receives some financial support from UN agencies in Iran.	Asia	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		EU: Twinning, TAIEX, etc.	Asia	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		through MOU with Doners	Asia	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		There is donor questionare from Eurostat.	Europe	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		Technical assistance for the development of SEEA and SUT	Asia	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		NSO has received support from donors. One of coordination mechanism in place is "Trust Fund" that is a financial platform reached through agreement or memorandum of understanding between NSO and donors/partners.	Africa	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		Statistics Sector Coordination Group was formed and periodically meeting is being organized.	Asia	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		The Ministry of Economic Planning and National Planning Commission always has a national Donors Forum on an annual basis.	Africa	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		PCBS is using a basket fund which we call the ( Core funding Group) (CFG). This group was first started in 2003 and included many mind-like donors who believed in the importance of supporting our core activities to maintain sustainability. The CFG concept has proved to be a successful model in terms of reporting, efficiency and Program monitoring and evaluation.	Asia	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		Mediante suscripcià³n de acuerdos y convenios.	Americas	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		Task Force within the UN system, including Armstat that coordinates capacity building activities on SDGs.	Asia	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		European structural funds and grants awarded by the European Commission.	Europe	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		Coordination is done by Eurostat according to our needs and various donors.	Europe	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		At the Ministry of Finance	Africa	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		MICS survey supported by UNICEF and SEEA : OCEAN Account supported by ESCAP	Asia	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		MEETING	Africa	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		Turkey's EU candidacy in 1999 was a breakpoint in TurkStat for capacity building efforts. Turkstat has benefited from EU Programmes (national and multi-beneficiary) a lot. Upgrading the Statistical System of Turkey (USST) Programmes Phases I-II-III (2003-2014) and IPA projects have contributed to TurkStat and its staff.	Asia	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		Individual donors fund specific programs, no basket funding exists.	Africa	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		WB, UN, GIZ, ADB...	Asia	1	1.08
+Q10.3a	Details on donor coordination mechanism or basket fund for statistics	R01		Through data for development group meetings	Africa	1	1.08

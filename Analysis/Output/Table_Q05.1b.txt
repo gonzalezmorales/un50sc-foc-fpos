@@ -1,0 +1,17 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R01	Cooperation with custodians of administrative data at the stage of design/modernization of information systems	1	79	84.95
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R01	Cooperation with custodians of administrative data at the stage of design/modernization of information systems	0	14	15.05
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R02	Providing advice to the custodians of administrative data for amending the composition of data and classification	1	74	79.57
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R02	Providing advice to the custodians of administrative data for amending the composition of data and classification	0	19	20.43
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R03	Training personnel of the custodians of administrative data	1	42	45.16
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R03	Training personnel of the custodians of administrative data	0	51	54.84
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R04	Feedback with custodians of administrative data when errors are found	1	67	72.04
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R04	Feedback with custodians of administrative data when errors are found	0	26	27.96
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R05	None of the above	0	91	97.85
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R05	None of the above	1	2	2.15
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R06	Other	0	90	96.77
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R06	Other	1	3	3.23
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R07	Other (detail)		90	96.77
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R07	Other (detail)	unfortunately the actions are not very effective	1	1.08
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R07	Other (detail)	In project: methodology of evaluation of administrative records	1	1.08
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R07	Other (detail)	checking and processing administrative data for  statistical purposes	1	1.08

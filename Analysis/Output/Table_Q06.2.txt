@@ -1,0 +1,23 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	1	82	88.17
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	0	11	11.83
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	1	75	80.65
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	0	18	19.35
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	1	59	63.44
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	0	34	36.56
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	1	63	67.74
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	0	30	32.26
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	1	62	66.67
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	0	31	33.33
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	1	62	66.67
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	0	31	33.33
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	1	75	80.65
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	0	18	19.35
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	0	62	66.67
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	1	31	33.33
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R09	Other	0	91	97.85
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R09	Other	1	2	2.15
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)		91	97.85
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)	Procedures for transmission of protected information, breach protocol	1	1.08
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)	We do not have a Confidentiality Policy but we have a Statistical Act 2015 that has the confidentiality clause	1	1.08
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R10	None Of The Above	0	93	100

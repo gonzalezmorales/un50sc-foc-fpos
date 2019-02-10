@@ -1,0 +1,12 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		Yes	Europe	29	31.18
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		Yes	Africa	14	15.05
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		Yes	Americas	11	11.83
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		Yes	Oceania	4	4.3
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		No	Europe	5	5.38
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		No	Asia	2	2.15
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		Yes	Asia	22	23.66
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		No	Africa	3	3.23
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01			Americas	1	1.08
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01			Europe	1	1.08
+Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		No	Americas	1	1.08

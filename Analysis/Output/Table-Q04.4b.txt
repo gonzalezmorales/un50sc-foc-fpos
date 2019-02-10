@@ -1,9 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01			86	92
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		poor attention of users	1	1
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Lack of human and financial resources	1	1
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		le budget alloué à  l'INS n'est pas suffisants pour réaliser ces activités.	1	1
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		The NSO still working in the best way to realice this type of activities.	1	1
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Lacking resources	1	1
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		We have intention to conduct such activities in the future	1	1
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Disappointment with the very low response rates of user satisfaction surveys	1	1

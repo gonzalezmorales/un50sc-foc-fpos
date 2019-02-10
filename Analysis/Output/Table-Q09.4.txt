@@ -1,9 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q09.4	Existence of a programme on EEA*?	R01	Yes, we have compiled and published at least one EEA	0	50	54
-Q09.4	Existence of a programme on EEA*?	R01	Yes, we have compiled and published at least one EEA	1	43	46
-Q09.4	Existence of a programme on EEA*?	R02	Yes, we have compiled (or are compiling) at least one EEA but it has not been published	0	86	92
-Q09.4	Existence of a programme on EEA*?	R02	Yes, we have compiled (or are compiling) at least one EEA but it has not been published	1	7	8
-Q09.4	Existence of a programme on EEA*?	R03	We plan (or have started) a programme on EEA, but do not yet compile any EEA	1	14	15
-Q09.4	Existence of a programme on EEA*?	R03	We plan (or have started) a programme on EEA, but do not yet compile any EEA	0	79	85
-Q09.4	Existence of a programme on EEA*?	R04	No, we do not have a programme on EEA 	0	64	69
-Q09.4	Existence of a programme on EEA*?	R04	No, we do not have a programme on EEA 	1	29	31

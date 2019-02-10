@@ -1,0 +1,10 @@
+QuestionID	QuestionText	BlockID	BlockText	0	1	GPS data collected during listing operations	Private sector financial records and production data	We make extensive use of geospatial data, primarily from the UK's national mapping agency.	data of exhaustive surveys	state and local government data, etc.	NA
+Q05.1	Sources of data currently used by the NSO	R01	Sample surveys	1.08	98.92						
+Q05.1	Sources of data currently used by the NSO	R02	Censuses	6.45	93.55						
+Q05.1	Sources of data currently used by the NSO	R03	Administrative data	2.15	97.85						
+Q05.1	Sources of data currently used by the NSO	R04	Privately owned datasets (such as call detail records)	68.82	31.18						
+Q05.1	Sources of data currently used by the NSO	R05	Citizen generated data (from CSOs)	93.55	6.45						
+Q05.1	Sources of data currently used by the NSO	R06	Web scrapped data	62.37	37.63						
+Q05.1	Sources of data currently used by the NSO	R07	Satellite imagery	70.97	29.03						
+Q05.1	Sources of data currently used by the NSO	R08	Other	94.62	5.38						
+Q05.1	Sources of data currently used by the NSO	R09	Other (detail)			1.08	1.08	1.08	1.08	1.08	94.62

@@ -1,0 +1,4 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q09.2	Extent to which Principles and Recommendations for Population and Housing Censuses, Rev. 3 (for census undertaken after 2015) or Rev. 2 (for census undertaken before 2015) are being implemented in the latest census programme	R01		Partially	23	24.73
+Q09.2	Extent to which Principles and Recommendations for Population and Housing Censuses, Rev. 3 (for census undertaken after 2015) or Rev. 2 (for census undertaken before 2015) are being implemented in the latest census programme	R01		Fully	67	72.04
+Q09.2	Extent to which Principles and Recommendations for Population and Housing Censuses, Rev. 3 (for census undertaken after 2015) or Rev. 2 (for census undertaken before 2015) are being implemented in the latest census programme	R01		Not implemented	3	3.23

@@ -1,0 +1,18 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q09.5	SDMX currently in use	R01		Partially, only in some statistical domains or data sets	Europe	11	11.83
+Q09.5	SDMX currently in use	R01		No	Africa	7	7.53
+Q09.5	SDMX currently in use	R01		Partially, only in some statistical domains or data sets	Americas	6	6.45
+Q09.5	SDMX currently in use	R01		Yes	Oceania	2	2.15
+Q09.5	SDMX currently in use	R01		Yes	Europe	22	23.66
+Q09.5	SDMX currently in use	R01		No	Europe	2	2.15
+Q09.5	SDMX currently in use	R01		Do not know	Americas	1	1.08
+Q09.5	SDMX currently in use	R01		Yes	Asia	4	4.3
+Q09.5	SDMX currently in use	R01		Partially, only in some statistical domains or data sets	Africa	7	7.53
+Q09.5	SDMX currently in use	R01		No	Asia	13	13.98
+Q09.5	SDMX currently in use	R01		Yes	Americas	4	4.3
+Q09.5	SDMX currently in use	R01		No	Americas	2	2.15
+Q09.5	SDMX currently in use	R01		Yes	Africa	2	2.15
+Q09.5	SDMX currently in use	R01		Partially, only in some statistical domains or data sets	Asia	7	7.53
+Q09.5	SDMX currently in use	R01		Partially, only in some statistical domains or data sets	Oceania	1	1.08
+Q09.5	SDMX currently in use	R01		No	Oceania	1	1.08
+Q09.5	SDMX currently in use	R01		Do not know	Africa	1	1.08

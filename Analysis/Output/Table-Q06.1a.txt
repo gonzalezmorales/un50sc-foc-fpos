@@ -1,4 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q06.1a	Confidentiality provision in the laws applies to…	R01		NSS	65	70
-Q06.1a	Confidentiality provision in the laws applies to…	R01		NSO	27	29
-Q06.1a	Confidentiality provision in the laws applies to…	R01		NSO, NSS	1	1

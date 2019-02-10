@@ -1,0 +1,9 @@
+QuestionID	QuestionText	BlockID	BlockText	0	1	Analysis of data	Concepts and Definitions, Scope & Data Sources are provided in historical series and data published in reports and social and economic indicators.	Data users receive no information  on quality of data. Only in weighing method , non-response issue is implicitly  explained.	INE publish ESMS (SDMX) metadata with each statistics	SingStat Website has videos and infographics to explain statistical concepts and data, and the statistical tables on SingStat Table Builder contains explanatory footnotes.	Statistical Analyses	each section of the yearbook has methodological notes	press releases	NA
+Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	38.71	61.29									
+Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	20.43	79.57									
+Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	17.2	82.8									
+Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	52.69	47.31									
+Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	47.31	52.69									
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	91.4	8.6									
+Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	100										
+Q03.3	Types of explanatory texts that accompany published data	R08	Other (detail)			1.08	1.08	1.08	1.08	1.08	1.08	1.08	1.08	91.4

@@ -1,0 +1,26 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	0	1
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R01	For the dissemination of time-use statistics, regardless of the type of instruments used for data collection	Africa	15.05	3.23
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R01	For the dissemination of time-use statistics, regardless of the type of instruments used for data collection	Americas	11.83	2.15
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R01	For the dissemination of time-use statistics, regardless of the type of instruments used for data collection	Asia	18.28	7.53
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R01	For the dissemination of time-use statistics, regardless of the type of instruments used for data collection	Europe	32.26	5.38
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R01	For the dissemination of time-use statistics, regardless of the type of instruments used for data collection	Oceania	4.3	
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R02	To guide the collection of time-use data 	Africa	12.9	5.38
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R02	To guide the collection of time-use data 	Americas	10.75	3.23
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R02	To guide the collection of time-use data 	Asia	20.43	5.38
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R02	To guide the collection of time-use data 	Europe	32.26	5.38
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R02	To guide the collection of time-use data 	Oceania	4.3	
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R03	As the basis for national classifications of activities for time-use statistics	Africa	15.05	3.23
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R03	As the basis for national classifications of activities for time-use statistics	Americas	13.98	
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R03	As the basis for national classifications of activities for time-use statistics	Asia	20.43	5.38
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R03	As the basis for national classifications of activities for time-use statistics	Europe	32.26	5.38
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R03	As the basis for national classifications of activities for time-use statistics	Oceania	4.3	
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R04	None of the above	Africa	12.9	5.38
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R04	None of the above	Americas	8.6	5.38
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R04	None of the above	Asia	17.2	8.6
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R04	None of the above	Europe	23.66	13.98
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R04	None of the above	Oceania	2.15	2.15
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R05	Time use is not compiled	Africa	10.75	7.53
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R05	Time use is not compiled	Americas	8.6	5.38
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R05	Time use is not compiled	Asia	16.13	9.68
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R05	Time use is not compiled	Europe	26.88	10.75
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R05	Time use is not compiled	Oceania	2.15	2.15

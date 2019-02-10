@@ -1,0 +1,35 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	0	72	77.42
+Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	1	21	22.58
+Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	0	76	81.72
+Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	1	17	18.28
+Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	0	37	39.78
+Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	1	56	60.22
+Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	0	66	70.97
+Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	1	27	29.03
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other		68	73.12
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	free of charge	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	By applying for access through Microdata Access Program	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Not applicable. Currently working on the development for publishing micro data	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	All standard aggregate data is provided online and free of charge.  It is governed by an open license:  https://www.statcan.gc.ca/eng/reference/licence	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	at no cost to user	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Free	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Les données peuvent àªtre consultées sans coà»t et sans contrat de licence	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Everybode has free and eqaul access to aggregated data. Access to microdata is given only to reasearchers and others that are approved for this.	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	They are published on the web INEC	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	For free.	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	L'accès est libre et gratuit	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Microdata can be accessed for scientific purposes after signing an agreement, which is usually done for a fee. Aggregates can be accessed online without any restrictions.	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	All statistical information produced according to the Official Statistics Work Programme is published and provided for the general public free of charge on the Official Statistics Portal. Statistics Lithuania also provides statistical information on individual request (enquiry). Individual request (enquiry) is a request by a user to provide him/her with a certain piece of statistical information, submitted via the Official Statistics Portal. A response to the request (enquiry) is prepared by the divisions of Statistics Lithuania within the area of their competence. Statistical information collected, processed and published under the Official Statistics Work Programme on the Official Statistics Portal and released according to the Catalogue of Statistical Publications is available free of charge. Responses to statistical enquiries are to be paid for only if additional or more detail statistical information is requested than indicated in the Official Statistics Work Programme. Confidential statistical data can be provided for scientific purposes to the researchers of national and foreign higher education and research institutions as defined in the Law on Higher Education and Research of the Republic of Lithuania; also to researchers of institutions mentioned in 2012/200/EU: Commission Decision of 18 April 2012 amending Decision 2004/452/EC laying down a list of bodies whose researchers may access confidential data for scientific purposes. Confidential statistical data are provided on an electronic medium or a remote desktop, in a manner that does not enable the direct identification of the respondent. Strict protocols apply to external users accessing statistical microdata for research purposes.	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	For free at the statistical portal, and open data site under condition to mention the data source.	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	memorandum of understanding (MoU) - Selected Micro Data	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	For free and we do not have any licensing agreement or terms of use per se.	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	www.microdata.no	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	x	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	On the online data on free accessible.	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	accès gratuit et libre pour les statistiques et les microdonnées anonymisées en ligne	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	By negotiation	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	According to the data dissemination policy	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Free of charge and so far no registration necessary (will change soon)	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Aggregated official statistics and publicly available anonymised microdata are available free of charge and without pre-registration.	1	1.08
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	data warehouse available online, user can access without registration	1	1.08

@@ -1,0 +1,36 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	0	1	In project: methodology of evaluation of administrative records	checking and processing administrative data for  statistical purposes	unfortunately the actions are not very effective	NA
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R01	Cooperation with custodians of administrative data at the stage of design/modernization of information systems	Africa	4.3	13.98				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R01	Cooperation with custodians of administrative data at the stage of design/modernization of information systems	Americas	4.3	9.68				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R01	Cooperation with custodians of administrative data at the stage of design/modernization of information systems	Asia	2.15	23.66				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R01	Cooperation with custodians of administrative data at the stage of design/modernization of information systems	Europe	4.3	33.33				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R01	Cooperation with custodians of administrative data at the stage of design/modernization of information systems	Oceania		4.3				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R02	Providing advice to the custodians of administrative data for amending the composition of data and classification	Africa	6.45	11.83				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R02	Providing advice to the custodians of administrative data for amending the composition of data and classification	Americas	3.23	10.75				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R02	Providing advice to the custodians of administrative data for amending the composition of data and classification	Asia	2.15	23.66				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R02	Providing advice to the custodians of administrative data for amending the composition of data and classification	Europe	7.53	30.11				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R02	Providing advice to the custodians of administrative data for amending the composition of data and classification	Oceania	1.08	3.23				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R03	Training personnel of the custodians of administrative data	Africa	8.6	9.68				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R03	Training personnel of the custodians of administrative data	Americas	6.45	7.53				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R03	Training personnel of the custodians of administrative data	Asia	9.68	16.13				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R03	Training personnel of the custodians of administrative data	Europe	30.11	7.53				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R03	Training personnel of the custodians of administrative data	Oceania		4.3				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R04	Feedback with custodians of administrative data when errors are found	Africa	4.3	13.98				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R04	Feedback with custodians of administrative data when errors are found	Americas	3.23	10.75				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R04	Feedback with custodians of administrative data when errors are found	Asia	10.75	15.05				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R04	Feedback with custodians of administrative data when errors are found	Europe	9.68	27.96				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R04	Feedback with custodians of administrative data when errors are found	Oceania		4.3				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R05	None of the above	Africa	18.28					
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R05	None of the above	Americas	12.9	1.08				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R05	None of the above	Asia	24.73	1.08				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R05	None of the above	Europe	37.63					
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R05	None of the above	Oceania	4.3					
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R06	Other	Africa	18.28					
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R06	Other	Americas	12.9	1.08				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R06	Other	Asia	24.73	1.08				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R06	Other	Europe	36.56	1.08				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R06	Other	Oceania	4.3					
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R07	Other (detail)	Africa						18.28
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R07	Other (detail)	Americas			1.08			12.9
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R07	Other (detail)	Asia				1.08		24.73
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R07	Other (detail)	Europe					1.08	36.56
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R07	Other (detail)	Oceania						4.3

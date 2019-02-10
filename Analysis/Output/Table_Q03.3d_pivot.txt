@@ -1,0 +1,5 @@
+QuestionID	QuestionText	BlockID	BlockText	0	1
+Q03.3d	Types of manuals and protocols made available with published data	R01	Protocols for access to anonymized microdata	72.04	27.96
+Q03.3d	Types of manuals and protocols made available with published data	R02	Rules and guidelines for revisions and errors	67.74	32.26
+Q03.3d	Types of manuals and protocols made available with published data	R03	Manuals on data collection, editing, processing, analysis, visualization, etc.	63.44	36.56
+Q03.3d	Types of manuals and protocols made available with published data	R04	Manuals on concepts and definitions	60.22	39.78

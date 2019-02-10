@@ -1,0 +1,20 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	1	80	86.02
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	0	13	13.98
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	1	39	41.94
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	0	54	58.06
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	0	81	87.1
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	1	12	12.9
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)		81	87.1
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Chief of Cabinet of Ministers	1	1.08
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Department Head Meetings and regular engagement	1	1.08
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Rèunions avec la tutelle ministérielle	1	1.08
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Réunion du Conseil de Cabinet Ministériel de tutelle	1	1.08
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	The President of the HCSO participates as a permanent invitee at the meeting of the forum preparing the meeting of the Government and shall be invited to the item on the agenda of the meeting of the Government that concerns the tasks of the HCSO	1	1.08
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Access to key ministerial professional staff	1	1.08
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Any types of communication (letters, e-mails, telephone, face to face meetings etc)	1	1.08
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Dialouge meetings through ministries	1	1.08
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	weekly attendance at the regular Government meetings	1	1.08
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	The Director-General of SURS is a member of the Economic Committee of the Government.	1	1.08
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Meeting with ministry	1	1.08
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	varies, depending on the situation	1	1.08

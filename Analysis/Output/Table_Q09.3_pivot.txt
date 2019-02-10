@@ -1,0 +1,6 @@
+QuestionID	QuestionText	BlockID	BlockText	0	1
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R01	For the dissemination of time-use statistics, regardless of the type of instruments used for data collection	81.72	18.28
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R02	To guide the collection of time-use data 	80.65	19.35
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R03	As the basis for national classifications of activities for time-use statistics	86.02	13.98
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R04	None of the above	64.52	35.48
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)	R05	Time use is not compiled	64.52	35.48

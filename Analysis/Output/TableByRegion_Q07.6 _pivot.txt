@@ -1,0 +1,6 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	NSO does not have a website	No	Yes
+Q07.6 	Regulations affect the functioning of the NSOs published on the website	R01		Africa		4.3	13.98
+Q07.6 	Regulations affect the functioning of the NSOs published on the website	R01		Americas		5.38	8.6
+Q07.6 	Regulations affect the functioning of the NSOs published on the website	R01		Asia		6.45	19.35
+Q07.6 	Regulations affect the functioning of the NSOs published on the website	R01		Europe	1.08	3.23	33.33
+Q07.6 	Regulations affect the functioning of the NSOs published on the website	R01		Oceania		1.08	3.23

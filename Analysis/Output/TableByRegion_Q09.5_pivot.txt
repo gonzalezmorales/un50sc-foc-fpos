@@ -1,0 +1,6 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	Do not know	No	Partially, only in some statistical domains or data sets	Yes
+Q09.5	SDMX currently in use	R01		Africa	1.08	7.53	7.53	2.15
+Q09.5	SDMX currently in use	R01		Americas	1.08	2.15	6.45	4.3
+Q09.5	SDMX currently in use	R01		Asia		13.98	7.53	4.3
+Q09.5	SDMX currently in use	R01		Europe		2.15	11.83	23.66
+Q09.5	SDMX currently in use	R01		Oceania		1.08	1.08	2.15

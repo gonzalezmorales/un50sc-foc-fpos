@@ -1,5 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01			90	97
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		Have to seek appointment	1	1
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		It is not INE's mission in the country's political decisions but rather to contribute through the provision of data	1	1
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		to avoid statistic data adjustment	1	1

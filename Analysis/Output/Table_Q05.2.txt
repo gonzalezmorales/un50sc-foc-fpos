@@ -1,0 +1,21 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R01	Monitoring the timeliness of publications against the release calendar	1	83	89.25
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R01	Monitoring the timeliness of publications against the release calendar	0	10	10.75
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R02	Using new technologies for reducing processing times	1	73	78.49
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R02	Using new technologies for reducing processing times	0	20	21.51
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R03	Improving or changing methodologies, such as flash estimates	1	46	49.46
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R03	Improving or changing methodologies, such as flash estimates	0	47	50.54
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R04	Meeting with data providers to agree on deadlines	1	61	65.59
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R04	Meeting with data providers to agree on deadlines	0	32	34.41
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R05	Releasing preliminary data to users	0	38	40.86
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R05	Releasing preliminary data to users	1	55	59.14
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R06	Using standardized dissemination protocols, such as Special Data Dissemination Standard	0	37	39.78
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R06	Using standardized dissemination protocols, such as Special Data Dissemination Standard	1	56	60.22
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R07	Using staff overtime or hiring temporary staff	0	40	43.01
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R07	Using staff overtime or hiring temporary staff	1	53	56.99
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R08	None of the above	0	93	100
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R09	Other	0	91	97.85
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R09	Other	1	2	2.15
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R10	Other (detail)		91	97.85
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R10	Other (detail)	Official statistics dissemination policy is defined (https://www.stat.gov.lt/en/oficialiosios-statistikos-sklaidos-politika).  GSBPM is being implemented to improve the efficiency of organization and implementation of the processes; time used for different statistical processes is regularly monitored to find the potential to increase the efficiency of the processes; all statistical data editing rules/algorithms used in data entry programs have been revised.  Other measures, such as rearrangement of statistical surveys and sooner provision of the statistical results to the users; modernisation of business processes and organisational structure and increasing the effectiveness of statistical information production and dissemination are laid down in the new Strategy 2018-2022 of Statistics Lithuania (https://osp.stat.gov.lt/documents/29256/1366419/STRATEGY_2018_2022.pdf/d602dffa-d8ba-4100-be7a-d32c454cbc6a)	1	1.08
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R10	Other (detail)	Also the release of the key highlights before the entire report	1	1.08

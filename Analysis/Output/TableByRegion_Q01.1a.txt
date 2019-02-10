@@ -1,0 +1,49 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q01.1a	Mandate of user council or organized user group	R01	Strategic advice on statistical policy and priorities	1	Europe	21	22.58
+Q01.1a	Mandate of user council or organized user group	R01	Strategic advice on statistical policy and priorities	0	Africa	13	13.98
+Q01.1a	Mandate of user council or organized user group	R01	Strategic advice on statistical policy and priorities	0	Americas	9	9.68
+Q01.1a	Mandate of user council or organized user group	R01	Strategic advice on statistical policy and priorities	1	Oceania	1	1.08
+Q01.1a	Mandate of user council or organized user group	R01	Strategic advice on statistical policy and priorities	0	Europe	14	15.05
+Q01.1a	Mandate of user council or organized user group	R01	Strategic advice on statistical policy and priorities	0	Asia	12	12.9
+Q01.1a	Mandate of user council or organized user group	R01	Strategic advice on statistical policy and priorities	1	Americas	4	4.3
+Q01.1a	Mandate of user council or organized user group	R01	Strategic advice on statistical policy and priorities	1	Asia	12	12.9
+Q01.1a	Mandate of user council or organized user group	R01	Strategic advice on statistical policy and priorities	1	Africa	4	4.3
+Q01.1a	Mandate of user council or organized user group	R01	Strategic advice on statistical policy and priorities	0	Oceania	3	3.23
+Q01.1a	Mandate of user council or organized user group	R02	Technical advice, in general or on specific statistical programmes and topics	0	Europe	20	21.51
+Q01.1a	Mandate of user council or organized user group	R02	Technical advice, in general or on specific statistical programmes and topics	0	Africa	13	13.98
+Q01.1a	Mandate of user council or organized user group	R02	Technical advice, in general or on specific statistical programmes and topics	0	Americas	10	10.75
+Q01.1a	Mandate of user council or organized user group	R02	Technical advice, in general or on specific statistical programmes and topics	1	Oceania	2	2.15
+Q01.1a	Mandate of user council or organized user group	R02	Technical advice, in general or on specific statistical programmes and topics	1	Europe	15	16.13
+Q01.1a	Mandate of user council or organized user group	R02	Technical advice, in general or on specific statistical programmes and topics	0	Asia	14	15.05
+Q01.1a	Mandate of user council or organized user group	R02	Technical advice, in general or on specific statistical programmes and topics	1	Africa	4	4.3
+Q01.1a	Mandate of user council or organized user group	R02	Technical advice, in general or on specific statistical programmes and topics	1	Americas	3	3.23
+Q01.1a	Mandate of user council or organized user group	R02	Technical advice, in general or on specific statistical programmes and topics	1	Asia	10	10.75
+Q01.1a	Mandate of user council or organized user group	R02	Technical advice, in general or on specific statistical programmes and topics	0	Oceania	2	2.15
+Q01.1a	Mandate of user council or organized user group	R03	Coordination of statistical activities	0	Europe	20	21.51
+Q01.1a	Mandate of user council or organized user group	R03	Coordination of statistical activities	0	Africa	11	11.83
+Q01.1a	Mandate of user council or organized user group	R03	Coordination of statistical activities	0	Americas	9	9.68
+Q01.1a	Mandate of user council or organized user group	R03	Coordination of statistical activities	1	Oceania	1	1.08
+Q01.1a	Mandate of user council or organized user group	R03	Coordination of statistical activities	1	Europe	15	16.13
+Q01.1a	Mandate of user council or organized user group	R03	Coordination of statistical activities	0	Asia	13	13.98
+Q01.1a	Mandate of user council or organized user group	R03	Coordination of statistical activities	1	Africa	6	6.45
+Q01.1a	Mandate of user council or organized user group	R03	Coordination of statistical activities	1	Asia	11	11.83
+Q01.1a	Mandate of user council or organized user group	R03	Coordination of statistical activities	1	Americas	4	4.3
+Q01.1a	Mandate of user council or organized user group	R03	Coordination of statistical activities	0	Oceania	3	3.23
+Q01.1a	Mandate of user council or organized user group	R04	Other	0	Europe	32	34.41
+Q01.1a	Mandate of user council or organized user group	R04	Other	0	Africa	16	17.2
+Q01.1a	Mandate of user council or organized user group	R04	Other	0	Americas	12	12.9
+Q01.1a	Mandate of user council or organized user group	R04	Other	0	Oceania	4	4.3
+Q01.1a	Mandate of user council or organized user group	R04	Other	0	Asia	24	25.81
+Q01.1a	Mandate of user council or organized user group	R04	Other	1	Europe	3	3.23
+Q01.1a	Mandate of user council or organized user group	R04	Other	1	Africa	1	1.08
+Q01.1a	Mandate of user council or organized user group	R04	Other	1	Americas	1	1.08
+Q01.1a	Mandate of user council or organized user group	R05	Other (detail)		Europe	32	34.41
+Q01.1a	Mandate of user council or organized user group	R05	Other (detail)		Africa	16	17.2
+Q01.1a	Mandate of user council or organized user group	R05	Other (detail)		Americas	12	12.9
+Q01.1a	Mandate of user council or organized user group	R05	Other (detail)		Oceania	4	4.3
+Q01.1a	Mandate of user council or organized user group	R05	Other (detail)		Asia	24	25.81
+Q01.1a	Mandate of user council or organized user group	R05	Other (detail)	we have both user groups and Statistical Council, council deals with stategic advice and a bit of coordination, while user groupps give tehnical advice on specific statistical areas	Europe	1	1.08
+Q01.1a	Mandate of user council or organized user group	R05	Other (detail)	One of the functions of the Rosstat Public Council is the consideration of Rosstat's plans for activities.	Europe	1	1.08
+Q01.1a	Mandate of user council or organized user group	R05	Other (detail)	Comité de pilotage d'enquàªte	Africa	1	1.08
+Q01.1a	Mandate of user council or organized user group	R05	Other (detail)	SURS established statistical advisory committees for individual fields of national statistics. They have a long tradition in the national statistics in Slovenia; they were established in the 1980s and were formally introduced in 1995 with the Decree on the Establishment of Statistical Advisory Committees on the basis of Article 15 of the National Statistics Act. Statistical advisory committees have a significant impact on the development of national statistics in Slovenia at expert level and in cooperation of institutions in common efforts to provide quality, timely and relevant statistics.  Rules of procedures: https://www.stat.si/dokument/5184/StatisticalAdvisoryCommittees_RulesofProcedure_EN.pdf List of statistical advisory committees: Administrative Data Sources Advisory Committee, National Accounts and Financial and Monetary Statistics Advisory Committee, Regional Statistics Advisory Committee, Price Statistics Advisory Committee, Labour Statistics Advisory Committee, Energy Statistics Advisory Committee, Construction Statistics Advisory Committee, Industry and Mining Statistics Advisory Committee, Information Society Statistics Advisory Committee, Education and Training Statistics Advisory Committee, Agriculture, Forestry and Fisheries Statistics Advisory Committee, Crime Statistics Advisory Committee, Culture Statistics Advisory Committee, Natural Resources and Environment Statistics Advisory Committee, Real Estate Statistics Advisory Committee, Domestic Trade and Services Statistics Advisory Committee, Population Statistics Advisory Committee, Research and Development, and Technology Statistics Advisory Committee, Transport Statistics Advisory Committee, Tourism Statistics Advisory Committee, External Trade Statistics Advisory Committee, Health Advisory Committee, Standard of Living and Social Protection Statistics Advisory Committee, Business Statistics Advisory Committee	Europe	1	1.08
+Q01.1a	Mandate of user council or organized user group	R05	Other (detail)	Various Advisory Committees from public, private, nonprofit and academia stakeholders	Americas	1	1.08

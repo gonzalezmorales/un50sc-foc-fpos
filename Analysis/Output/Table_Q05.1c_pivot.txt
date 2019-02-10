@@ -1,0 +1,6 @@
+QuestionID	QuestionText	BlockID	BlockText	0	1
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R01	The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	77.42	22.58
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R02	The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	70.97	29.03
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R03	The NSS has a contract with the data provider	74.19	25.81
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R04	Consumers/citizens are informed that their data is being used for compiling official statistics	79.57	20.43
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R05	There are specific rules of access and confidentiality measures to treat these datasets	62.37	37.63

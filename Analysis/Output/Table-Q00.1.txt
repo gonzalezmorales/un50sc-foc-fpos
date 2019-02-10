@@ -1,5 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q00.1	Answering on behalf of	R01		National Statistical System (NSS)	11	12
-Q00.1	Answering on behalf of	R01		National Statistical Office (NSO)	80	86
-Q00.1	Answering on behalf of	R01		Both NSO & NSS	1	1
-Q00.1	Answering on behalf of	R01		Senior Statistician	1	1

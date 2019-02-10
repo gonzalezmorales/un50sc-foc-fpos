@@ -1,0 +1,6 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	0	1	2	10	15	20	30	37	45	50	60	65	70	80	90	95	103	110	120	138	180	210	240	300	307	360	480	540	600	630	1200	1920	5760	NA
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		Africa						1.08	1.08				2.15				2.15		1.08		1.08	1.08	1.08					1.08		1.08					1.08	4.3
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		Americas				1.08		1.08					1.08				1.08			1.08	2.15		2.15			1.08	1.08				1.08					1.08
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		Asia		1.08						1.08	1.08	1.08		1.08	1.08	1.08					4.3		2.15		1.08	3.23		1.08	2.15							4.3
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		Europe	1.08		1.08		1.08		2.15		2.15	1.08	4.3			1.08		1.08			2.15		1.08	1.08	4.3						1.08	1.08	1.08	1.08		9.68
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		Oceania											1.08												1.08	1.08										1.08

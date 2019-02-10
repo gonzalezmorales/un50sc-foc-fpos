@@ -1,0 +1,20 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	1	28	30.11
+Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	0	65	69.89
+Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	1	7	7.53
+Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	0	86	92.47
+Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	0	75	80.65
+Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	1	18	19.35
+Q08.4	How is dissemination coordinated across the NSS	R04	Other	0	85	91.4
+Q08.4	How is dissemination coordinated across the NSS	R04	Other	1	8	8.6
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)		85	91.4
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	coordination is implemented indirectly through the principles of the Code of Practice;	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	Research Data Centres of official statistrics, coordinated between the Federal Statistical Office and the Research Data Centre of the Statistical Offices of the Federal States.	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	Dissemination  calendar is at NSO level  only.	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	meeting, trainning	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	ARC under DOSM	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	There is no coordinated dissemination portal	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	Key statistics are released in Yearbook of Statistics and Economic Survey of Singapore	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	Data dissemination is dictated by the producing agencies.	1	1.08
+Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	0	51	54.84
+Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	1	42	45.16

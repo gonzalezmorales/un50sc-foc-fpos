@@ -1,3 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q10.4	The NSO participates in or contributes to organizations or partnerships whose purpose is to promote open data	R01		No	37	40
-Q10.4	The NSO participates in or contributes to organizations or partnerships whose purpose is to promote open data	R01		Yes	56	60

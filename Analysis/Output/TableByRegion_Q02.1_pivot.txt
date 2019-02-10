@@ -1,0 +1,6 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	No	Yes	NA
+Q02.1	Chief statistician has direct access to policy-making authorities	R01		Africa	1.08	17.2	
+Q02.1	Chief statistician has direct access to policy-making authorities	R01		Americas		13.98	
+Q02.1	Chief statistician has direct access to policy-making authorities	R01		Asia	2.15	23.66	
+Q02.1	Chief statistician has direct access to policy-making authorities	R01		Europe		35.48	2.15
+Q02.1	Chief statistician has direct access to policy-making authorities	R01		Oceania		4.3	

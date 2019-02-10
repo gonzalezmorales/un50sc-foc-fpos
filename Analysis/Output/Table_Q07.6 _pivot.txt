@@ -1,0 +1,2 @@
+QuestionID	QuestionText	BlockID	BlockText	NSO does not have a website	No	Yes
+Q07.6 	Regulations affect the functioning of the NSOs published on the website	R01		1.08	20.43	78.49

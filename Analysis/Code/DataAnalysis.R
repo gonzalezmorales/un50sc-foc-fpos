@@ -53,7 +53,7 @@ questions <- unique(columns[substr(QuestionID, 1, 1) != "X",list(QuestionID, Que
 
 response.keys <- dcast(columns[substr(QuestionID, 1, 1) != "X",], QuestionID + QuestionText ~ ResponseID, value.var = "MultipleChoiceText")
 
-writeTable2tab( response.keys , "Output/Response-keys.txt" )
+writeTable2tab( response.keys , "Output/Response_keys.txt" )
 
 #------------------------------
   
@@ -81,7 +81,7 @@ for(i in 1:nrow(questions))
                 response.labels))
   
   writeTable2tab( question.responses,
-                  paste("Output/Responses-", questions[i,QuestionID], ".txt", sep="") )
+                  paste("Output/Responses_", questions[i,QuestionID], ".txt", sep="") )
   
   
 }
@@ -105,7 +105,7 @@ rm(list = c("questions",
 #-----------------------------
 
 TX.RespondentsByRegion <- respondents[, .(.N), , by = .(RegionName)]
-TX.RespondentsByRegion[, Percentage := round(N/nrow(respondents)*100,0)]
+TX.RespondentsByRegion[, Percentage := round(N/nrow(respondents)*100,2)]
 TX.RespondentsByRegion[, Table := "Respondents by region"]
 
 TX.RespondentsByRegion<- TX.RespondentsByRegion[order(-rank(N)),
@@ -136,16 +136,16 @@ svg(filename="PlotTX.RespondentsByRegion.svg", width=6, height=4)
     
 dev.off()
 
-#=============================
-
-# T0.1 - Respondents answering on behalf or NSO
+#==================================
+# SUMMARY TABLES - Major aggregates
+#==================================
 
 for(q in 1:nrow(response.keys)){
   
   QuestionID <- response.keys[q, QuestionID]
   QuestionText <- response.keys[q,QuestionText]
   
-  responses <- read.tab2dataTable(paste("Output/Responses-",QuestionID,".txt",sep=""))
+  responses <- read.tab2dataTable(paste("Output/Responses_",QuestionID,".txt",sep=""))
   
   response.columns <- names(responses[,-(1:16),with = FALSE])
   
@@ -154,7 +154,7 @@ for(q in 1:nrow(response.keys)){
       response.labels <- QuestionText
       
       summary <- responses[, .(.N), by = R01]
-      summary[, Percentage := round(N/nrow(responses)*100,0)]
+      summary[, Percentage := round(N/nrow(responses)*100,2)]
   
       summary <- cbind(QuestionID, QuestionText, eval(response.columns[1]), "", summary)
       setnames(summary, "V3", "BlockID")
@@ -167,7 +167,7 @@ for(q in 1:nrow(response.keys)){
       response.labels <- unlist(response.keys[q, response.columns, with = FALSE])
       
       summary <- responses[, .(.N), by = eval(response.columns[1])]
-      summary[, Percentage := round(N/nrow(responses)*100,0)]
+      summary[, Percentage := round(N/nrow(responses)*100,2)]
       
       summary <- cbind(QuestionID, QuestionText, eval(response.columns[1]), response.labels[1], summary)
   
@@ -178,7 +178,7 @@ for(q in 1:nrow(response.keys)){
       for (i in 2:length(response.columns))
       {
         summary.b <- responses[, .(.N), by = eval(response.columns[i])]
-        summary.b[, Percentage := round(N/nrow(responses)*100,0)]
+        summary.b[, Percentage := round(N/nrow(responses)*100,2)]
        
         summary.b <- cbind(QuestionID, QuestionText, eval(response.columns[i]), response.labels[i], summary.b)
         
@@ -195,7 +195,7 @@ for(q in 1:nrow(response.keys)){
       
     }
   
-  table.name <- paste("Table-",QuestionID, sep="")
+  table.name <- paste("Table_",QuestionID, sep="")
   
   assign(table.name, summary)
   
@@ -205,147 +205,91 @@ for(q in 1:nrow(response.keys)){
 }
 
 
+#==================================
+# SUMMARY TABLES - By region
+#==================================
 
-#=============================
-
-# T0.2 - Awareness of existence UNFPOS
-
-T0.1.AwarenessUNFPOS.a <- responses[, .(.N), , by = .(C10)]
-setnames(T0.1.AwarenessUNFPOS.a, "C10", "AwarenessUNFPOS")
-T0.1.AwarenessUNFPOS.a[, Percentage := round(N/nrow(responses)*100,0)]
-setnames(T0.1.AwarenessUNFPOS.a, "N", "N.ChiefStatistician_NSO")
-setnames(T0.1.AwarenessUNFPOS.a, "Percentage", "Percentage.ChiefStatistician_NSO")
-
-
-T0.1.AwarenessUNFPOS.b <- responses[, .(.N), , by = .(C11)]
-setnames(T0.1.AwarenessUNFPOS.b, "C11", "AwarenessUNFPOS")
-T0.1.AwarenessUNFPOS.b[, Percentage := round(N/nrow(responses)*100,0)]
-setnames(T0.1.AwarenessUNFPOS.b, "N", "N.HeadsOrSeniorManagersNSS")
-setnames(T0.1.AwarenessUNFPOS.b, "Percentage", "Percentage.HeadsOrSeniorManagersNSS")
-
-
-T0.1.AwarenessUNFPOS.c <- responses[, .(.N), , by = .(C12)]
-setnames(T0.1.AwarenessUNFPOS.c, "C12", "AwarenessUNFPOS")
-T0.1.AwarenessUNFPOS.c[, Percentage := round(N/nrow(responses)*100,0)]
-setnames(T0.1.AwarenessUNFPOS.c, "N", "N.MinistryOrDepartmentAboveNSO")
-setnames(T0.1.AwarenessUNFPOS.c, "Percentage", "Percentage.MinistryOrDepartmentAboveNSO")
-
-
-
-T0.1.AwarenessUNFPOS <-  merge(merge(T0.1.AwarenessUNFPOS.a,
-              T0.1.AwarenessUNFPOS.b, by = "AwarenessUNFPOS", all = TRUE),
-        T0.1.AwarenessUNFPOS.c, by = "AwarenessUNFPOS", all = TRUE)
-
-rm(list = c("T0.1.AwarenessUNFPOS.a","T0.1.AwarenessUNFPOS.b", "T0.1.AwarenessUNFPOS.c"))
-
-x1 <- unlist(T0.1.AwarenessUNFPOS[AwarenessUNFPOS=="Yes",
-                            list(Percentage.ChiefStatistician_NSO,
-                                 Percentage.HeadsOrSeniorManagersNSS,
-                                 Percentage.MinistryOrDepartmentAboveNSO)])
-x2 <- unlist(T0.1.AwarenessUNFPOS[AwarenessUNFPOS=="N/A",
-                                  list(Percentage.ChiefStatistician_NSO,
-                                       Percentage.HeadsOrSeniorManagersNSS,
-                                       Percentage.MinistryOrDepartmentAboveNSO)])
-
-x3 <- unlist(T0.1.AwarenessUNFPOS[AwarenessUNFPOS=="No",
-                                  list(Percentage.ChiefStatistician_NSO,
-                                       Percentage.HeadsOrSeniorManagersNSS,
-                                       Percentage.MinistryOrDepartmentAboveNSO)])
-
-x <- t(cbind(x1,x2,x3))
-row.names(x) <- c("Aware", "N/A", "Not aware")
-
-svg(filename="PlotT0.1.AwarenessUNFPOS.svg", 
-    width=6.5, 
-    height=3)
-
-  par(mar=c(2,5,1,1), mgp=c(3, 1,0))
-  barplot(x,
-          xlim = c(0,ncol(x) + 1.82),
-          names.arg = c("Chief Statistician\n/ NSO", 
-                        "Heads or Senior \nManagers of NSS",
-                        "Ministry or Deptartment\nto which NSO reports"),
-          ylab = "Percent",
-          col =  brewer.pal(3,"Blues")[3:1],
-          border = NA,
-          cex.names = 0.7,
-          legend = rownames(x),
-          args.legend = list(bty = "n", cex = 0.8)
-          )
+for(q in 1:nrow(response.keys)){
   
-dev.off()
+  QuestionID <- response.keys[q, QuestionID]
+  QuestionText <- response.keys[q,QuestionText]
   
+  responses <- read.tab2dataTable(paste("Output/Responses_",QuestionID,".txt",sep=""))
+  
+  response.columns <- names(responses[,-(1:16),with = FALSE])
+  
+  if(length(response.columns) == 1){
+    
+    response.labels <- QuestionText
+    
+    summary <- responses[, .(.N), by = list(R01, RegionName)]
+    summary[, Percentage := round(N/nrow(responses)*100,2)]
+    
+    summary <- cbind(QuestionID, QuestionText, eval(response.columns[1]), "", summary)
+    setnames(summary, "V3", "BlockID")
+    setnames(summary, "V4", "BlockText")
+    
+    setnames(summary, eval(response.columns[1]), "Answer")
+    
+  } else {
+    
+    response.labels <- unlist(response.keys[q, response.columns, with = FALSE])
+    
+    summary <- responses[, .(.N), by = eval(c(response.columns[1], "RegionName"))]
+    summary[, Percentage := round(N/nrow(responses)*100,2)]
+    
+    summary <- cbind(QuestionID, QuestionText, eval(response.columns[1]), response.labels[1], summary)
+    
+    setnames(summary, "V3", "BlockID")
+    setnames(summary, "V4", "BlockText")
+    setnames(summary, eval(response.columns[1]), "Answer")
+    
+    for (i in 2:length(response.columns))
+    {
+      summary.b <- responses[, .(.N), by =  eval(c(response.columns[i], "RegionName"))]
+      summary.b[, Percentage := round(N/nrow(responses)*100,2)]
+      
+      summary.b <- cbind(QuestionID, QuestionText, eval(response.columns[i]), response.labels[i], summary.b)
+      
+      setnames(summary.b, "V3", "BlockID")
+      setnames(summary.b, "V4", "BlockText")
+      setnames(summary.b, eval(response.columns[i]), "Answer")
+      
+      summary <- rbind(summary, summary.b)
+      
+    }
+    
+    
+    rm(list = c("summary.b"))
+    
+  }
+  
+  table.name <- paste("TableByRegion_",QuestionID, sep="")
+  
+  assign(table.name, summary)
+  
+  writeTable2tab(get(table.name),paste("Output/",table.name,".txt", sep = ""))
+  
+  
+}
 
-#=============================
+#==================================
+# SUMMARY TABLES - Pivot tables
+#==================================
 
-# T0.2 - Awareness of existence UNFPOS
+for(q in 1:nrow(response.keys)){
+  
+  
+  QuestionID <- response.keys[q, QuestionID]
+  
+  table.name <- paste("Table_",QuestionID, sep="")
+  table.name.ByRegion <- paste("TableByRegion_",QuestionID, sep="")
+  
+  x <- dcast(get(table.name), QuestionID + QuestionText + BlockID + BlockText ~ Answer, value.var = "Percentage")
+  x.Region <- dcast(get(table.name.ByRegion), QuestionID + QuestionText + BlockID + BlockText + RegionName~ Answer, value.var = "Percentage")
 
+  writeTable2tab(x , paste("Output/", table.name, "_pivot.txt" , sep = ""))
+  writeTable2tab(x.Region , paste("Output/", table.name.ByRegion, "_pivot.txt", sep = ""))
 
-T0.2.UserFeedback.a <- responses[, .(.N/nrow(responses)*100),  by = .(C20)]
-setnames(T0.2.UserFeedback.a, "C20", "Response")
-setnames(T0.2.UserFeedback.a, "V1", "UserCouncilOrGroup")
+}
 
-T0.2.UserFeedback.b <- responses[, .(.N/nrow(responses)*100),  by = .(C21)]
-setnames(T0.2.UserFeedback.b, "C21", "Response")
-setnames(T0.2.UserFeedback.b, "V1", "UserSatisfactionSurvey")
-
-T0.2.UserFeedback.c <- responses[, .(.N/nrow(responses)*100),  by = .(C22)]
-setnames(T0.2.UserFeedback.c, "C22", "Response")
-setnames(T0.2.UserFeedback.c, "V1", "IndependentReview")
-
-T0.2.UserFeedback.d <- responses[, .(.N/nrow(responses)*100),  by = .(C23)]
-setnames(T0.2.UserFeedback.d, "C23", "Response")
-setnames(T0.2.UserFeedback.d, "V1", "UserWorkshops")
-
-T0.2.UserFeedback.e <- responses[, .(.N/nrow(responses)*100),  by = .(C24)]
-setnames(T0.2.UserFeedback.e, "C24", "Response")
-setnames(T0.2.UserFeedback.e, "V1", "WebsiteTrafficAnalysis")
-
-T0.2.UserFeedback.f <- responses[, .(.N/nrow(responses)*100),  by = .(C25)]
-setnames(T0.2.UserFeedback.f, "C25", "Response")
-setnames(T0.2.UserFeedback.f, "V1", "None")
-
-T0.2.UserFeedback.g <- responses[, .(.N/nrow(responses)*100),  by = .(C26)]
-setnames(T0.2.UserFeedback.g, "C26", "Response")
-setnames(T0.2.UserFeedback.g, "V1", "Unknown")
-
-T0.2.UserFeedback.h <- responses[!is.na(C27), .(.N/nrow(responses)*100)]
-T0.2.UserFeedback.h[,Response:=1]
-setnames(T0.2.UserFeedback.h, "V1", "Other")
-
-
-
-T0.2.UserFeedback <-  merge(merge(merge(merge(merge(merge(merge(
-                                  T0.2.UserFeedback.a,
-                                  T0.2.UserFeedback.b, by = "Response", all = TRUE),
-                                  T0.2.UserFeedback.c, by = "Response", all = TRUE),
-                                  T0.2.UserFeedback.d, by = "Response", all = TRUE),
-                                  T0.2.UserFeedback.e, by = "Response", all = TRUE),
-                                  T0.2.UserFeedback.f, by = "Response", all = TRUE),
-                                  T0.2.UserFeedback.g, by = "Response", all = TRUE),
-                                  T0.2.UserFeedback.h, by = "Response", all = TRUE)
-
-x <- sort(unlist(T0.2.UserFeedback[Response==1, list(UserCouncilOrGroup,
-                                    UserSatisfactionSurvey,
-                                    IndependentReview,
-                                    UserWorkshops,
-                                    WebsiteTrafficAnalysis,
-                                    Other)]), decreasing = TRUE)
-
-
-
-svg(filename="PlotT0.2.UserFeedback.svg", 
-    width=6.5, 
-    height=4)
-
-par(mar=c(3,6,1,1))
-barplot(x,
-        names.arg = names(x),
-        xlab = "Percent",
-        col =  brewer.pal(3,"Blues")[3],
-        border = NA,
-        horiz = TRUE,
-        cex.names = 0.7
-        
-)
-dev.off()

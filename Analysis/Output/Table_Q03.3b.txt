@@ -1,0 +1,25 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	1	73	78.49
+Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	0	20	21.51
+Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	1	74	79.57
+Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	0	19	20.43
+Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	1	73	78.49
+Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	0	20	21.51
+Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	1	71	76.34
+Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	0	22	23.66
+Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	1	49	52.69
+Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	0	44	47.31
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	0	83	89.25
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	1	10	10.75
+Q03.3b	Information included in explanatory texts that accompany published data	R08	Other (detail)		83	89.25
+Q03.3b	Information included in explanatory texts that accompany published data	R08	Other (detail)	Statistics Canada uses a variety of methods to ensure our users are well informed about quality.  Each statistical program must initially complete and keep up-to-date an accompanying metadata page prior to the release of data. Included on this page are all the options noted above.	1	1.08
+Q03.3b	Information included in explanatory texts that accompany published data	R08	Other (detail)	everything requested within ESS standard metadata structures: ESMS and ESQRS	1	1.08
+Q03.3b	Information included in explanatory texts that accompany published data	R08	Other (detail)	variable dictionary, forms	1	1.08
+Q03.3b	Information included in explanatory texts that accompany published data	R08	Other (detail)	Applied international codes such as COICOP and survey questionnaire	1	1.08
+Q03.3b	Information included in explanatory texts that accompany published data	R08	Other (detail)	All information defined by the ESS Single Integrated Metadata Structure (SIMS) are published to the users.	1	1.08
+Q03.3b	Information included in explanatory texts that accompany published data	R08	Other (detail)	surveys Questionnaires	1	1.08
+Q03.3b	Information included in explanatory texts that accompany published data	R08	Other (detail)	Table title, frequency, start period, end period, footnote, unit, data source, URL, formats for download, condition of use.	1	1.08
+Q03.3b	Information included in explanatory texts that accompany published data	R08	Other (detail)	ESMS (SDMX) structure	1	1.08
+Q03.3b	Information included in explanatory texts that accompany published data	R08	Other (detail)	data sources, accounting conventions	1	1.08
+Q03.3b	Information included in explanatory texts that accompany published data	R08	Other (detail)	Points of Contacts for the media and other datausers are usually provided	1	1.08
+Q03.3b	Information included in explanatory texts that accompany published data	R07	None Of The Above	0	93	100

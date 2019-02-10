@@ -1,0 +1,23 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q05.1	Sources of data currently used by the NSO	R01	Sample surveys	1	92	98.92
+Q05.1	Sources of data currently used by the NSO	R01	Sample surveys	0	1	1.08
+Q05.1	Sources of data currently used by the NSO	R02	Censuses	1	87	93.55
+Q05.1	Sources of data currently used by the NSO	R02	Censuses	0	6	6.45
+Q05.1	Sources of data currently used by the NSO	R03	Administrative data	1	91	97.85
+Q05.1	Sources of data currently used by the NSO	R03	Administrative data	0	2	2.15
+Q05.1	Sources of data currently used by the NSO	R04	Privately owned datasets (such as call detail records)	0	64	68.82
+Q05.1	Sources of data currently used by the NSO	R04	Privately owned datasets (such as call detail records)	1	29	31.18
+Q05.1	Sources of data currently used by the NSO	R05	Citizen generated data (from CSOs)	0	87	93.55
+Q05.1	Sources of data currently used by the NSO	R05	Citizen generated data (from CSOs)	1	6	6.45
+Q05.1	Sources of data currently used by the NSO	R06	Web scrapped data	0	58	62.37
+Q05.1	Sources of data currently used by the NSO	R06	Web scrapped data	1	35	37.63
+Q05.1	Sources of data currently used by the NSO	R07	Satellite imagery	0	66	70.97
+Q05.1	Sources of data currently used by the NSO	R07	Satellite imagery	1	27	29.03
+Q05.1	Sources of data currently used by the NSO	R08	Other	0	88	94.62
+Q05.1	Sources of data currently used by the NSO	R08	Other	1	5	5.38
+Q05.1	Sources of data currently used by the NSO	R09	Other (detail)		88	94.62
+Q05.1	Sources of data currently used by the NSO	R09	Other (detail)	data of exhaustive surveys	1	1.08
+Q05.1	Sources of data currently used by the NSO	R09	Other (detail)	Private sector financial records and production data	1	1.08
+Q05.1	Sources of data currently used by the NSO	R09	Other (detail)	GPS data collected during listing operations	1	1.08
+Q05.1	Sources of data currently used by the NSO	R09	Other (detail)	We make extensive use of geospatial data, primarily from the UK's national mapping agency.	1	1.08
+Q05.1	Sources of data currently used by the NSO	R09	Other (detail)	state and local government data, etc.	1	1.08

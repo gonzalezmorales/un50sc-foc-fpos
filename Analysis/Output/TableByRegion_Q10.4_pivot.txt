@@ -1,0 +1,6 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	No	Yes
+Q10.4	The NSO participates in or contributes to organizations or partnerships whose purpose is to promote open data	R01		Africa	6.45	11.83
+Q10.4	The NSO participates in or contributes to organizations or partnerships whose purpose is to promote open data	R01		Americas	4.3	9.68
+Q10.4	The NSO participates in or contributes to organizations or partnerships whose purpose is to promote open data	R01		Asia	12.9	12.9
+Q10.4	The NSO participates in or contributes to organizations or partnerships whose purpose is to promote open data	R01		Europe	15.05	22.58
+Q10.4	The NSO participates in or contributes to organizations or partnerships whose purpose is to promote open data	R01		Oceania	1.08	3.23

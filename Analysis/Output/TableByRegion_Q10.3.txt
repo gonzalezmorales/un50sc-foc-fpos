@@ -1,0 +1,15 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		Yes	Europe	9	9.68
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		No	Africa	7	7.53
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		No	Americas	6	6.45
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		N/A	Oceania	1	1.08
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		N/A	Europe	19	20.43
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		No	Asia	5	5.38
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		Yes	Africa	9	9.68
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		N/A	Americas	5	5.38
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		N/A	Asia	7	7.53
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		Yes	Americas	2	2.15
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		No	Europe	7	7.53
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		Yes	Asia	12	12.9
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		No	Oceania	3	3.23
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		N/A	Africa	1	1.08

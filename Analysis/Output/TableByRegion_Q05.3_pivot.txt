@@ -1,0 +1,41 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	0	1	ABS Data Quality Framework, IMF SDDS Framework	ASEAN Community Statistical System Code of Practice	ASPIRE (Stats Sweden adaptation)	CARICOM Good Statistical Practices and CARICOM  RSDS	EFQM, SDDS, GSBPM	European Statistics Code of Practice; National Statistics Code of Practice	Generally, referred to as	ISO 20252:2012	ISO 27001	ISO 27001 ongoing	ISO EN 27 001	Lean. But first and foremost European Code of Practice.	National Quality Assurance Framework (NQAF)	Quality Assurance Framework for the NSO	Quality framework based  on NQAF.	Quality guidelines of the office	SDDS	SGDD-a	Special Data Dissemination Standards (SDDS)	StatCan Quality Assurance Framework Guidelines	Statistical quality assurance framework	The NSO is planning a National Integral Statistical Quality Framework	There is no international quality framework implemented at NBS, yet, there are elements of quality management system in place.	TurkStat Quality  Assurance Framework	UN-National Quality Assurance Framework, EFQM-excellence model, ENP-COP.	US943 and US942	NA
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	Africa	6.45	11.83																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	Americas	7.53	6.45																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	Asia	12.9	12.9																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	Europe	31.18	6.45																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	Oceania	4.3																												
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	Africa	6.45	11.83																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	Americas	4.3	9.68																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	Asia	9.68	16.13																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	Europe	30.11	7.53																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	Oceania	3.23	1.08																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	Africa	17.2	1.08																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	Americas	11.83	2.15																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	Asia	18.28	7.53																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	Europe	5.38	32.26																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	Oceania	4.3																												
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	Africa	17.2	1.08																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	Americas	11.83	2.15																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	Asia	20.43	5.38																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	Europe	23.66	13.98																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	Oceania	4.3																												
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	Africa	18.28																												
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	Americas	11.83	2.15																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	Asia	20.43	5.38																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	Europe	32.26	5.38																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	Oceania	4.3																												
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	Africa	2.15	16.13																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	Americas		13.98																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	Asia	1.08	24.73																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	Europe	1.08	36.56																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	Oceania		4.3																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	Africa	16.13	2.15																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	Americas	12.9	1.08																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	Asia	24.73	1.08																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	Europe	37.63																												
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	Oceania	2.15	2.15																											
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	Africa																				1.08								1.08	16.13
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	Americas						1.08			1.08							1.08						1.08	1.08	1.08					7.53
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	Asia				1.08											1.08		1.08		1.08		1.08					1.08	1.08		18.28
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	Europe							1.08	1.08		1.08	1.08	1.08	1.08	1.08				1.08							1.08				27.96
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	Oceania			1.08		1.08																								2.15

@@ -1,0 +1,26 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R01	Qualifications	1	64	68.82
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R01	Qualifications	0	29	31.18
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R02	Selection procedure	1	63	67.74
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R02	Selection procedure	0	30	32.26
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R03	Length of appointment	1	52	55.91
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R03	Length of appointment	0	41	44.09
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R04	Age limit	0	71	76.34
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R04	Age limit	1	22	23.66
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R05	Limit of terms in office	1	33	35.48
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R05	Limit of terms in office	0	60	64.52
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R06	Reasons for dismissal	1	46	49.46
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R06	Reasons for dismissal	0	47	50.54
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R07	None of the above	0	91	97.85
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R07	None of the above	1	2	2.15
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R08	Other	0	85	91.4
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R08	Other	1	8	8.6
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R09	Other (detail)		85	91.4
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R09	Other (detail)	The listed and other aspects of the appointment and release from office of public servants are regulated by the Law on Public Service in the Republic of Belarus, Presidential Decree On certain issues of state statistics bodies No. 445 of 26 August 2008, and Presidential Decree On certain measures to improve personnel management within the system of public bodies No. 557 of 2 November 2011.	1	1.08
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R09	Other (detail)	The Governor in Council  (GIC) appoints the Chief Statistician to be deputy head. The Chief Statistician will hold office for a term of not more than five (5) years, during good behaviour but may be removed for cause by the GIC. The Chief Statistician is eligible for reappointment for an additional term not exceeding five (5) years. The law provides for interim appointments not exceeding six (6) months in event of absence or incapacity of the Chief Statistician.	1	1.08
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R09	Other (detail)	Presidential Decree	1	1.08
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R09	Other (detail)	This is partlyregulated in STATEC's law and in the laws ruling civil servants carreers.	1	1.08
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R09	Other (detail)	Regulations for government employees also holds for the DG of the NSO	1	1.08
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R09	Other (detail)	is a Polish citizen, enjoys full civil rights, has never been penalised for a deliberate criminal offence or a deliberate fiscal offence, has at least 6 years' professional experience, including at least 3 years' professional experience as an executive.	1	1.08
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R09	Other (detail)	Legislation of the Russian Federation	1	1.08
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO	R09	Other (detail)	In US, some executive managers are political appointees, but most senior managers, including many heads of NSOs, are career civil servants (SES).  While there may not be explicit legislation for civilian hirees, there are Human Resources guidelines.	1	1.08

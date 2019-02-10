@@ -1,0 +1,13 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		No	Europe	22	23.66
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		No	Africa	10	10.75
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		No	Americas	9	9.68
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		Yes	Oceania	1	1.08
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		No	Asia	11	11.83
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		Yes	Asia	9	9.68
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		Yes	Africa	7	7.53
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		Yes	Americas	4	4.3
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01			Asia	4	4.3
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		Yes	Europe	12	12.9
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		No	Oceania	3	3.23
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01			Europe	1	1.08

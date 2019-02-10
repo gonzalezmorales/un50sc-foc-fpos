@@ -1,0 +1,3 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q07.1	Existence of a general statistics law in the country	R01		Yes	90	96.77
+Q07.1	Existence of a general statistics law in the country	R01		No	3	3.23

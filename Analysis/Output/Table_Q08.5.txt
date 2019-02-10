@@ -1,0 +1,4 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		No	55	59.14
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		Yes	33	35.48
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01			5	5.38

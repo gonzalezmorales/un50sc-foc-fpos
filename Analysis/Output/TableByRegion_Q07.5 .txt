@@ -1,0 +1,16 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		Yes	Europe	29	31.18
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		Yes	Africa	13	13.98
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		Yes	Americas	9	9.68
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		Yes	Oceania	2	2.15
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No such law exists	Europe	4	4.3
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No	Americas	3	3.23
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No such law exists	Asia	8	8.6
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No such law exists	Africa	3	3.23
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		Yes	Asia	15	16.13
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No	Asia	1	1.08
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No	Europe	2	2.15
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No	Oceania	1	1.08
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No such law exists	Oceania	1	1.08
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No such law exists	Americas	1	1.08
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		No	Africa	1	1.08

@@ -1,0 +1,60 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R01	Orientation and training programmes and seminars	1	Europe	25	26.88
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R01	Orientation and training programmes and seminars	1	Africa	14	15.05
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R01	Orientation and training programmes and seminars	0	Americas	2	2.15
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R01	Orientation and training programmes and seminars	1	Oceania	4	4.3
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R01	Orientation and training programmes and seminars	0	Europe	10	10.75
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R01	Orientation and training programmes and seminars	1	Americas	11	11.83
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R01	Orientation and training programmes and seminars	0	Asia	7	7.53
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R01	Orientation and training programmes and seminars	1	Asia	17	18.28
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R01	Orientation and training programmes and seminars	0	Africa	3	3.23
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R02	Swearing in of new staff and receipt of the relevant laws and guidelines	0	Europe	11	11.83
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R02	Swearing in of new staff and receipt of the relevant laws and guidelines	0	Africa	10	10.75
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R02	Swearing in of new staff and receipt of the relevant laws and guidelines	0	Americas	5	5.38
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R02	Swearing in of new staff and receipt of the relevant laws and guidelines	1	Oceania	3	3.23
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R02	Swearing in of new staff and receipt of the relevant laws and guidelines	1	Europe	24	25.81
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R02	Swearing in of new staff and receipt of the relevant laws and guidelines	0	Asia	10	10.75
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R02	Swearing in of new staff and receipt of the relevant laws and guidelines	1	Africa	7	7.53
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R02	Swearing in of new staff and receipt of the relevant laws and guidelines	1	Asia	14	15.05
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R02	Swearing in of new staff and receipt of the relevant laws and guidelines	1	Americas	8	8.6
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R02	Swearing in of new staff and receipt of the relevant laws and guidelines	0	Oceania	1	1.08
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R03	Handbooks, booklets, posters and the Intranet	0	Europe	14	15.05
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R03	Handbooks, booklets, posters and the Intranet	1	Africa	12	12.9
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R03	Handbooks, booklets, posters and the Intranet	1	Americas	10	10.75
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R03	Handbooks, booklets, posters and the Intranet	1	Oceania	2	2.15
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R03	Handbooks, booklets, posters and the Intranet	1	Europe	21	22.58
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R03	Handbooks, booklets, posters and the Intranet	1	Asia	17	18.28
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R03	Handbooks, booklets, posters and the Intranet	0	Asia	7	7.53
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R03	Handbooks, booklets, posters and the Intranet	0	Americas	3	3.23
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R03	Handbooks, booklets, posters and the Intranet	0	Africa	5	5.38
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R03	Handbooks, booklets, posters and the Intranet	0	Oceania	2	2.15
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R04	None of the above	0	Europe	35	37.63
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R04	None of the above	0	Africa	16	17.2
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R04	None of the above	0	Americas	13	13.98
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R04	None of the above	0	Oceania	4	4.3
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R04	None of the above	0	Asia	24	25.81
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R04	None of the above	1	Africa	1	1.08
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R05	Other	0	Europe	32	34.41
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R05	Other	0	Africa	15	16.13
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R05	Other	0	Americas	9	9.68
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R05	Other	0	Oceania	4	4.3
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R05	Other	1	Europe	3	3.23
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R05	Other	0	Asia	23	24.73
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R05	Other	1	Americas	4	4.3
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R05	Other	1	Africa	2	2.15
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R05	Other	1	Asia	1	1.08
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)		Europe	32	34.41
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)		Africa	15	16.13
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)		Americas	9	9.68
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)		Oceania	4	4.3
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)	Junior Employee Book	Europe	1	1.08
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)		Asia	23	24.73
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)	Statistics Canada employees are required to follow confidentiality and privacy awareness training at start of employment and every three (3) years. A framework of policies, directives, guidelines and tools are available to employees. An annual security awareness event is held at Statistics Canada headquarters.	Americas	1	1.08
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)	In the INE, through the memorandum, all personnel were informed about the Code of Ethics	Americas	1	1.08
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)	Attaching the internal regulations by e-mail	Africa	1	1.08
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)	during initial training	Europe	1	1.08
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)	The swearing in is mainly for survey enumerators because permanent staff sign oaths of secrecy.	Africa	1	1.08
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)	THERE IS NO CODE OF CONDUCT	Asia	1	1.08
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)	annual information on compliance with civil service rules and ethics of the civil service corps; Information plates with the rules of the civil service and the rules of ethics of the civil service corps located in the premisses of Statistics Poland.	Europe	1	1.08
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)	Receipt of the relevant laws and guidelines	Americas	1	1.08
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years	R06	Other (detail)	Emails are sent out, as necessary.  For example, before an election, an email regarding the Hatch Act is usually sent out.	Americas	1	1.08

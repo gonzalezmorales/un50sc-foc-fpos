@@ -1,0 +1,67 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q03.2	How users are informed of the quality of published data	R01	As part of metadata provided with the data	1	Europe	30	32.26
+Q03.2	How users are informed of the quality of published data	R01	As part of metadata provided with the data	1	Africa	12	12.9
+Q03.2	How users are informed of the quality of published data	R01	As part of metadata provided with the data	0	Americas	3	3.23
+Q03.2	How users are informed of the quality of published data	R01	As part of metadata provided with the data	1	Oceania	3	3.23
+Q03.2	How users are informed of the quality of published data	R01	As part of metadata provided with the data	0	Europe	5	5.38
+Q03.2	How users are informed of the quality of published data	R01	As part of metadata provided with the data	0	Asia	3	3.23
+Q03.2	How users are informed of the quality of published data	R01	As part of metadata provided with the data	1	Asia	21	22.58
+Q03.2	How users are informed of the quality of published data	R01	As part of metadata provided with the data	0	Africa	5	5.38
+Q03.2	How users are informed of the quality of published data	R01	As part of metadata provided with the data	1	Americas	10	10.75
+Q03.2	How users are informed of the quality of published data	R01	As part of metadata provided with the data	0	Oceania	1	1.08
+Q03.2	How users are informed of the quality of published data	R02	Via methodological notes	1	Europe	31	33.33
+Q03.2	How users are informed of the quality of published data	R02	Via methodological notes	1	Africa	13	13.98
+Q03.2	How users are informed of the quality of published data	R02	Via methodological notes	1	Americas	12	12.9
+Q03.2	How users are informed of the quality of published data	R02	Via methodological notes	1	Oceania	4	4.3
+Q03.2	How users are informed of the quality of published data	R02	Via methodological notes	0	Europe	4	4.3
+Q03.2	How users are informed of the quality of published data	R02	Via methodological notes	0	Americas	1	1.08
+Q03.2	How users are informed of the quality of published data	R02	Via methodological notes	1	Asia	20	21.51
+Q03.2	How users are informed of the quality of published data	R02	Via methodological notes	0	Asia	4	4.3
+Q03.2	How users are informed of the quality of published data	R02	Via methodological notes	0	Africa	4	4.3
+Q03.2	How users are informed of the quality of published data	R03	Via quality reports	1	Europe	31	33.33
+Q03.2	How users are informed of the quality of published data	R03	Via quality reports	0	Africa	13	13.98
+Q03.2	How users are informed of the quality of published data	R03	Via quality reports	0	Americas	8	8.6
+Q03.2	How users are informed of the quality of published data	R03	Via quality reports	1	Oceania	3	3.23
+Q03.2	How users are informed of the quality of published data	R03	Via quality reports	0	Europe	4	4.3
+Q03.2	How users are informed of the quality of published data	R03	Via quality reports	0	Asia	16	17.2
+Q03.2	How users are informed of the quality of published data	R03	Via quality reports	1	Americas	5	5.38
+Q03.2	How users are informed of the quality of published data	R03	Via quality reports	1	Asia	8	8.6
+Q03.2	How users are informed of the quality of published data	R03	Via quality reports	1	Africa	4	4.3
+Q03.2	How users are informed of the quality of published data	R03	Via quality reports	0	Oceania	1	1.08
+Q03.2	How users are informed of the quality of published data	R04	In meetings to address data quality  	0	Europe	20	21.51
+Q03.2	How users are informed of the quality of published data	R04	In meetings to address data quality  	0	Africa	6	6.45
+Q03.2	How users are informed of the quality of published data	R04	In meetings to address data quality  	1	Americas	6	6.45
+Q03.2	How users are informed of the quality of published data	R04	In meetings to address data quality  	1	Oceania	4	4.3
+Q03.2	How users are informed of the quality of published data	R04	In meetings to address data quality  	1	Europe	15	16.13
+Q03.2	How users are informed of the quality of published data	R04	In meetings to address data quality  	0	Americas	7	7.53
+Q03.2	How users are informed of the quality of published data	R04	In meetings to address data quality  	0	Asia	9	9.68
+Q03.2	How users are informed of the quality of published data	R04	In meetings to address data quality  	1	Africa	11	11.83
+Q03.2	How users are informed of the quality of published data	R04	In meetings to address data quality  	1	Asia	15	16.13
+Q03.2	How users are informed of the quality of published data	R05	None of the above	0	Europe	35	37.63
+Q03.2	How users are informed of the quality of published data	R05	None of the above	0	Africa	16	17.2
+Q03.2	How users are informed of the quality of published data	R05	None of the above	0	Americas	12	12.9
+Q03.2	How users are informed of the quality of published data	R05	None of the above	0	Oceania	4	4.3
+Q03.2	How users are informed of the quality of published data	R05	None of the above	1	Americas	1	1.08
+Q03.2	How users are informed of the quality of published data	R05	None of the above	0	Asia	23	24.73
+Q03.2	How users are informed of the quality of published data	R05	None of the above	1	Africa	1	1.08
+Q03.2	How users are informed of the quality of published data	R05	None of the above	1	Asia	1	1.08
+Q03.2	How users are informed of the quality of published data	R06	Other	0	Europe	33	35.48
+Q03.2	How users are informed of the quality of published data	R06	Other	0	Africa	17	18.28
+Q03.2	How users are informed of the quality of published data	R06	Other	0	Americas	11	11.83
+Q03.2	How users are informed of the quality of published data	R06	Other	1	Oceania	1	1.08
+Q03.2	How users are informed of the quality of published data	R06	Other	0	Asia	23	24.73
+Q03.2	How users are informed of the quality of published data	R06	Other	1	Americas	2	2.15
+Q03.2	How users are informed of the quality of published data	R06	Other	1	Europe	2	2.15
+Q03.2	How users are informed of the quality of published data	R06	Other	1	Asia	1	1.08
+Q03.2	How users are informed of the quality of published data	R06	Other	0	Oceania	3	3.23
+Q03.2	How users are informed of the quality of published data	R07	Other (detail)		Europe	33	35.48
+Q03.2	How users are informed of the quality of published data	R07	Other (detail)		Africa	17	18.28
+Q03.2	How users are informed of the quality of published data	R07	Other (detail)		Americas	11	11.83
+Q03.2	How users are informed of the quality of published data	R07	Other (detail)	All ABS Publications have a data quality declaration based on the ABS Data Quality Framework	Oceania	1	1.08
+Q03.2	How users are informed of the quality of published data	R07	Other (detail)		Asia	23	24.73
+Q03.2	How users are informed of the quality of published data	R07	Other (detail)	Statistics Canada uses a variety of methods to ensure our users are well informed about quality.	Americas	1	1.08
+Q03.2	How users are informed of the quality of published data	R07	Other (detail)	CBS' Database of Quality Information (metadata repository)	Europe	1	1.08
+Q03.2	How users are informed of the quality of published data	R07	Other (detail)	No information  on quality of published data is provided to the users , but  in the  weighing method  non-  response  rate  is implicitly  mentioned.	Asia	1	1.08
+Q03.2	How users are informed of the quality of published data	R07	Other (detail)	via metadata descriptions.	Europe	1	1.08
+Q03.2	How users are informed of the quality of published data	R07	Other (detail)		Oceania	3	3.23
+Q03.2	How users are informed of the quality of published data	R07	Other (detail)	websites generally include extensive methodology documents; including documents on key assumptions for missing data.  For example, for "advance" GDP, many key assumptions are made for the missing key source data for the third month of the quarter.	Americas	1	1.08

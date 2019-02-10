@@ -1,0 +1,2 @@
+QuestionID	QuestionText	BlockID	BlockText	N/A	No	Yes
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		35.48	30.11	34.41

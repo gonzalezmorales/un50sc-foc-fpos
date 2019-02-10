@@ -1,0 +1,9 @@
+QuestionID	QuestionText	BlockID	BlockText	0	1	Digitalisatin of questionnaires	Every new additional data collection has to go through a review by OMB.	Sharing data between different statistics within NSO and NSS. Yearly assessment of respondent burden of every survey in the Decree of the CZSO on the Programme of Statistical Surveys.	The respondent's calendar is posted on Belstat's official website, as well as a schedule of primary data collection in electronic form that contains information on the start date and the deadline for statistical reports collection for each statistical survey for each reporting period; The online report collection provides the possibility for respondent to receive an individual list of required forms	coordinated (Poisson) sampling; implementation of electronic questionnaires with drop down menus for answers	use of different replicates per survey round	NA
+Q05.4	Measure(s) being applied to reduce respondent burden	R01	Repurposing administrative records and other data sources (e.g. big data) for statistical use	30.11	69.89							
+Q05.4	Measure(s) being applied to reduce respondent burden	R02	Reducing sample sizes and/or innovating on sampling techniques (for example, crowdsourcing)	52.69	47.31							
+Q05.4	Measure(s) being applied to reduce respondent burden	R03	Having integrated surveys and/or coordinating surveys between government agencies	32.26	67.74							
+Q05.4	Measure(s) being applied to reduce respondent burden	R04	Simplifying questionnaires and/or prefilling them	21.51	78.49							
+Q05.4	Measure(s) being applied to reduce respondent burden	R05	Producing projections and estimates	52.69	47.31							
+Q05.4	Measure(s) being applied to reduce respondent burden	R06	Other	93.55	6.45							
+Q05.4	Measure(s) being applied to reduce respondent burden	R07	None Of The Above	96.77	3.23							
+Q05.4	Measure(s) being applied to reduce respondent burden	R08	Other (detail)			1.08	1.08	1.08	1.08	1.08	1.08	93.55

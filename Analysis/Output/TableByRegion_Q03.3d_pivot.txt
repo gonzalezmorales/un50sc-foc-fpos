@@ -1,0 +1,21 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	0	1
+Q03.3d	Types of manuals and protocols made available with published data	R01	Protocols for access to anonymized microdata	Africa	15.05	3.23
+Q03.3d	Types of manuals and protocols made available with published data	R01	Protocols for access to anonymized microdata	Americas	8.6	5.38
+Q03.3d	Types of manuals and protocols made available with published data	R01	Protocols for access to anonymized microdata	Asia	21.51	4.3
+Q03.3d	Types of manuals and protocols made available with published data	R01	Protocols for access to anonymized microdata	Europe	24.73	12.9
+Q03.3d	Types of manuals and protocols made available with published data	R01	Protocols for access to anonymized microdata	Oceania	2.15	2.15
+Q03.3d	Types of manuals and protocols made available with published data	R02	Rules and guidelines for revisions and errors	Africa	15.05	3.23
+Q03.3d	Types of manuals and protocols made available with published data	R02	Rules and guidelines for revisions and errors	Americas	9.68	4.3
+Q03.3d	Types of manuals and protocols made available with published data	R02	Rules and guidelines for revisions and errors	Asia	21.51	4.3
+Q03.3d	Types of manuals and protocols made available with published data	R02	Rules and guidelines for revisions and errors	Europe	19.35	18.28
+Q03.3d	Types of manuals and protocols made available with published data	R02	Rules and guidelines for revisions and errors	Oceania	2.15	2.15
+Q03.3d	Types of manuals and protocols made available with published data	R03	Manuals on data collection, editing, processing, analysis, visualization, etc.	Africa	11.83	6.45
+Q03.3d	Types of manuals and protocols made available with published data	R03	Manuals on data collection, editing, processing, analysis, visualization, etc.	Americas	7.53	6.45
+Q03.3d	Types of manuals and protocols made available with published data	R03	Manuals on data collection, editing, processing, analysis, visualization, etc.	Asia	17.2	8.6
+Q03.3d	Types of manuals and protocols made available with published data	R03	Manuals on data collection, editing, processing, analysis, visualization, etc.	Europe	23.66	13.98
+Q03.3d	Types of manuals and protocols made available with published data	R03	Manuals on data collection, editing, processing, analysis, visualization, etc.	Oceania	3.23	1.08
+Q03.3d	Types of manuals and protocols made available with published data	R04	Manuals on concepts and definitions	Africa	10.75	7.53
+Q03.3d	Types of manuals and protocols made available with published data	R04	Manuals on concepts and definitions	Americas	7.53	6.45
+Q03.3d	Types of manuals and protocols made available with published data	R04	Manuals on concepts and definitions	Asia	15.05	10.75
+Q03.3d	Types of manuals and protocols made available with published data	R04	Manuals on concepts and definitions	Europe	24.73	12.9
+Q03.3d	Types of manuals and protocols made available with published data	R04	Manuals on concepts and definitions	Oceania	2.15	2.15

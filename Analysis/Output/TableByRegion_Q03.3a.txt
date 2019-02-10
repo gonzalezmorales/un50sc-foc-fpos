@@ -1,0 +1,6 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q03.3a	Reasons why no accompanying text is provided with published data	R01			Europe	35	37.63
+Q03.3a	Reasons why no accompanying text is provided with published data	R01			Africa	17	18.28
+Q03.3a	Reasons why no accompanying text is provided with published data	R01			Americas	13	13.98
+Q03.3a	Reasons why no accompanying text is provided with published data	R01			Oceania	4	4.3
+Q03.3a	Reasons why no accompanying text is provided with published data	R01			Asia	24	25.81

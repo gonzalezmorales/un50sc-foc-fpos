@@ -1,0 +1,38 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R01	The definition of official statistics	1	76	81.72
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R01	The definition of official statistics	0	17	18.28
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R02	The body responsible for statistics and its responsibilities	1	88	94.62
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R02	The body responsible for statistics and its responsibilities	0	5	5.38
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R03	The status, mandate and functions of the NSO	1	85	91.4
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R03	The status, mandate and functions of the NSO	0	8	8.6
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R04	The role and status of the chief statistician	1	77	82.8
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R04	The role and status of the chief statistician	0	16	17.2
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R05	The staff of the NSO	1	64	68.82
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R05	The staff of the NSO	0	29	31.18
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R06	The role and membership of the national statistical council	1	67	72.04
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R06	The role and membership of the national statistical council	0	26	27.96
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R07	The coordination of statistical activities across government	1	78	83.87
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R07	The coordination of statistical activities across government	0	15	16.13
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R08	The role and the responsibilities of agencies other than the NSO	1	65	69.89
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R08	The role and the responsibilities of agencies other than the NSO	0	28	30.11
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R09	The matters to be covered in the statistical work program	1	62	66.67
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R09	The matters to be covered in the statistical work program	0	31	33.33
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R10	Sanctions for not responding to mandatory statistical enquiries	1	80	86.02
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R10	Sanctions for not responding to mandatory statistical enquiries	0	13	13.98
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R11	Access to administrative data	1	74	79.57
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R11	Access to administrative data	0	19	20.43
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R12	Presumption of publication and the acceptable conditions for not publishing data collected	1	38	40.86
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R12	Presumption of publication and the acceptable conditions for not publishing data collected	0	55	59.14
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R13	Secrecy, confidentiality and privacy obligations (including sanctions for non-compliance)	1	84	90.32
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R13	Secrecy, confidentiality and privacy obligations (including sanctions for non-compliance)	0	9	9.68
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R14	Participation in international statistical activities	0	33	35.48
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R14	Participation in international statistical activities	1	60	64.52
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R15	Other	0	88	94.62
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R15	Other	1	5	5.38
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R17	Other (detail)		88	94.62
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R17	Other (detail)	Designation of NSO as coordinator of NSS; Conditions under which microdata access may be granted	1	1.08
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R17	Other (detail)	Role of Minister responsible; Oath of office (secrecy); Provisions for sharing and disclosure	1	1.08
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R17	Other (detail)	Access to administrative data is not specifically mentioned by any law but it is mentioned that the Statistician-General can collect any data. Presumption on publication: there is a general provision that the Statistician-General can discontinue any data collection process.	1	1.08
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R17	Other (detail)	Creation of sectoral statistical committees, and cross-posting of PSA staff in other agencies to provide technical assistance	1	1.08
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R17	Other (detail)	Statistical classifications to be applied by NSO and other concerned authorities; Quality management system in the NBS and other producers of official statistics	1	1.08
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)	R16	None Of The Above	0	93	100

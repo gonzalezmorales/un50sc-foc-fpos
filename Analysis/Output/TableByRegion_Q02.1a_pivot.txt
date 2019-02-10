@@ -1,0 +1,21 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	0	1	Access to key ministerial professional staff	Any types of communication (letters, e-mails, telephone, face to face meetings etc)	Chief of Cabinet of Ministers	Department Head Meetings and regular engagement	Dialouge meetings through ministries	Meeting with ministry	Rèunions avec la tutelle ministérielle	Réunion du Conseil de Cabinet Ministériel de tutelle	The Director-General of SURS is a member of the Economic Committee of the Government.	The President of the HCSO participates as a permanent invitee at the meeting of the forum preparing the meeting of the Government and shall be invited to the item on the agenda of the meeting of the Government that concerns the tasks of the HCSO	varies, depending on the situation	weekly attendance at the regular Government meetings	NA
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	Africa	4.3	13.98													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	Americas		13.98													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	Asia	3.23	22.58													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	Europe	6.45	31.18													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	Oceania		4.3													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	Africa	11.83	6.45													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	Americas	8.6	5.38													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	Asia	15.05	10.75													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	Europe	20.43	17.2													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	Oceania	2.15	2.15													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	Africa	16.13	2.15													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	Americas	11.83	2.15													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	Asia	25.81														
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	Europe	30.11	7.53													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	Oceania	3.23	1.08													
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Africa									1.08	1.08					16.13
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Americas					1.08								1.08		11.83
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Asia															25.81
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Europe			1.08	1.08			1.08	1.08			1.08	1.08		1.08	30.11
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Oceania						1.08									3.23

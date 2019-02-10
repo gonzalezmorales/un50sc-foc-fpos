@@ -1,0 +1,57 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q01.2a	Time span of current NSDS	R01	From	2017	Europe	2	2.15
+Q01.2a	Time span of current NSDS	R01	From	2015	Africa	2	2.15
+Q01.2a	Time span of current NSDS	R01	From		Americas	7	7.53
+Q01.2a	Time span of current NSDS	R01	From		Oceania	2	2.15
+Q01.2a	Time span of current NSDS	R01	From	2016	Europe	3	3.23
+Q01.2a	Time span of current NSDS	R01	From	2018	Europe	6	6.45
+Q01.2a	Time span of current NSDS	R01	From		Europe	15	16.13
+Q01.2a	Time span of current NSDS	R01	From	2017	Americas	2	2.15
+Q01.2a	Time span of current NSDS	R01	From		Asia	10	10.75
+Q01.2a	Time span of current NSDS	R01	From	2013	Europe	4	4.3
+Q01.2a	Time span of current NSDS	R01	From	2017	Africa	3	3.23
+Q01.2a	Time span of current NSDS	R01	From	2016	Asia	3	3.23
+Q01.2a	Time span of current NSDS	R01	From	2018	Africa	1	1.08
+Q01.2a	Time span of current NSDS	R01	From	2018	Americas	2	2.15
+Q01.2a	Time span of current NSDS	R01	From		Africa	5	5.38
+Q01.2a	Time span of current NSDS	R01	From	2016	Africa	3	3.23
+Q01.2a	Time span of current NSDS	R01	From	2014	Europe	1	1.08
+Q01.2a	Time span of current NSDS	R01	From	2015	Americas	1	1.08
+Q01.2a	Time span of current NSDS	R01	From	2017	Asia	3	3.23
+Q01.2a	Time span of current NSDS	R01	From	2018	Asia	4	4.3
+Q01.2a	Time span of current NSDS	R01	From	2019	Europe	2	2.15
+Q01.2a	Time span of current NSDS	R01	From	2015	Asia	2	2.15
+Q01.2a	Time span of current NSDS	R01	From	2016	Americas	1	1.08
+Q01.2a	Time span of current NSDS	R01	From	2013	Africa	2	2.15
+Q01.2a	Time span of current NSDS	R01	From	2019	Asia	1	1.08
+Q01.2a	Time span of current NSDS	R01	From	2018	Oceania	1	1.08
+Q01.2a	Time span of current NSDS	R01	From	2015	Europe	2	2.15
+Q01.2a	Time span of current NSDS	R01	From	2011	Oceania	1	1.08
+Q01.2a	Time span of current NSDS	R01	From	2014	Africa	1	1.08
+Q01.2a	Time span of current NSDS	R01	From	2011	Asia	1	1.08
+Q01.2a	Time span of current NSDS	R02	To	2021	Europe	1	1.08
+Q01.2a	Time span of current NSDS	R02	To	2025	Africa	1	1.08
+Q01.2a	Time span of current NSDS	R02	To		Americas	7	7.53
+Q01.2a	Time span of current NSDS	R02	To		Oceania	2	2.15
+Q01.2a	Time span of current NSDS	R02	To	2020	Europe	10	10.75
+Q01.2a	Time span of current NSDS	R02	To	2022	Europe	6	6.45
+Q01.2a	Time span of current NSDS	R02	To		Europe	15	16.13
+Q01.2a	Time span of current NSDS	R02	To	2020	Americas	2	2.15
+Q01.2a	Time span of current NSDS	R02	To		Asia	10	10.75
+Q01.2a	Time span of current NSDS	R02	To	2020	Africa	5	5.38
+Q01.2a	Time span of current NSDS	R02	To	2021	Africa	1	1.08
+Q01.2a	Time span of current NSDS	R02	To	2020	Asia	4	4.3
+Q01.2a	Time span of current NSDS	R02	To	2022	Americas	3	3.23
+Q01.2a	Time span of current NSDS	R02	To	2022	Africa	3	3.23
+Q01.2a	Time span of current NSDS	R02	To		Africa	5	5.38
+Q01.2a	Time span of current NSDS	R02	To	2019	Europe	2	2.15
+Q01.2a	Time span of current NSDS	R02	To	2021	Asia	3	3.23
+Q01.2a	Time span of current NSDS	R02	To	2022	Asia	3	3.23
+Q01.2a	Time span of current NSDS	R02	To	2025	Asia	1	1.08
+Q01.2a	Time span of current NSDS	R02	To	2023	Europe	1	1.08
+Q01.2a	Time span of current NSDS	R02	To	2040	Americas	1	1.08
+Q01.2a	Time span of current NSDS	R02	To	2019	Africa	2	2.15
+Q01.2a	Time span of current NSDS	R02	To	2023	Asia	2	2.15
+Q01.2a	Time span of current NSDS	R02	To	2027	Oceania	1	1.08
+Q01.2a	Time span of current NSDS	R02	To	2018	Asia	1	1.08
+Q01.2a	Time span of current NSDS	R02	To	2021	Oceania	1	1.08

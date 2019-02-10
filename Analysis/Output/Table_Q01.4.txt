@@ -1,0 +1,29 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	1	84	90.32
+Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	0	9	9.68
+Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	1	66	70.97
+Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	0	27	29.03
+Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	1	77	82.8
+Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	0	16	17.2
+Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	1	68	73.12
+Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	0	25	26.88
+Q01.4	Measures currently in place for disseminating statistics	R05	Using various dissemination media, such as print publications, online pdf files, etc.	1	91	97.85
+Q01.4	Measures currently in place for disseminating statistics	R05	Using various dissemination media, such as print publications, online pdf files, etc.	0	2	2.15
+Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	1	78	83.87
+Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	0	15	16.13
+Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	1	69	74.19
+Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	0	24	25.81
+Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	0	39	41.94
+Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	1	54	58.06
+Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	0	58	62.37
+Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	1	35	37.63
+Q01.4	Measures currently in place for disseminating statistics	R10	Providing user support via e-mail, written correspondence or telephone	1	84	90.32
+Q01.4	Measures currently in place for disseminating statistics	R10	Providing user support via e-mail, written correspondence or telephone	0	9	9.68
+Q01.4	Measures currently in place for disseminating statistics	R11	None of the above	0	93	100
+Q01.4	Measures currently in place for disseminating statistics	R12	Does not know 	0	93	100
+Q01.4	Measures currently in place for disseminating statistics	R13	Other	0	90	96.77
+Q01.4	Measures currently in place for disseminating statistics	R13	Other	1	3	3.23
+Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)		90	96.77
+Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)	Quarterly press conferences	1	1.08
+Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)	Data users are also able to sign up for email notifications	1	1.08
+Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)	geoportal, infographics, etc.	1	1.08

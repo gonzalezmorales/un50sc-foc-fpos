@@ -1,0 +1,20 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q01.2a	Time span of current NSDS	R01	From	2017	10	10.75
+Q01.2a	Time span of current NSDS	R01	From	2015	7	7.53
+Q01.2a	Time span of current NSDS	R01	From		39	41.94
+Q01.2a	Time span of current NSDS	R01	From	2016	10	10.75
+Q01.2a	Time span of current NSDS	R01	From	2018	14	15.05
+Q01.2a	Time span of current NSDS	R01	From	2013	6	6.45
+Q01.2a	Time span of current NSDS	R01	From	2014	2	2.15
+Q01.2a	Time span of current NSDS	R01	From	2019	3	3.23
+Q01.2a	Time span of current NSDS	R01	From	2011	2	2.15
+Q01.2a	Time span of current NSDS	R02	To	2021	6	6.45
+Q01.2a	Time span of current NSDS	R02	To	2025	2	2.15
+Q01.2a	Time span of current NSDS	R02	To		39	41.94
+Q01.2a	Time span of current NSDS	R02	To	2020	21	22.58
+Q01.2a	Time span of current NSDS	R02	To	2022	15	16.13
+Q01.2a	Time span of current NSDS	R02	To	2019	4	4.3
+Q01.2a	Time span of current NSDS	R02	To	2023	3	3.23
+Q01.2a	Time span of current NSDS	R02	To	2040	1	1.08
+Q01.2a	Time span of current NSDS	R02	To	2027	1	1.08
+Q01.2a	Time span of current NSDS	R02	To	2018	1	1.08

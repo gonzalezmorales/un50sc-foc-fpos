@@ -1,0 +1,76 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	0	Europe	24	25.81
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	1	Africa	10	10.75
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	0	Americas	7	7.53
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	0	Oceania	3	3.23
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	1	Europe	11	11.83
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	0	Asia	14	15.05
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	0	Africa	7	7.53
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	1	Americas	6	6.45
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	1	Asia	10	10.75
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R01	For non-commercial purposes	1	Oceania	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	0	Europe	28	30.11
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	0	Africa	13	13.98
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	0	Americas	9	9.68
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	0	Oceania	4	4.3
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	1	Europe	7	7.53
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	0	Asia	21	22.58
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	1	Africa	4	4.3
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	1	Americas	4	4.3
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R02	For commercial purposes	1	Asia	3	3.23
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	0	Europe	28	30.11
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	0	Africa	14	15.05
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	0	Americas	12	12.9
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	0	Oceania	4	4.3
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	1	Europe	7	7.53
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	0	Asia	21	22.58
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	1	Africa	3	3.23
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	1	Americas	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R03	For a fee	1	Asia	3	3.23
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	0	Europe	15	16.13
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	1	Africa	9	9.68
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	0	Americas	6	6.45
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	1	Oceania	2	2.15
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	1	Europe	20	21.51
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	1	Asia	16	17.2
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	0	Asia	8	8.6
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	0	Africa	8	8.6
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	1	Americas	7	7.53
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R04	Under condition of attribution of the source 	0	Oceania	2	2.15
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	0	Europe	26	27.96
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	0	Africa	13	13.98
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	1	Americas	6	6.45
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	0	Oceania	3	3.23
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	0	Asia	22	23.66
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	1	Africa	4	4.3
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	0	Americas	7	7.53
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	1	Europe	9	9.68
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	1	Asia	2	2.15
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R05	Other	1	Oceania	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)		Europe	26	27.96
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)		Africa	13	13.98
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	free of charge	Americas	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)		Oceania	3	3.23
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	Never, unless express approval from SIB is obtained	Americas	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)		Asia	22	23.66
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	Not applicable	Africa	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	Other: Statistics Canada's open license now applies to public use microdata files.	Americas	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	only aggregates can be re-distributed	Americas	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)		Americas	7	7.53
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	Microdata canÂ´t be re-distributed	Europe	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	For research. Only Danish research environments are granted authorisation. Access is given to anonymised micro data.	Europe	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	only aggregated datrasets for non-commercial purposes with the indication of the source	Europe	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	Anonymised microdata cannot be redistributed	Europe	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	Only aggregates can be distributed for any purposes (commercial and non-commercial).	Europe	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	Aggregates - under condition of attribution of the source; Anonymized microdata â€“ any re-distribution is not foreseen.	Europe	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	Under condition of respecting data protection rules	Europe	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	Anonymised microdata cannot be redistributed but others can such as data downloads available in proprietary formats on the website of Statistics Mauritius.	Africa	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	Aggregates can be re-distributed for commercial purposes. Anonymized microdata cannot be re-distributed under any circumstances.	Europe	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	No	Asia	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	In conformity with Law 226/2009 and Reg. No. 557/2013.	Europe	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	if bilateral agreement is made and a minimal fee is paid	Oceania	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	quelques microdonnées sont fournies aux bureaux d'étude privés contre paiement marginal	Africa	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	By negotiation	Africa	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	Not for anonymised microdata	Asia	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	Not applicable	Americas	1	1.08
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates	R06	Other (detail)	N/A  The conditions in which (post-release) micro data is available may happen, varying amongst agencies.  For example, to access certain Census Bureau microdata, you have to be a sworn Census Bureau employee.	Americas	1	1.08

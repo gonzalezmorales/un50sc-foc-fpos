@@ -1,0 +1,50 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R01	The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	0	Europe	25	26.88
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R01	The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	0	Africa	17	18.28
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R01	The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	0	Americas	9	9.68
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R01	The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	1	Oceania	2	2.15
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R01	The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	0	Asia	19	20.43
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R01	The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	1	Americas	4	4.3
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R01	The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	1	Asia	5	5.38
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R01	The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	1	Europe	10	10.75
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R01	The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	0	Oceania	2	2.15
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R02	The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	0	Europe	19	20.43
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R02	The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	0	Africa	16	17.2
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R02	The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	1	Americas	5	5.38
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R02	The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	1	Oceania	2	2.15
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R02	The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	1	Europe	16	17.2
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R02	The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	0	Americas	8	8.6
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R02	The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	0	Asia	21	22.58
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R02	The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	1	Africa	1	1.08
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R02	The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	1	Asia	3	3.23
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R02	The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	0	Oceania	2	2.15
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R03	The NSS has a contract with the data provider	0	Europe	21	22.58
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R03	The NSS has a contract with the data provider	0	Africa	16	17.2
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R03	The NSS has a contract with the data provider	0	Americas	11	11.83
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R03	The NSS has a contract with the data provider	1	Oceania	2	2.15
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R03	The NSS has a contract with the data provider	1	Europe	14	15.05
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R03	The NSS has a contract with the data provider	0	Asia	19	20.43
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R03	The NSS has a contract with the data provider	1	Americas	2	2.15
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R03	The NSS has a contract with the data provider	1	Asia	5	5.38
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R03	The NSS has a contract with the data provider	0	Oceania	2	2.15
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R03	The NSS has a contract with the data provider	1	Africa	1	1.08
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R04	Consumers/citizens are informed that their data is being used for compiling official statistics	0	Europe	27	29.03
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R04	Consumers/citizens are informed that their data is being used for compiling official statistics	0	Africa	14	15.05
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R04	Consumers/citizens are informed that their data is being used for compiling official statistics	0	Americas	11	11.83
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R04	Consumers/citizens are informed that their data is being used for compiling official statistics	1	Oceania	2	2.15
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R04	Consumers/citizens are informed that their data is being used for compiling official statistics	1	Europe	8	8.6
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R04	Consumers/citizens are informed that their data is being used for compiling official statistics	0	Asia	20	21.51
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R04	Consumers/citizens are informed that their data is being used for compiling official statistics	1	Americas	2	2.15
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R04	Consumers/citizens are informed that their data is being used for compiling official statistics	1	Asia	4	4.3
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R04	Consumers/citizens are informed that their data is being used for compiling official statistics	1	Africa	3	3.23
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R04	Consumers/citizens are informed that their data is being used for compiling official statistics	0	Oceania	2	2.15
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R05	There are specific rules of access and confidentiality measures to treat these datasets	0	Europe	20	21.51
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R05	There are specific rules of access and confidentiality measures to treat these datasets	0	Africa	14	15.05
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R05	There are specific rules of access and confidentiality measures to treat these datasets	1	Americas	7	7.53
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R05	There are specific rules of access and confidentiality measures to treat these datasets	1	Oceania	3	3.23
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R05	There are specific rules of access and confidentiality measures to treat these datasets	1	Europe	15	16.13
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R05	There are specific rules of access and confidentiality measures to treat these datasets	0	Asia	17	18.28
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R05	There are specific rules of access and confidentiality measures to treat these datasets	0	Americas	6	6.45
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R05	There are specific rules of access and confidentiality measures to treat these datasets	1	Asia	7	7.53
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R05	There are specific rules of access and confidentiality measures to treat these datasets	1	Africa	3	3.23
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data	R05	There are specific rules of access and confidentiality measures to treat these datasets	0	Oceania	1	1.08

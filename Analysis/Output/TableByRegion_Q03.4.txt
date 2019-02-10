@@ -1,0 +1,143 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	0	Europe	35	37.63
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	1	Africa	12	12.9
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	0	Americas	13	13.98
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	0	Oceania	4	4.3
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	0	Asia	24	25.81
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R01	African Information Highway	0	Africa	5	5.38
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	1	Europe	10	10.75
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	1	Africa	6	6.45
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	0	Americas	10	10.75
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	0	Oceania	4	4.3
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	0	Europe	25	26.88
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	0	Asia	14	15.05
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	0	Africa	11	11.83
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	1	Americas	3	3.23
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R02	ArcGIS	1	Asia	10	10.75
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	0	Europe	31	33.33
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	1	Africa	6	6.45
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	0	Americas	13	13.98
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	0	Oceania	4	4.3
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	0	Asia	19	20.43
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	0	Africa	11	11.83
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	1	Europe	4	4.3
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R03	Country STAT	1	Asia	5	5.38
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	0	Europe	32	34.41
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	0	Africa	11	11.83
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	0	Americas	11	11.83
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	0	Oceania	3	3.23
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	1	Europe	3	3.23
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	0	Asia	18	19.35
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	1	Africa	6	6.45
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	1	Americas	2	2.15
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	1	Asia	6	6.45
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R04	DevInfo	1	Oceania	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	0	Europe	13	13.98
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	0	Africa	17	18.28
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	0	Americas	13	13.98
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	0	Oceania	4	4.3
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	1	Europe	22	23.66
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	0	Asia	21	22.58
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R05	Eurostat web portal	1	Asia	3	3.23
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	0	Europe	35	37.63
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	0	Africa	12	12.9
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	0	Americas	13	13.98
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	0	Oceania	4	4.3
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	0	Asia	24	25.81
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R06	IMIS	1	Africa	5	5.38
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	0	Europe	35	37.63
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	0	Africa	9	9.68
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	0	Americas	9	9.68
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	0	Oceania	3	3.23
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	0	Asia	17	18.28
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	1	Africa	8	8.6
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	1	Americas	4	4.3
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	1	Asia	7	7.53
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R07	NADA	1	Oceania	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	0	Europe	21	22.58
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	0	Africa	15	16.13
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	0	Americas	11	11.83
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	1	Oceania	2	2.15
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	0	Asia	21	22.58
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	1	Asia	3	3.23
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	1	Americas	2	2.15
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	1	Africa	2	2.15
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	1	Europe	14	15.05
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R08	OECD.Stat	0	Oceania	2	2.15
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	0	Europe	31	33.33
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	0	Africa	16	17.2
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	0	Americas	11	11.83
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	0	Oceania	4	4.3
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	0	Asia	22	23.66
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	1	Africa	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	1	Europe	4	4.3
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	1	Americas	2	2.15
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R09	US/UK open source SDGs National Reporting Platform	1	Asia	2	2.15
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	0	Europe	35	37.63
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	0	Africa	11	11.83
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	0	Americas	13	13.98
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	0	Oceania	4	4.3
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	0	Asia	22	23.66
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	1	Africa	6	6.45
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R10	Prognoz (Open Data Portal) & Knoema	1	Asia	2	2.15
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	0	Europe	24	25.81
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	0	Africa	9	9.68
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	1	Americas	7	7.53
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	1	Oceania	2	2.15
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	1	Europe	11	11.83
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	0	Americas	6	6.45
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	0	Asia	11	11.83
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	1	Asia	13	13.98
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	1	Africa	8	8.6
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R11	Custom-developed data platform	0	Oceania	2	2.15
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	1	Europe	21	22.58
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	0	Africa	9	9.68
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	0	Americas	7	7.53
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	0	Oceania	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	0	Europe	14	15.05
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	1	Americas	6	6.45
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	0	Asia	10	10.75
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	1	Asia	14	15.05
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	1	Africa	8	8.6
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R12	Other	1	Oceania	3	3.23
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	PxWeb for statistical database	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)		Africa	14	15.05
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)		Americas	9	9.68
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)		Oceania	3	3.23
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	STATcube - Statistics Austrias Database	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)		Europe	20	21.51
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	Redatam	Americas	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)		Asia	17	18.28
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	REDATAM for census	Americas	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	CZSO provides special applications (Public Database, External Trade, National Accounts) to use by users	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	PX-Web	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	https://www.data.gouv.fr/, https://www.insee.fr/	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	gov. data (German Data Platform)	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	own website	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	PX-web	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	Open data - data.public.lu (La plate-forme de données luxembourgeoise); www.grande-region.lu	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	data.gov.my (Malaysia Open Data portal) and IMF (Subscribe with SDDS)	Asia	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	National Open Data portal accessible at: https://data.govmu.org/dkan/	Africa	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	Mexico open data portal (datos.gob.mx)	Americas	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	The NSA App as the custom-developed data platform	Africa	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	NATIONAL SUMMERY PAGE	Asia	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	PX-Web	Asia	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	the following systems are used to share the data with international organizations: Integrated Correspondence System (ICS) for IMF, FTP for UN.	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	ArmStatBank at https://www.armstat.am/en/?nid=13, Armenia SDGs indicators at https://www.armstat.am/en/?nid=655	Asia	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	StatBank (http://www.statistica.md/pageview.php?l=ro&idc=407) GenderPulse (http://genderpulse.md/?utm_source=Statistica&utm_medium=banner&utm_campaign=main_page),  Census platform (http://recensamant.statistica.md/)	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	Oracle databases in-house developed	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	ReDATAM	Oceania	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	National web page (NSDP) on eGDDS	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	IMF Open Data Platform	Africa	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	SingStat Mobile Application	Asia	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	PC-Axis	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	LankaSis	Asia	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	Open Data Portal	Europe	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	National Data Portal	Asia	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R14	Other (detail)	agency websites	Americas	1	1.08
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	0	Europe	35	37.63
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	0	Africa	17	18.28
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	0	Americas	13	13.98
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	0	Oceania	4	4.3
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	1	Asia	3	3.23
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data	R13	None Of The Above	0	Asia	21	22.58

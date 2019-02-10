@@ -1,0 +1,6 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	1	2	3	4	NA
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		Africa	4.3	1.08	5.38		7.53
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		Americas	7.53	3.23	2.15		1.08
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		Asia	8.6	4.3	5.38	1.08	6.45
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		Europe	18.28	9.68	7.53	1.08	1.08
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		Oceania		1.08	1.08		2.15

@@ -1,0 +1,24 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01			Europe	34	36.56
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		The NSO is preparing necessary conditions for the use of SMDX.	Africa	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01			Americas	12	12.9
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01			Oceania	3	3.23
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		Belstat is currently exploring the possibility of using SDMX for data transmission to the Eurasian Economic Commission, a national reporting platform for SDGs is being developed using the SDMX standard, which will be launched in early 2019. The main problems related to SDMX implementation are as follows: â€¢ insufficient training of NSS professionals; â€¢ lack of description of DSD structures from the Eurasian Economic Commission; â€¢ lack of technical assistance.	Europe	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01			Asia	14	15.05
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01			Africa	12	12.9
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		To be explore for future considerations.	Asia	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		Lack of staff and other resources especially time as we are a very small office.	Americas	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		We do not have proper metadata base at the moment.	Asia	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		We are working with the IMF to be part of the e-GDDS, after that we will start to use SDMX	Africa	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		Lack of resources.	Asia	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		à€ ce jour, rien n'est prévu par rapport à  cela. Nous avons besoin de renforcer les capacités à  ce niveau	Africa	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		The system uses the statistical currently in the document the dues: 1. the model the standard for production of statistical 2. the general framework of the data meta 3.puf seeks to use sdmx in his work	Asia	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		not yet but we are intending to start using it in the very near future	Asia	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		This has to be considered in the overall context of data release in anonymised / open data format through a forthcoming e-business plan to revamp the processes of the office by optimising on Information Technology. Also, training on SDMX is required.	Africa	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		The SDMX is in the process of implementation.	Africa	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		Technical and infrastructure Barrier.	Asia	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		PCBS uses Accelerated Data Program (ADP).	Asia	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		Capacity and capability	Oceania	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		lack of technical capacity on the use of SDMX	Asia	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		Lack of resources and knowledge	Asia	1	1.08
+Q09.5b	Main reasons/challenges explaining the lack of use of SDMX	R01		Our plan is to explore the use of SDMX in the coming years.	Asia	1	1.08

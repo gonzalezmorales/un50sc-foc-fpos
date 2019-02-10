@@ -1,0 +1,3 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		No	87	93.55
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		Yes	6	6.45

@@ -1,0 +1,13 @@
+QuestionID	QuestionText	BlockID	BlockText	0	1	Australian Institute for Health and Welfare (AIHW) which is a statutory body	Other ELSS agencies (National Documentation Centre, Hellenic Telecommunications and Post Commission)	Please, see: https://statistiques.public.lu/en/actors/statec/legalbasis/LawSTATEC.pdf. Statec's law covers the missions of the Committee on Public Statistics which is made up of representatives of administrations, ministries and observatories active in holding, producing and disseminating statistics.	State institutions, which provide official statistics	Statistical services under line ministries which are gazetted under the Statistics Act	The informants	NA
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R01	Statistical offices at the sub-national level (region, province, etc.)	60.22	39.78							
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R02	Statistical services in line ministries	48.39	51.61							
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R03	Statistical services in the Central Bank	55.91	44.09							
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R04	Custodians of administrative data	59.14	40.86							
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R05	Chambers of commerce or other business networks	89.25	10.75							
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R06	Trade unions	92.47	7.53							
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R07	Statistical research and training centres 	79.57	20.43							
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R08	Private institutions	86.02	13.98							
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R09	Supra-national bodies (e.g. Eurostat)	96.77	3.23							
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R10	Other	93.55	6.45							
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R11	None Of The Above	98.92	1.08							
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	R12	Other (detail)			1.08	1.08	1.08	1.08	1.08	1.08	93.55

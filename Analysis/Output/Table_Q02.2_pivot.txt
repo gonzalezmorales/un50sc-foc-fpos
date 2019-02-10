@@ -1,0 +1,2 @@
+QuestionID	QuestionText	BlockID	BlockText	No	Yes
+Q02.2	Existence of clear rules for appointment and dismissal of the head of NSO	R01		13.98	86.02

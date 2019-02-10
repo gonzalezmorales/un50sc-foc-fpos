@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	R01		Yes	Europe	35	38
-Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	R01		Yes	Africa	17	18
-Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	R01		Yes	Americas	13	14
-Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	R01		Yes	Oceania	4	4
-Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	R01		Yes	Asia	24	26

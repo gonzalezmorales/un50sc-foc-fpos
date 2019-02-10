@@ -1,0 +1,6 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	1-12 months	1-3 months	13-24 months	4-12 months	6-18 months	Annual	Anual	More than 2 years	NA
+Q01.4b	Time span of the calendar	R01		Africa			1.08	9.68					7.53
+Q01.4b	Time span of the calendar	R01		Americas			1.08	9.68	1.08		1.08		1.08
+Q01.4b	Time span of the calendar	R01		Asia		3.23	1.08	12.9				2.15	6.45
+Q01.4b	Time span of the calendar	R01		Europe	1.08		5.38	26.88		1.08		2.15	1.08
+Q01.4b	Time span of the calendar	R01		Oceania				2.15					2.15

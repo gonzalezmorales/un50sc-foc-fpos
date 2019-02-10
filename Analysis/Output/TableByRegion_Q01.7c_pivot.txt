@@ -1,0 +1,31 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	0	1	By negotiation	Data are provided under the Open Government LIcense: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/	N/A  The conditions in which (post-release) derivative work using micro data is available may happen vary amongst agencies.	No	Not applicable	Not distributed	Open license applies	When the reuse involves any modification to the data or text, including the translation of text, this is stated clearly to the end user of the information, as well as that ELSTAT bears no responsibility for the result of the modification.	for statistical purposes only; indicating that the responsibility for analysis and processing is not to be attributed to Istat	free of charge	NA
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R01	For non-commercial purposes	Africa	6.45	11.83											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R01	For non-commercial purposes	Americas	7.53	6.45											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R01	For non-commercial purposes	Asia	15.05	10.75											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R01	For non-commercial purposes	Europe	23.66	13.98											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R01	For non-commercial purposes	Oceania	4.3												
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R02	For commercial purposes	Africa	16.13	2.15											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R02	For commercial purposes	Americas	9.68	4.3											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R02	For commercial purposes	Asia	23.66	2.15											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R02	For commercial purposes	Europe	29.03	8.6											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R02	For commercial purposes	Oceania	4.3												
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R03	For a fee	Africa	15.05	3.23											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R03	For a fee	Americas	12.9	1.08											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R03	For a fee	Asia	23.66	2.15											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R03	For a fee	Europe	33.33	4.3											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R03	For a fee	Oceania	4.3												
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R04	Under condition of attribution of the source	Africa	10.75	7.53											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R04	Under condition of attribution of the source	Americas	5.38	8.6											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R04	Under condition of attribution of the source	Asia	7.53	18.28											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R04	Under condition of attribution of the source	Europe	13.98	23.66											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R04	Under condition of attribution of the source	Oceania	1.08	3.23											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R05	Other	Africa	16.13	2.15											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R05	Other	Americas	9.68	4.3											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R05	Other	Asia	23.66	2.15											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R05	Other	Europe	34.41	3.23											
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R05	Other	Oceania	4.3												
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R06	Other (detail)	Africa			1.08				1.08						16.13
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R06	Other (detail)	Americas					1.08		1.08		1.08			1.08	9.68
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R06	Other (detail)	Asia						1.08		1.08					23.66
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R06	Other (detail)	Europe				1.08						1.08	1.08		34.41
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online	R06	Other (detail)	Oceania													4.3

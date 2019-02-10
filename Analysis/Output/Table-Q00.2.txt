@@ -1,8 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q00.2	Awareness of existence UNFPOS	R01	NSO / Chief Statistician	Yes	93	100
-Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	Yes	69	74
-Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	N/A	13	14
-Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	No	11	12
-Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	N/A	28	30
-Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	Yes	53	57
-Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	No	12	13

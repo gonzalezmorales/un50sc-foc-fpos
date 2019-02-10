@@ -1,0 +1,3 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
+Q02.2	Existence of clear rules for appointment and dismissal of the head of NSO	R01		Yes	80	86.02
+Q02.2	Existence of clear rules for appointment and dismissal of the head of NSO	R01		No	13	13.98

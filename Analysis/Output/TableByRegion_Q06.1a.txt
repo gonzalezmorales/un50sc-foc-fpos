@@ -1,0 +1,12 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q06.1a	Confidentiality provision in the laws applies to…	R01		NSS	Europe	25	26.88
+Q06.1a	Confidentiality provision in the laws applies to…	R01		NSS	Africa	15	16.13
+Q06.1a	Confidentiality provision in the laws applies to…	R01		NSS	Americas	7	7.53
+Q06.1a	Confidentiality provision in the laws applies to…	R01		NSO	Oceania	2	2.15
+Q06.1a	Confidentiality provision in the laws applies to…	R01		NSO	Americas	6	6.45
+Q06.1a	Confidentiality provision in the laws applies to…	R01		NSS	Asia	16	17.2
+Q06.1a	Confidentiality provision in the laws applies to…	R01		NSO	Europe	10	10.75
+Q06.1a	Confidentiality provision in the laws applies to…	R01		NSO	Asia	7	7.53
+Q06.1a	Confidentiality provision in the laws applies to…	R01		NSS	Oceania	2	2.15
+Q06.1a	Confidentiality provision in the laws applies to…	R01		NSO	Africa	2	2.15
+Q06.1a	Confidentiality provision in the laws applies to…	R01		NSO, NSS	Asia	1	1.08

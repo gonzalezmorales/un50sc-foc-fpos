@@ -1,0 +1,8 @@
+QuestionID	QuestionText	BlockID	BlockText	0	1	In project: methodology of evaluation of administrative records	checking and processing administrative data for  statistical purposes	unfortunately the actions are not very effective	NA
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R01	Cooperation with custodians of administrative data at the stage of design/modernization of information systems	15.05	84.95				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R02	Providing advice to the custodians of administrative data for amending the composition of data and classification	20.43	79.57				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R03	Training personnel of the custodians of administrative data	54.84	45.16				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R04	Feedback with custodians of administrative data when errors are found	27.96	72.04				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R05	None of the above	97.85	2.15				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R06	Other	96.77	3.23				
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes	R07	Other (detail)			1.08	1.08	1.08	96.77

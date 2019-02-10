@@ -1,0 +1,12 @@
+QuestionID	QuestionText	BlockID	BlockText	0	1	Procedures for transmission of protected information, breach protocol	We do not have a Confidentiality Policy but we have a Statistical Act 2015 that has the confidentiality clause	NA
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	11.83	88.17			
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	19.35	80.65			
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	36.56	63.44			
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	32.26	67.74			
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	33.33	66.67			
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	33.33	66.67			
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	19.35	80.65			
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	66.67	33.33			
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R09	Other	97.85	2.15			
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R10	None Of The Above	100				
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)			1.08	1.08	97.85

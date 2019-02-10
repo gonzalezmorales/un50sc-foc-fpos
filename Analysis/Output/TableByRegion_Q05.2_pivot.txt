@@ -1,0 +1,51 @@
+QuestionID	QuestionText	BlockID	BlockText	RegionName	0	1	Also the release of the key highlights before the entire report	Official statistics dissemination policy is defined (https://www.stat.gov.lt/en/oficialiosios-statistikos-sklaidos-politika).  GSBPM is being implemented to improve the efficiency of organization and implementation of the processes; time used for different statistical processes is regularly monitored to find the potential to increase the efficiency of the processes; all statistical data editing rules/algorithms used in data entry programs have been revised.  Other measures, such as rearrangement of statistical surveys and sooner provision of the statistical results to the users; modernisation of business processes and organisational structure and increasing the effectiveness of statistical information production and dissemination are laid down in the new Strategy 2018-2022 of Statistics Lithuania (https://osp.stat.gov.lt/documents/29256/1366419/STRATEGY_2018_2022.pdf/d602dffa-d8ba-4100-be7a-d32c454cbc6a)	NA
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R01	Monitoring the timeliness of publications against the release calendar	Africa	4.3	13.98			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R01	Monitoring the timeliness of publications against the release calendar	Americas		13.98			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R01	Monitoring the timeliness of publications against the release calendar	Asia	4.3	21.51			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R01	Monitoring the timeliness of publications against the release calendar	Europe	1.08	36.56			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R01	Monitoring the timeliness of publications against the release calendar	Oceania	1.08	3.23			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R02	Using new technologies for reducing processing times	Africa	1.08	17.2			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R02	Using new technologies for reducing processing times	Americas	1.08	12.9			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R02	Using new technologies for reducing processing times	Asia	6.45	19.35			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R02	Using new technologies for reducing processing times	Europe	12.9	24.73			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R02	Using new technologies for reducing processing times	Oceania		4.3			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R03	Improving or changing methodologies, such as flash estimates	Africa	10.75	7.53			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R03	Improving or changing methodologies, such as flash estimates	Americas	9.68	4.3			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R03	Improving or changing methodologies, such as flash estimates	Asia	12.9	12.9			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R03	Improving or changing methodologies, such as flash estimates	Europe	13.98	23.66			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R03	Improving or changing methodologies, such as flash estimates	Oceania	3.23	1.08			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R04	Meeting with data providers to agree on deadlines	Africa	9.68	8.6			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R04	Meeting with data providers to agree on deadlines	Americas	5.38	8.6			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R04	Meeting with data providers to agree on deadlines	Asia	6.45	19.35			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R04	Meeting with data providers to agree on deadlines	Europe	12.9	24.73			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R04	Meeting with data providers to agree on deadlines	Oceania		4.3			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R05	Releasing preliminary data to users	Africa	8.6	9.68			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R05	Releasing preliminary data to users	Americas	5.38	8.6			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R05	Releasing preliminary data to users	Asia	10.75	15.05			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R05	Releasing preliminary data to users	Europe	13.98	23.66			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R05	Releasing preliminary data to users	Oceania	2.15	2.15			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R06	Using standardized dissemination protocols, such as Special Data Dissemination Standard	Africa	7.53	10.75			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R06	Using standardized dissemination protocols, such as Special Data Dissemination Standard	Americas	5.38	8.6			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R06	Using standardized dissemination protocols, such as Special Data Dissemination Standard	Asia	10.75	15.05			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R06	Using standardized dissemination protocols, such as Special Data Dissemination Standard	Europe	12.9	24.73			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R06	Using standardized dissemination protocols, such as Special Data Dissemination Standard	Oceania	3.23	1.08			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R07	Using staff overtime or hiring temporary staff	Africa	8.6	9.68			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R07	Using staff overtime or hiring temporary staff	Americas	3.23	10.75			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R07	Using staff overtime or hiring temporary staff	Asia	6.45	19.35			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R07	Using staff overtime or hiring temporary staff	Europe	24.73	12.9			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R07	Using staff overtime or hiring temporary staff	Oceania		4.3			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R08	None of the above	Africa	18.28				
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R08	None of the above	Americas	13.98				
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R08	None of the above	Asia	25.81				
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R08	None of the above	Europe	37.63				
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R08	None of the above	Oceania	4.3				
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R09	Other	Africa	17.2	1.08			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R09	Other	Americas	13.98				
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R09	Other	Asia	25.81				
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R09	Other	Europe	36.56	1.08			
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R09	Other	Oceania	4.3				
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R10	Other (detail)	Africa			1.08		17.2
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R10	Other (detail)	Americas					13.98
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R10	Other (detail)	Asia					25.81
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R10	Other (detail)	Europe				1.08	36.56
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins	R10	Other (detail)	Oceania					4.3

@@ -1,0 +1,2 @@
+QuestionID	QuestionText	BlockID	BlockText	150+	As appropriate, it varies. If there is a launch of a new statistical product or prior to a major release, there will be more events.	More than 100	Once over the five-year period	Once per year	Seminars are regularly held	Twice or more per year	Twice over the five-year period	NA
+Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		1.08	1.08	1.08	2.15	11.83	1.08	73.12	2.15	6.45
