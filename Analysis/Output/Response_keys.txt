@@ -84,7 +84,7 @@ Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, president
 Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law	Statistical offices at the sub-national level (region, province, etc.)	Statistical services in line ministries	Statistical services in the Central Bank	Custodians of administrative data	Chambers of commerce or other business networks	Trade unions	Statistical research and training centres 	Private institutions	Supra-national bodies (e.g. Eurostat)	Other	None Of The Above	Other (detail)					
 Q07.2b	How the enforceability "sanctions for not responding to mandatory statistical enquiries” is decided for specific surveys																	
 Q07.3	How the NSO has encouraged respondents to answer surveys during the past five years	By launching awareness campaigns prior to censuses or large surveys	By sending pre-announcement letters	By requesting informed consent	By providing an explanatory text on the front page of the survey	By applying fines for not responding	By declaring the census day national holiday	Other	None Of The Above	Other (detail)								
-Q07.4 	Person/office within the government to whom the head of the NSO reports																	
+Q07.4 	Person/office within the government to whom the head of the NSO reports		Other (detail)															
 Q07.5 	A Freedom of Information or Access to Information law covers the NSS																	
 Q07.6 	Regulations affect the functioning of the NSOs published on the website																	
 Q07.7 	Additional comments on challenges to the implementation of Principle 7																	

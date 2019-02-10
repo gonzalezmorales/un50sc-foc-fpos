@@ -395,6 +395,7 @@ C355	Q07.3	R07	How the NSO has encouraged respondents to answer surveys during t
 C355a	Q07.3	R09	How the NSO has encouraged respondents to answer surveys during the past five years	Other (detail)
 C356	Q07.3	R08	How the NSO has encouraged respondents to answer surveys during the past five years	None Of The Above
 C357	Q07.4 	R01	Person/office within the government to whom the head of the NSO reports	
+C357a	Q07.4 	R02	Person/office within the government to whom the head of the NSO reports	Other (detail)
 C358	Q07.5 	R01	A Freedom of Information or Access to Information law covers the NSS	
 C359	Q07.6 	R01	Regulations affect the functioning of the NSOs published on the website	
 C360	Q07.7 	R01	Additional comments on challenges to the implementation of Principle 7	
