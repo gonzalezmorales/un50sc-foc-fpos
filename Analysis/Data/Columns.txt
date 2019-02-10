@@ -74,6 +74,7 @@ C67	Q01.4	R13	Measures currently in place for disseminating statistics	Other
 C67a	Q01.4	R14	Measures currently in place for disseminating statistics	Other (detail)
 C68	Q01.4a	R01	Statistics covered in the calendar	
 C69	Q01.4b	R01	Time span of the calendar	
+C69a	Q01.4b	R02	Time span of the calendar	Other (detail)
 C70	Q01.4c	R01	Frequency of adjustments to the release dates specified in the calendar	
 C71	Q01.5	R01	Circumstances under which NSS needed approval to publish statistical information, and from whom, in the last five years	
 C72	Q01.6	R01	Groups of users given access to statistics prior to their public release in the past five years	Media
@@ -91,6 +92,7 @@ C82	Q01.7a	R02	Conditions for online access to aggregates and/or microdata	After
 C83	Q01.7a	R03	Conditions for online access to aggregates and/or microdata	Under publicly available terms of use
 C84	Q01.7a	R04	Conditions for online access to aggregates and/or microdata	After signing a licensing agreement
 C85	Q01.7a	R05	Conditions for online access to aggregates and/or microdata	Other
+C85a	Q01.7a	R06	Conditions for online access to aggregates and/or microdata	Other (detail)
 C86	Q01.7b	R01	Conditions for re-distribution of anonymized microdata data and aggregates	For non-commercial purposes
 C87	Q01.7b	R02	Conditions for re-distribution of anonymized microdata data and aggregates	For commercial purposes
 C88	Q01.7b	R03	Conditions for re-distribution of anonymized microdata data and aggregates	For a fee
@@ -245,6 +247,7 @@ C221	Q04.3	R09	Activities carried out by the NSO/NSS to educate data users in th
 C222	Q04.3	R10	Activities carried out by the NSO/NSS to educate data users in the past five years, including the media	Other
 C222a	Q04.3	R11	Activities carried out by the NSO/NSS to educate data users in the past five years, including the media	Other (detail)
 C223	Q04.3a	R01	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	
+C223a	Q04.3a	R02	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	Other (detail)
 C224	Q04.4	R01	The NSO/NSS carries out user-engagement activities to better understand users' needs	
 C225	Q04.4a	R01	Details on user-engagement activities carried out by NSO/NSS to better understand users' needs	
 C226	Q04.4b	R01	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	

@@ -78,7 +78,7 @@ Q06.1a	Confidentiality provision in the laws applies to…	137	142	Asia	35	South
 Q06.1a	Confidentiality provision in the laws applies to…	208	150	Europe	39	Southern Europe			Slovenia	705	SVN				Developed	NSS
 Q06.1a	Confidentiality provision in the laws applies to…	43	2	Africa	202	Sub-Saharan Africa	18	Southern Africa	South Africa	710	ZAF				Developing	NSO
 Q06.1a	Confidentiality provision in the laws applies to…	209	150	Europe	39	Southern Europe			Spain	724	ESP				Developed	NSS
-Q06.1a	Confidentiality provision in the laws applies to…	149	142	Asia	34	Southern Asia			Sri Lanka	144	LKA				Developing	NSO, NSS
+Q06.1a	Confidentiality provision in the laws applies to…	149	142	Asia	34	Southern Asia			Sri Lanka	144	LKA				Developing	NSS
 Q06.1a	Confidentiality provision in the laws applies to…	110	19	Americas	419	Latin America and the Caribbean	5	South America	Suriname	740	SUR			1	Developing	NSO
 Q06.1a	Confidentiality provision in the laws applies to…	193	150	Europe	154	Northern Europe			Sweden	752	SWE				Developed	NSS
 Q06.1a	Confidentiality provision in the laws applies to…	219	150	Europe	155	Western Europe			Switzerland	756	CHE				Developed	NSS
