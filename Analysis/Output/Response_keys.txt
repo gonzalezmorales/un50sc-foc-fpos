@@ -96,7 +96,7 @@ Q08.5	Existence of a central data portal where different members of the NSS publ
 Q08.5a	Details of data portal where different members of the NSS publish official statistical data																	
 Q08.5b	Reasons/challenges explaining lack of data portal where different members of the NSS publish official statistical data																	
 Q08.6	Additional comments on challenges for the implementation of Principle 8																	
-Q09.1	Version of the SNA currently used																	
+Q09.1	Version of the SNA currently used		Other (detail)															
 Q09.1a	Details on version of SNA currently used																	
 Q09.2	Extent to which Principles and Recommendations for Population and Housing Censuses, Rev. 3 (for census undertaken after 2015) or Rev. 2 (for census undertaken before 2015) are being implemented in the latest census programme																	
 Q09.2a	Main reasons/challenges explaining why principles and Recommendations for Population and Housing Censuses, Rev. 3 (for census undertaken after 2015) or Rev. 2 (for census undertaken before 2015) are being implemented partially or not implemented in the latest census programme																	

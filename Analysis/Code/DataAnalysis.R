@@ -247,6 +247,8 @@ for(q in 1:nrow(response.keys)){
   
   assign(table.name, x[Answer!="0",])
   
+  
+  
   writeTable2tab(get(table.name),paste("Output/",table.name,".txt", sep = ""))
   
 }
