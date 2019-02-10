@@ -1,12 +1,12 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
-Q05.1a	How administrative records are currently used	R01	1	1	14	11	22	34	4	85	82.3529411764706	84.6153846153846	91.6666666666667	97.1428571428571	100	91.3978494623656
-Q05.1a	How administrative records are currently used	R02	1	1	9	9	18	33	4	73	52.9411764705882	69.2307692307692	75	94.2857142857143	100	78.494623655914
-Q05.1a	How administrative records are currently used	R03	1	1	10	6	15	31	3	65	58.8235294117647	46.1538461538462	62.5	88.5714285714286	75	69.8924731182796
-Q05.1a	How administrative records are currently used	R04	1	1	12	10	16	33	3	74	70.5882352941177	76.9230769230769	66.6666666666667	94.2857142857143	75	79.5698924731183
-Q05.1a	How administrative records are currently used	R05	1	1	8	7	13	31	3	62	47.0588235294118	53.8461538461538	54.1666666666667	88.5714285714286	75	66.6666666666667
-Q05.1a	How administrative records are currently used	R06	1	1	5	4	11	23	2	45	29.4117647058824	30.7692307692308	45.8333333333333	65.7142857142857	50	48.3870967741936
-Q05.1a	How administrative records are currently used	R08	1	1		2		1	1	4		15.3846153846154		2.85714285714286	25	4.3010752688172
-Q05.1a	How administrative records are currently used	R09	1	Data Integration					1	1					25	1.0752688172043
-Q05.1a	How administrative records are currently used	R09	1	Linking to census and survey sources to add information content.				1		1				2.85714285714286		1.0752688172043
-Q05.1a	How administrative records are currently used	R09	1	Quality Assurance Purposes		1				1		7.69230769230769				1.0752688172043
-Q05.1a	How administrative records are currently used	R09	1	Research		1				1		7.69230769230769				1.0752688172043
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	1	14	11	22	34	4	85	82.3529411764706	84.6153846153846	91.6666666666667	97.1428571428571	100	91.3978494623656
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	1	9	9	18	33	4	73	52.9411764705882	69.2307692307692	75	94.2857142857143	100	78.494623655914
+Q05.1a	How administrative records are currently used	R03	As sampling frames	1	10	6	15	31	3	65	58.8235294117647	46.1538461538462	62.5	88.5714285714286	75	69.8924731182796
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	1	12	10	16	33	3	74	70.5882352941177	76.9230769230769	66.6666666666667	94.2857142857143	75	79.5698924731183
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	1	8	7	13	31	3	62	47.0588235294118	53.8461538461538	54.1666666666667	88.5714285714286	75	66.6666666666667
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	1	5	4	11	23	2	45	29.4117647058824	30.7692307692308	45.8333333333333	65.7142857142857	50	48.3870967741936
+Q05.1a	How administrative records are currently used	R08	Other	1		2		1	1	4		15.3846153846154		2.85714285714286	25	4.3010752688172
+Q05.1a	How administrative records are currently used	R09	Other (detail)	Data Integration					1	1					25	1.0752688172043
+Q05.1a	How administrative records are currently used	R09	Other (detail)	Linking to census and survey sources to add information content.				1		1				2.85714285714286		1.0752688172043
+Q05.1a	How administrative records are currently used	R09	Other (detail)	Quality Assurance Purposes		1				1		7.69230769230769				1.0752688172043
+Q05.1a	How administrative records are currently used	R09	Other (detail)	Research		1				1		7.69230769230769				1.0752688172043

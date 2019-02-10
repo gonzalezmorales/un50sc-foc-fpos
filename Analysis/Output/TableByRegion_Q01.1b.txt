@@ -1,23 +1,23 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	1	1	6	5	13	28	2	54	35.2941176470588	38.4615384615385	54.1666666666667	80	50	58.0645161290323
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	1	1	6	4	11	19	2	42	35.2941176470588	30.7692307692308	45.8333333333333	54.2857142857143	50	45.1612903225806
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	1	1	4	1	2	18		25	23.5294117647059	7.69230769230769	8.33333333333333	51.4285714285714		26.8817204301075
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	1	1	6	3	8	27	1	45	35.2941176470588	23.0769230769231	33.3333333333333	77.1428571428572	25	48.3870967741936
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	1	1	6	4	11	29	2	52	35.2941176470588	30.7692307692308	45.8333333333333	82.8571428571429	50	55.9139784946236
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	1	1	5	3	8	19	2	37	29.4117647058824	23.0769230769231	33.3333333333333	54.2857142857143	50	39.7849462365591
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	1	1	5	2	6	15		28	29.4117647058824	15.3846153846154	25	42.8571428571429		30.1075268817204
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	1	1	3	2	7	8	1	21	17.6470588235294	15.3846153846154	29.1666666666667	22.8571428571429	25	22.5806451612903
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	1	1	5	3	7	7	1	23	29.4117647058824	23.0769230769231	29.1666666666667	20	25	24.7311827956989
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	1	1	2	1	1	8		12	11.7647058823529	7.69230769230769	4.16666666666667	22.8571428571429		12.9032258064516
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	1	Analysts, tourism industry, Eurostat				1		1				2.85714285714286		1.0752688172043
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	1	Central Bank; Ministry of Finance	1					1	5.88235294117647					1.0752688172043
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	1	Environmental associations				1		1				2.85714285714286		1.0752688172043
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	1	Lithuanian Bishops' Conference				1		1				2.85714285714286		1.0752688172043
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	1	Ministries and Government bodies, Professional Associations				1		1				2.85714285714286		1.0752688172043
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	1	Ministry representatives				1		1				2.85714285714286		1.0752688172043
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	1	National Bank				1		1				2.85714285714286		1.0752688172043
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	1	National Central Bank, local authorities				1		1				2.85714285714286		1.0752688172043
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	1	Parlement; Banque centrale	1					1	5.88235294117647					1.0752688172043
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	1	Research organizations				1		1				2.85714285714286		1.0752688172043
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	1	Researchers from public, private and academia		1				1		7.69230769230769				1.0752688172043
-Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	1	Students, researchers and businesses			1			1			4.16666666666667			1.0752688172043
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R01	Government employees (administrative staff, technical staff)	1	6	5	13	28	2	54	35.2941176470588	38.4615384615385	54.1666666666667	80	50	58.0645161290323
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R02	Policy-makers (ministers, politicians)	1	6	4	11	19	2	42	35.2941176470588	30.7692307692308	45.8333333333333	54.2857142857143	50	45.1612903225806
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R03	Workers' unions	1	4	1	2	18		25	23.5294117647059	7.69230769230769	8.33333333333333	51.4285714285714		26.8817204301075
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R04	Chamber of commerce or other business networks	1	6	3	8	27	1	45	35.2941176470588	23.0769230769231	33.3333333333333	77.1428571428572	25	48.3870967741936
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R05	Academia and professional associations (e.g. statistical society)	1	6	4	11	29	2	52	35.2941176470588	30.7692307692308	45.8333333333333	82.8571428571429	50	55.9139784946236
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R06	Civil society organizations (e.g., NGOs)	1	5	3	8	19	2	37	29.4117647058824	23.0769230769231	33.3333333333333	54.2857142857143	50	39.7849462365591
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R07	Mass media	1	5	2	6	15		28	29.4117647058824	15.3846153846154	25	42.8571428571429		30.1075268817204
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R08	General public	1	3	2	7	8	1	21	17.6470588235294	15.3846153846154	29.1666666666667	22.8571428571429	25	22.5806451612903
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R09	International organizations, including financial institutions	1	5	3	7	7	1	23	29.4117647058824	23.0769230769231	29.1666666666667	20	25	24.7311827956989
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R10	Other	1	2	1	1	8		12	11.7647058823529	7.69230769230769	4.16666666666667	22.8571428571429		12.9032258064516
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	Other (detail)	Analysts, tourism industry, Eurostat				1		1				2.85714285714286		1.0752688172043
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	Other (detail)	Central Bank; Ministry of Finance	1					1	5.88235294117647					1.0752688172043
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	Other (detail)	Environmental associations				1		1				2.85714285714286		1.0752688172043
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	Other (detail)	Lithuanian Bishops' Conference				1		1				2.85714285714286		1.0752688172043
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	Other (detail)	Ministries and Government bodies, Professional Associations				1		1				2.85714285714286		1.0752688172043
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	Other (detail)	Ministry representatives				1		1				2.85714285714286		1.0752688172043
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	Other (detail)	National Bank				1		1				2.85714285714286		1.0752688172043
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	Other (detail)	National Central Bank, local authorities				1		1				2.85714285714286		1.0752688172043
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	Other (detail)	Parlement; Banque centrale	1					1	5.88235294117647					1.0752688172043
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	Other (detail)	Research organizations				1		1				2.85714285714286		1.0752688172043
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	Other (detail)	Researchers from public, private and academia		1				1		7.69230769230769				1.0752688172043
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years	R11	Other (detail)	Students, researchers and businesses			1			1			4.16666666666667			1.0752688172043

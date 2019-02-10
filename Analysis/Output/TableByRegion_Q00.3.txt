@@ -1,10 +1,10 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
-Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	1	Fully integrated in statistical law or legal framework	14	4	15	22	2	57	82.3529411764706	30.7692307692308	62.5	62.8571428571429	50	61.2903225806452
-Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	1	Not integrated in statistical law or legal framework		1		5		6		7.69230769230769		14.2857142857143		6.45161290322581
-Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	1	Other		1	1	3		5		7.69230769230769	4.16666666666667	8.57142857142857		5.37634408602151
-Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	1	Partially integrated in statistical law or legal framework	3	7	8	5	2	25	17.6470588235294	53.8461538461538	33.3333333333333	14.2857142857143	50	26.8817204301075
-Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	1	Statistical law makes reference to European Statistics Code of Practice				1		1				2.85714285714286		1.0752688172043
-Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	1	There is no formal NSS or institutional framework				1		1				2.85714285714286		1.0752688172043
-Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	1	There is no statistical Law of legal framework			1			1			4.16666666666667			1.0752688172043
-Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	1	UNFPOS adherence, though, not explicitly written in legal framework		1				1		7.69230769230769				1.0752688172043
-Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	1	We follow European Statistics Code of Practice				1		1				2.85714285714286		1.0752688172043
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Fully integrated in statistical law or legal framework	14	4	15	22	2	57	82.3529411764706	30.7692307692308	62.5	62.8571428571429	50	61.2903225806452
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Not integrated in statistical law or legal framework		1		5		6		7.69230769230769		14.2857142857143		6.45161290322581
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Other		1	1	3		5		7.69230769230769	4.16666666666667	8.57142857142857		5.37634408602151
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Partially integrated in statistical law or legal framework	3	7	8	5	2	25	17.6470588235294	53.8461538461538	33.3333333333333	14.2857142857143	50	26.8817204301075
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)	Statistical law makes reference to European Statistics Code of Practice				1		1				2.85714285714286		1.0752688172043
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)	There is no formal NSS or institutional framework				1		1				2.85714285714286		1.0752688172043
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)	There is no statistical Law of legal framework			1			1			4.16666666666667			1.0752688172043
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)	UNFPOS adherence, though, not explicitly written in legal framework		1				1		7.69230769230769				1.0752688172043
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)	We follow European Statistics Code of Practice				1		1				2.85714285714286		1.0752688172043

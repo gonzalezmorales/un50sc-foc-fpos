@@ -1,15 +1,15 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
-Q01.4	Measures currently in place for disseminating statistics	R01	1	1	15	12	22	33	2	84	88.2352941176471	92.3076923076923	91.6666666666667	94.2857142857143	50	90.3225806451613
-Q01.4	Measures currently in place for disseminating statistics	R02	1	1	13	9	14	28	2	66	76.4705882352941	69.2307692307692	58.3333333333333	80	50	70.9677419354839
-Q01.4	Measures currently in place for disseminating statistics	R03	1	1	10	12	18	35	2	77	58.8235294117647	92.3076923076923	75	100	50	82.7956989247312
-Q01.4	Measures currently in place for disseminating statistics	R04	1	1	12	9	17	27	3	68	70.5882352941177	69.2307692307692	70.8333333333333	77.1428571428572	75	73.1182795698925
-Q01.4	Measures currently in place for disseminating statistics	R05	1	1	16	13	24	35	3	91	94.1176470588235	100	100	100	75	97.8494623655914
-Q01.4	Measures currently in place for disseminating statistics	R06	1	1	10	12	21	32	3	78	58.8235294117647	92.3076923076923	87.5	91.4285714285714	75	83.8709677419355
-Q01.4	Measures currently in place for disseminating statistics	R07	1	1	8	9	18	30	4	69	47.0588235294118	69.2307692307692	75	85.7142857142857	100	74.1935483870968
-Q01.4	Measures currently in place for disseminating statistics	R08	1	1	4	7	11	29	3	54	23.5294117647059	53.8461538461538	45.8333333333333	82.8571428571429	75	58.0645161290323
-Q01.4	Measures currently in place for disseminating statistics	R09	1	1	4	5	5	20	1	35	23.5294117647059	38.4615384615385	20.8333333333333	57.1428571428571	25	37.6344086021505
-Q01.4	Measures currently in place for disseminating statistics	R10	1	1	12	12	21	35	4	84	70.5882352941177	92.3076923076923	87.5	100	100	90.3225806451613
-Q01.4	Measures currently in place for disseminating statistics	R13	1	1		2		1		3		15.3846153846154		2.85714285714286		3.2258064516129
-Q01.4	Measures currently in place for disseminating statistics	R14	1	Data users are also able to sign up for email notifications		1				1		7.69230769230769				1.0752688172043
-Q01.4	Measures currently in place for disseminating statistics	R14	1	Quarterly press conferences		1				1		7.69230769230769				1.0752688172043
-Q01.4	Measures currently in place for disseminating statistics	R14	1	geoportal, infographics, etc.				1		1				2.85714285714286		1.0752688172043
+Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	1	15	12	22	33	2	84	88.2352941176471	92.3076923076923	91.6666666666667	94.2857142857143	50	90.3225806451613
+Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	1	13	9	14	28	2	66	76.4705882352941	69.2307692307692	58.3333333333333	80	50	70.9677419354839
+Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	1	10	12	18	35	2	77	58.8235294117647	92.3076923076923	75	100	50	82.7956989247312
+Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	1	12	9	17	27	3	68	70.5882352941177	69.2307692307692	70.8333333333333	77.1428571428572	75	73.1182795698925
+Q01.4	Measures currently in place for disseminating statistics	R05	Using various dissemination media, such as print publications, online pdf files, etc.	1	16	13	24	35	3	91	94.1176470588235	100	100	100	75	97.8494623655914
+Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	1	10	12	21	32	3	78	58.8235294117647	92.3076923076923	87.5	91.4285714285714	75	83.8709677419355
+Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	1	8	9	18	30	4	69	47.0588235294118	69.2307692307692	75	85.7142857142857	100	74.1935483870968
+Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	1	4	7	11	29	3	54	23.5294117647059	53.8461538461538	45.8333333333333	82.8571428571429	75	58.0645161290323
+Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	1	4	5	5	20	1	35	23.5294117647059	38.4615384615385	20.8333333333333	57.1428571428571	25	37.6344086021505
+Q01.4	Measures currently in place for disseminating statistics	R10	Providing user support via e-mail, written correspondence or telephone	1	12	12	21	35	4	84	70.5882352941177	92.3076923076923	87.5	100	100	90.3225806451613
+Q01.4	Measures currently in place for disseminating statistics	R13	Other	1		2		1		3		15.3846153846154		2.85714285714286		3.2258064516129
+Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)	Data users are also able to sign up for email notifications		1				1		7.69230769230769				1.0752688172043
+Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)	Quarterly press conferences		1				1		7.69230769230769				1.0752688172043
+Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)	geoportal, infographics, etc.				1		1				2.85714285714286		1.0752688172043
