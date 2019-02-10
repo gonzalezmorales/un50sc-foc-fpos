@@ -1,8 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	0	1	All ABS Publications have a data quality declaration based on the ABS Data Quality Framework	CBS' Database of Quality Information (metadata repository)	No information  on quality of published data is provided to the users , but  in the  weighing method  non-  response  rate  is implicitly  mentioned.	Statistics Canada uses a variety of methods to ensure our users are well informed about quality.	via metadata descriptions.	websites generally include extensive methodology documents; including documents on key assumptions for missing data.  For example, for "advance" GDP, many key assumptions are made for the missing key source data for the third month of the quarter.	NA
-Q03.2	How users are informed of the quality of published data	R01	As part of metadata provided with the data	18.28	81.72							
-Q03.2	How users are informed of the quality of published data	R02	Via methodological notes	13.98	86.02							
-Q03.2	How users are informed of the quality of published data	R03	Via quality reports	45.16	54.84							
-Q03.2	How users are informed of the quality of published data	R04	In meetings to address data quality  	45.16	54.84							
-Q03.2	How users are informed of the quality of published data	R05	None of the above	96.77	3.23							
-Q03.2	How users are informed of the quality of published data	R06	Other	93.55	6.45							
-Q03.2	How users are informed of the quality of published data	R07	Other (detail)			1.08	1.08	1.08	1.08	1.08	1.08	93.55

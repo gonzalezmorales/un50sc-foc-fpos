@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	No	Yes	NA
-Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		Africa	10.75	7.53	
-Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		Americas	9.68	4.3	
-Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		Asia	11.83	9.68	4.3
-Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		Europe	23.66	12.9	1.08
-Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data	R01		Oceania	3.23	1.08	

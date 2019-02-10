@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	NSO	NSO, NSS	NSS
-Q06.1a	Confidentiality provision in the laws applies to…	R01		Africa	2.15		16.13
-Q06.1a	Confidentiality provision in the laws applies to…	R01		Americas	6.45		7.53
-Q06.1a	Confidentiality provision in the laws applies to…	R01		Asia	7.53	1.08	17.2
-Q06.1a	Confidentiality provision in the laws applies to…	R01		Europe	10.75		26.88
-Q06.1a	Confidentiality provision in the laws applies to…	R01		Oceania	2.15		2.15

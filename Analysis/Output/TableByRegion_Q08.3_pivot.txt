@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	At least once a month, the heads of the primary 13 US statistical agencies meet with the US Chief Statistician.	Central bank once a year, others less frequentlyhers less frequ	For EU statististics; once a year	None of the above	Once over the five-year period	Once per year	Over the past two years, approximately twice per year as part of IDB funded project for organizing and strengthening the NSS	Twice or more per year	Twice over the five-year period
-Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Africa					2.15	2.15		13.98	
-Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Americas	1.08					1.08	1.08	9.68	1.08
-Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Asia				1.08		3.23		20.43	1.08
-Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Europe		1.08	1.08	3.23		5.38		26.88	
-Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Oceania								4.3	

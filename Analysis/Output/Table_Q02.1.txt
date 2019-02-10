@@ -1,4 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q02.1	Chief statistician has direct access to policy-making authorities	R01		Yes	88	94.62
-Q02.1	Chief statistician has direct access to policy-making authorities	R01		No	3	3.23
-Q02.1	Chief statistician has direct access to policy-making authorities	R01			2	2.15

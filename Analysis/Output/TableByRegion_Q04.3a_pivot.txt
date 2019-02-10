@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	150+	As appropriate, it varies. If there is a launch of a new statistical product or prior to a major release, there will be more events.	More than 100	Once over the five-year period	Once per year	Seminars are regularly held	Twice or more per year	Twice over the five-year period	NA
-Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Africa				1.08	2.15		13.98		1.08
-Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Americas	1.08	1.08			3.23		7.53	1.08	
-Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Asia				1.08	2.15		19.35		3.23
-Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Europe			1.08		3.23	1.08	29.03	1.08	2.15
-Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years	R01		Oceania					1.08		3.23		

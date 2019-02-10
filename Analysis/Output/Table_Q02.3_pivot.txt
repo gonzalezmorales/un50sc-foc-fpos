@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	No	Yes
-Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		93.55	6.45

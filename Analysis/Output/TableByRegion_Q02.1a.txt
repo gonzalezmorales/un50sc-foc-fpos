@@ -1,45 +1,16 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	1	Europe	29	31.18
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	1	Africa	13	13.98
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	1	Americas	13	13.98
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	1	Oceania	4	4.3
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	0	Asia	3	3.23
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	0	Europe	6	6.45
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	1	Asia	21	22.58
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	0	Africa	4	4.3
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	1	Europe	16	17.2
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	0	Africa	11	11.83
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	0	Americas	8	8.6
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	1	Oceania	2	2.15
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	0	Europe	19	20.43
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	0	Asia	14	15.05
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	1	Africa	6	6.45
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	1	Americas	5	5.38
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	1	Asia	10	10.75
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	0	Oceania	2	2.15
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	0	Europe	28	30.11
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	0	Africa	15	16.13
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	1	Americas	2	2.15
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	1	Oceania	1	1.08
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	0	Americas	11	11.83
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	0	Asia	24	25.81
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	1	Africa	2	2.15
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	1	Europe	7	7.53
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	0	Oceania	3	3.23
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)		Europe	28	30.11
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)		Africa	15	16.13
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Chief of Cabinet of Ministers	Americas	1	1.08
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Department Head Meetings and regular engagement	Oceania	1	1.08
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)		Americas	11	11.83
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)		Asia	24	25.81
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Rèunions avec la tutelle ministérielle	Africa	1	1.08
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Réunion du Conseil de Cabinet Ministériel de tutelle	Africa	1	1.08
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	The President of the HCSO participates as a permanent invitee at the meeting of the forum preparing the meeting of the Government and shall be invited to the item on the agenda of the meeting of the Government that concerns the tasks of the HCSO	Europe	1	1.08
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Access to key ministerial professional staff	Europe	1	1.08
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Any types of communication (letters, e-mails, telephone, face to face meetings etc)	Europe	1	1.08
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)		Oceania	3	3.23
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Dialouge meetings through ministries	Europe	1	1.08
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	weekly attendance at the regular Government meetings	Europe	1	1.08
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	The Director-General of SURS is a member of the Economic Committee of the Government.	Europe	1	1.08
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Meeting with ministry	Europe	1	1.08
-Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	varies, depending on the situation	Americas	1	1.08
+QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R01	Meetings with Ministers/deputy Ministers	1	13	13	21	29	4	80	76.4705882352941	100	87.5	82.8571428571429	100	86.0215053763441
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R02	Attending Upper/lower house hearings	1	6	5	10	16	2	39	35.2941176470588	38.4615384615385	41.6666666666667	45.7142857142857	50	41.9354838709677
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R03	Other	1	2	2		7	1	12	11.7647058823529	15.3846153846154		20	25	12.9032258064516
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Access to key ministerial professional staff				1		1				2.85714285714286		1.0752688172043
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Any types of communication (letters, e-mails, telephone, face to face meetings etc)				1		1				2.85714285714286		1.0752688172043
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Chief of Cabinet of Ministers		1				1		7.69230769230769				1.0752688172043
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Department Head Meetings and regular engagement					1	1					25	1.0752688172043
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Dialouge meetings through ministries				1		1				2.85714285714286		1.0752688172043
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Meeting with ministry				1		1				2.85714285714286		1.0752688172043
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Rèunions avec la tutelle ministérielle	1					1	5.88235294117647					1.0752688172043
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	Réunion du Conseil de Cabinet Ministériel de tutelle	1					1	5.88235294117647					1.0752688172043
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	The Director-General of SURS is a member of the Economic Committee of the Government.				1		1				2.85714285714286		1.0752688172043
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	The President of the HCSO participates as a permanent invitee at the meeting of the forum preparing the meeting of the Government and shall be invited to the item on the agenda of the meeting of the Government that concerns the tasks of the HCSO				1		1				2.85714285714286		1.0752688172043
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	varies, depending on the situation		1				1		7.69230769230769				1.0752688172043
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities	R04	Other (detail)	weekly attendance at the regular Government meetings				1		1				2.85714285714286		1.0752688172043

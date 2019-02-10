@@ -1,152 +1,28 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	1	Europe	24	25.81
-Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	0	Africa	4	4.3
-Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	1	Americas	11	11.83
-Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	1	Oceania	4	4.3
-Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	0	Europe	11	11.83
-Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	0	Asia	5	5.38
-Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	1	Africa	13	13.98
-Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	0	Americas	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	1	Asia	19	20.43
-Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	1	Europe	32	34.41
-Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	1	Africa	15	16.13
-Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	1	Americas	12	12.9
-Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	1	Oceania	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	0	Americas	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	0	Asia	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	1	Asia	22	23.66
-Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	0	Africa	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	0	Europe	3	3.23
-Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	0	Oceania	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	1	Europe	24	25.81
-Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	0	Africa	4	4.3
-Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	1	Americas	11	11.83
-Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	1	Oceania	3	3.23
-Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	0	Europe	11	11.83
-Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	1	Asia	22	23.66
-Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	1	Africa	13	13.98
-Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	0	Asia	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	0	Americas	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	0	Oceania	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	1	Europe	17	18.28
-Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	0	Africa	6	6.45
-Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	1	Americas	7	7.53
-Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	1	Oceania	3	3.23
-Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	0	Europe	18	19.35
-Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	1	Asia	21	22.58
-Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	0	Asia	3	3.23
-Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	1	Africa	11	11.83
-Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	0	Americas	6	6.45
-Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	0	Oceania	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	0	Europe	31	33.33
-Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	0	Africa	10	10.75
-Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	0	Americas	11	11.83
-Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	1	Oceania	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	0	Asia	17	18.28
-Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	1	Asia	7	7.53
-Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	1	Africa	7	7.53
-Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	1	Americas	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	1	Europe	4	4.3
-Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	0	Oceania	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	0	Europe	32	34.41
-Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	1	Africa	9	9.68
-Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	0	Americas	9	9.68
-Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	1	Oceania	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	0	Asia	17	18.28
-Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	0	Africa	8	8.6
-Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	1	Americas	4	4.3
-Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	1	Asia	7	7.53
-Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	1	Europe	3	3.23
-Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	0	Oceania	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	1	Europe	11	11.83
-Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	0	Africa	12	12.9
-Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	0	Americas	11	11.83
-Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	0	Oceania	4	4.3
-Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	0	Europe	24	25.81
-Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	1	Asia	9	9.68
-Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	1	Africa	5	5.38
-Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	1	Americas	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	0	Asia	15	16.13
-Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	1	Europe	19	20.43
-Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	1	Africa	9	9.68
-Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	0	Americas	8	8.6
-Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	0	Oceania	3	3.23
-Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	0	Europe	16	17.2
-Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	0	Asia	11	11.83
-Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	0	Africa	8	8.6
-Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	1	Americas	5	5.38
-Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	1	Asia	13	13.98
-Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	1	Oceania	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	0	Europe	33	35.48
-Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	0	Africa	12	12.9
-Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	0	Americas	10	10.75
-Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	1	Oceania	3	3.23
-Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	0	Asia	20	21.51
-Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	1	Africa	5	5.38
-Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	1	Americas	3	3.23
-Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	1	Europe	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	1	Asia	4	4.3
-Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	0	Oceania	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	1	Europe	16	17.2
-Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	0	Africa	8	8.6
-Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	0	Americas	8	8.6
-Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	1	Oceania	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	0	Europe	19	20.43
-Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	0	Asia	14	15.05
-Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	1	Africa	9	9.68
-Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	1	Asia	10	10.75
-Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	1	Americas	5	5.38
-Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	0	Oceania	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	1	Europe	23	24.73
-Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	0	Africa	8	8.6
-Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	1	Americas	6	6.45
-Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	0	Oceania	4	4.3
-Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	0	Europe	12	12.9
-Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	0	Americas	7	7.53
-Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	0	Asia	12	12.9
-Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	1	Africa	9	9.68
-Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	1	Asia	12	12.9
-Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	1	Europe	12	12.9
-Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	0	Africa	13	13.98
-Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	0	Americas	9	9.68
-Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	1	Oceania	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	0	Europe	23	24.73
-Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	0	Asia	17	18.28
-Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	1	Africa	4	4.3
-Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	1	Americas	4	4.3
-Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	1	Asia	7	7.53
-Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	0	Oceania	2	2.15
-Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	0	Europe	10	10.75
-Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	0	Africa	5	5.38
-Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	0	Americas	3	3.23
-Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	0	Oceania	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	0	Asia	6	6.45
-Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	1	Africa	12	12.9
-Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	1	Americas	10	10.75
-Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	1	Asia	18	19.35
-Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	1	Europe	25	26.88
-Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	1	Oceania	3	3.23
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)		Europe	28	30.11
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)		Africa	15	16.13
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)		Americas	9	9.68
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)		Oceania	4	4.3
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)		Asia	24	25.81
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Development of a website for the statistical system	Africa	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Bilateral meetings with line ministries	Americas	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Providing technical assistance and statistical advice on use of data	Americas	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Signing of contracts on cooperation and data exchange for official statistics purposes.	Europe	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	This is done for European statistics - official statistics is	Europe	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Share resources between entities to execute statistical operations	Americas	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Meeting with the responsable of the reseach institutions to share knowledge and experience	Africa	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.	Europe	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as	Europe	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews	Europe	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Agreement with the National Central Bank	Europe	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Cooperation at professional/working level	Europe	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Sharing of information and also attachment of staff of other institutions to the NSO	Americas	1	1.08
-Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	0	Europe	34	36.56
-Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	0	Africa	17	18.28
-Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	0	Americas	13	13.98
-Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	0	Oceania	4	4.3
-Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	0	Asia	24	25.81
-Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	1	Europe	1	1.08
+QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
+Q08.2	Activities currently being implemented for coordinating the NSS	R01	Signing of memorandums of understanding between agencies	1	13	11	19	24	4	71	76.4705882352941	84.6153846153846	79.1666666666667	68.5714285714286	100	76.3440860215054
+Q08.2	Activities currently being implemented for coordinating the NSS	R02	Meeting in statistical committees, councils, etc. 	1	15	12	22	32	2	83	88.2352941176471	92.3076923076923	91.6666666666667	91.4285714285714	50	89.247311827957
+Q08.2	Activities currently being implemented for coordinating the NSS	R03	Sharing of information and databases	1	13	11	22	24	3	73	76.4705882352941	84.6153846153846	91.6666666666667	68.5714285714286	75	78.494623655914
+Q08.2	Activities currently being implemented for coordinating the NSS	R04	Developing joint training programmes	1	11	7	21	17	3	59	64.7058823529412	53.8461538461538	87.5	48.5714285714286	75	63.4408602150538
+Q08.2	Activities currently being implemented for coordinating the NSS	R05	Exchanging staff between agencies	1	7	2	7	4	2	22	41.1764705882353	15.3846153846154	29.1666666666667	11.4285714285714	50	23.6559139784946
+Q08.2	Activities currently being implemented for coordinating the NSS	R06	Placement of NSO staff in other agencies	1	9	4	7	3	2	25	52.9411764705882	30.7692307692308	29.1666666666667	8.57142857142857	50	26.8817204301075
+Q08.2	Activities currently being implemented for coordinating the NSS	R07	Reviewing and â€œclearingâ€ any planned data collection	1	5	2	9	11		27	29.4117647058824	15.3846153846154	37.5	31.4285714285714		29.0322580645161
+Q08.2	Activities currently being implemented for coordinating the NSS	R08	Monitoring duplication of work between agencies	1	9	5	13	19	1	47	52.9411764705882	38.4615384615385	54.1666666666667	54.2857142857143	25	50.5376344086022
+Q08.2	Activities currently being implemented for coordinating the NSS	R09	Sharing budget between statistical agencies	1	5	3	4	2	3	17	29.4117647058824	23.0769230769231	16.6666666666667	5.71428571428571	75	18.2795698924731
+Q08.2	Activities currently being implemented for coordinating the NSS	R10	Embarking in joint data collection	1	9	5	10	16	2	42	52.9411764705882	38.4615384615385	41.6666666666667	45.7142857142857	50	45.1612903225806
+Q08.2	Activities currently being implemented for coordinating the NSS	R11	Preparing annual or multi-annual consolidated program of statistical activities	1	9	6	12	23		50	52.9411764705882	46.1538461538462	50	65.7142857142857		53.763440860215
+Q08.2	Activities currently being implemented for coordinating the NSS	R12	Performing regular quality reviews of statistical programs across the NSS	1	4	4	7	12	2	29	23.5294117647059	30.7692307692308	29.1666666666667	34.2857142857143	50	31.1827956989247
+Q08.2	Activities currently being implemented for coordinating the NSS	R13	Other	1	12	10	18	25	3	68	70.5882352941177	76.9230769230769	75	71.4285714285714	75	73.1182795698925
+Q08.2	Activities currently being implemented for coordinating the NSS	R14	None Of The Above	1				1		1				2.85714285714286		1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	A selection of other national statistical authorities are also monitored by the European Statistical System's Peer Reviews				1		1				2.85714285714286		1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Agreement with the National Central Bank				1		1				2.85714285714286		1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Bilateral meetings with line ministries		1				1		7.69230769230769				1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Cooperation at professional/working level				1		1				2.85714285714286		1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Development of a website for the statistical system	1					1	5.88235294117647					1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Meeting with the responsable of the reseach institutions to share knowledge and experience	1					1	5.88235294117647					1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Monitoring by ELSTAT of the compliance of ELSS agencies with the European Statistics Code of Practice, in the framework of the obligation of ELSTAT provided for in the Greek Statistical Law to certify as				1		1				2.85714285714286		1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Providing technical assistance and statistical advice on use of data		1				1		7.69230769230769				1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Share resources between entities to execute statistical operations		1				1		7.69230769230769				1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Sharing of information and also attachment of staff of other institutions to the NSO		1				1		7.69230769230769				1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	Signing of contracts on cooperation and data exchange for official statistics purposes.				1		1				2.85714285714286		1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	The statistical offices of the federation and the laender are preparing consolidated programs of statistical activities, including regular quality reviews, but this is not the case for the entire NSS so far.				1		1				2.85714285714286		1.0752688172043
+Q08.2	Activities currently being implemented for coordinating the NSS	R15	Other (detail)	This is done for European statistics - official statistics is				1		1				2.85714285714286		1.0752688172043

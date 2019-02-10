@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	50% or more	Less than 50%	NA
-Q03.3c	Proportion of the datasets released in the last two years by the NSO which included metadata	R01		Africa	9.68	2.15	6.45
-Q03.3c	Proportion of the datasets released in the last two years by the NSO which included metadata	R01		Americas	10.75		3.23
-Q03.3c	Proportion of the datasets released in the last two years by the NSO which included metadata	R01		Asia	19.35	4.3	2.15
-Q03.3c	Proportion of the datasets released in the last two years by the NSO which included metadata	R01		Europe	32.26	1.08	4.3
-Q03.3c	Proportion of the datasets released in the last two years by the NSO which included metadata	R01		Oceania	2.15	1.08	1.08

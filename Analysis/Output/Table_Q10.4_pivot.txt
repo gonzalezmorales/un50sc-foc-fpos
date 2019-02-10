@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	No	Yes
-Q10.4	The NSO participates in or contributes to organizations or partnerships whose purpose is to promote open data	R01		39.78	60.22

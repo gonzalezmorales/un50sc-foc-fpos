@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	No	Yes	NA
-Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01		7.53	91.4	1.08

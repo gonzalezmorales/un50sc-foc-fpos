@@ -1,18 +1,5 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q09.5	SDMX currently in use	R01		Partially, only in some statistical domains or data sets	Europe	11	11.83
-Q09.5	SDMX currently in use	R01		No	Africa	7	7.53
-Q09.5	SDMX currently in use	R01		Partially, only in some statistical domains or data sets	Americas	6	6.45
-Q09.5	SDMX currently in use	R01		Yes	Oceania	2	2.15
-Q09.5	SDMX currently in use	R01		Yes	Europe	22	23.66
-Q09.5	SDMX currently in use	R01		No	Europe	2	2.15
-Q09.5	SDMX currently in use	R01		Do not know	Americas	1	1.08
-Q09.5	SDMX currently in use	R01		Yes	Asia	4	4.3
-Q09.5	SDMX currently in use	R01		Partially, only in some statistical domains or data sets	Africa	7	7.53
-Q09.5	SDMX currently in use	R01		No	Asia	13	13.98
-Q09.5	SDMX currently in use	R01		Yes	Americas	4	4.3
-Q09.5	SDMX currently in use	R01		No	Americas	2	2.15
-Q09.5	SDMX currently in use	R01		Yes	Africa	2	2.15
-Q09.5	SDMX currently in use	R01		Partially, only in some statistical domains or data sets	Asia	7	7.53
-Q09.5	SDMX currently in use	R01		Partially, only in some statistical domains or data sets	Oceania	1	1.08
-Q09.5	SDMX currently in use	R01		No	Oceania	1	1.08
-Q09.5	SDMX currently in use	R01		Do not know	Africa	1	1.08
+QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
+Q09.5	SDMX currently in use	R01		Do not know	1	1				2	5.88235294117647	7.69230769230769				2.1505376344086
+Q09.5	SDMX currently in use	R01		No	7	2	13	2	1	25	41.1764705882353	15.3846153846154	54.1666666666667	5.71428571428571	25	26.8817204301075
+Q09.5	SDMX currently in use	R01		Partially, only in some statistical domains or data sets	7	6	7	11	1	32	41.1764705882353	46.1538461538462	29.1666666666667	31.4285714285714	25	34.4086021505376
+Q09.5	SDMX currently in use	R01		Yes	2	4	4	22	2	34	11.7647058823529	30.7692307692308	16.6666666666667	62.8571428571429	50	36.5591397849462

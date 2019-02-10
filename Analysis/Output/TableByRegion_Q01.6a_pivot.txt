@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	No	Yes, always	Yes, in some cases	NA
-Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Africa	4.3	1.08	3.23	9.68
-Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Americas	4.3	7.53		2.15
-Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Asia	6.45	3.23	3.23	12.9
-Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Europe	1.08	13.98	1.08	21.51
-Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Oceania	1.08	2.15		1.08

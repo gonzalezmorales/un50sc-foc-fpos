@@ -1,5 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01			44	47.31
-Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		No	16	17.2
-Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Yes, always	26	27.96
-Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Yes, in some cases	7	7.53

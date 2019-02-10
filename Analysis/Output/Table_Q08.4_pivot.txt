@@ -1,7 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	0	1	ARC under DOSM	Data dissemination is dictated by the producing agencies.	Dissemination  calendar is at NSO level  only.	Key statistics are released in Yearbook of Statistics and Economic Survey of Singapore	Research Data Centres of official statistrics, coordinated between the Federal Statistical Office and the Research Data Centre of the Statistical Offices of the Federal States.	There is no coordinated dissemination portal	coordination is implemented indirectly through the principles of the Code of Practice;	meeting, trainning	NA
-Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	69.89	30.11									
-Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	92.47	7.53									
-Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	80.65	19.35									
-Q08.4	How is dissemination coordinated across the NSS	R04	Other	91.4	8.6									
-Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	54.84	45.16									
-Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)			1.08	1.08	1.08	1.08	1.08	1.08	1.08	1.08	91.4

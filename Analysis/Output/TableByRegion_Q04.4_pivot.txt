@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	No	Yes	NA
-Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		Africa	3.23	15.05	
-Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		Americas	1.08	11.83	1.08
-Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		Asia	2.15	23.66	
-Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		Europe	5.38	31.18	1.08
-Q04.4	The NSO/NSS carries out user-engagement activities to better understand users' needs	R01		Oceania		4.3	

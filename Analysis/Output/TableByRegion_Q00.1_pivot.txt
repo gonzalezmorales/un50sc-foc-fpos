@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	Both NSO & NSS	National Statistical Office (NSO)	National Statistical System (NSS)	Senior Statistician
-Q00.1	Answering on behalf of	R01		Africa		16.13	1.08	1.08
-Q00.1	Answering on behalf of	R01		Americas	1.08	10.75	2.15	
-Q00.1	Answering on behalf of	R01		Asia		23.66	2.15	
-Q00.1	Answering on behalf of	R01		Europe		32.26	5.38	
-Q00.1	Answering on behalf of	R01		Oceania		3.23	1.08	

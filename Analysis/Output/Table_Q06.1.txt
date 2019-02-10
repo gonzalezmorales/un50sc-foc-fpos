@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q06.1	There is a confidentiality provision in the laws that regulate the NSO/NSS	R01		Yes	93	100

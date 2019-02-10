@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	No	Yes
-Q07.1	Existence of a general statistics law in the country	R01		3.23	96.77

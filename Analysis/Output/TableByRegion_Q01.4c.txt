@@ -1,22 +1,5 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		1	Europe	17	18.28
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		3	Africa	5	5.38
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		1	Americas	7	7.53
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		3	Oceania	1	1.08
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	Europe	9	9.68
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		3	Europe	7	7.53
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01			Asia	6	6.45
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01			Africa	7	7.53
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	Africa	1	1.08
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		3	Americas	2	2.15
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		3	Asia	5	5.38
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	Americas	3	3.23
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		1	Africa	4	4.3
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		4	Europe	1	1.08
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		1	Asia	8	8.6
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01			Europe	1	1.08
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01			Americas	1	1.08
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	Asia	4	4.3
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	Oceania	1	1.08
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01			Oceania	2	2.15
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		4	Asia	1	1.08
+QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		1	4	7	8	17		36	23.5294117647059	53.8461538461538	33.3333333333333	48.5714285714286		38.7096774193548
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	1	3	4	9	1	18	5.88235294117647	23.0769230769231	16.6666666666667	25.7142857142857	25	19.3548387096774
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		3	5	2	5	7	1	20	29.4117647058824	15.3846153846154	20.8333333333333	20	25	21.505376344086
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		4			1	1		2			4.16666666666667	2.85714285714286		2.1505376344086

@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	NA
-Q03.3a	Reasons why no accompanying text is provided with published data	R01		100

@@ -1,24 +1,11 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		For different users group at least one meeting per year	Europe	1	1.08
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01			Africa	11	11.83
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01			Americas	8	8.6
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Twice per year or more frequent	Oceania	2	2.15
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Twice per year or more frequent	Europe	23	24.73
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01			Europe	5	5.38
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01			Asia	12	12.9
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Once per year	Africa	2	2.15
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Twice per year or more frequent	Americas	3	3.23
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Twice per year or more frequent	Asia	6	6.45
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Once per year	Americas	2	2.15
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Task forces and (specialised) working groups on special issues, e.g. for further development of the legal framework and the statistical programme	Europe	1	1.08
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Once per year	Asia	4	4.3
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Once per year	Europe	1	1.08
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Twice per year or more frequent	Africa	3	3.23
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Several and also decentralized in the user groups	Europe	1	1.08
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01			Oceania	2	2.15
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Once per month	Europe	1	1.08
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Two	Africa	1	1.08
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Once per year or more frequent	Asia	1	1.08
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		more than 20	Europe	1	1.08
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		two meetings in the year of set up - 2018	Europe	1	1.08
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Two	Asia	1	1.08
+QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
+Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		For different users group at least one meeting per year				1		1				2.85714285714286		1.0752688172043
+Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Once per month				1		1				2.85714285714286		1.0752688172043
+Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Once per year	2	2	4	1		9	11.7647058823529	15.3846153846154	16.6666666666667	2.85714285714286		9.67741935483871
+Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Once per year or more frequent			1			1			4.16666666666667			1.0752688172043
+Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Several and also decentralized in the user groups				1		1				2.85714285714286		1.0752688172043
+Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Task forces and (specialised) working groups on special issues, e.g. for further development of the legal framework and the statistical programme				1		1				2.85714285714286		1.0752688172043
+Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Twice per year or more frequent	3	3	6	23	2	37	17.6470588235294	23.0769230769231	25	65.7142857142857	50	39.7849462365591
+Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Two	1		1			2	5.88235294117647		4.16666666666667			2.1505376344086
+Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		more than 20				1		1				2.85714285714286		1.0752688172043
+Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		two meetings in the year of set up - 2018				1		1				2.85714285714286		1.0752688172043

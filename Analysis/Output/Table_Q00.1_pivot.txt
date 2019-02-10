@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Both NSO & NSS	National Statistical Office (NSO)	National Statistical System (NSS)	Senior Statistician
-Q00.1	Answering on behalf of	R01		1.08	86.02	11.83	1.08

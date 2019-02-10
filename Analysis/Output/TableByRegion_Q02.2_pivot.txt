@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	No	Yes
-Q02.2	Existence of clear rules for appointment and dismissal of the head of NSO	R01		Africa	4.3	13.98
-Q02.2	Existence of clear rules for appointment and dismissal of the head of NSO	R01		Americas	3.23	10.75
-Q02.2	Existence of clear rules for appointment and dismissal of the head of NSO	R01		Asia	4.3	21.51
-Q02.2	Existence of clear rules for appointment and dismissal of the head of NSO	R01		Europe	2.15	35.48
-Q02.2	Existence of clear rules for appointment and dismissal of the head of NSO	R01		Oceania		4.3

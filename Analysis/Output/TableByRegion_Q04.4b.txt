@@ -1,13 +1,8 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01			Europe	31	33.33
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01			Africa	15	16.13
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01			Americas	12	12.9
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01			Oceania	4	4.3
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01			Asia	24	25.81
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		poor attention of users	Europe	1	1.08
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Lack of human and financial resources	Europe	1	1.08
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		le budget alloué à  l'INS n'est pas suffisants pour réaliser ces activités.	Africa	1	1.08
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		The NSO still working in the best way to realice this type of activities.	Africa	1	1.08
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Lacking resources	Europe	1	1.08
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		We have intention to conduct such activities in the future	Europe	1	1.08
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Disappointment with the very low response rates of user satisfaction surveys	Americas	1	1.08
+QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
+Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Disappointment with the very low response rates of user satisfaction surveys		1				1		7.69230769230769				1.0752688172043
+Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Lack of human and financial resources				1		1				2.85714285714286		1.0752688172043
+Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Lacking resources				1		1				2.85714285714286		1.0752688172043
+Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		The NSO still working in the best way to realice this type of activities.	1					1	5.88235294117647					1.0752688172043
+Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		We have intention to conduct such activities in the future				1		1				2.85714285714286		1.0752688172043
+Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		le budget alloué à  l'INS n'est pas suffisants pour réaliser ces activités.	1					1	5.88235294117647					1.0752688172043
+Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		poor attention of users				1		1				2.85714285714286		1.0752688172043

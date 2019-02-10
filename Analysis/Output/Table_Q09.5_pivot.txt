@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Do not know	No	Partially, only in some statistical domains or data sets	Yes
-Q09.5	SDMX currently in use	R01		2.15	26.88	34.41	36.56

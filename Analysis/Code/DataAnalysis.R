@@ -23,15 +23,10 @@ source('Code/f_writeTable2tab.r')
 responses <- read.tab2dataTable("Data/CleanResponses.txt")
 columns   <- read.tab2dataTable("Data/Columns.txt")
 
-
-#=====================================
-# Organize questions into individual files
-#=====================================
-
 countryInfo <- names(responses)[1:14]
 
 #-----------------------------
-# T0.0 -- Respondents Details
+#  Respondents Details
 #-----------------------------
 
 # Select columns from main "responses" file
@@ -56,8 +51,10 @@ response.keys <- dcast(columns[substr(QuestionID, 1, 1) != "X",], QuestionID + Q
 
 writeTable2tab( response.keys , "Output/Response_keys.txt" )
 
-#------------------------------
-  
+#------------------------------------------------
+# Separate response data fo individual quesitons
+#------------------------------------------------
+
 for(i in 1:nrow(questions))
 #for(i in 1:1)
 {
@@ -94,8 +91,7 @@ rm(list = c("questions",
             "question.responses", 
             "response.labels",
             "countryInfo",
-            "responses",
-            "columns"))
+            "responses"))
 
 #====================================
 # ANALYSIS
@@ -138,75 +134,6 @@ svg(filename="PlotTX.RespondentsByRegion.svg", width=6, height=4)
 dev.off()
 
 #==================================
-# SUMMARY TABLES - Major aggregates
-#==================================
-
-for(q in 1:nrow(response.keys)){
-  
-  QuestionID <- response.keys[q, QuestionID]
-  QuestionText <- response.keys[q,QuestionText]
-  
-  responses <- read.tab2dataTable(paste("Output/Responses_",QuestionID,".txt",sep=""))
-  
-  response.columns <- names(responses[,-(1:16),with = FALSE])
-  
-  if(length(response.columns) == 1){
-      
-      response.labels <- QuestionText
-      
-      summary <- responses[, .(.N), by = R01]
-      summary[, Percentage := round(N/nrow(responses)*100,2)]
-  
-      summary <- cbind(QuestionID, QuestionText, eval(response.columns[1]), "", summary)
-      setnames(summary, "V3", "BlockID")
-      setnames(summary, "V4", "BlockText")
-      
-      setnames(summary, eval(response.columns[1]), "Answer")
-      
-    } else {
-      
-      response.labels <- unlist(response.keys[q, response.columns, with = FALSE])
-      
-      summary <- responses[, .(.N), by = eval(response.columns[1])]
-      summary[, Percentage := round(N/nrow(responses)*100,2)]
-      
-      summary <- cbind(QuestionID, QuestionText, eval(response.columns[1]), response.labels[1], summary)
-  
-      setnames(summary, "V3", "BlockID")
-      setnames(summary, "V4", "BlockText")
-      setnames(summary, eval(response.columns[1]), "Answer")
-      
-      for (i in 2:length(response.columns))
-      {
-        summary.b <- responses[, .(.N), by = eval(response.columns[i])]
-        summary.b[, Percentage := round(N/nrow(responses)*100,2)]
-       
-        summary.b <- cbind(QuestionID, QuestionText, eval(response.columns[i]), response.labels[i], summary.b)
-        
-        setnames(summary.b, "V3", "BlockID")
-        setnames(summary.b, "V4", "BlockText")
-        setnames(summary.b, eval(response.columns[i]), "Answer")
-  
-        summary <- rbind(summary, summary.b)
-        
-      }
-      
-      
-      rm(list = c("summary.b"))
-      
-    }
-  
-  table.name <- paste("Table_",QuestionID, sep="")
-  
-  assign(table.name, summary)
-  
-  writeTable2tab(get(table.name),paste("Output/",table.name,".txt", sep = ""))
-  
-  
-}
-
-
-#==================================
 # SUMMARY TABLES - By region
 #==================================
 
@@ -240,15 +167,14 @@ for(q in 1:nrow(response.keys)){
     
     setnames(summary, eval(response.columns[1]), "Answer")
     
-    
+    rm(list = c("summaryT"))
     
   } else {
     
     response.labels <- unlist(response.keys[q, response.columns, with = FALSE])
     
-    
     summary <- responses[, .(.N), by = list(R01, RegionName)]
-    summary <- summary %>% group_by(RegionName) %>% mutate(Percentage = (N/sum(N) * 100))
+    summary <- summary %>% group_by(RegionName) %>% mutate(Percentage = N/sum(N) * 100)
     
     summaryT <- responses[, .(.N), by = list(R01)]
     summaryT <- summaryT %>% mutate(RegionName = "TOTAL") %>% mutate(Percentage = (N/sum(N) * 100))
@@ -258,6 +184,8 @@ for(q in 1:nrow(response.keys)){
     summaryT <- as.data.table(summaryT)
     
     summary <- rbind(summary,summaryT)
+    rm(list = c("summaryT"))
+    
     
     summary <- cbind(QuestionID, QuestionText, eval(response.columns[1]), response.labels[1], summary)
     setnames(summary, "V3", "BlockID")
@@ -273,7 +201,7 @@ for(q in 1:nrow(response.keys)){
       summary.b <- responses[, .(.N), by = eval(c(response.columns[i], "RegionName"))]
       summary.b <- summary.b %>% group_by(RegionName) %>% mutate(Percentage = (N/sum(N) * 100))
       
-      summaryT.b <- responses[, .(.N), by = eval(c(response.columns[i], "RegionName"))]
+      summaryT.b <- responses[, .(.N), by = eval(c(response.columns[i]))]
       summaryT.b <- summaryT.b %>% mutate(RegionName = "TOTAL") %>% mutate(Percentage = (N/sum(N) * 100))
       
       
@@ -281,6 +209,8 @@ for(q in 1:nrow(response.keys)){
       summaryT.b <- as.data.table(summaryT.b)
       
       summary.b <- rbind(summary.b,summaryT.b)
+      rm(list = c("summaryT.b"))
+      
       
       summary.b <- cbind(QuestionID, QuestionText, eval(response.columns[i]), response.labels[i], summary.b)
       setnames(summary.b, "V3", "BlockID")
@@ -297,36 +227,28 @@ for(q in 1:nrow(response.keys)){
   }
   
   
-  x <- dcast(summary, 
+  x.N <- dcast(summary, 
+               QuestionID + QuestionText + BlockID + BlockText + Answer ~ RegionName, 
+               value.var = "N")
+  
+  
+  x.P <- dcast(summary, 
              QuestionID + QuestionText + BlockID + BlockText + Answer ~ RegionName, 
              value.var = "Percentage")
   
+  x <- merge(x.N, x.P, 
+             by = c("QuestionID","QuestionText","BlockID","BlockText","Answer"), 
+             all = TRUE,
+             suffixes = c(".N", ".P"))
+  
+  
+  
   table.name <- paste("TableByRegion_",QuestionID, sep="")
   
-  assign(table.name, summary)
+  assign(table.name, x[Answer!="0",])
   
   writeTable2tab(get(table.name),paste("Output/",table.name,".txt", sep = ""))
   
-  
 }
 
-#==================================
-# SUMMARY TABLES - Pivot tables
-#==================================
-
-for(q in 1:nrow(response.keys)){
-  
-  
-  QuestionID <- response.keys[q, QuestionID]
-  
-  table.name <- paste("Table_",QuestionID, sep="")
-  table.name.ByRegion <- paste("TableByRegion_",QuestionID, sep="")
-  
-  x <- dcast(get(table.name), QuestionID + QuestionText + BlockID + BlockText ~ Answer, value.var = "Percentage")
-  x.Region <- dcast(get(table.name.ByRegion), QuestionID + QuestionText + BlockID + BlockText + RegionName~ Answer, value.var = "Percentage")
-
-  writeTable2tab(x , paste("Output/", table.name, "_pivot.txt" , sep = ""))
-  writeTable2tab(x.Region , paste("Output/", table.name.ByRegion, "_pivot.txt", sep = ""))
-
-}
-
+rm(list = c("summary","x", "x.N", "x.P"))

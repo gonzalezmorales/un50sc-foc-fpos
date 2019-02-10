@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	1993 SNA	1993 and 2008	2008 SNA	ESA 2010	ESA2010	I don't know	None	Please see comment 9.1a	NA
-Q09.1	Version of the SNA currently used	R01		Africa	10.75		7.53						
-Q09.1	Version of the SNA currently used	R01		Americas	3.23		9.68				1.08		
-Q09.1	Version of the SNA currently used	R01		Asia	6.45	1.08	16.13						2.15
-Q09.1	Version of the SNA currently used	R01		Europe			27.96	4.3	1.08	1.08	1.08	1.08	1.08
-Q09.1	Version of the SNA currently used	R01		Oceania			4.3						

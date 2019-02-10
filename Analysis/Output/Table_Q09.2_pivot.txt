@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Fully	Not implemented	Partially
-Q09.2	Extent to which Principles and Recommendations for Population and Housing Censuses, Rev. 3 (for census undertaken after 2015) or Rev. 2 (for census undertaken before 2015) are being implemented in the latest census programme	R01		72.04	3.23	24.73

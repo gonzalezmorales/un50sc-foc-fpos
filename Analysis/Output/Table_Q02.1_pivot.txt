@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	No	Yes	NA
-Q02.1	Chief statistician has direct access to policy-making authorities	R01		3.23	94.62	2.15

@@ -1,4 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	N	Percentage
-Q02.10	Other agencies in the NSS have received training concerning open data, data privacy or access to information policies and principles	R01			6	6.45
-Q02.10	Other agencies in the NSS have received training concerning open data, data privacy or access to information policies and principles	R01		No	23	24.73
-Q02.10	Other agencies in the NSS have received training concerning open data, data privacy or access to information policies and principles	R01		Yes	64	68.82

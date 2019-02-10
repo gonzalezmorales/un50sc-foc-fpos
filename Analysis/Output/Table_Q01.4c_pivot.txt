@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	1	2	3	4	NA
-Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		38.71	19.35	21.51	2.15	18.28

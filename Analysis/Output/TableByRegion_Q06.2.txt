@@ -1,99 +1,12 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	1	Europe	32	34.41
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	1	Africa	15	16.13
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	1	Americas	13	13.98
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	1	Oceania	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	0	Asia	5	5.38
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	1	Asia	19	20.43
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	0	Africa	2	2.15
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	0	Europe	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	0	Oceania	1	1.08
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	1	Europe	31	33.33
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	1	Africa	10	10.75
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	0	Americas	2	2.15
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	1	Oceania	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	1	Americas	11	11.83
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	1	Asia	20	21.51
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	0	Europe	4	4.3
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	0	Asia	4	4.3
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	0	Africa	7	7.53
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	0	Oceania	1	1.08
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	1	Europe	29	31.18
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	1	Africa	6	6.45
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	0	Americas	5	5.38
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	1	Oceania	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	1	Americas	8	8.6
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	0	Asia	11	11.83
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	0	Europe	6	6.45
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	0	Africa	11	11.83
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	1	Asia	13	13.98
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	0	Oceania	1	1.08
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	1	Europe	30	32.26
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	0	Africa	11	11.83
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	0	Americas	5	5.38
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	1	Oceania	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	1	Asia	16	17.2
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	0	Europe	5	5.38
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	0	Asia	8	8.6
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	1	Americas	8	8.6
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	1	Africa	6	6.45
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	0	Oceania	1	1.08
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	1	Europe	27	29.03
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	0	Africa	11	11.83
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	0	Americas	5	5.38
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	1	Oceania	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	1	Americas	8	8.6
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	0	Asia	6	6.45
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	0	Europe	8	8.6
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	1	Asia	18	19.35
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	1	Africa	6	6.45
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	0	Oceania	1	1.08
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	1	Europe	26	27.96
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	0	Africa	6	6.45
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	0	Americas	4	4.3
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	1	Oceania	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	0	Asia	11	11.83
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	0	Europe	9	9.68
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	1	Asia	13	13.98
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	1	Americas	9	9.68
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	1	Africa	11	11.83
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	0	Oceania	1	1.08
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	1	Europe	30	32.26
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	1	Africa	12	12.9
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	1	Americas	9	9.68
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	1	Oceania	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	0	Europe	5	5.38
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	1	Asia	21	22.58
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	0	Africa	5	5.38
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	0	Americas	4	4.3
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	0	Asia	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	0	Oceania	1	1.08
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	0	Europe	21	22.58
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	0	Africa	14	15.05
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	1	Americas	6	6.45
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	1	Oceania	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	1	Europe	14	15.05
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	0	Americas	7	7.53
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	0	Asia	19	20.43
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	1	Asia	5	5.38
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	1	Africa	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	0	Oceania	1	1.08
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R09	Other	0	Europe	35	37.63
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R09	Other	0	Africa	17	18.28
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R09	Other	0	Americas	12	12.9
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R09	Other	0	Oceania	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R09	Other	0	Asia	24	25.81
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R09	Other	1	Americas	1	1.08
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R09	Other	1	Oceania	1	1.08
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)		Europe	35	37.63
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)		Africa	17	18.28
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)		Americas	12	12.9
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)		Oceania	3	3.23
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)		Asia	24	25.81
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)	Procedures for transmission of protected information, breach protocol	Americas	1	1.08
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)	We do not have a Confidentiality Policy but we have a Statistical Act 2015 that has the confidentiality clause	Oceania	1	1.08
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R10	None Of The Above	0	Europe	35	37.63
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R10	None Of The Above	0	Africa	17	18.28
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R10	None Of The Above	0	Americas	13	13.98
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R10	None Of The Above	0	Oceania	4	4.3
-Q06.2	Aspects considered in the confidentiality policy of the NSO	R10	None Of The Above	0	Asia	24	25.81
+QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R01	Confidentiality agreement for staff, including penalties	1	15	13	19	32	3	82	88.2352941176471	100	79.1666666666667	91.4285714285714	75	88.1720430107527
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R02	Procedures for granting access to microdata	1	10	11	20	31	3	75	58.8235294117647	84.6153846153846	83.3333333333333	88.5714285714286	75	80.6451612903226
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R03	Contracts with non-staff who access microdata, including penalties	1	6	8	13	29	3	59	35.2941176470588	61.5384615384615	54.1666666666667	82.8571428571429	75	63.4408602150538
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R04	Procedures for storing and destroying individual records	1	6	8	16	30	3	63	35.2941176470588	61.5384615384615	66.6666666666667	85.7142857142857	75	67.741935483871
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R05	Checks before releasing micro-data	1	6	8	18	27	3	62	35.2941176470588	61.5384615384615	75	77.1428571428572	75	66.6666666666667
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R06	Obligation to inform respondents about uses of data	1	11	9	13	26	3	62	64.7058823529412	69.2307692307692	54.1666666666667	74.2857142857143	75	66.6666666666667
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R07	Training of staff on protecting individual data	1	12	9	21	30	3	75	70.5882352941177	69.2307692307692	87.5	85.7142857142857	75	80.6451612903226
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R08	Research and innovation on confidentiality	1	3	6	5	14	3	31	17.6470588235294	46.1538461538462	20.8333333333333	40	75	33.3333333333333
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R09	Other	1		1			1	2		7.69230769230769			25	2.1505376344086
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)	Procedures for transmission of protected information, breach protocol		1				1		7.69230769230769				1.0752688172043
+Q06.2	Aspects considered in the confidentiality policy of the NSO	R11	Other (detail)	We do not have a Confidentiality Policy but we have a Statistical Act 2015 that has the confidentiality clause					1	1					25	1.0752688172043

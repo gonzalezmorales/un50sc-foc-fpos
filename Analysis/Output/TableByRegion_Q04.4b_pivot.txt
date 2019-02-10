@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	Disappointment with the very low response rates of user satisfaction surveys	Lack of human and financial resources	Lacking resources	The NSO still working in the best way to realice this type of activities.	We have intention to conduct such activities in the future	le budget alloué à  l'INS n'est pas suffisants pour réaliser ces activités.	poor attention of users	NA
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Africa				1.08		1.08		16.13
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Americas	1.08							12.9
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Asia								25.81
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Europe		1.08	1.08		1.08		1.08	33.33
-Q04.4b	Reasons why user-engagement activities are not carried out by NSO/NSS to better understand users' needs	R01		Oceania								4.3

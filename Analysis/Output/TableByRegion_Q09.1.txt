@@ -1,18 +1,9 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q09.1	Version of the SNA currently used	R01		2008 SNA	Europe	26	27.96
-Q09.1	Version of the SNA currently used	R01		1993 SNA	Africa	10	10.75
-Q09.1	Version of the SNA currently used	R01		2008 SNA	Americas	9	9.68
-Q09.1	Version of the SNA currently used	R01		2008 SNA	Oceania	4	4.3
-Q09.1	Version of the SNA currently used	R01			Europe	1	1.08
-Q09.1	Version of the SNA currently used	R01		ESA2010	Europe	1	1.08
-Q09.1	Version of the SNA currently used	R01		1993 SNA	Americas	3	3.23
-Q09.1	Version of the SNA currently used	R01		1993 SNA	Asia	6	6.45
-Q09.1	Version of the SNA currently used	R01			Asia	2	2.15
-Q09.1	Version of the SNA currently used	R01		ESA 2010	Europe	4	4.3
-Q09.1	Version of the SNA currently used	R01		2008 SNA	Africa	7	7.53
-Q09.1	Version of the SNA currently used	R01		2008 SNA	Asia	15	16.13
-Q09.1	Version of the SNA currently used	R01		None	Americas	1	1.08
-Q09.1	Version of the SNA currently used	R01		Please see comment 9.1a	Europe	1	1.08
-Q09.1	Version of the SNA currently used	R01		None	Europe	1	1.08
-Q09.1	Version of the SNA currently used	R01		I don't know	Europe	1	1.08
-Q09.1	Version of the SNA currently used	R01		1993 and 2008	Asia	1	1.08
+QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
+Q09.1	Version of the SNA currently used	R01		1993 SNA	10	3	6			19	58.8235294117647	23.0769230769231	25			20.4301075268817
+Q09.1	Version of the SNA currently used	R01		1993 and 2008			1			1			4.16666666666667			1.0752688172043
+Q09.1	Version of the SNA currently used	R01		2008 SNA	7	9	15	26	4	61	41.1764705882353	69.2307692307692	62.5	74.2857142857143	100	65.5913978494624
+Q09.1	Version of the SNA currently used	R01		ESA 2010				4		4				11.4285714285714		4.3010752688172
+Q09.1	Version of the SNA currently used	R01		ESA2010				1		1				2.85714285714286		1.0752688172043
+Q09.1	Version of the SNA currently used	R01		I don't know				1		1				2.85714285714286		1.0752688172043
+Q09.1	Version of the SNA currently used	R01		None		1		1		2		7.69230769230769		2.85714285714286		2.1505376344086
+Q09.1	Version of the SNA currently used	R01		Please see comment 9.1a				1		1				2.85714285714286		1.0752688172043

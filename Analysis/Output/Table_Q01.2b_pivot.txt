@@ -1,4 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	2019	2020	Depuis le 02 novembre 2018, iI est mis en place un Secrétariat technique permanent (STP) chargé de superviser l'élaboration de la troisième Stratégie Nationale de Développement de la Statistique (SNDS 2019-2023).	In fact the current strategic plan ends in 2019. For 2019 is scheduled to design new generation of strategic plan (2020-2024).	No	Yes	NA
-Q01.2b	NextNSDS	R01	If current NSDS ends in 2018/2019, is the next one currently being designed?					2.15	3.23	94.62
-Q01.2b	NextNSDS	R02	If the next NSDS is being designed, when will it be launched?	2.15	1.08					96.77
-Q01.2b	NextNSDS	R03	If the next NSDS is not being designed, why?			1.08	1.08			97.85

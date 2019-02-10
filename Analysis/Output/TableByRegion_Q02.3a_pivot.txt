@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	----	During the political intervention of the NSO (2007-2015), the independence of the Office was questioned.	Experience in applied statistical work	Selection procedures.	Such as professional qualification,work style,self-discipline.	the independance	NA
-Q02.3a	What was questioned in inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		Africa			1.08			1.08	16.13
-Q02.3a	What was questioned in inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		Americas		1.08					12.9
-Q02.3a	What was questioned in inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		Asia				1.08	1.08		23.66
-Q02.3a	What was questioned in inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		Europe	1.08						36.56
-Q02.3a	What was questioned in inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years	R01		Oceania							4.3

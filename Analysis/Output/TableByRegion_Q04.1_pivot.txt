@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	No	Yes
-Q04.1	The NSO/NSS has reacted to erroneous interpretation and misuse of statistics during the past five years	R01		Africa	8.6	9.68
-Q04.1	The NSO/NSS has reacted to erroneous interpretation and misuse of statistics during the past five years	R01		Americas		13.98
-Q04.1	The NSO/NSS has reacted to erroneous interpretation and misuse of statistics during the past five years	R01		Asia	8.6	17.2
-Q04.1	The NSO/NSS has reacted to erroneous interpretation and misuse of statistics during the past five years	R01		Europe	3.23	34.41
-Q04.1	The NSO/NSS has reacted to erroneous interpretation and misuse of statistics during the past five years	R01		Oceania	2.15	2.15

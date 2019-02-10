@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	Have to seek appointment	It is not INE's mission in the country's political decisions but rather to contribute through the provision of data	to avoid statistic data adjustment	NA
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		Africa		1.08		17.2
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		Americas				13.98
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		Asia	1.08		1.08	23.66
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		Europe				37.63
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		Oceania				4.3

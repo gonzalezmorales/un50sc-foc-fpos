@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	No	No such law exists	Yes
-Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		Africa	1.08	3.23	13.98
-Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		Americas	3.23	1.08	9.68
-Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		Asia	1.08	8.6	16.13
-Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		Europe	2.15	4.3	31.18
-Q07.5 	A Freedom of Information or Access to Information law covers the NSS	R01		Oceania	1.08	1.08	2.15

@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	No	Yes
-Q07.1	Existence of a general statistics law in the country	R01		Africa		18.28
-Q07.1	Existence of a general statistics law in the country	R01		Americas	1.08	12.9
-Q07.1	Existence of a general statistics law in the country	R01		Asia	2.15	23.66
-Q07.1	Existence of a general statistics law in the country	R01		Europe		37.63
-Q07.1	Existence of a general statistics law in the country	R01		Oceania		4.3

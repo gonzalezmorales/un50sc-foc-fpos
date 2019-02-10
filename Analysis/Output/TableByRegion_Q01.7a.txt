@@ -1,71 +1,30 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	0	Europe	27	29.03
-Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	0	Africa	15	16.13
-Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	0	Americas	12	12.9
-Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	1	Oceania	2	2.15
-Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	0	Asia	16	17.2
-Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	1	Africa	2	2.15
-Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	1	Europe	8	8.6
-Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	1	Americas	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	1	Asia	8	8.6
-Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	0	Oceania	2	2.15
-Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	0	Europe	29	31.18
-Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	0	Africa	14	15.05
-Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	0	Americas	11	11.83
-Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	1	Oceania	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	1	Europe	6	6.45
-Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	0	Asia	19	20.43
-Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	1	Africa	3	3.23
-Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	1	Asia	5	5.38
-Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	1	Americas	2	2.15
-Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	0	Oceania	3	3.23
-Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	0	Europe	12	12.9
-Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	0	Africa	11	11.83
-Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	0	Americas	3	3.23
-Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	1	Oceania	3	3.23
-Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	1	Europe	23	24.73
-Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	0	Asia	10	10.75
-Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	1	Africa	6	6.45
-Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	1	Americas	10	10.75
-Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	1	Asia	14	15.05
-Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	0	Oceania	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	0	Europe	23	24.73
-Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	0	Africa	16	17.2
-Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	0	Americas	9	9.68
-Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	1	Oceania	2	2.15
-Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	1	Asia	8	8.6
-Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	1	Europe	12	12.9
-Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	0	Asia	16	17.2
-Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	1	Americas	4	4.3
-Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	0	Oceania	2	2.15
-Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	1	Africa	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other		Europe	27	29.03
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other		Africa	10	10.75
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	free of charge	Americas	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other		Oceania	4	4.3
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	By applying for access through Microdata Access Program	Americas	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other		Asia	20	21.51
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Not applicable. Currently working on the development for publishing micro data	Africa	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	All standard aggregate data is provided online and free of charge.  It is governed by an open license:  https://www.statcan.gc.ca/eng/reference/licence	Americas	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	at no cost to user	Americas	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other		Americas	7	7.53
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Free	Africa	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Les données peuvent àªtre consultées sans coà»t et sans contrat de licence	Africa	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Everybode has free and eqaul access to aggregated data. Access to microdata is given only to reasearchers and others that are approved for this.	Europe	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	They are published on the web INEC	Americas	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	For free.	Europe	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	L'accès est libre et gratuit	Africa	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Microdata can be accessed for scientific purposes after signing an agreement, which is usually done for a fee. Aggregates can be accessed online without any restrictions.	Europe	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	All statistical information produced according to the Official Statistics Work Programme is published and provided for the general public free of charge on the Official Statistics Portal. Statistics Lithuania also provides statistical information on individual request (enquiry). Individual request (enquiry) is a request by a user to provide him/her with a certain piece of statistical information, submitted via the Official Statistics Portal. A response to the request (enquiry) is prepared by the divisions of Statistics Lithuania within the area of their competence. Statistical information collected, processed and published under the Official Statistics Work Programme on the Official Statistics Portal and released according to the Catalogue of Statistical Publications is available free of charge. Responses to statistical enquiries are to be paid for only if additional or more detail statistical information is requested than indicated in the Official Statistics Work Programme. Confidential statistical data can be provided for scientific purposes to the researchers of national and foreign higher education and research institutions as defined in the Law on Higher Education and Research of the Republic of Lithuania; also to researchers of institutions mentioned in 2012/200/EU: Commission Decision of 18 April 2012 amending Decision 2004/452/EC laying down a list of bodies whose researchers may access confidential data for scientific purposes. Confidential statistical data are provided on an electronic medium or a remote desktop, in a manner that does not enable the direct identification of the respondent. Strict protocols apply to external users accessing statistical microdata for research purposes.	Europe	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	For free at the statistical portal, and open data site under condition to mention the data source.	Europe	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	memorandum of understanding (MoU) - Selected Micro Data	Asia	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	For free and we do not have any licensing agreement or terms of use per se.	Africa	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	www.microdata.no	Europe	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	x	Asia	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	On the online data on free accessible.	Europe	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	accès gratuit et libre pour les statistiques et les microdonnées anonymisées en ligne	Africa	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	By negotiation	Africa	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	According to the data dissemination policy	Asia	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Free of charge and so far no registration necessary (will change soon)	Americas	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Aggregated official statistics and publicly available anonymised microdata are available free of charge and without pre-registration.	Europe	1	1.08
-Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	data warehouse available online, user can access without registration	Asia	1	1.08
+QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
+Q01.7a	Conditions for online access to aggregates and/or microdata	R01	For a fee	1	2	1	8	8	2	21	11.7647058823529	7.69230769230769	33.3333333333333	22.8571428571429	50	22.5806451612903
+Q01.7a	Conditions for online access to aggregates and/or microdata	R02	After registration on the website	1	3	2	5	6	1	17	17.6470588235294	15.3846153846154	20.8333333333333	17.1428571428571	25	18.2795698924731
+Q01.7a	Conditions for online access to aggregates and/or microdata	R03	Under publicly available terms of use	1	6	10	14	23	3	56	35.2941176470588	76.9230769230769	58.3333333333333	65.7142857142857	75	60.2150537634409
+Q01.7a	Conditions for online access to aggregates and/or microdata	R04	After signing a licensing agreement	1	1	4	8	12	2	27	5.88235294117647	30.7692307692308	33.3333333333333	34.2857142857143	50	29.0322580645161
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	According to the data dissemination policy			1			1			4.16666666666667			1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Aggregated official statistics and publicly available anonymised microdata are available free of charge and without pre-registration.				1		1				2.85714285714286		1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	All standard aggregate data is provided online and free of charge.  It is governed by an open license:  https://www.statcan.gc.ca/eng/reference/licence		1				1		7.69230769230769				1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	All statistical information produced according to the Official Statistics Work Programme is published and provided for the general public free of charge on the Official Statistics Portal. Statistics Lithuania also provides statistical information on individual request (enquiry). Individual request (enquiry) is a request by a user to provide him/her with a certain piece of statistical information, submitted via the Official Statistics Portal. A response to the request (enquiry) is prepared by the divisions of Statistics Lithuania within the area of their competence. Statistical information collected, processed and published under the Official Statistics Work Programme on the Official Statistics Portal and released according to the Catalogue of Statistical Publications is available free of charge. Responses to statistical enquiries are to be paid for only if additional or more detail statistical information is requested than indicated in the Official Statistics Work Programme. Confidential statistical data can be provided for scientific purposes to the researchers of national and foreign higher education and research institutions as defined in the Law on Higher Education and Research of the Republic of Lithuania; also to researchers of institutions mentioned in 2012/200/EU: Commission Decision of 18 April 2012 amending Decision 2004/452/EC laying down a list of bodies whose researchers may access confidential data for scientific purposes. Confidential statistical data are provided on an electronic medium or a remote desktop, in a manner that does not enable the direct identification of the respondent. Strict protocols apply to external users accessing statistical microdata for research purposes.				1		1				2.85714285714286		1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	By applying for access through Microdata Access Program		1				1		7.69230769230769				1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	By negotiation	1					1	5.88235294117647					1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Everybode has free and eqaul access to aggregated data. Access to microdata is given only to reasearchers and others that are approved for this.				1		1				2.85714285714286		1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	For free and we do not have any licensing agreement or terms of use per se.	1					1	5.88235294117647					1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	For free at the statistical portal, and open data site under condition to mention the data source.				1		1				2.85714285714286		1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	For free.				1		1				2.85714285714286		1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Free	1					1	5.88235294117647					1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Free of charge and so far no registration necessary (will change soon)		1				1		7.69230769230769				1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	L'accès est libre et gratuit	1					1	5.88235294117647					1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Les données peuvent àªtre consultées sans coà»t et sans contrat de licence	1					1	5.88235294117647					1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Microdata can be accessed for scientific purposes after signing an agreement, which is usually done for a fee. Aggregates can be accessed online without any restrictions.				1		1				2.85714285714286		1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	Not applicable. Currently working on the development for publishing micro data	1					1	5.88235294117647					1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	On the online data on free accessible.				1		1				2.85714285714286		1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	They are published on the web INEC		1				1		7.69230769230769				1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	accès gratuit et libre pour les statistiques et les microdonnées anonymisées en ligne	1					1	5.88235294117647					1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	at no cost to user		1				1		7.69230769230769				1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	data warehouse available online, user can access without registration			1			1			4.16666666666667			1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	free of charge		1				1		7.69230769230769				1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	memorandum of understanding (MoU) - Selected Micro Data			1			1			4.16666666666667			1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	www.microdata.no				1		1				2.85714285714286		1.0752688172043
+Q01.7a	Conditions for online access to aggregates and/or microdata	R05	Other	x			1			1			4.16666666666667			1.0752688172043

@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	N/A	No	Yes
-Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		Africa	1.08	7.53	9.68
-Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		Americas	5.38	6.45	2.15
-Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		Asia	7.53	5.38	12.9
-Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		Europe	20.43	7.53	9.68
-Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)	R01		Oceania	1.08	3.23	

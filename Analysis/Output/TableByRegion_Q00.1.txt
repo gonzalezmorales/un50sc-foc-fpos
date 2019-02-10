@@ -1,13 +1,5 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q00.1	Answering on behalf of	R01		National Statistical System (NSS)	Europe	5	5.38
-Q00.1	Answering on behalf of	R01		National Statistical Office (NSO)	Africa	15	16.13
-Q00.1	Answering on behalf of	R01		National Statistical Office (NSO)	Americas	10	10.75
-Q00.1	Answering on behalf of	R01		National Statistical Office (NSO)	Oceania	3	3.23
-Q00.1	Answering on behalf of	R01		National Statistical Office (NSO)	Europe	30	32.26
-Q00.1	Answering on behalf of	R01		National Statistical Office (NSO)	Asia	22	23.66
-Q00.1	Answering on behalf of	R01		National Statistical System (NSS)	Americas	2	2.15
-Q00.1	Answering on behalf of	R01		National Statistical System (NSS)	Asia	2	2.15
-Q00.1	Answering on behalf of	R01		Both NSO & NSS	Americas	1	1.08
-Q00.1	Answering on behalf of	R01		National Statistical System (NSS)	Oceania	1	1.08
-Q00.1	Answering on behalf of	R01		Senior Statistician	Africa	1	1.08
-Q00.1	Answering on behalf of	R01		National Statistical System (NSS)	Africa	1	1.08
+QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
+Q00.1	Answering on behalf of	R01		Both NSO & NSS		1				1		7.69230769230769				1.0752688172043
+Q00.1	Answering on behalf of	R01		National Statistical Office (NSO)	15	10	22	30	3	80	88.2352941176471	76.9230769230769	91.6666666666667	85.7142857142857	75	86.0215053763441
+Q00.1	Answering on behalf of	R01		National Statistical System (NSS)	1	2	2	5	1	11	5.88235294117647	15.3846153846154	8.33333333333333	14.2857142857143	25	11.8279569892473
+Q00.1	Answering on behalf of	R01		Senior Statistician	1					1	5.88235294117647					1.0752688172043

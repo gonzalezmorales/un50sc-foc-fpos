@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	For different users group at least one meeting per year	Once per month	Once per year	Once per year or more frequent	Several and also decentralized in the user groups	Task forces and (specialised) working groups on special issues, e.g. for further development of the legal framework and the statistical programme	Twice per year or more frequent	Two	more than 20	two meetings in the year of set up - 2018	NA
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Africa			2.15				3.23	1.08			11.83
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Americas			2.15				3.23				8.6
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Asia			4.3	1.08			6.45	1.08			12.9
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Europe	1.08	1.08	1.08		1.08	1.08	24.73		1.08	1.08	5.38
-Q01.1c	Number of meetings of user council or organized user group held in the past five years	R01		Oceania							2.15				2.15

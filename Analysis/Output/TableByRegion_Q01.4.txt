@@ -1,119 +1,15 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	1	Europe	33	35.48
-Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	1	Africa	15	16.13
-Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	1	Americas	12	12.9
-Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	1	Oceania	2	2.15
-Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	1	Asia	22	23.66
-Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	0	Americas	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	0	Europe	2	2.15
-Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	0	Africa	2	2.15
-Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	0	Oceania	2	2.15
-Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	0	Asia	2	2.15
-Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	1	Europe	28	30.11
-Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	1	Africa	13	13.98
-Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	1	Americas	9	9.68
-Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	1	Oceania	2	2.15
-Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	0	Europe	7	7.53
-Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	0	Asia	10	10.75
-Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	0	Africa	4	4.3
-Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	0	Americas	4	4.3
-Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	1	Asia	14	15.05
-Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	0	Oceania	2	2.15
-Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	1	Europe	35	37.63
-Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	1	Africa	10	10.75
-Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	1	Americas	12	12.9
-Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	1	Oceania	2	2.15
-Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	0	Asia	6	6.45
-Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	0	Africa	7	7.53
-Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	1	Asia	18	19.35
-Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	0	Americas	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	0	Oceania	2	2.15
-Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	1	Europe	27	29.03
-Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	0	Africa	5	5.38
-Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	1	Americas	9	9.68
-Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	1	Oceania	3	3.23
-Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	0	Europe	8	8.6
-Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	0	Americas	4	4.3
-Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	0	Asia	7	7.53
-Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	1	Africa	12	12.9
-Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	1	Asia	17	18.28
-Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	0	Oceania	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R05	Using various dissemination media, such as print publications, online pdf files, etc.	1	Europe	35	37.63
-Q01.4	Measures currently in place for disseminating statistics	R05	Using various dissemination media, such as print publications, online pdf files, etc.	1	Africa	16	17.2
-Q01.4	Measures currently in place for disseminating statistics	R05	Using various dissemination media, such as print publications, online pdf files, etc.	1	Americas	13	13.98
-Q01.4	Measures currently in place for disseminating statistics	R05	Using various dissemination media, such as print publications, online pdf files, etc.	1	Oceania	3	3.23
-Q01.4	Measures currently in place for disseminating statistics	R05	Using various dissemination media, such as print publications, online pdf files, etc.	1	Asia	24	25.81
-Q01.4	Measures currently in place for disseminating statistics	R05	Using various dissemination media, such as print publications, online pdf files, etc.	0	Oceania	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R05	Using various dissemination media, such as print publications, online pdf files, etc.	0	Africa	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	1	Europe	32	34.41
-Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	0	Africa	7	7.53
-Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	1	Americas	12	12.9
-Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	1	Oceania	3	3.23
-Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	0	Asia	3	3.23
-Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	0	Europe	3	3.23
-Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	1	Africa	10	10.75
-Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	1	Asia	21	22.58
-Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	0	Americas	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	0	Oceania	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	1	Europe	30	32.26
-Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	0	Africa	9	9.68
-Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	1	Americas	9	9.68
-Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	1	Oceania	4	4.3
-Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	0	Americas	4	4.3
-Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	1	Asia	18	19.35
-Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	0	Europe	5	5.38
-Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	1	Africa	8	8.6
-Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	0	Asia	6	6.45
-Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	0	Europe	6	6.45
-Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	0	Africa	13	13.98
-Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	0	Americas	6	6.45
-Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	1	Oceania	3	3.23
-Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	1	Europe	29	31.18
-Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	0	Asia	13	13.98
-Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	1	Africa	4	4.3
-Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	1	Americas	7	7.53
-Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	1	Asia	11	11.83
-Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	0	Oceania	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	0	Europe	15	16.13
-Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	0	Africa	13	13.98
-Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	0	Americas	8	8.6
-Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	1	Oceania	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	0	Asia	19	20.43
-Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	1	Africa	4	4.3
-Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	1	Americas	5	5.38
-Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	1	Asia	5	5.38
-Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	1	Europe	20	21.51
-Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	0	Oceania	3	3.23
-Q01.4	Measures currently in place for disseminating statistics	R10	Providing user support via e-mail, written correspondence or telephone	1	Europe	35	37.63
-Q01.4	Measures currently in place for disseminating statistics	R10	Providing user support via e-mail, written correspondence or telephone	1	Africa	12	12.9
-Q01.4	Measures currently in place for disseminating statistics	R10	Providing user support via e-mail, written correspondence or telephone	1	Americas	12	12.9
-Q01.4	Measures currently in place for disseminating statistics	R10	Providing user support via e-mail, written correspondence or telephone	1	Oceania	4	4.3
-Q01.4	Measures currently in place for disseminating statistics	R10	Providing user support via e-mail, written correspondence or telephone	1	Asia	21	22.58
-Q01.4	Measures currently in place for disseminating statistics	R10	Providing user support via e-mail, written correspondence or telephone	0	Africa	5	5.38
-Q01.4	Measures currently in place for disseminating statistics	R10	Providing user support via e-mail, written correspondence or telephone	0	Americas	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R10	Providing user support via e-mail, written correspondence or telephone	0	Asia	3	3.23
-Q01.4	Measures currently in place for disseminating statistics	R11	None of the above	0	Europe	35	37.63
-Q01.4	Measures currently in place for disseminating statistics	R11	None of the above	0	Africa	17	18.28
-Q01.4	Measures currently in place for disseminating statistics	R11	None of the above	0	Americas	13	13.98
-Q01.4	Measures currently in place for disseminating statistics	R11	None of the above	0	Oceania	4	4.3
-Q01.4	Measures currently in place for disseminating statistics	R11	None of the above	0	Asia	24	25.81
-Q01.4	Measures currently in place for disseminating statistics	R12	Does not know 	0	Europe	35	37.63
-Q01.4	Measures currently in place for disseminating statistics	R12	Does not know 	0	Africa	17	18.28
-Q01.4	Measures currently in place for disseminating statistics	R12	Does not know 	0	Americas	13	13.98
-Q01.4	Measures currently in place for disseminating statistics	R12	Does not know 	0	Oceania	4	4.3
-Q01.4	Measures currently in place for disseminating statistics	R12	Does not know 	0	Asia	24	25.81
-Q01.4	Measures currently in place for disseminating statistics	R13	Other	0	Europe	34	36.56
-Q01.4	Measures currently in place for disseminating statistics	R13	Other	0	Africa	17	18.28
-Q01.4	Measures currently in place for disseminating statistics	R13	Other	0	Americas	11	11.83
-Q01.4	Measures currently in place for disseminating statistics	R13	Other	0	Oceania	4	4.3
-Q01.4	Measures currently in place for disseminating statistics	R13	Other	1	Americas	2	2.15
-Q01.4	Measures currently in place for disseminating statistics	R13	Other	0	Asia	24	25.81
-Q01.4	Measures currently in place for disseminating statistics	R13	Other	1	Europe	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)		Europe	34	36.56
-Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)		Africa	17	18.28
-Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)		Americas	11	11.83
-Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)		Oceania	4	4.3
-Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)	Quarterly press conferences	Americas	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)		Asia	24	25.81
-Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)	Data users are also able to sign up for email notifications	Americas	1	1.08
-Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)	geoportal, infographics, etc.	Europe	1	1.08
+QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
+Q01.4	Measures currently in place for disseminating statistics	R01	Appointment of a specialized unit responsible for dissemination at the NSO	1	15	12	22	33	2	84	88.2352941176471	92.3076923076923	91.6666666666667	94.2857142857143	50	90.3225806451613
+Q01.4	Measures currently in place for disseminating statistics	R02	Pursuing a dissemination/communications strategy	1	13	9	14	28	2	66	76.4705882352941	69.2307692307692	58.3333333333333	80	50	70.9677419354839
+Q01.4	Measures currently in place for disseminating statistics	R03	Publishing an advanced release calendar, announcing when various statistics will be published	1	10	12	18	35	2	77	58.8235294117647	92.3076923076923	75	100	50	82.7956989247312
+Q01.4	Measures currently in place for disseminating statistics	R04	Publishing catalogues of available publications, documents, and other services	1	12	9	17	27	3	68	70.5882352941177	69.2307692307692	70.8333333333333	77.1428571428572	75	73.1182795698925
+Q01.4	Measures currently in place for disseminating statistics	R05	Using various dissemination media, such as print publications, online pdf files, etc.	1	16	13	24	35	3	91	94.1176470588235	100	100	100	75	97.8494623655914
+Q01.4	Measures currently in place for disseminating statistics	R06	Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	1	10	12	21	32	3	78	58.8235294117647	92.3076923076923	87.5	91.4285714285714	75	83.8709677419355
+Q01.4	Measures currently in place for disseminating statistics	R07	Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	1	8	9	18	30	4	69	47.0588235294118	69.2307692307692	75	85.7142857142857	100	74.1935483870968
+Q01.4	Measures currently in place for disseminating statistics	R08	Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	1	4	7	11	29	3	54	23.5294117647059	53.8461538461538	45.8333333333333	82.8571428571429	75	58.0645161290323
+Q01.4	Measures currently in place for disseminating statistics	R09	Providing online access to data via APIs	1	4	5	5	20	1	35	23.5294117647059	38.4615384615385	20.8333333333333	57.1428571428571	25	37.6344086021505
+Q01.4	Measures currently in place for disseminating statistics	R10	Providing user support via e-mail, written correspondence or telephone	1	12	12	21	35	4	84	70.5882352941177	92.3076923076923	87.5	100	100	90.3225806451613
+Q01.4	Measures currently in place for disseminating statistics	R13	Other	1		2		1		3		15.3846153846154		2.85714285714286		3.2258064516129
+Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)	Data users are also able to sign up for email notifications		1				1		7.69230769230769				1.0752688172043
+Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)	Quarterly press conferences		1				1		7.69230769230769				1.0752688172043
+Q01.4	Measures currently in place for disseminating statistics	R14	Other (detail)	geoportal, infographics, etc.				1		1				2.85714285714286		1.0752688172043

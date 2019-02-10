@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	NSO	NSO, NSS	NSS
-Q06.1a	Confidentiality provision in the laws applies to…	R01		29.03	1.08	69.89

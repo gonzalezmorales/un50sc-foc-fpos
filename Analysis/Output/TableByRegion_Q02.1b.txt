@@ -1,9 +1,4 @@
-QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01			Europe	35	37.63
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01			Africa	16	17.2
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01			Americas	13	13.98
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01			Oceania	4	4.3
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		Have to seek appointment	Asia	1	1.08
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01			Asia	22	23.66
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		It is not INE's mission in the country's political decisions but rather to contribute through the provision of data	Africa	1	1.08
-Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		to avoid statistic data adjustment	Asia	1	1.08
+QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
+Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		Have to seek appointment			1			1			4.16666666666667			1.0752688172043
+Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		It is not INE's mission in the country's political decisions but rather to contribute through the provision of data	1					1	5.88235294117647					1.0752688172043
+Q02.1b	Main reasons/challenges preventing direct access to policy-making authorities by chief statistician	R01		to avoid statistic data adjustment			1			1			4.16666666666667			1.0752688172043

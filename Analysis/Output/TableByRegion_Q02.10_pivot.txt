@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	No	Yes	NA
-Q02.10	Other agencies in the NSS have received training concerning open data, data privacy or access to information policies and principles	R01		Africa	7.53	10.75	
-Q02.10	Other agencies in the NSS have received training concerning open data, data privacy or access to information policies and principles	R01		Americas	4.3	9.68	
-Q02.10	Other agencies in the NSS have received training concerning open data, data privacy or access to information policies and principles	R01		Asia	8.6	17.2	
-Q02.10	Other agencies in the NSS have received training concerning open data, data privacy or access to information policies and principles	R01		Europe	2.15	29.03	6.45
-Q02.10	Other agencies in the NSS have received training concerning open data, data privacy or access to information policies and principles	R01		Oceania	2.15	2.15	

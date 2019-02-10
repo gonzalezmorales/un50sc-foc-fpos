@@ -1,9 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	0	1	All information defined by the ESS Single Integrated Metadata Structure (SIMS) are published to the users.	Applied international codes such as COICOP and survey questionnaire	ESMS (SDMX) structure	Points of Contacts for the media and other datausers are usually provided	Statistics Canada uses a variety of methods to ensure our users are well informed about quality.  Each statistical program must initially complete and keep up-to-date an accompanying metadata page prior to the release of data. Included on this page are all the options noted above.	Table title, frequency, start period, end period, footnote, unit, data source, URL, formats for download, condition of use.	data sources, accounting conventions	everything requested within ESS standard metadata structures: ESMS and ESQRS	surveys Questionnaires	variable dictionary, forms	NA
-Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	21.51	78.49											
-Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	20.43	79.57											
-Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	21.51	78.49											
-Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	23.66	76.34											
-Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	47.31	52.69											
-Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	89.25	10.75											
-Q03.3b	Information included in explanatory texts that accompany published data	R07	None Of The Above	100												
-Q03.3b	Information included in explanatory texts that accompany published data	R08	Other (detail)			1.08	1.08	1.08	1.08	1.08	1.08	1.08	1.08	1.08	1.08	89.25

@@ -1,6 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	RegionName	NA
-Q03.3a	Reasons why no accompanying text is provided with published data	R01		Africa	18.28
-Q03.3a	Reasons why no accompanying text is provided with published data	R01		Americas	13.98
-Q03.3a	Reasons why no accompanying text is provided with published data	R01		Asia	25.81
-Q03.3a	Reasons why no accompanying text is provided with published data	R01		Europe	37.63
-Q03.3a	Reasons why no accompanying text is provided with published data	R01		Oceania	4.3

@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	1993 SNA	1993 and 2008	2008 SNA	ESA 2010	ESA2010	I don't know	None	Please see comment 9.1a	NA
-Q09.1	Version of the SNA currently used	R01		20.43	1.08	65.59	4.3	1.08	1.08	2.15	1.08	3.23

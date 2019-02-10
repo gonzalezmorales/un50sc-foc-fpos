@@ -1,2 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	No	Yes	NA
-Q02.10	Other agencies in the NSS have received training concerning open data, data privacy or access to information policies and principles	R01		24.73	68.82	6.45

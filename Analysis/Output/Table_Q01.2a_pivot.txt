@@ -1,3 +1,0 @@
-QuestionID	QuestionText	BlockID	BlockText	2011	2013	2014	2015	2016	2017	2018	2019	2020	2021	2022	2023	2025	2027	2040	NA
-Q01.2a	Time span of current NSDS	R01	From	2.15	6.45	2.15	7.53	10.75	10.75	15.05	3.23								41.94
-Q01.2a	Time span of current NSDS	R02	To							1.08	4.3	22.58	6.45	16.13	3.23	2.15	1.08	1.08	41.94
