@@ -5,6 +5,7 @@ library(plotly)
 library(RColorBrewer)
 library(stringr)
 library(optiRum)
+library(dplyr)
 
 
 # set your working directory - change as needed
@@ -215,7 +216,7 @@ for(q in 1:nrow(response.keys)){
   QuestionText <- response.keys[q,QuestionText]
   
   responses <- read.tab2dataTable(paste("Output/Responses_",QuestionID,".txt",sep=""))
-  
+
   response.columns <- names(responses[,-(1:16),with = FALSE])
   
   if(length(response.columns) == 1){
@@ -223,7 +224,15 @@ for(q in 1:nrow(response.keys)){
     response.labels <- QuestionText
     
     summary <- responses[, .(.N), by = list(R01, RegionName)]
-    summary[, Percentage := round(N/nrow(responses)*100,2)]
+    summary <- summary %>% group_by(RegionName) %>% mutate(Percentage = (N/sum(N) * 100))
+    
+    summaryT <- responses[, .(.N), by = list(R01)]
+    summaryT <- summaryT %>% mutate(RegionName = "TOTAL") %>% mutate(Percentage = (N/sum(N) * 100))
+    
+    summary <- as.data.table(summary)
+    summaryT <- as.data.table(summaryT)
+   
+    summary <- rbind(summary,summaryT)
     
     summary <- cbind(QuestionID, QuestionText, eval(response.columns[1]), "", summary)
     setnames(summary, "V3", "BlockID")
@@ -231,38 +240,66 @@ for(q in 1:nrow(response.keys)){
     
     setnames(summary, eval(response.columns[1]), "Answer")
     
+    
+    
   } else {
     
     response.labels <- unlist(response.keys[q, response.columns, with = FALSE])
     
-    summary <- responses[, .(.N), by = eval(c(response.columns[1], "RegionName"))]
-    summary[, Percentage := round(N/nrow(responses)*100,2)]
+    
+    summary <- responses[, .(.N), by = list(R01, RegionName)]
+    summary <- summary %>% group_by(RegionName) %>% mutate(Percentage = (N/sum(N) * 100))
+    
+    summaryT <- responses[, .(.N), by = list(R01)]
+    summaryT <- summaryT %>% mutate(RegionName = "TOTAL") %>% mutate(Percentage = (N/sum(N) * 100))
+    
+    
+    summary <- as.data.table(summary)
+    summaryT <- as.data.table(summaryT)
+    
+    summary <- rbind(summary,summaryT)
     
     summary <- cbind(QuestionID, QuestionText, eval(response.columns[1]), response.labels[1], summary)
-    
     setnames(summary, "V3", "BlockID")
     setnames(summary, "V4", "BlockText")
+    
     setnames(summary, eval(response.columns[1]), "Answer")
+    
     
     for (i in 2:length(response.columns))
     {
-      summary.b <- responses[, .(.N), by =  eval(c(response.columns[i], "RegionName"))]
-      summary.b[, Percentage := round(N/nrow(responses)*100,2)]
+
+    
+      summary.b <- responses[, .(.N), by = eval(c(response.columns[i], "RegionName"))]
+      summary.b <- summary.b %>% group_by(RegionName) %>% mutate(Percentage = (N/sum(N) * 100))
+      
+      summaryT.b <- responses[, .(.N), by = eval(c(response.columns[i], "RegionName"))]
+      summaryT.b <- summaryT.b %>% mutate(RegionName = "TOTAL") %>% mutate(Percentage = (N/sum(N) * 100))
+      
+      
+      summary.b <- as.data.table(summary.b)
+      summaryT.b <- as.data.table(summaryT.b)
+      
+      summary.b <- rbind(summary.b,summaryT.b)
       
       summary.b <- cbind(QuestionID, QuestionText, eval(response.columns[i]), response.labels[i], summary.b)
-      
       setnames(summary.b, "V3", "BlockID")
       setnames(summary.b, "V4", "BlockText")
       setnames(summary.b, eval(response.columns[i]), "Answer")
       
-      summary <- rbind(summary, summary.b)
       
+      summary <- rbind(summary, summary.b)
     }
     
     
     rm(list = c("summary.b"))
     
   }
+  
+  
+  x <- dcast(summary, 
+             QuestionID + QuestionText + BlockID + BlockText + Answer ~ RegionName, 
+             value.var = "Percentage")
   
   table.name <- paste("TableByRegion_",QuestionID, sep="")
   
