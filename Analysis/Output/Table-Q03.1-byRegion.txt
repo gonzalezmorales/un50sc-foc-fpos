@@ -1,0 +1,81 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R01	NSO Website	1	Europe	34	37
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R01	NSO Website	1	Africa	17	18
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R01	NSO Website	1	Americas	13	14
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R01	NSO Website	1	Oceania	4	4
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R01	NSO Website	1	Asia	23	25
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R01	NSO Website	0	Asia	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R01	NSO Website	0	Europe	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R02	Other official NSS website(s)	1	Europe	20	22
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R02	Other official NSS website(s)	1	Africa	10	11
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R02	Other official NSS website(s)	1	Americas	8	9
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R02	Other official NSS website(s)	0	Oceania	3	3
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R02	Other official NSS website(s)	0	Europe	15	16
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R02	Other official NSS website(s)	0	Americas	5	5
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R02	Other official NSS website(s)	0	Asia	9	10
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R02	Other official NSS website(s)	1	Asia	15	16
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R02	Other official NSS website(s)	0	Africa	7	8
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R02	Other official NSS website(s)	1	Oceania	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R03	Data portal	0	Europe	13	14
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R03	Data portal	1	Africa	13	14
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R03	Data portal	0	Americas	9	10
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R03	Data portal	1	Oceania	3	3
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R03	Data portal	1	Europe	22	24
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R03	Data portal	0	Asia	8	9
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R03	Data portal	0	Africa	4	4
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R03	Data portal	1	Americas	4	4
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R03	Data portal	1	Asia	16	17
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R03	Data portal	0	Oceania	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R04	CD/DVD	0	Europe	22	24
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R04	CD/DVD	0	Africa	11	12
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R04	CD/DVD	0	Americas	9	10
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R04	CD/DVD	1	Oceania	2	2
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R04	CD/DVD	1	Europe	13	14
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R04	CD/DVD	0	Asia	8	9
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R04	CD/DVD	1	Africa	6	6
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R04	CD/DVD	1	Asia	16	17
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R04	CD/DVD	1	Americas	4	4
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R04	CD/DVD	0	Oceania	2	2
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R05	Printed material	1	Europe	30	32
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R05	Printed material	1	Africa	16	17
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R05	Printed material	1	Americas	10	11
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R05	Printed material	1	Oceania	4	4
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R05	Printed material	0	Europe	5	5
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R05	Printed material	1	Asia	21	23
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R05	Printed material	0	Africa	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R05	Printed material	0	Americas	3	3
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R05	Printed material	0	Asia	3	3
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R06	None of the above	0	Europe	35	38
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R06	None of the above	0	Africa	17	18
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R06	None of the above	0	Americas	13	14
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R06	None of the above	0	Oceania	4	4
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R06	None of the above	0	Asia	24	26
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other		Europe	26	28
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other		Africa	14	15
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other		Americas	8	9
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other		Oceania	4	4
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Dedicated dissemination staff for responding to requests; press conferences and media appearances; social media	Americas	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other		Asia	17	18
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Research Data Centres, Public Use Microdata Files	Americas	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Social networks	Americas	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Open data registered at the National Catalogue of Open Data	Europe	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Safe Centre (research room)	Europe	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Published on the website	Asia	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Mobile App developed by  the SCI for statistical data  dissemination.	Asia	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	press releases	Europe	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Social media, such as Twitter, Facebook and the WordPress blog, mobile application.	Europe	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Social Media such as Facebook, twitter, press releases, whasapp group and so on.	Asia	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	social media, networks, mass media	Asia	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Via media releases	Africa	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	SIGNAGE SYSTEM, SOCIAL MEDIA	Asia	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Notas de Prensa	Americas	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	press conferences, news briefings, dissemination forum	Asia	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	social media, user support solutions; Local Data Bank, National Official Business Register (REGON) and National Official Register of the Territorial Division of the Country (TERYT) are equipped with API. Statistics' Poland objective is to provide API to all statistical databases as well as to disseminate all data sets published on our website in open formats	Europe	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Press conferences, seminars, national conferences	Europe	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	L'ANSD dispose d'une bibliothèque ouvert au public.	Africa	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Electronic services and mobile services	Asia	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Social media (Facebook, Twitter), RSS, access in SURS's secure room	Europe	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Press Conferences	Americas	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	UBOSAPP	Africa	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Social networks	Europe	1	1
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?	R07	Other	Social media platforms including Twitter	Europe	1	1

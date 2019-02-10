@@ -1,0 +1,70 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	1	Europe	35	38
+Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	1	Africa	16	17
+Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	1	Americas	11	12
+Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	1	Oceania	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	0	Americas	2	2
+Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	1	Asia	23	25
+Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	0	Africa	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R01	Participation in international working groups	0	Asia	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	1	Europe	31	33
+Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	1	Africa	16	17
+Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	1	Americas	12	13
+Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	1	Oceania	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	0	Europe	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	1	Asia	23	25
+Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	0	Americas	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	0	Africa	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R02	Participation in regional working groups	0	Asia	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	1	Europe	31	33
+Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	1	Africa	15	16
+Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	1	Americas	13	14
+Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	1	Oceania	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	0	Europe	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	1	Asia	20	22
+Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	0	Asia	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R03	Technical cooperation	0	Africa	2	2
+Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	0	Europe	21	23
+Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	0	Africa	7	8
+Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	1	Americas	6	6
+Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	1	Oceania	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	1	Europe	14	15
+Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	0	Americas	7	8
+Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	0	Asia	14	15
+Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	1	Africa	10	11
+Q10.1	Types of international cooperation activities the NSS engages in	R04	Twinning (peer to peer collaboration)	1	Asia	10	11
+Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	1	Europe	31	33
+Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	1	Africa	16	17
+Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	1	Americas	12	13
+Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	1	Oceania	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	0	Europe	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	1	Asia	20	22
+Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	0	Americas	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	0	Asia	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R05	Training of statistical personnel	0	Africa	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	1	Europe	29	31
+Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	1	Africa	13	14
+Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	0	Americas	7	8
+Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	1	Oceania	3	3
+Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	1	Americas	6	6
+Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	0	Asia	7	8
+Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	0	Europe	6	6
+Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	0	Africa	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	1	Asia	17	18
+Q10.1	Types of international cooperation activities the NSS engages in	R06	Peer reviews and/or external evaluations	0	Oceania	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other		Europe	32	34
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other		Africa	17	18
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other		Americas	12	13
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other		Oceania	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other		Asia	22	24
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	Through the statistical certification system, external evaluations are promoted among peers and other United Nations agencies.	Americas	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	Bileteral co-operation with different countries (Memorandum of Understanding)	Europe	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	More than 300 business trips are organized each year (and the number is increasing- 386 in 2017). Moreover, Statistics Poland hosts incoming delegations (around 30 a year). We have not yet entered yet into twinning projects. Visits within TAIEX as well as bilateral cooperation within Polish Aid programme were undertaken.	Europe	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	Study visits to NSOs	Asia	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	participation in different international projects	Europe	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R07	Other	hosting many international events like UN World Data Forum	Asia	1	1
+Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	0	Europe	35	38
+Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	0	Africa	17	18
+Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	0	Americas	13	14
+Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	0	Oceania	4	4
+Q10.1	Types of international cooperation activities the NSS engages in	R08	None Of The Above	0	Asia	24	26

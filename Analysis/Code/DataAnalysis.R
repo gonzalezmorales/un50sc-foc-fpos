@@ -195,17 +195,6 @@ for(q in 1:nrow(response.keys)){
       
     }
   
-  
-  
-  summary <- merge(CJ.dt(unique(summary[, list(QuestionID, QuestionText, BlockID, BlockText)]),
-                         unique(summary[, list(Answer)])),
-                   summary, 
-                   by = c("QuestionID", "QuestionText", "BlockID", "BlockText", "Answer"),
-                   all = TRUE)
-  
-  summary
-  
-  
   table.name <- paste("Table-",QuestionID, sep="")
   
   assign(table.name, summary)

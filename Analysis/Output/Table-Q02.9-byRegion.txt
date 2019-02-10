@@ -1,0 +1,10 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01		Yes	Europe	35	38
+Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01		No	Africa	3	3
+Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01		Yes	Americas	11	12
+Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01		Yes	Oceania	4	4
+Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01		No	Americas	2	2
+Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01		No	Asia	2	2
+Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01		Yes	Africa	14	15
+Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01		Yes	Asia	21	23
+Q02.9	NSO staff has received training concerning open data, data privacy or access to information policies and principles	R01			Asia	1	1

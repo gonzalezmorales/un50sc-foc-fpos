@@ -1,0 +1,64 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q09.1a	Details on version of SNA currently used	R01			Europe	16	17
+Q09.1a	Details on version of SNA currently used	R01		2008 SNA will be apply in second quarter of 2019.	Africa	1	1
+Q09.1a	Details on version of SNA currently used	R01		National Accounts	Americas	1	1
+Q09.1a	Details on version of SNA currently used	R01		Australia's national accounts statistics are compiled in accordance with international standards contained in the System of National Accounts, 2008 (SNA08). Australia's application of these SNA standards is described in Australian System of National Accounts: Concepts, Sources and Methods (cat. no. 5216.0). The current version of this product reflects the SNA08 concepts and was released in March 2016. This publication outlines major concepts and definitions, describes sources of data and methods used to derive annual and quarterly estimates for major aggregates at current prices and in chain volume terms, and discusses the accuracy and reliability of the national accounts. In addition, it includes documentation on input-output tables, financial accounts, capital stock, productivity measures, balance sheets and state accounts.	Oceania	1	1
+Q09.1a	Details on version of SNA currently used	R01		Since January 1, 2016, the main provisions of the 2008 SNA have been introduced into statistical practice, annual and quarterly indicators of the national accounts system have been recalculated back to 2009, sectoral national accounts of the Republic of Belarus have been developed; production account and income generation account have also been calculated by economic activity	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		The ESA 2010 is broadly consistent with the SNA 2008	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		Technical assistance is being provided in this area by CARTAC and Statistics Canada. It is expected to complete transition to 2008 SNA by the end of 2019.	Americas	1	1
+Q09.1a	Details on version of SNA currently used	R01		Partially 2008 SNA is also implemented in some sectors of the economy	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		Some components of SNA 2008 are implemented. The country is in the process of rebasing GDP to align to SNA 2008. A strategy of moving from 1993 to 2008 has been developed and is being currently implemented.	Africa	1	1
+Q09.1a	Details on version of SNA currently used	R01		www.depd.gov.bn	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		The European System of Accounts 2010 (ESA 2010) is the system of national accounts and regional accounts used by members of the European Union. National accounts provide information to analyze the structure of economies and their development over time. They contain a wide range of statistics describing an economy in various ways. National accounts data are compiled according to ESA 2010 methodology.	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01			Africa	5	5
+Q09.1a	Details on version of SNA currently used	R01			Americas	2	2
+Q09.1a	Details on version of SNA currently used	R01		Transitioning to 2008 SNA is in progress	Americas	1	1
+Q09.1a	Details on version of SNA currently used	R01		We issued The china's System of National Accounts(2016) in July 2017,which conform to the 2008 SNA.	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		By agreeing upon a work agenda with the OECD, and under the accompaniment of the International Monetary Fund, Colombia managed to update a new base for the System of National Accounts and release it in 2018. The new base of national accounts presented several innovative aspects for the users of the NSS, in terms of the best international practices, specifically, elements such as the following were highlighted: The revision and inclusion of international recommendations proposed by the 2008 SNA, such as the treatment of financial intermediation services indirectly measured (FISIM), the measurement of research and development as gross fixed capital formation, the explicit calculation of the non-observed economy, and the institutional classification of the financial sector, among others. The incorporation of goods in process and works in progress in the measurement of agriculture and livestock activities as well as construction; also, the valuation of the capital services in the production associated with the investment in slow-maturing crops.	Americas	1	1
+Q09.1a	Details on version of SNA currently used	R01		It has adapted to the country.	Americas	1	1
+Q09.1a	Details on version of SNA currently used	R01		La Cà´te d'Ivoire est en train réaliser le Changement de l'année de base et de mettre en place SCN 2008.	Africa	1	1
+Q09.1a	Details on version of SNA currently used	R01		we use ESA 2010, with derogations granted to a new member state which expire in 2020.	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		The Central Bank is the entity in charge of preparing the national accounts, the version they use in their last change of base year is the SNA 2008.	Americas	1	1
+Q09.1a	Details on version of SNA currently used	R01		Currently NSO applies version 1993 SNA with SNA 2008 amendments (partial implementation)	Africa	1	1
+Q09.1a	Details on version of SNA currently used	R01		We use the UN SNA 1993 with the base year in 2006	Africa	1	1
+Q09.1a	Details on version of SNA currently used	R01		In practice ESA2010 is used.	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		European Union version ESA	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		Transition to the SNA 2008 is planned in 2019. Transition to NACE Rev. 2 and general revision of time series is planned in 2019 as well.	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		In Germany, the 2014 major revision involves a thorough revision of the entire national accounting system, as is always the case in major revisions. The Federal Statistical Office has therefore recalculated all national accounts aggregates in full detail back to 1991. The main purpose of the 2014 major revision of national accounts was to implement the new â€œEuropean System of National and Regional Accountsâ€ (ESA 2010). The ESA 2010 itself is based on the worldwide SNA 2008.	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		Il existe une nouvelle version du SCN 2008	Africa	1	1
+Q09.1a	Details on version of SNA currently used	R01		Hungary is a Member State of the European Union thus has implemented the European System of Accounts - ESA2010.	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		ESA 2010	Europe	2	2
+Q09.1a	Details on version of SNA currently used	R01		Is currently working on the application system 2008 completed than 60%	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		EU Regulation ESA 2010 which is based on 2008 SNA	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01			Asia	10	11
+Q09.1a	Details on version of SNA currently used	R01		--	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		Conversion to SNA 2008 is currently being undertaken	Americas	1	1
+Q09.1a	Details on version of SNA currently used	R01		ESA2010	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		It has to be mentioned that ESA2020 is used (disseminating statistics on national level and providing data to Eurostat).  Data published on the statistical portal correspond to the concepts of SEC2010.	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		Mexico implements 55 of the 57 recommendations of the 2008 SNA.	Americas	1	1
+Q09.1a	Details on version of SNA currently used	R01		NSS is in transition process to 2008 version.	Africa	1	1
+Q09.1a	Details on version of SNA currently used	R01		Nil	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		We are in the process of migrating into SNA 2008	Africa	1	1
+Q09.1a	Details on version of SNA currently used	R01		Stats NZ implemented 2008 SNA from November 2014 starting with the Annual National Accounts and flowing through to the quarterly National Accounts.	Oceania	1	1
+Q09.1a	Details on version of SNA currently used	R01		we are planning to implement SNA 2008 in 2020	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		This is for the rebasing and production of the GDP estimates for 2007 to 2016	Oceania	1	1
+Q09.1a	Details on version of SNA currently used	R01		Se utiliza el Sistema de Cuentas Nacionales 2008 (SCN 2008) que es la àºltima versià³n de la norma estadà­stica internacional para las cuentas nacionales, adoptada por la Comisià³n de Estadà­stica de las Naciones Unidas (UNSC). Cabe seà±alar que es la actualizacià³n del SCN 1993.	Americas	1	1
+Q09.1a	Details on version of SNA currently used	R01		Some recommendations of the 2008 SNA will be implemented in the ongoing overall revision and rebasing of the Philippine SNA.	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		Polish national accounts are compile according to the European System of National and Regional Accounts in the European Union (ESA2010), introduced by Regulation (EU) No 549/2013 of the European Parliament and of the Council of 21 May 2013. ESA2010 in the EU is the equivalent of worldwide System of National Accounts SNA2008.	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		National Accounts of Armenia, 2017 published on 20 November 2017 and posted on the website at https://www.armstat.am/en/?nid=81&id=1981	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		This year, NBS started applying the SNA 2008 in the production of main macroeconomic estimates.	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		In compilation of National Accounts, Romania use the Regulation 543/2013 of European Parliament and of Council on the European System of National and Regional accounts in the EU, named ESA 2010 is roughly compatible with SNA 2008.	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		That is the 2008 version	Oceania	1	1
+Q09.1a	Details on version of SNA currently used	R01		Les comptes nationaux 2015 et 2016 produits avec la nouvelle année de base (2014) ont utilisé le SCN 2008.Cf. http://www.ansd.sn/ressources/methodes/Mise%20en%20oeuvre%20du%20changement%20annee%20de%20base_vf_bis.pdf	Africa	1	1
+Q09.1a	Details on version of SNA currently used	R01		We have expressed commitment to use SNA 2008	Africa	1	1
+Q09.1a	Details on version of SNA currently used	R01		The SNA is used as the overall conceptual framework. Singapore has adopted the major recommendations of the 2008 SNA.	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		We use ESA 2010 that is the European of SNA2008	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		In transition from SNA 1993 to SNA 2008, with support from CARICOM, CARTAC and Statistics Canada.	Americas	1	1
+Q09.1a	Details on version of SNA currently used	R01		We currently use partial SNA 2008, but we plan to fully apply SNA 2008 in the future.	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		we work ti integarte SNA2008	Africa	1	1
+Q09.1a	Details on version of SNA currently used	R01		ESA 2010 also used. Gross Domestic Product by Production Approach: In 2016, 1998-2016 period has been revised. Note: Because of the transition from ESA-95 to ESA-2010, using new sub-accounts based on 2012 Supply-Use and Input-Output Tables in calculation, integration of new administrative records and survey results into the accounting system 2009 based chain linked GDP volume indices have been started to be produced. Gross Domestic Product by Income Approach: In 2016, 1998-2006 period has been revised. Note: Because of the updates in quarterly accounting by the addition of administrative records from Revenue Administration and Social Security Institution, GDP by income method has been revised.	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		use of ISIC Rev4, CPC etc	Africa	1	1
+Q09.1a	Details on version of SNA currently used	R01		we are moving from 1993 to 2008	Asia	1	1
+Q09.1a	Details on version of SNA currently used	R01		The national accounts are produced in line with international standards, most notably the European System of Accounts 2010 (ESA2010) that is enforced for all European Union (EU) member states through an EU regulation. ESA2010 is in turn consistent with the United Nations System of National Accounts 2008 (SNA08).	Europe	1	1
+Q09.1a	Details on version of SNA currently used	R01		The US National Accounts is produced by the US Bureau of Economic Analysis.https://www.bea.gov/national/sna-and-nipas	Americas	1	1
+Q09.1a	Details on version of SNA currently used	R01		We calculate GDP and GRDP	Asia	1	1

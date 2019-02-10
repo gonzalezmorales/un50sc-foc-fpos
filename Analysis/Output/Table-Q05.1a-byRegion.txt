@@ -1,0 +1,73 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	1	Europe	34	37
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	1	Africa	14	15
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	0	Americas	2	2
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	1	Oceania	4	4
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	1	Americas	11	12
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	1	Asia	22	24
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	0	Africa	3	3
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	0	Europe	1	1
+Q05.1a	How administrative records are currently used	R01	As a direct source of data (without linking or drawing of inferences)	0	Asia	2	2
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	1	Europe	33	35
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	0	Africa	8	9
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	0	Americas	4	4
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	1	Oceania	4	4
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	1	Asia	18	19
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	1	Americas	9	10
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	1	Africa	9	10
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	0	Europe	2	2
+Q05.1a	How administrative records are currently used	R02	As a means for estimation (combining multiple records to derive variables)	0	Asia	6	6
+Q05.1a	How administrative records are currently used	R03	As sampling frames	1	Europe	31	33
+Q05.1a	How administrative records are currently used	R03	As sampling frames	0	Africa	7	8
+Q05.1a	How administrative records are currently used	R03	As sampling frames	0	Americas	7	8
+Q05.1a	How administrative records are currently used	R03	As sampling frames	1	Oceania	3	3
+Q05.1a	How administrative records are currently used	R03	As sampling frames	0	Asia	9	10
+Q05.1a	How administrative records are currently used	R03	As sampling frames	1	Americas	6	6
+Q05.1a	How administrative records are currently used	R03	As sampling frames	1	Asia	15	16
+Q05.1a	How administrative records are currently used	R03	As sampling frames	1	Africa	10	11
+Q05.1a	How administrative records are currently used	R03	As sampling frames	0	Europe	4	4
+Q05.1a	How administrative records are currently used	R03	As sampling frames	0	Oceania	1	1
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	1	Europe	33	35
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	1	Africa	12	13
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	0	Americas	3	3
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	1	Oceania	3	3
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	1	Americas	10	11
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	0	Asia	8	9
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	0	Europe	2	2
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	0	Africa	5	5
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	1	Asia	16	17
+Q05.1a	How administrative records are currently used	R04	As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	0	Oceania	1	1
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	1	Europe	31	33
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	0	Africa	9	10
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	0	Americas	6	6
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	1	Oceania	3	3
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	0	Asia	11	12
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	0	Europe	4	4
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	1	Asia	13	14
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	1	Africa	8	9
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	1	Americas	7	8
+Q05.1a	How administrative records are currently used	R05	As a supplement to survey or census data, adding information to what was collected in the interviews	0	Oceania	1	1
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	1	Europe	23	25
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	0	Africa	12	13
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	0	Americas	9	10
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	1	Oceania	2	2
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	0	Europe	12	13
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	0	Asia	13	14
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	1	Asia	11	12
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	1	Americas	4	4
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	1	Africa	5	5
+Q05.1a	How administrative records are currently used	R06	As a means to assess non-response to surveys	0	Oceania	2	2
+Q05.1a	How administrative records are currently used	R07	None of the above	0	Europe	35	38
+Q05.1a	How administrative records are currently used	R07	None of the above	0	Africa	17	18
+Q05.1a	How administrative records are currently used	R07	None of the above	0	Americas	13	14
+Q05.1a	How administrative records are currently used	R07	None of the above	0	Oceania	4	4
+Q05.1a	How administrative records are currently used	R07	None of the above	0	Asia	24	26
+Q05.1a	How administrative records are currently used	R08	Other		Europe	34	37
+Q05.1a	How administrative records are currently used	R08	Other		Africa	17	18
+Q05.1a	How administrative records are currently used	R08	Other		Americas	11	12
+Q05.1a	How administrative records are currently used	R08	Other	Data Integration	Oceania	1	1
+Q05.1a	How administrative records are currently used	R08	Other		Asia	24	26
+Q05.1a	How administrative records are currently used	R08	Other		Oceania	3	3
+Q05.1a	How administrative records are currently used	R08	Other	Quality Assurance Purposes	Americas	1	1
+Q05.1a	How administrative records are currently used	R08	Other	Linking to census and survey sources to add information content.	Europe	1	1
+Q05.1a	How administrative records are currently used	R08	Other	Research	Americas	1	1

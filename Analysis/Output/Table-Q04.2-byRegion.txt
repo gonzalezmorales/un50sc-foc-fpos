@@ -1,0 +1,59 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R01	Sending letters to the editors of newspapers or advertorials	1	Europe	25	27
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R01	Sending letters to the editors of newspapers or advertorials	1	Africa	6	6
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R01	Sending letters to the editors of newspapers or advertorials	0	Americas	3	3
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R01	Sending letters to the editors of newspapers or advertorials	1	Oceania	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R01	Sending letters to the editors of newspapers or advertorials	0	Europe	10	11
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R01	Sending letters to the editors of newspapers or advertorials	0	Asia	10	11
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R01	Sending letters to the editors of newspapers or advertorials	0	Africa	11	12
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R01	Sending letters to the editors of newspapers or advertorials	1	Americas	10	11
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R01	Sending letters to the editors of newspapers or advertorials	1	Asia	14	15
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R01	Sending letters to the editors of newspapers or advertorials	0	Oceania	3	3
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R02	Holding press conferences or issuing press releases	1	Europe	19	20
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R02	Holding press conferences or issuing press releases	1	Africa	8	9
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R02	Holding press conferences or issuing press releases	1	Americas	9	10
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R02	Holding press conferences or issuing press releases	1	Oceania	2	2
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R02	Holding press conferences or issuing press releases	0	Europe	16	17
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R02	Holding press conferences or issuing press releases	0	Asia	14	15
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R02	Holding press conferences or issuing press releases	0	Africa	9	10
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R02	Holding press conferences or issuing press releases	0	Americas	4	4
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R02	Holding press conferences or issuing press releases	1	Asia	10	11
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R02	Holding press conferences or issuing press releases	0	Oceania	2	2
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R03	Publishing articles on own webpage or posting on social media	1	Europe	26	28
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R03	Publishing articles on own webpage or posting on social media	1	Africa	7	8
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R03	Publishing articles on own webpage or posting on social media	1	Americas	9	10
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R03	Publishing articles on own webpage or posting on social media	1	Oceania	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R03	Publishing articles on own webpage or posting on social media	0	Europe	9	10
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R03	Publishing articles on own webpage or posting on social media	0	Asia	14	15
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R03	Publishing articles on own webpage or posting on social media	0	Africa	10	11
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R03	Publishing articles on own webpage or posting on social media	0	Americas	4	4
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R03	Publishing articles on own webpage or posting on social media	1	Asia	10	11
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R03	Publishing articles on own webpage or posting on social media	0	Oceania	3	3
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R04	None of the above	0	Europe	35	38
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R04	None of the above	0	Africa	17	18
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R04	None of the above	0	Americas	13	14
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R04	None of the above	0	Oceania	4	4
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R04	None of the above	0	Asia	24	26
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other		Europe	26	28
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other		Africa	15	16
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other		Americas	9	10
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other		Oceania	4	4
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	contacting rlevant persons	Europe	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	Belstat regularly monitors media publications (websites, newspapers, magazines) for the use of official statistical information.  Such publications are checked by employees of the NSO, and when errors or misinterpretation of official statistical information are detected, the spokesperson or Belstat employees conduct explanatory work with the media. In case of systematic errors, an official letter is sent to the editor-in-chief of the media with explanations and a requirement to prevent errors or misinterpretation of statistical data, and an information letter is sent to the Ministry of Information of the Republic of Belarus (the body responsible for implementing state policy in the field of mass information). In addition, the official website of Belstat, the official pages of Belstat on social media contain information explaining the main methodological approaches to the compilation of official statistical information on which errors were made, and also underlines the possibility to get the necessary consultation on these issues from Belstat specialists. Belstat also holds regular press conferences on the results of various observations and surveys, at which the leadership of Belstat and its employees tell journalists about the results obtained, as well as explain the main methodological approaches used in compiling official statistical information.	Europe	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	Television show appearances; preparation and publication of informative material, videos, etc.	Americas	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other		Asia	21	23
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	Working with authors of that information to provide additional information and/or training about the data. Engagement, increasing awareness of sources and methods.	Americas	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	Issued statement and emails to data users	Americas	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	focusing on the development of documentation and appropriate means of communication	Europe	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	If the source is mentioned but the data are not correctly reported we are going into a dialog	Europe	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	Sending statements to the editors of newspapers for publication	Europe	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	A press communique was sent by the Statistics Board	Africa	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	phone call	Asia	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	We have also invited those involved to a meeting to explain.  We have appeared on TV to also explain to the nation.	Africa	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	Newspaper articles/commentaries, TV-debates	Europe	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	VIA SOCIAL MEDIA	Asia	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	Sending an official letter for concerned party.	Asia	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	TV appearance	Europe	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	e-mails	Europe	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	The UK Statistics Authority considers all potential misuse cases raised with it and responds publicly to all cases that are deemed to require a full response.  All correspondence on issues of potential misuse is publicly available on the Authority's website.	Europe	1	1
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years	R05	Other	varies across agencies, depending on scope of error	Americas	1	1

@@ -1,0 +1,83 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R01	When the individual /enterprise consented	0	Europe	14	15
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R01	When the individual /enterprise consented	0	Africa	10	11
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R01	When the individual /enterprise consented	0	Americas	7	8
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R01	When the individual /enterprise consented	1	Oceania	4	4
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R01	When the individual /enterprise consented	1	Europe	21	23
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R01	When the individual /enterprise consented	1	Americas	6	6
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R01	When the individual /enterprise consented	0	Asia	18	19
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R01	When the individual /enterprise consented	1	Asia	6	6
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R01	When the individual /enterprise consented	1	Africa	7	8
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R02	When a court of law issues a request	0	Europe	31	33
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R02	When a court of law issues a request	0	Africa	13	14
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R02	When a court of law issues a request	0	Americas	12	13
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R02	When a court of law issues a request	1	Oceania	2	2
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R02	When a court of law issues a request	1	Europe	4	4
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R02	When a court of law issues a request	0	Asia	20	22
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R02	When a court of law issues a request	1	Asia	4	4
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R02	When a court of law issues a request	1	Africa	4	4
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R02	When a court of law issues a request	1	Americas	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R02	When a court of law issues a request	0	Oceania	2	2
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R03	When requested by a federal institution	0	Europe	35	38
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R03	When requested by a federal institution	0	Africa	16	17
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R03	When requested by a federal institution	0	Americas	13	14
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R03	When requested by a federal institution	0	Oceania	3	3
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R03	When requested by a federal institution	0	Asia	23	25
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R03	When requested by a federal institution	1	Asia	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R03	When requested by a federal institution	1	Oceania	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R03	When requested by a federal institution	1	Africa	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R04	In cases of emergency, such as a public health crisis	0	Europe	34	37
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R04	In cases of emergency, such as a public health crisis	0	Africa	15	16
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R04	In cases of emergency, such as a public health crisis	0	Americas	13	14
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R04	In cases of emergency, such as a public health crisis	0	Oceania	3	3
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R04	In cases of emergency, such as a public health crisis	1	Europe	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R04	In cases of emergency, such as a public health crisis	0	Asia	22	24
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R04	In cases of emergency, such as a public health crisis	1	Asia	2	2
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R04	In cases of emergency, such as a public health crisis	1	Africa	2	2
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R04	In cases of emergency, such as a public health crisis	1	Oceania	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R05	When exchanging data with other statistical offices or agencies in the country	0	Europe	21	23
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R05	When exchanging data with other statistical offices or agencies in the country	0	Africa	15	16
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R05	When exchanging data with other statistical offices or agencies in the country	0	Americas	13	14
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R05	When exchanging data with other statistical offices or agencies in the country	0	Oceania	4	4
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R05	When exchanging data with other statistical offices or agencies in the country	1	Europe	14	15
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R05	When exchanging data with other statistical offices or agencies in the country	0	Asia	22	24
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R05	When exchanging data with other statistical offices or agencies in the country	1	Africa	2	2
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R05	When exchanging data with other statistical offices or agencies in the country	1	Asia	2	2
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R06	When working together with supranational statistical organizations, such as Eurostat	0	Europe	26	28
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R06	When working together with supranational statistical organizations, such as Eurostat	0	Africa	15	16
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R06	When working together with supranational statistical organizations, such as Eurostat	0	Americas	13	14
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R06	When working together with supranational statistical organizations, such as Eurostat	0	Oceania	4	4
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R06	When working together with supranational statistical organizations, such as Eurostat	0	Asia	23	25
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R06	When working together with supranational statistical organizations, such as Eurostat	1	Europe	9	10
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R06	When working together with supranational statistical organizations, such as Eurostat	1	Africa	2	2
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R06	When working together with supranational statistical organizations, such as Eurostat	1	Asia	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R07	When the High Statistical Council agrees	0	Europe	35	38
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R07	When the High Statistical Council agrees	0	Africa	14	15
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R07	When the High Statistical Council agrees	0	Americas	12	13
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R07	When the High Statistical Council agrees	0	Oceania	4	4
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R07	When the High Statistical Council agrees	0	Asia	24	26
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R07	When the High Statistical Council agrees	1	Americas	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R07	When the High Statistical Council agrees	1	Africa	3	3
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other		Europe	28	30
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other		Africa	17	18
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other		Americas	12	13
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other		Oceania	4	4
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other	If so required for statistical purposes by an international legal act with direct national effect or by federal law or unless the data subject has expressly and unequivocally agreed to such transmission.	Europe	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other	In compliance with the legislation, without the written consent of the respondent, primary statistical data may be provided in relation to subordinated (affiliated) state organizations, as well as organizations whose shares (shares in the statutory capital) are state-owned and transferred to them for management.	Europe	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other		Asia	23	25
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other	When exchanging data for statistical purposes with other national statistical authorities of the Member States in the EU under multilateral agreement where this is necessary for development and production of European statistical information; When exchanging data with the Bulgarian National Bank in developing, producing and disseminating official national or European statistical information or the statistical information of the European Central Bank	Europe	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other	Statistics Canada may disclose individual information with permission from the authority responsible for original collection of the information from individuals and businesses. In addition to consent, the Chief Statistician must also have authorized the disclosure.	Americas	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other	These answers are all related to enterprises but do not refer to individuals/individual households. The relations with supra national organisations (Eurostat) only based on European legal act.	Europe	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other	Individual data must not be made public, only with the exceptions provided by the Act No CLV of 2016 on official statistics, Art. 20 39(3)	Europe	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other	In general not, but some data exchange on identifiable level to other Nordic NSOs given that the countries legal provisions are as strong as in Norway	Europe	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other	specific rules are provided for in European Union Law	Europe	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R08	Other	We never provide information to third parties.	Asia	1	1
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R09	None Of The Above	1	Europe	6	6
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R09	None Of The Above	1	Africa	5	5
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R09	None Of The Above	1	Americas	5	5
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R09	None Of The Above	0	Oceania	4	4
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R09	None Of The Above	0	Europe	29	31
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R09	None Of The Above	0	Americas	8	9
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R09	None Of The Above	1	Asia	9	10
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R09	None Of The Above	0	Asia	15	16
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties	R09	None Of The Above	0	Africa	12	13

@@ -1,0 +1,26 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Fully integrated in statistical law or legal framework	Europe	22	24
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Fully integrated in statistical law or legal framework	Africa	14	15
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Partially integrated in statistical law or legal framework	Americas	7	8
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Fully integrated in statistical law or legal framework	Oceania	2	2
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Other	Asia	1	1
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Partially integrated in statistical law or legal framework	Europe	5	5
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Partially integrated in statistical law or legal framework	Asia	8	9
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Partially integrated in statistical law or legal framework	Africa	3	3
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Fully integrated in statistical law or legal framework	Americas	4	4
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Fully integrated in statistical law or legal framework	Asia	15	16
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Other	Europe	3	3
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Not integrated in statistical law or legal framework	Europe	5	5
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Not integrated in statistical law or legal framework	Americas	1	1
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Partially integrated in statistical law or legal framework	Oceania	2	2
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R01	Response	Other	Americas	1	1
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)		Europe	32	34
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)		Africa	17	18
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)		Americas	12	13
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)		Oceania	4	4
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)	There is no statistical Law of legal framework	Asia	1	1
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)		Asia	23	25
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)	There is no formal NSS or institutional framework	Europe	1	1
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)	Statistical law makes reference to European Statistics Code of Practice	Europe	1	1
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)	We follow European Statistics Code of Practice	Europe	1	1
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework	R02	Other (detail)	UNFPOS adherence, though, not explicitly written in legal framework	Americas	1	1

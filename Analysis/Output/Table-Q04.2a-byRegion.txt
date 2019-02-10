@@ -1,0 +1,74 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	0	Europe	30	32
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	0	Africa	15	16
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	0	Americas	12	13
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	0	Oceania	3	3
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	1	Europe	5	5
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	1	Americas	1	1
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	0	Asia	21	23
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	1	Africa	2	2
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	1	Asia	3	3
+Q04.2a	Types of misuse identified in the past two years?	R01	Leading questions	1	Oceania	1	1
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	0	Europe	18	19
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	1	Africa	4	4
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	0	Americas	8	9
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	0	Oceania	4	4
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	1	Europe	17	18
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	1	Americas	5	5
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	0	Asia	16	17
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	0	Africa	13	14
+Q04.2a	Types of misuse identified in the past two years?	R02	Overgeneralizations	1	Asia	8	9
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	1	Europe	25	27
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	1	Africa	6	6
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	0	Americas	1	1
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	1	Oceania	2	2
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	0	Europe	10	11
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	1	Americas	12	13
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	0	Asia	11	12
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	0	Africa	11	12
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	1	Asia	13	14
+Q04.2a	Types of misuse identified in the past two years?	R03	Misreporting of findings	0	Oceania	2	2
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	1	Europe	15	16
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	0	Africa	15	16
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	0	Americas	8	9
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	0	Oceania	4	4
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	0	Europe	20	22
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	1	Americas	5	5
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	0	Asia	17	18
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	1	Asia	7	8
+Q04.2a	Types of misuse identified in the past two years?	R04	Selective reporting of findings (omitting key findings)	1	Africa	2	2
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	1	Europe	12	13
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	0	Africa	15	16
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	0	Americas	11	12
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	0	Oceania	4	4
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	0	Europe	23	25
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	0	Asia	21	23
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	1	Americas	2	2
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	1	Asia	3	3
+Q04.2a	Types of misuse identified in the past two years?	R05	Misleading graphs and data visualization	1	Africa	2	2
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	0	Europe	15	16
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	0	Africa	16	17
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	0	Americas	10	11
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	0	Oceania	4	4
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	1	Europe	20	22
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	1	Americas	3	3
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	0	Asia	21	23
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	1	Africa	1	1
+Q04.2a	Types of misuse identified in the past two years?	R06	Suggesting false causality	1	Asia	3	3
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	0	Europe	35	38
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	0	Africa	17	18
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	1	Americas	1	1
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	0	Oceania	4	4
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	0	Americas	12	13
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	0	Asia	22	24
+Q04.2a	Types of misuse identified in the past two years?	R07	None of the above	1	Asia	2	2
+Q04.2a	Types of misuse identified in the past two years?	R08	Other		Europe	35	38
+Q04.2a	Types of misuse identified in the past two years?	R08	Other		Africa	17	18
+Q04.2a	Types of misuse identified in the past two years?	R08	Other		Americas	9	10
+Q04.2a	Types of misuse identified in the past two years?	R08	Other		Oceania	4	4
+Q04.2a	Types of misuse identified in the past two years?	R08	Other	Misinterpretation of key concepts and data	Americas	1	1
+Q04.2a	Types of misuse identified in the past two years?	R08	Other		Asia	23	25
+Q04.2a	Types of misuse identified in the past two years?	R08	Other	SCI prevents misuse  through timely  information  dissemination .	Asia	1	1
+Q04.2a	Types of misuse identified in the past two years?	R08	Other	Misinterpretation of methodologies	Americas	1	1
+Q04.2a	Types of misuse identified in the past two years?	R08	Other	Misuse because of serious incompetence	Americas	1	1
+Q04.2a	Types of misuse identified in the past two years?	R08	Other	US Statistical agencies cooperate with media to make every effort to get the reporting correct.  For example, there is 1/2 hour prior to the GDP and Unemployment news releases.  This is done to give them time to write their stories correctly before the 8:30 a.m. release.	Americas	1	1

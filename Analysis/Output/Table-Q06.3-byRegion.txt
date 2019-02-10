@@ -1,0 +1,77 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q06.3	Practices being implemented to anonymize statistical data	R01	Removing individual names of persons or enterprises in databases	1	Europe	32	34
+Q06.3	Practices being implemented to anonymize statistical data	R01	Removing individual names of persons or enterprises in databases	1	Africa	15	16
+Q06.3	Practices being implemented to anonymize statistical data	R01	Removing individual names of persons or enterprises in databases	1	Americas	12	13
+Q06.3	Practices being implemented to anonymize statistical data	R01	Removing individual names of persons or enterprises in databases	1	Oceania	4	4
+Q06.3	Practices being implemented to anonymize statistical data	R01	Removing individual names of persons or enterprises in databases	0	Europe	3	3
+Q06.3	Practices being implemented to anonymize statistical data	R01	Removing individual names of persons or enterprises in databases	1	Asia	22	24
+Q06.3	Practices being implemented to anonymize statistical data	R01	Removing individual names of persons or enterprises in databases	0	Asia	2	2
+Q06.3	Practices being implemented to anonymize statistical data	R01	Removing individual names of persons or enterprises in databases	0	Africa	2	2
+Q06.3	Practices being implemented to anonymize statistical data	R01	Removing individual names of persons or enterprises in databases	0	Americas	1	1
+Q06.3	Practices being implemented to anonymize statistical data	R02	Suppression of information that allows for re-identification of respondents	1	Europe	31	33
+Q06.3	Practices being implemented to anonymize statistical data	R02	Suppression of information that allows for re-identification of respondents	1	Africa	15	16
+Q06.3	Practices being implemented to anonymize statistical data	R02	Suppression of information that allows for re-identification of respondents	1	Americas	12	13
+Q06.3	Practices being implemented to anonymize statistical data	R02	Suppression of information that allows for re-identification of respondents	1	Oceania	2	2
+Q06.3	Practices being implemented to anonymize statistical data	R02	Suppression of information that allows for re-identification of respondents	0	Europe	4	4
+Q06.3	Practices being implemented to anonymize statistical data	R02	Suppression of information that allows for re-identification of respondents	1	Asia	18	19
+Q06.3	Practices being implemented to anonymize statistical data	R02	Suppression of information that allows for re-identification of respondents	0	Americas	1	1
+Q06.3	Practices being implemented to anonymize statistical data	R02	Suppression of information that allows for re-identification of respondents	0	Asia	6	6
+Q06.3	Practices being implemented to anonymize statistical data	R02	Suppression of information that allows for re-identification of respondents	0	Africa	2	2
+Q06.3	Practices being implemented to anonymize statistical data	R02	Suppression of information that allows for re-identification of respondents	0	Oceania	2	2
+Q06.3	Practices being implemented to anonymize statistical data	R03	Applying confidentiality checks with specialized software	1	Europe	24	26
+Q06.3	Practices being implemented to anonymize statistical data	R03	Applying confidentiality checks with specialized software	0	Africa	11	12
+Q06.3	Practices being implemented to anonymize statistical data	R03	Applying confidentiality checks with specialized software	1	Americas	8	9
+Q06.3	Practices being implemented to anonymize statistical data	R03	Applying confidentiality checks with specialized software	1	Oceania	2	2
+Q06.3	Practices being implemented to anonymize statistical data	R03	Applying confidentiality checks with specialized software	0	Europe	11	12
+Q06.3	Practices being implemented to anonymize statistical data	R03	Applying confidentiality checks with specialized software	0	Americas	5	5
+Q06.3	Practices being implemented to anonymize statistical data	R03	Applying confidentiality checks with specialized software	0	Asia	11	12
+Q06.3	Practices being implemented to anonymize statistical data	R03	Applying confidentiality checks with specialized software	1	Africa	6	6
+Q06.3	Practices being implemented to anonymize statistical data	R03	Applying confidentiality checks with specialized software	1	Asia	13	14
+Q06.3	Practices being implemented to anonymize statistical data	R03	Applying confidentiality checks with specialized software	0	Oceania	2	2
+Q06.3	Practices being implemented to anonymize statistical data	R04	Manually checking data prepared for dissemination	0	Europe	8	9
+Q06.3	Practices being implemented to anonymize statistical data	R04	Manually checking data prepared for dissemination	1	Africa	9	10
+Q06.3	Practices being implemented to anonymize statistical data	R04	Manually checking data prepared for dissemination	1	Americas	8	9
+Q06.3	Practices being implemented to anonymize statistical data	R04	Manually checking data prepared for dissemination	1	Oceania	3	3
+Q06.3	Practices being implemented to anonymize statistical data	R04	Manually checking data prepared for dissemination	1	Europe	27	29
+Q06.3	Practices being implemented to anonymize statistical data	R04	Manually checking data prepared for dissemination	0	Asia	8	9
+Q06.3	Practices being implemented to anonymize statistical data	R04	Manually checking data prepared for dissemination	1	Asia	16	17
+Q06.3	Practices being implemented to anonymize statistical data	R04	Manually checking data prepared for dissemination	0	Africa	8	9
+Q06.3	Practices being implemented to anonymize statistical data	R04	Manually checking data prepared for dissemination	0	Americas	5	5
+Q06.3	Practices being implemented to anonymize statistical data	R04	Manually checking data prepared for dissemination	0	Oceania	1	1
+Q06.3	Practices being implemented to anonymize statistical data	R05	Having specific authorities scrutinize applications for accessing confidential data	1	Europe	15	16
+Q06.3	Practices being implemented to anonymize statistical data	R05	Having specific authorities scrutinize applications for accessing confidential data	0	Africa	17	18
+Q06.3	Practices being implemented to anonymize statistical data	R05	Having specific authorities scrutinize applications for accessing confidential data	0	Americas	11	12
+Q06.3	Practices being implemented to anonymize statistical data	R05	Having specific authorities scrutinize applications for accessing confidential data	0	Oceania	3	3
+Q06.3	Practices being implemented to anonymize statistical data	R05	Having specific authorities scrutinize applications for accessing confidential data	0	Europe	20	22
+Q06.3	Practices being implemented to anonymize statistical data	R05	Having specific authorities scrutinize applications for accessing confidential data	0	Asia	16	17
+Q06.3	Practices being implemented to anonymize statistical data	R05	Having specific authorities scrutinize applications for accessing confidential data	1	Americas	2	2
+Q06.3	Practices being implemented to anonymize statistical data	R05	Having specific authorities scrutinize applications for accessing confidential data	1	Asia	8	9
+Q06.3	Practices being implemented to anonymize statistical data	R05	Having specific authorities scrutinize applications for accessing confidential data	1	Oceania	1	1
+Q06.3	Practices being implemented to anonymize statistical data	R06	Anonymizing microdata released for research purposes	1	Europe	32	34
+Q06.3	Practices being implemented to anonymize statistical data	R06	Anonymizing microdata released for research purposes	0	Africa	7	8
+Q06.3	Practices being implemented to anonymize statistical data	R06	Anonymizing microdata released for research purposes	0	Americas	1	1
+Q06.3	Practices being implemented to anonymize statistical data	R06	Anonymizing microdata released for research purposes	1	Oceania	2	2
+Q06.3	Practices being implemented to anonymize statistical data	R06	Anonymizing microdata released for research purposes	1	Americas	12	13
+Q06.3	Practices being implemented to anonymize statistical data	R06	Anonymizing microdata released for research purposes	1	Asia	15	16
+Q06.3	Practices being implemented to anonymize statistical data	R06	Anonymizing microdata released for research purposes	0	Europe	3	3
+Q06.3	Practices being implemented to anonymize statistical data	R06	Anonymizing microdata released for research purposes	1	Africa	10	11
+Q06.3	Practices being implemented to anonymize statistical data	R06	Anonymizing microdata released for research purposes	0	Asia	9	10
+Q06.3	Practices being implemented to anonymize statistical data	R06	Anonymizing microdata released for research purposes	0	Oceania	2	2
+Q06.3	Practices being implemented to anonymize statistical data	R07	Other		Europe	31	33
+Q06.3	Practices being implemented to anonymize statistical data	R07	Other		Africa	17	18
+Q06.3	Practices being implemented to anonymize statistical data	R07	Other		Americas	11	12
+Q06.3	Practices being implemented to anonymize statistical data	R07	Other		Oceania	4	4
+Q06.3	Practices being implemented to anonymize statistical data	R07	Other		Asia	24	26
+Q06.3	Practices being implemented to anonymize statistical data	R07	Other	The confidentiality provision of the federal statistical legislation governing the NSO includes restricting access to identifying information to persons employed or deemed to be employed, and who have sworn the oath of office, and prohibits disclosure by these persons of information in a manner that it is possible to relate the information to any identifiable person, business or organization.	Americas	1	1
+Q06.3	Practices being implemented to anonymize statistical data	R07	Other	Procedures implemented for creation of scientific and public use files (survey databases).	Europe	1	1
+Q06.3	Practices being implemented to anonymize statistical data	R07	Other	Masking methods	Europe	1	1
+Q06.3	Practices being implemented to anonymize statistical data	R07	Other	Establishment of a Statistical Confidentiality Committee in ELSTAT.	Europe	1	1
+Q06.3	Practices being implemented to anonymize statistical data	R07	Other	Anonymizing microdata released for public use	Europe	1	1
+Q06.3	Practices being implemented to anonymize statistical data	R07	Other	Each agency has specific legislation regarding safeguarding the confidentially of their data.  For example, for Census Bureau it is Title 13.	Americas	1	1
+Q06.3	Practices being implemented to anonymize statistical data	R08	None Of The Above	0	Europe	34	37
+Q06.3	Practices being implemented to anonymize statistical data	R08	None Of The Above	0	Africa	17	18
+Q06.3	Practices being implemented to anonymize statistical data	R08	None Of The Above	0	Americas	13	14
+Q06.3	Practices being implemented to anonymize statistical data	R08	None Of The Above	0	Oceania	4	4
+Q06.3	Practices being implemented to anonymize statistical data	R08	None Of The Above	0	Asia	23	25
+Q06.3	Practices being implemented to anonymize statistical data	R08	None Of The Above	1	Asia	1	1
+Q06.3	Practices being implemented to anonymize statistical data	R08	None Of The Above	1	Europe	1	1

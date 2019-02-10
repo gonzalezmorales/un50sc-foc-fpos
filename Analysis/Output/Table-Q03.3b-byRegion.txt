@@ -1,0 +1,71 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	1	Europe	30	32
+Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	1	Africa	11	12
+Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	0	Americas	3	3
+Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	1	Oceania	3	3
+Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	0	Europe	5	5
+Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	1	Asia	19	20
+Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	1	Americas	10	11
+Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	0	Africa	6	6
+Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	0	Asia	5	5
+Q03.3b	Information included in explanatory texts that accompany published data	R01	Concepts and definitions	0	Oceania	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	1	Europe	31	33
+Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	1	Africa	10	11
+Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	0	Americas	3	3
+Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	1	Oceania	3	3
+Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	1	Asia	20	22
+Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	0	Europe	4	4
+Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	0	Africa	7	8
+Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	1	Americas	10	11
+Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	0	Asia	4	4
+Q03.3b	Information included in explanatory texts that accompany published data	R02	Methodology	0	Oceania	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	1	Europe	31	33
+Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	1	Africa	10	11
+Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	0	Americas	3	3
+Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	1	Oceania	3	3
+Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	0	Asia	5	5
+Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	0	Europe	4	4
+Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	1	Asia	19	20
+Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	1	Americas	10	11
+Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	0	Africa	7	8
+Q03.3b	Information included in explanatory texts that accompany published data	R03	Classifications and standards	0	Oceania	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	1	Europe	30	32
+Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	1	Africa	10	11
+Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	0	Americas	3	3
+Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	1	Oceania	3	3
+Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	1	Asia	18	19
+Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	0	Europe	5	5
+Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	0	Africa	7	8
+Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	1	Americas	10	11
+Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	0	Asia	6	6
+Q03.3b	Information included in explanatory texts that accompany published data	R04	Data collection procedures	0	Oceania	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	1	Europe	25	27
+Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	0	Africa	11	12
+Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	0	Americas	6	6
+Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	1	Oceania	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	0	Europe	10	11
+Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	0	Asia	14	15
+Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	1	Africa	6	6
+Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	1	Americas	7	8
+Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	1	Asia	10	11
+Q03.3b	Information included in explanatory texts that accompany published data	R05	Quality assessments	0	Oceania	3	3
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other		Europe	32	34
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other		Africa	16	17
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other		Americas	10	11
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other		Oceania	4	4
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other		Asia	21	23
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	Statistics Canada uses a variety of methods to ensure our users are well informed about quality.  Each statistical program must initially complete and keep up-to-date an accompanying metadata page prior to the release of data. Included on this page are all the options noted above.	Americas	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	everything requested within ESS standard metadata structures: ESMS and ESQRS	Europe	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	variable dictionary, forms	Americas	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	Applied international codes such as COICOP and survey questionnaire	Asia	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	All information defined by the ESS Single Integrated Metadata Structure (SIMS) are published to the users.	Europe	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	surveys Questionnaires	Asia	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	Table title, frequency, start period, end period, footnote, unit, data source, URL, formats for download, condition of use.	Asia	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	ESMS (SDMX) structure	Europe	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	data sources, accounting conventions	Africa	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R06	Other	Points of Contacts for the media and other datausers are usually provided	Americas	1	1
+Q03.3b	Information included in explanatory texts that accompany published data	R07	None Of The Above	0	Europe	35	38
+Q03.3b	Information included in explanatory texts that accompany published data	R07	None Of The Above	0	Africa	17	18
+Q03.3b	Information included in explanatory texts that accompany published data	R07	None Of The Above	0	Americas	13	14
+Q03.3b	Information included in explanatory texts that accompany published data	R07	None Of The Above	0	Oceania	4	4
+Q03.3b	Information included in explanatory texts that accompany published data	R07	None Of The Above	0	Asia	24	26

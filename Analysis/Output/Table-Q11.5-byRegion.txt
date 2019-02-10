@@ -1,0 +1,60 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01			Europe	9	10
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		20	Africa	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		60	Americas	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		300	Oceania	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		240	Europe	4	4
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		180	Americas	2	2
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		37	Asia	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		60	Europe	4	4
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		90	Africa	2	2
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		360	Asia	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		60	Africa	2	2
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		307	Americas	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		480	Asia	2	2
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		300	Americas	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01			Africa	4	4
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		600	Americas	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		540	Africa	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		80	Europe	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		600	Europe	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		630	Europe	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		120	Americas	2	2
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		120	Africa	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		120	Europe	2	2
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		210	Europe	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		240	Asia	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		1920	Europe	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		5760	Africa	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01			Americas	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		95	Europe	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		80	Asia	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		30	Europe	2	2
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		180	Asia	2	2
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		120	Asia	4	4
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		20	Americas	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		45	Asia	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		1	Asia	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		45	Europe	2	2
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		180	Africa	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		50	Asia	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		103	Africa	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		240	Oceania	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		2	Europe	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		300	Asia	3	3
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01			Asia	4	4
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01			Oceania	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		90	Americas	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		0	Europe	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		65	Asia	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		180	Europe	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		60	Oceania	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		360	Africa	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		138	Africa	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		1200	Europe	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		50	Europe	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		110	Americas	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		15	Europe	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		30	Africa	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		70	Asia	1	1
+Q11.5	How long did it take to fill out this questionnaire (in minutes)?	R01		10	Americas	1	1

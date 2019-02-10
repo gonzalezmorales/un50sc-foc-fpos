@@ -1,0 +1,22 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		1	Europe	17	18
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		3	Africa	5	5
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		1	Americas	7	8
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		3	Oceania	1	1
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	Europe	9	10
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		3	Europe	7	8
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01			Asia	6	6
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01			Africa	7	8
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	Africa	1	1
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		3	Americas	2	2
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		3	Asia	5	5
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	Americas	3	3
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		1	Africa	4	4
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		4	Europe	1	1
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		1	Asia	8	9
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01			Europe	1	1
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01			Americas	1	1
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	Asia	4	4
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		2	Oceania	1	1
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01			Oceania	2	2
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar	R01		4	Asia	1	1

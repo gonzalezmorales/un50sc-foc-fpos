@@ -1,0 +1,37 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q09.4	Existence of a programme on EEA*?	R01	Yes, we have compiled and published at least one EEA	0	Europe	12	13
+Q09.4	Existence of a programme on EEA*?	R01	Yes, we have compiled and published at least one EEA	0	Africa	15	16
+Q09.4	Existence of a programme on EEA*?	R01	Yes, we have compiled and published at least one EEA	0	Americas	7	8
+Q09.4	Existence of a programme on EEA*?	R01	Yes, we have compiled and published at least one EEA	1	Oceania	3	3
+Q09.4	Existence of a programme on EEA*?	R01	Yes, we have compiled and published at least one EEA	1	Europe	23	25
+Q09.4	Existence of a programme on EEA*?	R01	Yes, we have compiled and published at least one EEA	1	Asia	9	10
+Q09.4	Existence of a programme on EEA*?	R01	Yes, we have compiled and published at least one EEA	0	Asia	15	16
+Q09.4	Existence of a programme on EEA*?	R01	Yes, we have compiled and published at least one EEA	1	Americas	6	6
+Q09.4	Existence of a programme on EEA*?	R01	Yes, we have compiled and published at least one EEA	1	Africa	2	2
+Q09.4	Existence of a programme on EEA*?	R01	Yes, we have compiled and published at least one EEA	0	Oceania	1	1
+Q09.4	Existence of a programme on EEA*?	R02	Yes, we have compiled (or are compiling) at least one EEA but it has not been published	0	Europe	31	33
+Q09.4	Existence of a programme on EEA*?	R02	Yes, we have compiled (or are compiling) at least one EEA but it has not been published	0	Africa	15	16
+Q09.4	Existence of a programme on EEA*?	R02	Yes, we have compiled (or are compiling) at least one EEA but it has not been published	0	Americas	13	14
+Q09.4	Existence of a programme on EEA*?	R02	Yes, we have compiled (or are compiling) at least one EEA but it has not been published	0	Oceania	4	4
+Q09.4	Existence of a programme on EEA*?	R02	Yes, we have compiled (or are compiling) at least one EEA but it has not been published	1	Europe	4	4
+Q09.4	Existence of a programme on EEA*?	R02	Yes, we have compiled (or are compiling) at least one EEA but it has not been published	0	Asia	23	25
+Q09.4	Existence of a programme on EEA*?	R02	Yes, we have compiled (or are compiling) at least one EEA but it has not been published	1	Asia	1	1
+Q09.4	Existence of a programme on EEA*?	R02	Yes, we have compiled (or are compiling) at least one EEA but it has not been published	1	Africa	2	2
+Q09.4	Existence of a programme on EEA*?	R03	We plan (or have started) a programme on EEA, but do not yet compile any EEA	1	Europe	3	3
+Q09.4	Existence of a programme on EEA*?	R03	We plan (or have started) a programme on EEA, but do not yet compile any EEA	1	Africa	6	6
+Q09.4	Existence of a programme on EEA*?	R03	We plan (or have started) a programme on EEA, but do not yet compile any EEA	0	Americas	13	14
+Q09.4	Existence of a programme on EEA*?	R03	We plan (or have started) a programme on EEA, but do not yet compile any EEA	0	Oceania	3	3
+Q09.4	Existence of a programme on EEA*?	R03	We plan (or have started) a programme on EEA, but do not yet compile any EEA	0	Europe	32	34
+Q09.4	Existence of a programme on EEA*?	R03	We plan (or have started) a programme on EEA, but do not yet compile any EEA	0	Asia	20	22
+Q09.4	Existence of a programme on EEA*?	R03	We plan (or have started) a programme on EEA, but do not yet compile any EEA	0	Africa	11	12
+Q09.4	Existence of a programme on EEA*?	R03	We plan (or have started) a programme on EEA, but do not yet compile any EEA	1	Oceania	1	1
+Q09.4	Existence of a programme on EEA*?	R03	We plan (or have started) a programme on EEA, but do not yet compile any EEA	1	Asia	4	4
+Q09.4	Existence of a programme on EEA*?	R04	No, we do not have a programme on EEA 	0	Europe	30	32
+Q09.4	Existence of a programme on EEA*?	R04	No, we do not have a programme on EEA 	0	Africa	10	11
+Q09.4	Existence of a programme on EEA*?	R04	No, we do not have a programme on EEA 	1	Americas	7	8
+Q09.4	Existence of a programme on EEA*?	R04	No, we do not have a programme on EEA 	0	Oceania	4	4
+Q09.4	Existence of a programme on EEA*?	R04	No, we do not have a programme on EEA 	1	Europe	5	5
+Q09.4	Existence of a programme on EEA*?	R04	No, we do not have a programme on EEA 	0	Asia	14	15
+Q09.4	Existence of a programme on EEA*?	R04	No, we do not have a programme on EEA 	1	Asia	10	11
+Q09.4	Existence of a programme on EEA*?	R04	No, we do not have a programme on EEA 	1	Africa	7	8
+Q09.4	Existence of a programme on EEA*?	R04	No, we do not have a programme on EEA 	0	Americas	6	6

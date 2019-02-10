@@ -1,0 +1,68 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	1	Europe	26	28
+Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	1	Africa	11	12
+Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	0	Americas	5	5
+Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	1	Oceania	3	3
+Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	0	Europe	9	10
+Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	0	Asia	15	16
+Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	1	Americas	8	9
+Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	1	Asia	9	10
+Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	0	Africa	6	6
+Q03.3	Types of explanatory texts that accompany published data	R01	Erratum or any other form of error correction	0	Oceania	1	1
+Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	1	Europe	31	33
+Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	1	Africa	11	12
+Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	1	Americas	11	12
+Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	1	Oceania	4	4
+Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	0	Americas	2	2
+Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	0	Asia	7	8
+Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	1	Asia	17	18
+Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	0	Africa	6	6
+Q03.3	Types of explanatory texts that accompany published data	R02	Notifications of major methodological changes	0	Europe	4	4
+Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	1	Europe	31	33
+Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	1	Africa	11	12
+Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	0	Americas	3	3
+Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	1	Oceania	3	3
+Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	1	Asia	22	24
+Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	0	Europe	4	4
+Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	1	Americas	10	11
+Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	0	Africa	6	6
+Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	0	Oceania	1	1
+Q03.3	Types of explanatory texts that accompany published data	R03	Metadata associated with each dataset	0	Asia	2	2
+Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	1	Europe	14	15
+Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	0	Africa	12	13
+Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	1	Americas	8	9
+Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	1	Oceania	3	3
+Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	0	Europe	21	23
+Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	0	Americas	5	5
+Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	0	Asia	10	11
+Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	1	Africa	5	5
+Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	1	Asia	14	15
+Q03.3	Types of explanatory texts that accompany published data	R04	Guides on interpretation of data used and estimates	0	Oceania	1	1
+Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	0	Europe	15	16
+Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	1	Africa	8	9
+Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	1	Americas	7	8
+Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	1	Oceania	3	3
+Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	1	Europe	20	22
+Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	0	Americas	6	6
+Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	0	Asia	13	14
+Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	0	Africa	9	10
+Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	1	Asia	11	12
+Q03.3	Types of explanatory texts that accompany published data	R05	Manuals and protocols used by the NSS	0	Oceania	1	1
+Q03.3	Types of explanatory texts that accompany published data	R06	Other		Europe	32	34
+Q03.3	Types of explanatory texts that accompany published data	R06	Other		Africa	16	17
+Q03.3	Types of explanatory texts that accompany published data	R06	Other		Americas	12	13
+Q03.3	Types of explanatory texts that accompany published data	R06	Other		Oceania	4	4
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	Analysis of data	Americas	1	1
+Q03.3	Types of explanatory texts that accompany published data	R06	Other		Asia	21	23
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	Data users receive no information  on quality of data. Only in weighing method , non-response issue is implicitly  explained.	Asia	1	1
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	Concepts and Definitions, Scope & Data Sources are provided in historical series and data published in reports and social and economic indicators.	Africa	1	1
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	each section of the yearbook has methodological notes	Asia	1	1
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	Statistical Analyses	Europe	1	1
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	SingStat Website has videos and infographics to explain statistical concepts and data, and the statistical tables on SingStat Table Builder contains explanatory footnotes.	Asia	1	1
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	INE publish ESMS (SDMX) metadata with each statistics	Europe	1	1
+Q03.3	Types of explanatory texts that accompany published data	R06	Other	press releases	Europe	1	1
+Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	0	Europe	35	38
+Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	0	Africa	17	18
+Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	0	Americas	13	14
+Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	0	Oceania	4	4
+Q03.3	Types of explanatory texts that accompany published data	R07	None Of The Above	0	Asia	24	26

@@ -1,0 +1,19 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01			Europe	20	22
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		No	Africa	4	4
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Yes, always	Americas	7	8
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Yes, always	Oceania	2	2
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		No	Americas	4	4
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01			Asia	12	13
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01			Africa	9	10
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Yes, always	Europe	13	14
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Yes, always	Asia	3	3
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01			Americas	2	2
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Yes, in some cases	Africa	3	3
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Yes, in some cases	Asia	3	3
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		No	Europe	1	1
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		No	Asia	6	6
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Yes, always	Africa	1	1
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		No	Oceania	1	1
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01		Yes, in some cases	Europe	1	1
+Q01.6a	If any user has access to a pre-release, is this publicly identified?	R01			Oceania	1	1

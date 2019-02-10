@@ -1,0 +1,83 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R01	Statistical offices at the sub-national level (region, province, etc.)	0	Europe	20	22
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R01	Statistical offices at the sub-national level (region, province, etc.)	0	Africa	8	9
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R01	Statistical offices at the sub-national level (region, province, etc.)	1	Americas	4	4
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R01	Statistical offices at the sub-national level (region, province, etc.)	1	Oceania	2	2
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R01	Statistical offices at the sub-national level (region, province, etc.)	1	Europe	15	16
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R01	Statistical offices at the sub-national level (region, province, etc.)	0	Americas	9	10
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R01	Statistical offices at the sub-national level (region, province, etc.)	1	Asia	14	15
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R01	Statistical offices at the sub-national level (region, province, etc.)	0	Asia	10	11
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R01	Statistical offices at the sub-national level (region, province, etc.)	1	Africa	9	10
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R01	Statistical offices at the sub-national level (region, province, etc.)	0	Oceania	2	2
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R02	Statistical services in line ministries	1	Europe	26	28
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R02	Statistical services in line ministries	0	Africa	3	3
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R02	Statistical services in line ministries	1	Americas	12	13
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R02	Statistical services in line ministries	1	Oceania	4	4
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R02	Statistical services in line ministries	1	Asia	24	26
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R02	Statistical services in line ministries	0	Europe	9	10
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R02	Statistical services in line ministries	1	Africa	14	15
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R02	Statistical services in line ministries	0	Americas	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R03	Statistical services in the Central Bank	1	Europe	29	31
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R03	Statistical services in the Central Bank	1	Africa	17	18
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R03	Statistical services in the Central Bank	1	Americas	12	13
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R03	Statistical services in the Central Bank	1	Oceania	3	3
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R03	Statistical services in the Central Bank	1	Asia	23	25
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R03	Statistical services in the Central Bank	0	Europe	6	6
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R03	Statistical services in the Central Bank	0	Asia	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R03	Statistical services in the Central Bank	0	Oceania	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R03	Statistical services in the Central Bank	0	Americas	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R04	Statistical research and training centers	0	Europe	34	37
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R04	Statistical research and training centers	0	Africa	12	13
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R04	Statistical research and training centers	1	Americas	4	4
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R04	Statistical research and training centers	0	Oceania	3	3
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R04	Statistical research and training centers	0	Americas	9	10
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R04	Statistical research and training centers	0	Asia	16	17
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R04	Statistical research and training centers	1	Asia	8	9
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R04	Statistical research and training centers	1	Africa	5	5
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R04	Statistical research and training centers	1	Europe	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R04	Statistical research and training centers	1	Oceania	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R05	Private institutions	0	Europe	34	37
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R05	Private institutions	0	Africa	14	15
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R05	Private institutions	1	Americas	4	4
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R05	Private institutions	0	Oceania	4	4
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R05	Private institutions	0	Americas	9	10
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R05	Private institutions	0	Asia	21	23
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R05	Private institutions	1	Africa	3	3
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R05	Private institutions	1	Asia	3	3
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R05	Private institutions	1	Europe	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R06	Public research institutions	0	Europe	28	30
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R06	Public research institutions	0	Africa	11	12
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R06	Public research institutions	1	Americas	4	4
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R06	Public research institutions	1	Oceania	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R06	Public research institutions	0	Americas	9	10
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R06	Public research institutions	1	Asia	4	4
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R06	Public research institutions	0	Asia	20	22
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R06	Public research institutions	1	Africa	6	6
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R06	Public research institutions	1	Europe	7	8
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R06	Public research institutions	0	Oceania	3	3
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R07	Supra-national bodies (e.g. Eurostat)	0	Europe	28	30
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R07	Supra-national bodies (e.g. Eurostat)	0	Africa	15	16
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R07	Supra-national bodies (e.g. Eurostat)	0	Americas	11	12
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R07	Supra-national bodies (e.g. Eurostat)	0	Oceania	4	4
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R07	Supra-national bodies (e.g. Eurostat)	1	Americas	2	2
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R07	Supra-national bodies (e.g. Eurostat)	0	Asia	23	25
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R07	Supra-national bodies (e.g. Eurostat)	1	Africa	2	2
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R07	Supra-national bodies (e.g. Eurostat)	1	Europe	7	8
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R07	Supra-national bodies (e.g. Eurostat)	1	Asia	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R08	Other		Europe	30	32
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R08	Other	NSO Delegate Bodies	Africa	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R08	Other		Americas	12	13
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R08	Other		Oceania	4	4
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R08	Other		Asia	24	26
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R08	Other		Africa	16	17
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R08	Other	statutory/regulatory authorities and government corporations	Americas	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R08	Other	The term official statistics is new in Denmark. In our new statistical law it is possoble for other institutions than the NSO upon request, to produce official statistics. So far no onstitutions outside the NSO prduce official statistics in Denmark	Europe	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R08	Other	State institutions, which provide official statistics	Europe	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R08	Other	List of institutions managing official statistics in Lithuania can be found at  https://www.stat.gov.lt/en/oficialiaja-statistika-tvarkancios-institucijos	Europe	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R08	Other	Statistical units in public agencies, eg. the immigration authority, Directorate of Fisheries, Public Health Institute etc.	Europe	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R08	Other	ONA:s	Europe	1	1
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R09	None Of The Above	0	Europe	35	38
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R09	None Of The Above	0	Africa	17	18
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R09	None Of The Above	0	Americas	13	14
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R09	None Of The Above	0	Oceania	4	4
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government	R09	None Of The Above	0	Asia	24	26

@@ -1,0 +1,19 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Twice or more per year	Europe	25	27
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Twice or more per year	Africa	13	14
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Once per year	Americas	1	1
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Twice or more per year	Oceania	4	4
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Once per year	Europe	5	5
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Over the past two years, approximately twice per year as part of IDB funded project for organizing and strengthening the NSS	Americas	1	1
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Twice over the five-year period	Asia	1	1
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Twice or more per year	Asia	19	20
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Twice or more per year	Americas	9	10
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Once over the five-year period	Africa	2	2
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		For EU statististics; once a year	Europe	1	1
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Once per year	Africa	2	2
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Twice over the five-year period	Americas	1	1
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Central bank once a year, others less frequentlyhers less frequ	Europe	1	1
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		Once per year	Asia	3	3
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		None of the above	Europe	3	3
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		None of the above	Asia	1	1
+Q08.3	Frequency of meetings between producers of official statistics during the past five years	R01		At least once a month, the heads of the primary 13 US statistical agencies meet with the US Chief Statistician.	Americas	1	1

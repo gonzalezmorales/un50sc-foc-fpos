@@ -1,0 +1,78 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	1	Europe	29	31
+Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	0	Africa	8	9
+Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	1	Americas	12	13
+Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	1	Oceania	2	2
+Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	0	Europe	6	6
+Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	0	Americas	1	1
+Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	0	Asia	7	8
+Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	1	Africa	9	10
+Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	1	Asia	17	18
+Q05.3a	Aspects considered in the quality management framework	R01	Monitoring of production processes, including targets (e.g. number of records failing validation checks)	0	Oceania	2	2
+Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	1	Europe	26	28
+Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	0	Africa	11	12
+Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	1	Americas	10	11
+Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	1	Oceania	2	2
+Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	0	Europe	9	10
+Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	0	Americas	3	3
+Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	1	Asia	18	19
+Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	1	Africa	6	6
+Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	0	Asia	6	6
+Q05.3a	Aspects considered in the quality management framework	R02	Monitoring of outputs (including after they have been published)	0	Oceania	2	2
+Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	1	Europe	23	25
+Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	0	Africa	10	11
+Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	1	Americas	10	11
+Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	1	Oceania	2	2
+Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	0	Americas	3	3
+Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	0	Asia	11	12
+Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	0	Europe	12	13
+Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	1	Africa	7	8
+Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	1	Asia	13	14
+Q05.3a	Aspects considered in the quality management framework	R03	Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	0	Oceania	2	2
+Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	1	Europe	28	30
+Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	0	Africa	10	11
+Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	1	Americas	9	10
+Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	1	Oceania	2	2
+Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	0	Americas	4	4
+Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	0	Asia	9	10
+Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	1	Africa	7	8
+Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	1	Asia	15	16
+Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	0	Europe	7	8
+Q05.3a	Aspects considered in the quality management framework	R04	Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	0	Oceania	2	2
+Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	1	Europe	25	27
+Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	0	Africa	9	10
+Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	0	Americas	3	3
+Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	1	Oceania	2	2
+Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	0	Europe	10	11
+Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	0	Asia	7	8
+Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	1	Africa	8	9
+Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	1	Americas	10	11
+Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	1	Asia	17	18
+Q05.3a	Aspects considered in the quality management framework	R05	Training programme for staff	0	Oceania	2	2
+Q05.3a	Aspects considered in the quality management framework	R06	External reviews	1	Europe	17	18
+Q05.3a	Aspects considered in the quality management framework	R06	External reviews	0	Africa	12	13
+Q05.3a	Aspects considered in the quality management framework	R06	External reviews	0	Americas	7	8
+Q05.3a	Aspects considered in the quality management framework	R06	External reviews	1	Oceania	2	2
+Q05.3a	Aspects considered in the quality management framework	R06	External reviews	0	Europe	18	19
+Q05.3a	Aspects considered in the quality management framework	R06	External reviews	0	Asia	18	19
+Q05.3a	Aspects considered in the quality management framework	R06	External reviews	1	Africa	5	5
+Q05.3a	Aspects considered in the quality management framework	R06	External reviews	1	Americas	6	6
+Q05.3a	Aspects considered in the quality management framework	R06	External reviews	1	Asia	6	6
+Q05.3a	Aspects considered in the quality management framework	R06	External reviews	0	Oceania	2	2
+Q05.3a	Aspects considered in the quality management framework	R07	Other		Europe	31	33
+Q05.3a	Aspects considered in the quality management framework	R07	Other		Africa	17	18
+Q05.3a	Aspects considered in the quality management framework	R07	Other		Americas	11	12
+Q05.3a	Aspects considered in the quality management framework	R07	Other	The ABS uses data quality gates and has invested in risk management frameworks and strategies	Oceania	1	1
+Q05.3a	Aspects considered in the quality management framework	R07	Other	risk management	Europe	1	1
+Q05.3a	Aspects considered in the quality management framework	R07	Other		Asia	24	26
+Q05.3a	Aspects considered in the quality management framework	R07	Other	Peer Reviews; Sector Reviews; Quality Audit; internal auditing	Europe	1	1
+Q05.3a	Aspects considered in the quality management framework	R07	Other	Internal reviews using external experts	Europe	1	1
+Q05.3a	Aspects considered in the quality management framework	R07	Other	The Statistical Certification System considers external specialists who analyze official statistics	Americas	1	1
+Q05.3a	Aspects considered in the quality management framework	R07	Other	Risk management	Europe	1	1
+Q05.3a	Aspects considered in the quality management framework	R07	Other		Oceania	3	3
+Q05.3a	Aspects considered in the quality management framework	R07	Other	extensive internal (across agency) reviews, to ensure consistency	Americas	1	1
+Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	0	Europe	35	38
+Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	0	Africa	17	18
+Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	0	Americas	13	14
+Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	0	Oceania	4	4
+Q05.3a	Aspects considered in the quality management framework	R08	None Of the Above	0	Asia	24	26

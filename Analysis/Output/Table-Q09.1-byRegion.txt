@@ -1,0 +1,18 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q09.1	Version of the SNA currently used	R01		2008 SNA	Europe	26	28
+Q09.1	Version of the SNA currently used	R01		1993 SNA	Africa	10	11
+Q09.1	Version of the SNA currently used	R01		2008 SNA	Americas	9	10
+Q09.1	Version of the SNA currently used	R01		2008 SNA	Oceania	4	4
+Q09.1	Version of the SNA currently used	R01			Europe	1	1
+Q09.1	Version of the SNA currently used	R01		ESA2010	Europe	1	1
+Q09.1	Version of the SNA currently used	R01		1993 SNA	Americas	3	3
+Q09.1	Version of the SNA currently used	R01		1993 SNA	Asia	6	6
+Q09.1	Version of the SNA currently used	R01			Asia	2	2
+Q09.1	Version of the SNA currently used	R01		ESA 2010	Europe	4	4
+Q09.1	Version of the SNA currently used	R01		2008 SNA	Africa	7	8
+Q09.1	Version of the SNA currently used	R01		2008 SNA	Asia	15	16
+Q09.1	Version of the SNA currently used	R01		None	Americas	1	1
+Q09.1	Version of the SNA currently used	R01		Please see comment 9.1a	Europe	1	1
+Q09.1	Version of the SNA currently used	R01		None	Europe	1	1
+Q09.1	Version of the SNA currently used	R01		I don't know	Europe	1	1
+Q09.1	Version of the SNA currently used	R01		1993 and 2008	Asia	1	1

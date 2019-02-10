@@ -1,0 +1,37 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Parliament/Congress	Europe	3	3
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of planning or development	Africa	11	12
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of economic affairs, industry or trade	Americas	2	2
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Australian Treasury	Oceania	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Prime Minister, chancellor or President	Europe	11	12
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of economic affairs, industry or trade	Europe	6	6
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of Economic Development	Americas	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Prime Minister, chancellor or President	Asia	6	6
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Cabinet or Council of Ministers	Europe	3	3
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of finance or comptroller general	Africa	4	4
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of finance or comptroller general	Asia	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of Finance and Economic Development	Americas	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Prime Minister, chancellor or President	Americas	3	3
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Consejo Directivo del INEC	Americas	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of planning or development	Americas	2	2
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of finance or comptroller general	Europe	5	5
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		the head of the NSO reports to the Ministry of economy and finances	Europe	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of the interior	Europe	2	2
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Cabinet or Council of Ministers	Africa	2	2
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Minister of Prime Minister's Office	Europe	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of planning or development	Asia	7	8
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		the Presidency of the Council of Ministers (artt.14 and 24 of statistical law)	Europe	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of economic affairs, industry or trade	Asia	3	3
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Parliament/Congress	Americas	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Parliament/Congress	Asia	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Head of the State Services	Oceania	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Planning or development authority	Asia	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of planning or development	Oceania	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Generally to the Prime Minister (first answer) and to the Statistical Council as regards the annual program of statistical surveys of official statistics	Europe	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Cabinet or Council of Ministers	Asia	3	3
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		To general public	Asia	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of planning or development	Europe	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Cabinet or Council of Ministers	Oceania	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of finance or comptroller general	Americas	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of Treasury and Finance	Asia	1	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Heads of US statistical agencies usually report to their Department.	Americas	1	1

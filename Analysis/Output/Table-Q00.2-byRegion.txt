@@ -1,0 +1,33 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q00.2	Awareness of existence UNFPOS	R01	NSO / Chief Statistician	Yes	Europe	35	38
+Q00.2	Awareness of existence UNFPOS	R01	NSO / Chief Statistician	Yes	Africa	17	18
+Q00.2	Awareness of existence UNFPOS	R01	NSO / Chief Statistician	Yes	Americas	13	14
+Q00.2	Awareness of existence UNFPOS	R01	NSO / Chief Statistician	Yes	Oceania	4	4
+Q00.2	Awareness of existence UNFPOS	R01	NSO / Chief Statistician	Yes	Asia	24	26
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	Yes	Europe	27	29
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	Yes	Africa	13	14
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	N/A	Americas	2	2
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	Yes	Oceania	3	3
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	No	Americas	4	4
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	No	Asia	2	2
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	Yes	Asia	19	20
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	Yes	Americas	7	8
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	N/A	Europe	6	6
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	N/A	Africa	2	2
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	N/A	Asia	3	3
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	No	Europe	2	2
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	No	Oceania	1	1
+Q00.2	Awareness of existence UNFPOS	R02	Heads/Senior managers of other agencies of NSS	No	Africa	2	2
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	N/A	Europe	13	14
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	Yes	Africa	12	13
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	N/A	Americas	4	4
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	Yes	Oceania	2	2
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	Yes	Europe	15	16
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	Yes	Americas	6	6
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	N/A	Asia	6	6
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	Yes	Asia	18	19
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	No	Europe	7	8
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	No	Americas	3	3
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	No	Africa	2	2
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	N/A	Africa	3	3
+Q00.2	Awareness of existence UNFPOS	R03	Line ministry / Department to which NSO reports	N/A	Oceania	2	2

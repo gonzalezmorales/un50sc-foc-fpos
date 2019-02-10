@@ -8,8 +8,10 @@ Q01.2	Planning instruments currently being used by the NSS/NSO	R03	Sectoral Stat
 Q01.2	Planning instruments currently being used by the NSS/NSO	R04	Sub-national Statistical Plans	0	85	91
 Q01.2	Planning instruments currently being used by the NSS/NSO	R04	Sub-national Statistical Plans	1	8	9
 Q01.2	Planning instruments currently being used by the NSS/NSO	R05	None of the above	0	93	100
-Q01.2	Planning instruments currently being used by the NSS/NSO	R06	Other		89	96
-Q01.2	Planning instruments currently being used by the NSS/NSO	R06	Other	ABS Corporate Plan	1	1
-Q01.2	Planning instruments currently being used by the NSS/NSO	R06	Other	Statistical Plan of Employment	1	1
-Q01.2	Planning instruments currently being used by the NSS/NSO	R06	Other	The NSDS is only being implemented now.	1	1
-Q01.2	Planning instruments currently being used by the NSS/NSO	R06	Other	federal agencies typically submit 5-yr strategic plans	1	1
+Q01.2	Planning instruments currently being used by the NSS/NSO	R06	Other	0	89	96
+Q01.2	Planning instruments currently being used by the NSS/NSO	R06	Other	1	4	4
+Q01.2	Planning instruments currently being used by the NSS/NSO	R07	Other (detail)		89	96
+Q01.2	Planning instruments currently being used by the NSS/NSO	R07	Other (detail)	ABS Corporate Plan	1	1
+Q01.2	Planning instruments currently being used by the NSS/NSO	R07	Other (detail)	Statistical Plan of Employment	1	1
+Q01.2	Planning instruments currently being used by the NSS/NSO	R07	Other (detail)	The NSDS is only being implemented now.	1	1
+Q01.2	Planning instruments currently being used by the NSS/NSO	R07	Other (detail)	federal agencies typically submit 5-yr strategic plans	1	1

@@ -1,0 +1,69 @@
+QuestionID	QuestionText	BlockID	BlockText	Answer	RegionName	N	Percentage
+Q05.4	Measure(s) being applied to reduce respondent burden	R01	Repurposing administrative records and other data sources (e.g. big data) for statistical use	1	Europe	34	37
+Q05.4	Measure(s) being applied to reduce respondent burden	R01	Repurposing administrative records and other data sources (e.g. big data) for statistical use	0	Africa	13	14
+Q05.4	Measure(s) being applied to reduce respondent burden	R01	Repurposing administrative records and other data sources (e.g. big data) for statistical use	0	Americas	6	6
+Q05.4	Measure(s) being applied to reduce respondent burden	R01	Repurposing administrative records and other data sources (e.g. big data) for statistical use	1	Oceania	3	3
+Q05.4	Measure(s) being applied to reduce respondent burden	R01	Repurposing administrative records and other data sources (e.g. big data) for statistical use	0	Asia	7	8
+Q05.4	Measure(s) being applied to reduce respondent burden	R01	Repurposing administrative records and other data sources (e.g. big data) for statistical use	1	Asia	17	18
+Q05.4	Measure(s) being applied to reduce respondent burden	R01	Repurposing administrative records and other data sources (e.g. big data) for statistical use	1	Africa	4	4
+Q05.4	Measure(s) being applied to reduce respondent burden	R01	Repurposing administrative records and other data sources (e.g. big data) for statistical use	1	Americas	7	8
+Q05.4	Measure(s) being applied to reduce respondent burden	R01	Repurposing administrative records and other data sources (e.g. big data) for statistical use	0	Oceania	1	1
+Q05.4	Measure(s) being applied to reduce respondent burden	R01	Repurposing administrative records and other data sources (e.g. big data) for statistical use	0	Europe	1	1
+Q05.4	Measure(s) being applied to reduce respondent burden	R02	Reducing sample sizes and/or innovating on sampling techniques (for example, crowdsourcing)	1	Europe	22	24
+Q05.4	Measure(s) being applied to reduce respondent burden	R02	Reducing sample sizes and/or innovating on sampling techniques (for example, crowdsourcing)	0	Africa	13	14
+Q05.4	Measure(s) being applied to reduce respondent burden	R02	Reducing sample sizes and/or innovating on sampling techniques (for example, crowdsourcing)	0	Americas	10	11
+Q05.4	Measure(s) being applied to reduce respondent burden	R02	Reducing sample sizes and/or innovating on sampling techniques (for example, crowdsourcing)	1	Oceania	3	3
+Q05.4	Measure(s) being applied to reduce respondent burden	R02	Reducing sample sizes and/or innovating on sampling techniques (for example, crowdsourcing)	0	Asia	12	13
+Q05.4	Measure(s) being applied to reduce respondent burden	R02	Reducing sample sizes and/or innovating on sampling techniques (for example, crowdsourcing)	0	Europe	13	14
+Q05.4	Measure(s) being applied to reduce respondent burden	R02	Reducing sample sizes and/or innovating on sampling techniques (for example, crowdsourcing)	1	Africa	4	4
+Q05.4	Measure(s) being applied to reduce respondent burden	R02	Reducing sample sizes and/or innovating on sampling techniques (for example, crowdsourcing)	1	Asia	12	13
+Q05.4	Measure(s) being applied to reduce respondent burden	R02	Reducing sample sizes and/or innovating on sampling techniques (for example, crowdsourcing)	1	Americas	3	3
+Q05.4	Measure(s) being applied to reduce respondent burden	R02	Reducing sample sizes and/or innovating on sampling techniques (for example, crowdsourcing)	0	Oceania	1	1
+Q05.4	Measure(s) being applied to reduce respondent burden	R03	Having integrated surveys and/or coordinating surveys between government agencies	0	Europe	13	14
+Q05.4	Measure(s) being applied to reduce respondent burden	R03	Having integrated surveys and/or coordinating surveys between government agencies	1	Africa	14	15
+Q05.4	Measure(s) being applied to reduce respondent burden	R03	Having integrated surveys and/or coordinating surveys between government agencies	1	Americas	8	9
+Q05.4	Measure(s) being applied to reduce respondent burden	R03	Having integrated surveys and/or coordinating surveys between government agencies	1	Oceania	3	3
+Q05.4	Measure(s) being applied to reduce respondent burden	R03	Having integrated surveys and/or coordinating surveys between government agencies	1	Europe	22	24
+Q05.4	Measure(s) being applied to reduce respondent burden	R03	Having integrated surveys and/or coordinating surveys between government agencies	0	Americas	5	5
+Q05.4	Measure(s) being applied to reduce respondent burden	R03	Having integrated surveys and/or coordinating surveys between government agencies	1	Asia	16	17
+Q05.4	Measure(s) being applied to reduce respondent burden	R03	Having integrated surveys and/or coordinating surveys between government agencies	0	Africa	3	3
+Q05.4	Measure(s) being applied to reduce respondent burden	R03	Having integrated surveys and/or coordinating surveys between government agencies	0	Asia	8	9
+Q05.4	Measure(s) being applied to reduce respondent burden	R03	Having integrated surveys and/or coordinating surveys between government agencies	0	Oceania	1	1
+Q05.4	Measure(s) being applied to reduce respondent burden	R04	Simplifying questionnaires and/or prefilling them	1	Europe	32	34
+Q05.4	Measure(s) being applied to reduce respondent burden	R04	Simplifying questionnaires and/or prefilling them	1	Africa	11	12
+Q05.4	Measure(s) being applied to reduce respondent burden	R04	Simplifying questionnaires and/or prefilling them	1	Americas	10	11
+Q05.4	Measure(s) being applied to reduce respondent burden	R04	Simplifying questionnaires and/or prefilling them	1	Oceania	3	3
+Q05.4	Measure(s) being applied to reduce respondent burden	R04	Simplifying questionnaires and/or prefilling them	0	Americas	3	3
+Q05.4	Measure(s) being applied to reduce respondent burden	R04	Simplifying questionnaires and/or prefilling them	0	Asia	7	8
+Q05.4	Measure(s) being applied to reduce respondent burden	R04	Simplifying questionnaires and/or prefilling them	0	Europe	3	3
+Q05.4	Measure(s) being applied to reduce respondent burden	R04	Simplifying questionnaires and/or prefilling them	1	Asia	17	18
+Q05.4	Measure(s) being applied to reduce respondent burden	R04	Simplifying questionnaires and/or prefilling them	0	Africa	6	6
+Q05.4	Measure(s) being applied to reduce respondent burden	R04	Simplifying questionnaires and/or prefilling them	0	Oceania	1	1
+Q05.4	Measure(s) being applied to reduce respondent burden	R05	Producing projections and estimates	1	Europe	18	19
+Q05.4	Measure(s) being applied to reduce respondent burden	R05	Producing projections and estimates	0	Africa	10	11
+Q05.4	Measure(s) being applied to reduce respondent burden	R05	Producing projections and estimates	0	Americas	8	9
+Q05.4	Measure(s) being applied to reduce respondent burden	R05	Producing projections and estimates	1	Oceania	2	2
+Q05.4	Measure(s) being applied to reduce respondent burden	R05	Producing projections and estimates	0	Europe	17	18
+Q05.4	Measure(s) being applied to reduce respondent burden	R05	Producing projections and estimates	0	Asia	12	13
+Q05.4	Measure(s) being applied to reduce respondent burden	R05	Producing projections and estimates	1	Americas	5	5
+Q05.4	Measure(s) being applied to reduce respondent burden	R05	Producing projections and estimates	1	Asia	12	13
+Q05.4	Measure(s) being applied to reduce respondent burden	R05	Producing projections and estimates	1	Africa	7	8
+Q05.4	Measure(s) being applied to reduce respondent burden	R05	Producing projections and estimates	0	Oceania	2	2
+Q05.4	Measure(s) being applied to reduce respondent burden	R06	Other		Europe	31	33
+Q05.4	Measure(s) being applied to reduce respondent burden	R06	Other		Africa	17	18
+Q05.4	Measure(s) being applied to reduce respondent burden	R06	Other		Americas	12	13
+Q05.4	Measure(s) being applied to reduce respondent burden	R06	Other		Oceania	4	4
+Q05.4	Measure(s) being applied to reduce respondent burden	R06	Other	The respondent's calendar is posted on Belstat's official website, as well as a schedule of primary data collection in electronic form that contains information on the start date and the deadline for statistical reports collection for each statistical survey for each reporting period; The online report collection provides the possibility for respondent to receive an individual list of required forms	Europe	1	1
+Q05.4	Measure(s) being applied to reduce respondent burden	R06	Other		Asia	23	25
+Q05.4	Measure(s) being applied to reduce respondent burden	R06	Other	coordinated (Poisson) sampling; implementation of electronic questionnaires with drop down menus for answers	Europe	1	1
+Q05.4	Measure(s) being applied to reduce respondent burden	R06	Other	Sharing data between different statistics within NSO and NSS. Yearly assessment of respondent burden of every survey in the Decree of the CZSO on the Programme of Statistical Surveys.	Europe	1	1
+Q05.4	Measure(s) being applied to reduce respondent burden	R06	Other	Digitalisatin of questionnaires	Europe	1	1
+Q05.4	Measure(s) being applied to reduce respondent burden	R06	Other	use of different replicates per survey round	Asia	1	1
+Q05.4	Measure(s) being applied to reduce respondent burden	R06	Other	Every new additional data collection has to go through a review by OMB.	Americas	1	1
+Q05.4	Measure(s) being applied to reduce respondent burden	R07	None Of The Above	0	Europe	35	38
+Q05.4	Measure(s) being applied to reduce respondent burden	R07	None Of The Above	0	Africa	17	18
+Q05.4	Measure(s) being applied to reduce respondent burden	R07	None Of The Above	0	Americas	11	12
+Q05.4	Measure(s) being applied to reduce respondent burden	R07	None Of The Above	0	Oceania	3	3
+Q05.4	Measure(s) being applied to reduce respondent burden	R07	None Of The Above	1	Americas	2	2
+Q05.4	Measure(s) being applied to reduce respondent burden	R07	None Of The Above	0	Asia	24	26
+Q05.4	Measure(s) being applied to reduce respondent burden	R07	None Of The Above	1	Oceania	1	1
