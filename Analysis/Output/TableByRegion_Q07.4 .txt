@@ -1,22 +1,22 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Cabinet or Council of Ministers	2		3	3	1	9	11.7647058823529		12.5	8.57142857142857	25	9.67741935483871
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of economic affairs, industry or trade		2	3	6		11		15.3846153846154	12.5	17.1428571428571		11.8279569892473
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of finance or comptroller general	4	1	1	5		11	23.5294117647059	7.69230769230769	4.16666666666667	14.2857142857143		11.8279569892473
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of planning or development	11	2	7	1	1	22	64.7058823529412	15.3846153846154	29.1666666666667	2.85714285714286	25	23.6559139784946
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Ministry of the interior				2		2				5.71428571428571		2.1505376344086
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Other		4	1	4	2	11		30.7692307692308	4.16666666666667	11.4285714285714	50	11.8279569892473
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Parliament/Congress		1	1	3		5		7.69230769230769	4.16666666666667	8.57142857142857		5.37634408602151
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Planning or development authority			1			1			4.16666666666667			1.0752688172043
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		Prime Minister, chancellor or President		3	6	11		20		23.0769230769231	25	31.4285714285714		21.505376344086
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R01		To general public			1			1			4.16666666666667			1.0752688172043
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	Other (detail)	Australian Treasury					1	1					25	1.0752688172043
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	Other (detail)	Consejo Directivo del INEC		1				1		7.69230769230769				1.0752688172043
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	Other (detail)	Generally to the Prime Minister (first answer) and to the Statistical Council as regards the annual program of statistical surveys of official statistics				1		1				2.85714285714286		1.0752688172043
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	Other (detail)	Head of the State Services					1	1					25	1.0752688172043
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	Other (detail)	Heads of US statistical agencies usually report to their Department.		1				1		7.69230769230769				1.0752688172043
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	Other (detail)	Minister of Prime Minister's Office				1		1				2.85714285714286		1.0752688172043
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	Other (detail)	Ministry of Economic Development		1				1		7.69230769230769				1.0752688172043
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	Other (detail)	Ministry of Finance and Economic Development		1				1		7.69230769230769				1.0752688172043
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	Other (detail)	Ministry of Treasury and Finance			1			1			4.16666666666667			1.0752688172043
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	Other (detail)	the Presidency of the Council of Ministers (artt.14 and 24 of statistical law)				1		1				2.85714285714286		1.0752688172043
-Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	Other (detail)	the head of the NSO reports to the Ministry of economy and finances				1		1				2.85714285714286		1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01	1	Cabinet or Council of Ministers	2		3	3	1	9	11.7647058823529		12.5	8.57142857142857	25	9.67741935483871
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01	1	Ministry of economic affairs, industry or trade		2	3	6		11		15.3846153846154	12.5	17.1428571428571		11.8279569892473
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01	1	Ministry of finance or comptroller general	4	1	1	5		11	23.5294117647059	7.69230769230769	4.16666666666667	14.2857142857143		11.8279569892473
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01	1	Ministry of planning or development	11	2	7	1	1	22	64.7058823529412	15.3846153846154	29.1666666666667	2.85714285714286	25	23.6559139784946
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01	1	Ministry of the interior				2		2				5.71428571428571		2.1505376344086
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01	1	Other		4	1	4	2	11		30.7692307692308	4.16666666666667	11.4285714285714	50	11.8279569892473
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01	1	Parliament/Congress		1	1	3		5		7.69230769230769	4.16666666666667	8.57142857142857		5.37634408602151
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01	1	Planning or development authority			1			1			4.16666666666667			1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01	1	Prime Minister, chancellor or President		3	6	11		20		23.0769230769231	25	31.4285714285714		21.505376344086
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R01	1	To general public			1			1			4.16666666666667			1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	1	Australian Treasury					1	1					25	1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	1	Consejo Directivo del INEC		1				1		7.69230769230769				1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	1	Generally to the Prime Minister (first answer) and to the Statistical Council as regards the annual program of statistical surveys of official statistics				1		1				2.85714285714286		1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	1	Head of the State Services					1	1					25	1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	1	Heads of US statistical agencies usually report to their Department.		1				1		7.69230769230769				1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	1	Minister of Prime Minister's Office				1		1				2.85714285714286		1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	1	Ministry of Economic Development		1				1		7.69230769230769				1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	1	Ministry of Finance and Economic Development		1				1		7.69230769230769				1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	1	Ministry of Treasury and Finance			1			1			4.16666666666667			1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	1	the Presidency of the Council of Ministers (artt.14 and 24 of statistical law)				1		1				2.85714285714286		1.0752688172043
+Q07.4 	Person/office within the government to whom the head of the NSO reports	R02	1	the head of the NSO reports to the Ministry of economy and finances				1		1				2.85714285714286		1.0752688172043

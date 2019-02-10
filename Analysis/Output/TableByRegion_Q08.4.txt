@@ -1,14 +1,14 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
-Q08.4	How is dissemination coordinated across the NSS	R01	Unified release calendar	1	7	2	9	10		28	41.1764705882353	15.3846153846154	37.5	28.5714285714286		30.1075268817204
-Q08.4	How is dissemination coordinated across the NSS	R02	Standardized microdata structure	1	1	2	1	3		7	5.88235294117647	15.3846153846154	4.16666666666667	8.57142857142857		7.52688172043011
-Q08.4	How is dissemination coordinated across the NSS	R03	Standardized metadata structure	1	3	2	6	7		18	17.6470588235294	15.3846153846154	25	20		19.3548387096774
-Q08.4	How is dissemination coordinated across the NSS	R04	Other	1		1	4	2	1	8		7.69230769230769	16.6666666666667	5.71428571428571	25	8.60215053763441
-Q08.4	How is dissemination coordinated across the NSS	R05	None Of The Above	1	8	8	6	17	3	42	47.0588235294118	61.5384615384615	25	48.5714285714286	75	45.1612903225806
-Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	ARC under DOSM			1			1			4.16666666666667			1.0752688172043
-Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	Data dissemination is dictated by the producing agencies.		1				1		7.69230769230769				1.0752688172043
-Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	Dissemination  calendar is at NSO level  only.			1			1			4.16666666666667			1.0752688172043
-Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	Key statistics are released in Yearbook of Statistics and Economic Survey of Singapore			1			1			4.16666666666667			1.0752688172043
-Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	Research Data Centres of official statistrics, coordinated between the Federal Statistical Office and the Research Data Centre of the Statistical Offices of the Federal States.				1		1				2.85714285714286		1.0752688172043
-Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	There is no coordinated dissemination portal					1	1					25	1.0752688172043
-Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	coordination is implemented indirectly through the principles of the Code of Practice;				1		1				2.85714285714286		1.0752688172043
-Q08.4	How is dissemination coordinated across the NSS	R06	Other (detail)	meeting, trainning			1			1			4.16666666666667			1.0752688172043
+Q08.4	How is dissemination coordinated across the NSS	R01	1	1	7	2	9	10		28	41.1764705882353	15.3846153846154	37.5	28.5714285714286		30.1075268817204
+Q08.4	How is dissemination coordinated across the NSS	R02	1	1	1	2	1	3		7	5.88235294117647	15.3846153846154	4.16666666666667	8.57142857142857		7.52688172043011
+Q08.4	How is dissemination coordinated across the NSS	R03	1	1	3	2	6	7		18	17.6470588235294	15.3846153846154	25	20		19.3548387096774
+Q08.4	How is dissemination coordinated across the NSS	R04	1	1		1	4	2	1	8		7.69230769230769	16.6666666666667	5.71428571428571	25	8.60215053763441
+Q08.4	How is dissemination coordinated across the NSS	R05	1	1	8	8	6	17	3	42	47.0588235294118	61.5384615384615	25	48.5714285714286	75	45.1612903225806
+Q08.4	How is dissemination coordinated across the NSS	R06	1	ARC under DOSM			1			1			4.16666666666667			1.0752688172043
+Q08.4	How is dissemination coordinated across the NSS	R06	1	Data dissemination is dictated by the producing agencies.		1				1		7.69230769230769				1.0752688172043
+Q08.4	How is dissemination coordinated across the NSS	R06	1	Dissemination  calendar is at NSO level  only.			1			1			4.16666666666667			1.0752688172043
+Q08.4	How is dissemination coordinated across the NSS	R06	1	Key statistics are released in Yearbook of Statistics and Economic Survey of Singapore			1			1			4.16666666666667			1.0752688172043
+Q08.4	How is dissemination coordinated across the NSS	R06	1	Research Data Centres of official statistrics, coordinated between the Federal Statistical Office and the Research Data Centre of the Statistical Offices of the Federal States.				1		1				2.85714285714286		1.0752688172043
+Q08.4	How is dissemination coordinated across the NSS	R06	1	There is no coordinated dissemination portal					1	1					25	1.0752688172043
+Q08.4	How is dissemination coordinated across the NSS	R06	1	coordination is implemented indirectly through the principles of the Code of Practice;				1		1				2.85714285714286		1.0752688172043
+Q08.4	How is dissemination coordinated across the NSS	R06	1	meeting, trainning			1			1			4.16666666666667			1.0752688172043

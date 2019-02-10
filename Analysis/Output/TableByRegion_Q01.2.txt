@@ -1,10 +1,10 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
-Q01.2	Planning instruments currently being used by the NSS/NSO	R01	Annual or multiannual work programme	1	13	10	21	34	4	82	76.4705882352941	76.9230769230769	87.5	97.1428571428571	100	88.1720430107527
-Q01.2	Planning instruments currently being used by the NSS/NSO	R02	National Strategy for the Development of Statistics (NSDS)	1	13	6	15	20	2	56	76.4705882352941	46.1538461538462	62.5	57.1428571428571	50	60.2150537634409
-Q01.2	Planning instruments currently being used by the NSS/NSO	R03	Sectoral Statistical Plans	1	5	3	7	10		25	29.4117647058824	23.0769230769231	29.1666666666667	28.5714285714286		26.8817204301075
-Q01.2	Planning instruments currently being used by the NSS/NSO	R04	Sub-national Statistical Plans	1	1	1	2	4		8	5.88235294117647	7.69230769230769	8.33333333333333	11.4285714285714		8.60215053763441
-Q01.2	Planning instruments currently being used by the NSS/NSO	R06	Other	1	1	2			1	4	5.88235294117647	15.3846153846154			25	4.3010752688172
-Q01.2	Planning instruments currently being used by the NSS/NSO	R07	Other (detail)	ABS Corporate Plan					1	1					25	1.0752688172043
-Q01.2	Planning instruments currently being used by the NSS/NSO	R07	Other (detail)	Statistical Plan of Employment		1				1		7.69230769230769				1.0752688172043
-Q01.2	Planning instruments currently being used by the NSS/NSO	R07	Other (detail)	The NSDS is only being implemented now.	1					1	5.88235294117647					1.0752688172043
-Q01.2	Planning instruments currently being used by the NSS/NSO	R07	Other (detail)	federal agencies typically submit 5-yr strategic plans		1				1		7.69230769230769				1.0752688172043
+Q01.2	Planning instruments currently being used by the NSS/NSO	R01	1	1	13	10	21	34	4	82	76.4705882352941	76.9230769230769	87.5	97.1428571428571	100	88.1720430107527
+Q01.2	Planning instruments currently being used by the NSS/NSO	R02	1	1	13	6	15	20	2	56	76.4705882352941	46.1538461538462	62.5	57.1428571428571	50	60.2150537634409
+Q01.2	Planning instruments currently being used by the NSS/NSO	R03	1	1	5	3	7	10		25	29.4117647058824	23.0769230769231	29.1666666666667	28.5714285714286		26.8817204301075
+Q01.2	Planning instruments currently being used by the NSS/NSO	R04	1	1	1	1	2	4		8	5.88235294117647	7.69230769230769	8.33333333333333	11.4285714285714		8.60215053763441
+Q01.2	Planning instruments currently being used by the NSS/NSO	R06	1	1	1	2			1	4	5.88235294117647	15.3846153846154			25	4.3010752688172
+Q01.2	Planning instruments currently being used by the NSS/NSO	R07	1	ABS Corporate Plan					1	1					25	1.0752688172043
+Q01.2	Planning instruments currently being used by the NSS/NSO	R07	1	Statistical Plan of Employment		1				1		7.69230769230769				1.0752688172043
+Q01.2	Planning instruments currently being used by the NSS/NSO	R07	1	The NSDS is only being implemented now.	1					1	5.88235294117647					1.0752688172043
+Q01.2	Planning instruments currently being used by the NSS/NSO	R07	1	federal agencies typically submit 5-yr strategic plans		1				1		7.69230769230769				1.0752688172043

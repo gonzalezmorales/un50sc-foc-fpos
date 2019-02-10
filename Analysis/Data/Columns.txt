@@ -425,6 +425,7 @@ C382	Q08.2	R13	Activities currently being implemented for coordinating the NSS	O
 C382a	Q08.2	R15	Activities currently being implemented for coordinating the NSS	Other (detail)
 C383	Q08.2	R14	Activities currently being implemented for coordinating the NSS	None Of The Above
 C384	Q08.3	R01	Frequency of meetings between producers of official statistics during the past five years	
+C384a	Q08.3	R01	Frequency of meetings between producers of official statistics during the past five years	Other (detail)
 C385	Q08.4	R01	How is dissemination coordinated across the NSS	Unified release calendar
 C386	Q08.4	R02	How is dissemination coordinated across the NSS	Standardized microdata structure
 C387	Q08.4	R03	How is dissemination coordinated across the NSS	Standardized metadata structure

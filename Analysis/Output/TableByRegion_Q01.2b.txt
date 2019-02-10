@@ -1,7 +1,7 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
-Q01.2b	NextNSDS	R01	If current NSDS ends in 2018/2019, is the next one currently being designed?	No	2					2	11.7647058823529					2.1505376344086
-Q01.2b	NextNSDS	R01	If current NSDS ends in 2018/2019, is the next one currently being designed?	Yes			1	2		3			4.16666666666667	5.71428571428571		3.2258064516129
-Q01.2b	NextNSDS	R02	If the next NSDS is being designed, when will it be launched?	2019			1	1		2			4.16666666666667	2.85714285714286		2.1505376344086
-Q01.2b	NextNSDS	R02	If the next NSDS is being designed, when will it be launched?	2020				1		1				2.85714285714286		1.0752688172043
-Q01.2b	NextNSDS	R03	If the next NSDS is not being designed, why?	Depuis le 02 novembre 2018, iI est mis en place un Secrétariat technique permanent (STP) chargé de superviser l'élaboration de la troisième Stratégie Nationale de Développement de la Statistique (SNDS 2019-2023).	1					1	5.88235294117647					1.0752688172043
-Q01.2b	NextNSDS	R03	If the next NSDS is not being designed, why?	In fact the current strategic plan ends in 2019. For 2019 is scheduled to design new generation of strategic plan (2020-2024).	1					1	5.88235294117647					1.0752688172043
+Q01.2b	NextNSDS	R01	1	No	2					2	11.7647058823529					2.1505376344086
+Q01.2b	NextNSDS	R01	1	Yes			1	2		3			4.16666666666667	5.71428571428571		3.2258064516129
+Q01.2b	NextNSDS	R02	1	2019			1	1		2			4.16666666666667	2.85714285714286		2.1505376344086
+Q01.2b	NextNSDS	R02	1	2020				1		1				2.85714285714286		1.0752688172043
+Q01.2b	NextNSDS	R03	1	Depuis le 02 novembre 2018, iI est mis en place un Secrétariat technique permanent (STP) chargé de superviser l'élaboration de la troisième Stratégie Nationale de Développement de la Statistique (SNDS 2019-2023).	1					1	5.88235294117647					1.0752688172043
+Q01.2b	NextNSDS	R03	1	In fact the current strategic plan ends in 2019. For 2019 is scheduled to design new generation of strategic plan (2020-2024).	1					1	5.88235294117647					1.0752688172043

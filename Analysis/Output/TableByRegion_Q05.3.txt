@@ -1,34 +1,34 @@
 QuestionID	QuestionText	BlockID	BlockText	Answer	Africa.N	Americas.N	Asia.N	Europe.N	Oceania.N	TOTAL.N	Africa.P	Americas.P	Asia.P	Europe.P	Oceania.P	TOTAL.P
-Q05.3	Quality management framework(s) currently applied by the NSO	R01	General Data Dissemination System	1	11	6	12	6		35	64.7058823529412	46.1538461538462	50	17.1428571428571		37.6344086021505
-Q05.3	Quality management framework(s) currently applied by the NSO	R02	Data Quality Assessment Framework	1	11	9	15	7	1	43	64.7058823529412	69.2307692307692	62.5	20	25	46.2365591397849
-Q05.3	Quality management framework(s) currently applied by the NSO	R03	European Statistical System Quality Assurance Framework	1	1	2	7	30		40	5.88235294117647	15.3846153846154	29.1666666666667	85.7142857142857		43.010752688172
-Q05.3	Quality management framework(s) currently applied by the NSO	R04	Total Quality Management	1	1	2	5	13		21	5.88235294117647	15.3846153846154	20.8333333333333	37.1428571428571		22.5806451612903
-Q05.3	Quality management framework(s) currently applied by the NSO	R05	ISO EN 9001	1		2	5	5		12		15.3846153846154	20.8333333333333	14.2857142857143		12.9032258064516
-Q05.3	Quality management framework(s) currently applied by the NSO	R06	Other	1	15	13	23	34	4	89	88.2352941176471	100	95.8333333333333	97.1428571428571	100	95.6989247311828
-Q05.3	Quality management framework(s) currently applied by the NSO	R07	None Of The Above	1	2	1	1		2	6	11.7647058823529	7.69230769230769	4.16666666666667		50	6.45161290322581
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	ABS Data Quality Framework, IMF SDDS Framework					1	1					25	1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	ASEAN Community Statistical System Code of Practice			1			1			4.16666666666667			1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	ASPIRE (Stats Sweden adaptation)					1	1					25	1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	CARICOM Good Statistical Practices and CARICOM  RSDS		1				1		7.69230769230769				1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	EFQM, SDDS, GSBPM				1		1				2.85714285714286		1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	European Statistics Code of Practice; National Statistics Code of Practice				1		1				2.85714285714286		1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	Generally, referred to as		1				1		7.69230769230769				1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	ISO 20252:2012				1		1				2.85714285714286		1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	ISO 27001				1		1				2.85714285714286		1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	ISO 27001 ongoing				1		1				2.85714285714286		1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	ISO EN 27 001				1		1				2.85714285714286		1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	Lean. But first and foremost European Code of Practice.				1		1				2.85714285714286		1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	National Quality Assurance Framework (NQAF)			1			1			4.16666666666667			1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	Quality Assurance Framework for the NSO		1				1		7.69230769230769				1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	Quality framework based  on NQAF.			1			1			4.16666666666667			1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	Quality guidelines of the office				1		1				2.85714285714286		1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	SDDS			1			1			4.16666666666667			1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	SGDD-a	1					1	5.88235294117647					1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	Special Data Dissemination Standards (SDDS)			1			1			4.16666666666667			1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	StatCan Quality Assurance Framework Guidelines		1				1		7.69230769230769				1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	Statistical quality assurance framework		1				1		7.69230769230769				1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	The NSO is planning a National Integral Statistical Quality Framework		1				1		7.69230769230769				1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	There is no international quality framework implemented at NBS, yet, there are elements of quality management system in place.				1		1				2.85714285714286		1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	TurkStat Quality  Assurance Framework			1			1			4.16666666666667			1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	UN-National Quality Assurance Framework, EFQM-excellence model, ENP-COP.			1			1			4.16666666666667			1.0752688172043
-Q05.3	Quality management framework(s) currently applied by the NSO	R08	Other (detail)	US943 and US942	1					1	5.88235294117647					1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R01	1	1	11	6	12	6		35	64.7058823529412	46.1538461538462	50	17.1428571428571		37.6344086021505
+Q05.3	Quality management framework(s) currently applied by the NSO	R02	1	1	11	9	15	7	1	43	64.7058823529412	69.2307692307692	62.5	20	25	46.2365591397849
+Q05.3	Quality management framework(s) currently applied by the NSO	R03	1	1	1	2	7	30		40	5.88235294117647	15.3846153846154	29.1666666666667	85.7142857142857		43.010752688172
+Q05.3	Quality management framework(s) currently applied by the NSO	R04	1	1	1	2	5	13		21	5.88235294117647	15.3846153846154	20.8333333333333	37.1428571428571		22.5806451612903
+Q05.3	Quality management framework(s) currently applied by the NSO	R05	1	1		2	5	5		12		15.3846153846154	20.8333333333333	14.2857142857143		12.9032258064516
+Q05.3	Quality management framework(s) currently applied by the NSO	R06	1	1	15	13	23	34	4	89	88.2352941176471	100	95.8333333333333	97.1428571428571	100	95.6989247311828
+Q05.3	Quality management framework(s) currently applied by the NSO	R07	1	1	2	1	1		2	6	11.7647058823529	7.69230769230769	4.16666666666667		50	6.45161290322581
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	ABS Data Quality Framework, IMF SDDS Framework					1	1					25	1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	ASEAN Community Statistical System Code of Practice			1			1			4.16666666666667			1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	ASPIRE (Stats Sweden adaptation)					1	1					25	1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	CARICOM Good Statistical Practices and CARICOM  RSDS		1				1		7.69230769230769				1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	EFQM, SDDS, GSBPM				1		1				2.85714285714286		1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	European Statistics Code of Practice; National Statistics Code of Practice				1		1				2.85714285714286		1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	Generally, referred to as		1				1		7.69230769230769				1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	ISO 20252:2012				1		1				2.85714285714286		1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	ISO 27001				1		1				2.85714285714286		1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	ISO 27001 ongoing				1		1				2.85714285714286		1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	ISO EN 27 001				1		1				2.85714285714286		1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	Lean. But first and foremost European Code of Practice.				1		1				2.85714285714286		1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	National Quality Assurance Framework (NQAF)			1			1			4.16666666666667			1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	Quality Assurance Framework for the NSO		1				1		7.69230769230769				1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	Quality framework based  on NQAF.			1			1			4.16666666666667			1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	Quality guidelines of the office				1		1				2.85714285714286		1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	SDDS			1			1			4.16666666666667			1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	SGDD-a	1					1	5.88235294117647					1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	Special Data Dissemination Standards (SDDS)			1			1			4.16666666666667			1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	StatCan Quality Assurance Framework Guidelines		1				1		7.69230769230769				1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	Statistical quality assurance framework		1				1		7.69230769230769				1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	The NSO is planning a National Integral Statistical Quality Framework		1				1		7.69230769230769				1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	There is no international quality framework implemented at NBS, yet, there are elements of quality management system in place.				1		1				2.85714285714286		1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	TurkStat Quality  Assurance Framework			1			1			4.16666666666667			1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	UN-National Quality Assurance Framework, EFQM-excellence model, ENP-COP.			1			1			4.16666666666667			1.0752688172043
+Q05.3	Quality management framework(s) currently applied by the NSO	R08	1	US943 and US942	1					1	5.88235294117647					1.0752688172043
