@@ -1,0 +1,70 @@
+QuestionID	Plot Type
+Q00.1	Doughnut
+Q00.2	Horizontal bars - stacked
+Q00.3	Doughnut
+Q00.4	Horizontal bars
+Q01.1	Horizontal bars
+Q01.1a	Horizontal bars
+Q01.1b	Horizontal bars
+Q01.2	Horizontal bars
+Q01.2a	Vertical bars - side by side
+Q01.4	Horizontal bars
+Q01.4b	Vertical bars
+Q01.4c	Vertical bars
+Q01.6	Horizontal bars
+Q01.6a	Doughnut
+Q01.7a	Horizontal bars
+Q01.7b	Horizontal bars
+Q01.7c	Horizontal bars
+Q02.1a	Horizontal bars
+Q02.2	Doughnut
+Q02.2a	Horizontal bars
+Q02.3	Doughnut
+Q02.4	Horizontal bars
+Q02.5	Horizontal bars
+Q02.6	Horizontal bars
+Q02.7	Horizontal bars
+Q02.9_Q2.10	Horizontal bars
+Q03.1	Horizontal bars
+Q03.2	Horizontal bars
+Q03.3	Horizontal bars
+Q03.3b	Horizontal bars
+Q03.3d	Horizontal bars
+Q03.4	Horizontal bars
+Q04.1	Doughnut
+Q04.2	Horizontal bars
+Q04.2a	Horizontal bars
+Q04.2b	Vertical bars
+Q04.3	Horizontal bars
+Q04.3a	Vertical bars
+Q05.1	Horizontal bars
+Q05.1a	Horizontal bars
+Q05.1b	Horizontal bars
+Q05.1c	Horizontal bars
+Q05.2	Horizontal bars
+Q05.3	Horizontal bars
+Q05.3a	Horizontal bars
+Q05.4	Horizontal bars
+Q06.1a	Doughnut
+Q06.2	Horizontal bars
+Q06.3	Horizontal bars
+Q06.4	Horizontal bars
+Q07.1	Doughnut
+Q07.2	Horizontal bars
+Q07.3	Horizontal bars
+Q07.4 	Horizontal bars
+Q07.5 	Doughnut
+Q08.1	Horizontal bars
+Q08.2	Horizontal bars
+Q08.3	Vertical bars
+Q08.4	Horizontal bars
+Q08.5	Doughnut
+Q09.1	Horizontal bars
+Q09.2	Doughnut
+Q09.3	Horizontal bars
+Q09.4	Doughnut
+Q09.5	Doughnut
+Q10.1	Horizontal bars
+Q10.3	Doughnut
+Q10.4	Doughnut
+Q11.5_rev	Horizontal bars

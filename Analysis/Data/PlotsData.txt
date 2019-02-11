@@ -1,0 +1,430 @@
+QuestionID	QuestionText	Group	Answer	TOTAL
+Q00.1	Answering on behalf of		National Statistical Office (NSO)	86
+Q00.1	Answering on behalf of		National Statistical System (NSS)	12
+Q00.1	Answering on behalf of		Both NSO & NSS	1
+Q00.1	Answering on behalf of		Senior Statistician	1
+Q00.2	Awareness of existence UNFPOS	NSO / Chief Statistician	Yes	100
+Q00.2	Awareness of existence UNFPOS	Heads/Senior managers of other agencies of NSS	Yes	74
+Q00.2	Awareness of existence UNFPOS	Heads/Senior managers of other agencies of NSS	N/A	14
+Q00.2	Awareness of existence UNFPOS	Heads/Senior managers of other agencies of NSS	No	12
+Q00.2	Awareness of existence UNFPOS	Line ministry / Department to which NSO reports	Yes	57
+Q00.2	Awareness of existence UNFPOS	Line ministry / Department to which NSO reports	N/A	30
+Q00.2	Awareness of existence UNFPOS	Line ministry / Department to which NSO reports	No	13
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework		Fully integrated in statistical law or legal framework	61
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework		Partially integrated in statistical law or legal framework	27
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework		Not integrated in statistical law or legal framework	6
+Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework		Other	5
+Q00.4	How UNFPOS are communicated to raise awareness at the national level		UNFPOS are mentioned in reports, strategy and policy papers, publications	82
+Q00.4	How UNFPOS are communicated to raise awareness at the national level		UNFPOS are discussed in meetings and events, such as the World Statistics Day	67
+Q00.4	How UNFPOS are communicated to raise awareness at the national level		None of the above	2
+Q00.4	How UNFPOS are communicated to raise awareness at the national level		Other	5
+Q01.1	Source of feedback from users on statistical products and services (e.g. needs, satisfaction) sought in the past five years		User workshops/ stakeholder coordination meetings 	83
+Q01.1	Source of feedback from users on statistical products and services (e.g. needs, satisfaction) sought in the past five years		User satisfaction surveys	76
+Q01.1	Source of feedback from users on statistical products and services (e.g. needs, satisfaction) sought in the past five years		Website traffic analysis	69
+Q01.1	Source of feedback from users on statistical products and services (e.g. needs, satisfaction) sought in the past five years		User council or organized user group	60
+Q01.1	Source of feedback from users on statistical products and services (e.g. needs, satisfaction) sought in the past five years		Independent review(s) of key stakeholders' satisfaction	34
+Q01.1	Source of feedback from users on statistical products and services (e.g. needs, satisfaction) sought in the past five years		Other	13
+Q01.1a	Mandate of user council or organized user group		Strategic advice on statistical policy and priorities	75
+Q01.1a	Mandate of user council or organized user group		Coordination of statistical activities	66
+Q01.1a	Mandate of user council or organized user group		Technical advice, in general or on specific statistical programmes and topics	61
+Q01.1a	Mandate of user council or organized user group		Other	9
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years		Government employees (administrative staff, technical staff)	96
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years		Academia and professional associations (e.g. statistical society)	93
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years		Chamber of commerce or other business networks	80
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years		Policy-makers (ministers, politicians)	75
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years		Civil society organizations (e.g., NGOs)	66
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years		Mass media	50
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years		Workers' unions	45
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years		International organizations, including financial institutions	41
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years		General public	38
+Q01.1b	Stakeholders represented in user council or organized user group in the past five years		Other	21
+Q01.2	Planning instruments currently being used by the NSS/NSO		Annual or multiannual work programme	88
+Q01.2	Planning instruments currently being used by the NSS/NSO		National Strategy for the Development of Statistics (NSDS)	60
+Q01.2	Planning instruments currently being used by the NSS/NSO		Sectoral Statistical Plans	27
+Q01.2	Planning instruments currently being used by the NSS/NSO		Sub-national Statistical Plans	9
+Q01.2	Planning instruments currently being used by the NSS/NSO		Other	4
+Q01.2a	Time span of current NSDS	Starting year	2011	4
+Q01.2a	Time span of current NSDS	Starting year	2013	11
+Q01.2a	Time span of current NSDS	Starting year	2014	4
+Q01.2a	Time span of current NSDS	Starting year	2015	13
+Q01.2a	Time span of current NSDS	Starting year	2016	19
+Q01.2a	Time span of current NSDS	Starting year	2017	19
+Q01.2a	Time span of current NSDS	Starting year	2018	26
+Q01.2a	Time span of current NSDS	Starting year	2019	6
+Q01.2a	Time span of current NSDS	Ending  year	2018	2
+Q01.2a	Time span of current NSDS	Ending  year	2019	7
+Q01.2a	Time span of current NSDS	Ending  year	2020	39
+Q01.2a	Time span of current NSDS	Ending  year	2021	11
+Q01.2a	Time span of current NSDS	Ending  year	2022	28
+Q01.2a	Time span of current NSDS	Ending  year	2023	6
+Q01.2a	Time span of current NSDS	Ending  year	2025	4
+Q01.2a	Time span of current NSDS	Ending  year	2027	2
+Q01.2a	Time span of current NSDS	Ending  year	2040	2
+Q01.4	Measures currently in place for disseminating statistics		Using various dissemination media, such as print publications, online pdf files, etc.	98
+Q01.4	Measures currently in place for disseminating statistics		Appointment of a specialized unit responsible for dissemination at the NSO	90
+Q01.4	Measures currently in place for disseminating statistics		Providing user support via e-mail, written correspondence or telephone	90
+Q01.4	Measures currently in place for disseminating statistics		Providing online data for exploration by general users (interactive online database interfaces, fully formatted excel files)	84
+Q01.4	Measures currently in place for disseminating statistics		Publishing an advanced release calendar, announcing when various statistics will be published	83
+Q01.4	Measures currently in place for disseminating statistics		Providing data downloads in proprietary formats for data analysis software (e.g, Excel, Access, Stata, SAS, SPSS)	74
+Q01.4	Measures currently in place for disseminating statistics		Publishing catalogues of available publications, documents, and other services	73
+Q01.4	Measures currently in place for disseminating statistics		Pursuing a dissemination/communications strategy	71
+Q01.4	Measures currently in place for disseminating statistics		Providing data downloads in open machine-readable formats (such as CSV, XML, JSON)	58
+Q01.4	Measures currently in place for disseminating statistics		Providing online access to data via APIs	38
+Q01.4	Measures currently in place for disseminating statistics		Other	3
+Q01.4b	Time span of the calendar		1-3 months	4
+Q01.4b	Time span of the calendar		4-12 months	78
+Q01.4b	Time span of the calendar		13-24 months	11
+Q01.4b	Time span of the calendar		More than 2 years	5
+Q01.4b	Time span of the calendar		Other	3
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar		1	47
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar		2	24
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar		3	26
+Q01.4c	Frequency of adjustments to the release dates specified in the calendar		4	3
+Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Government departments/policy-makers	44
+Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Media	14
+Q01.6	Groups of users given access to statistics prior to their public release in the past five years		International organizations, including IFIs	9
+Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Chamber of commerce or other business networks	3
+Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Workers' unions	2
+Q01.6	Groups of users given access to statistics prior to their public release in the past five years		None of the above	47
+Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Other	15
+Q01.6a	If any user has access to a pre-release, is this publicly identified?		No	33
+Q01.6a	If any user has access to a pre-release, is this publicly identified?		Yes, in some cases	14
+Q01.6a	If any user has access to a pre-release, is this publicly identified?		Yes, always	53
+Q01.7a	Conditions for online access to aggregates and/or microdata		Under publicly available terms of use	60
+Q01.7a	Conditions for online access to aggregates and/or microdata		After signing a licensing agreement	29
+Q01.7a	Conditions for online access to aggregates and/or microdata		For a fee	23
+Q01.7a	Conditions for online access to aggregates and/or microdata		After registration on the website	18
+Q01.7a	Conditions for online access to aggregates and/or microdata		Other	27
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates		Under condition of attribution of the source 	58
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates		For non-commercial purposes	41
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates		For commercial purposes	19
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates		For a fee	15
+Q01.7b	Conditions for re-distribution of anonymized microdata data and aggregates		Other	24
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online		Under condition of attribution of the source	61
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online		For non-commercial purposes	43
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online		For commercial purposes	17
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online		For a fee	11
+Q01.7c	Conditions for distribution of derivative works based on the aggregates and/or microdata that are available online		Other	12
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities		Meetings with Ministers/deputy Ministers	86
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities		Attending Upper/lower house hearings	42
+Q02.1a	Modalities of communication between chief statistician and policy-making authorities		Other	13
+Q02.2	Existence of clear rules for appointment and dismissal of the head of NSO		No	14
+Q02.2	Existence of clear rules for appointment and dismissal of the head of NSO		Yes	86
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO		Qualifications	69
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO		Selection procedure	68
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO		Length of appointment	56
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO		Reasons for dismissal	49
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO		Limit of terms in office	35
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO		Age limit	24
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO		None of the above	2
+Q02.2a	Aspects regulated in rules for appointment and dismissal of the head of NSO		Other	9
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years		No	94
+Q02.3	Inquiries (e.g. by the media, the academia, advocacy groups) on procedure for selecting a head of the NSO in the past five years		Yes	6
+Q02.4	How NSS seeked external endorsement of its methodologies and survey designs in the past five years		By using internationally recommended standards and methods	96
+Q02.4	How NSS seeked external endorsement of its methodologies and survey designs in the past five years		Peer or expert reviews from international committees, national committees, professional associations, etc.	68
+Q02.4	How NSS seeked external endorsement of its methodologies and survey designs in the past five years		By fully disclosing the applied methodology(ies)	63
+Q02.4	How NSS seeked external endorsement of its methodologies and survey designs in the past five years		By publishing revision policy(ies) and other procedural manuals	59
+Q02.4	How NSS seeked external endorsement of its methodologies and survey designs in the past five years		By authorizing statistical or methodological councils to take formal decisions on the methodology	32
+Q02.4	How NSS seeked external endorsement of its methodologies and survey designs in the past five years		External monitoring or auditing of the practices of the NSS (from advocacy groups or ombudsman)	20
+Q02.4	How NSS seeked external endorsement of its methodologies and survey designs in the past five years		None of the above	2
+Q02.4	How NSS seeked external endorsement of its methodologies and survey designs in the past five years		Other	9
+Q02.5	Measures currently being undertaken for coordinating standards and classifications across the NSS		The NSO compiles, publishes and promotes the consistent use of standards and classifications	86
+Q02.5	Measures currently being undertaken for coordinating standards and classifications across the NSS		The NSO monitors compliance with classifications and standards	57
+Q02.5	Measures currently being undertaken for coordinating standards and classifications across the NSS		Statistical legislation establishes common standards and/or specifies which agency is responsible for doing so	56
+Q02.5	Measures currently being undertaken for coordinating standards and classifications across the NSS		The NSO reviews and approves questionnaires and/or methodologies	48
+Q02.5	Measures currently being undertaken for coordinating standards and classifications across the NSS		Committees for specific fields are responsible for the coordination of standards	40
+Q02.5	Measures currently being undertaken for coordinating standards and classifications across the NSS		None of the above	2
+Q02.5	Measures currently being undertaken for coordinating standards and classifications across the NSS		Other	6
+Q02.6	Document(s) providing guidance on professional ethics for staff		Statistical law	86
+Q02.6	Document(s) providing guidance on professional ethics for staff		Internal regulations and staff rules	82
+Q02.6	Document(s) providing guidance on professional ethics for staff		Codes of conduct for civil servants	74
+Q02.6	Document(s) providing guidance on professional ethics for staff		Specific codes for statistical personnel	43
+Q02.6	Document(s) providing guidance on professional ethics for staff		Other	11
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years		Orientation and training programmes and seminars	76
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years		Handbooks, booklets, posters and the Intranet	67
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years		Swearing in of new staff and receipt of the relevant laws and guidelines	60
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years		None of the above	1
+Q02.7	Ways in which staff have been informed and reminded of existing codes of conduct, in the past five years		Other	11
+Q02.9_Q2.10	Training concerning open data, data privacy or access to information policies and principles		NSO	91
+Q02.9_Q2.10	Training concerning open data, data privacy or access to information policies and principles		Other agencies in the NSS	69
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?		NSO Website	98
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?		Printed material	87
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?		Data portal	62
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?		Other official NSS website(s)	58
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?		CD/DVD	44
+Q03.1	Dissemination channels through which the NSS/NSO makes its data available to the public?		Other	26
+Q03.2	How users are informed of the quality of published data		Via methodological notes	86
+Q03.2	How users are informed of the quality of published data		As part of metadata provided with the data	82
+Q03.2	How users are informed of the quality of published data		Via quality reports	55
+Q03.2	How users are informed of the quality of published data		In meetings to address data quality  	55
+Q03.2	How users are informed of the quality of published data		None of the above	3
+Q03.2	How users are informed of the quality of published data		Other	6
+Q03.3	Types of explanatory texts that accompany published data		Metadata associated with each dataset	83
+Q03.3	Types of explanatory texts that accompany published data		Notifications of major methodological changes	80
+Q03.3	Types of explanatory texts that accompany published data		Erratum or any other form of error correction	61
+Q03.3	Types of explanatory texts that accompany published data		Manuals and protocols used by the NSS	53
+Q03.3	Types of explanatory texts that accompany published data		Guides on interpretation of data used and estimates	47
+Q03.3	Types of explanatory texts that accompany published data		Other	9
+Q03.3b	Information included in explanatory texts that accompany published data		Methodology	80
+Q03.3b	Information included in explanatory texts that accompany published data		Concepts and definitions	78
+Q03.3b	Information included in explanatory texts that accompany published data		Classifications and standards	78
+Q03.3b	Information included in explanatory texts that accompany published data		Data collection procedures	76
+Q03.3b	Information included in explanatory texts that accompany published data		Quality assessments	53
+Q03.3b	Information included in explanatory texts that accompany published data		Other	11
+Q03.3d	Types of manuals and protocols made available with published data		Manuals on concepts and definitions	40
+Q03.3d	Types of manuals and protocols made available with published data		Manuals on data collection, editing, processing, analysis, visualization, etc.	37
+Q03.3d	Types of manuals and protocols made available with published data		Rules and guidelines for revisions and errors	32
+Q03.3d	Types of manuals and protocols made available with published data		Protocols for access to anonymized microdata	28
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		Custom-developed data platform	44
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		ArcGIS	31
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		Eurostat web portal	27
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		OECD.Stat	25
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		NADA	22
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		DevInfo	19
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		Country STAT	16
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		African Information Highway	13
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		US/UK open source SDGs National Reporting Platform	10
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		Prognoz (Open Data Portal) & Knoema	9
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		IMIS	5
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		Other	56
+Q03.4	Data platforms(s) currently used by NSS/NSO to disseminate statistical data		None Of The Above	3
+Q04.1	The NSO/NSS has reacted to erroneous interpretation and misuse of statistics during the past five years		No	23
+Q04.1	The NSO/NSS has reacted to erroneous interpretation and misuse of statistics during the past five years		Yes	77
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years		Sending letters to the editors of newspapers or advertorials	60
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years		Publishing articles on own webpage or posting on social media	57
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years		Holding press conferences or issuing press releases	52
+Q04.2	How NSO/NSS reacted to erroneous inerpretations and misuse of statistics during the past five years		Other	19
+Q04.2a	Types of misuse identified in the past two years?		Misreporting of findings	62
+Q04.2a	Types of misuse identified in the past two years?		Overgeneralizations	37
+Q04.2a	Types of misuse identified in the past two years?		Selective reporting of findings (omitting key findings)	31
+Q04.2a	Types of misuse identified in the past two years?		Suggesting false causality	29
+Q04.2a	Types of misuse identified in the past two years?		Misleading graphs and data visualization	20
+Q04.2a	Types of misuse identified in the past two years?		Leading questions	13
+Q04.2a	Types of misuse identified in the past two years?		None of the above	3
+Q04.2a	Types of misuse identified in the past two years?		Other	5
+Q04.2b	Number of times the NSO/NSS commented on erroneous interpretation and misuse of statistics in the past five years		Once over the five-year period	8
+Q04.2b	Number of times the NSO/NSS commented on erroneous interpretation and misuse of statistics in the past five years		Twice over the five-year period	13
+Q04.2b	Number of times the NSO/NSS commented on erroneous interpretation and misuse of statistics in the past five years		Once per year	14
+Q04.2b	Number of times the NSO/NSS commented on erroneous interpretation and misuse of statistics in the past five years		Twice or more per year 	35
+Q04.2b	Number of times the NSO/NSS commented on erroneous interpretation and misuse of statistics in the past five years		None of the above	4
+Q04.3	Activities carried out by the NSO/NSS to educate data users in the past five years, including the media		Press conferences or press releases with specific contacts for questions	85
+Q04.3	Activities carried out by the NSO/NSS to educate data users in the past five years, including the media		Use of social media (including publishing videos)	84
+Q04.3	Activities carried out by the NSO/NSS to educate data users in the past five years, including the media		Participation in external events, such as conferences, book fairs, etc.	84
+Q04.3	Activities carried out by the NSO/NSS to educate data users in the past five years, including the media		Appearance of senior management (Director General, Chief Statistician, etc.) in mass media (TV, radio, print)	82
+Q04.3	Activities carried out by the NSO/NSS to educate data users in the past five years, including the media		Publications and booklets tailored for specific groups	68
+Q04.3	Activities carried out by the NSO/NSS to educate data users in the past five years, including the media		Awareness campaigns	56
+Q04.3	Activities carried out by the NSO/NSS to educate data users in the past five years, including the media		Seminars -including e-learning-, live chat sessions, podcasts	55
+Q04.3	Activities carried out by the NSO/NSS to educate data users in the past five years, including the media		Specific sections for different types of users (e.g. students) on the website	45
+Q04.3	Activities carried out by the NSO/NSS to educate data users in the past five years, including the media		None of the above	1
+Q04.3	Activities carried out by the NSO/NSS to educate data users in the past five years, including the media		Other	8
+Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years		Once over the five-year period	2
+Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years		Twice over the five-year period	2
+Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years		Once per year	12
+Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years		Twice or more per year	73
+Q04.3a	Number of times "seminars, participation in external events, and/or appearance in mass media" took place to educate users in the past five years		Other	4
+Q05.1	Sources of data currently used by the NSO		Sample surveys	99
+Q05.1	Sources of data currently used by the NSO		Administrative data	98
+Q05.1	Sources of data currently used by the NSO		Censuses	94
+Q05.1	Sources of data currently used by the NSO		Web scrapped data	38
+Q05.1	Sources of data currently used by the NSO		Privately owned datasets (such as call detail records)	31
+Q05.1	Sources of data currently used by the NSO		Satellite imagery	29
+Q05.1	Sources of data currently used by the NSO		Citizen generated data (from CSOs)	6
+Q05.1	Sources of data currently used by the NSO		Other	5
+Q05.1a	How administrative records are currently used		As a direct source of data (without linking or drawing of inferences)	91
+Q05.1a	How administrative records are currently used		As a complement to survey or census data, for correcting input errors, imputing, calibrating sample weights, etc.	80
+Q05.1a	How administrative records are currently used		As a means for estimation (combining multiple records to derive variables)	78
+Q05.1a	How administrative records are currently used		As sampling frames	70
+Q05.1a	How administrative records are currently used		As a supplement to survey or census data, adding information to what was collected in the interviews	67
+Q05.1a	How administrative records are currently used		As a means to assess non-response to surveys	48
+Q05.1a	How administrative records are currently used		Other	4
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes		Cooperation with custodians of administrative data at the stage of design/modernization of information systems	85
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes		Providing advice to the custodians of administrative data for amending the composition of data and classification	80
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes		Feedback with custodians of administrative data when errors are found	72
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes		Training personnel of the custodians of administrative data	45
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes		None of the above	2
+Q05.1b	Actions are being taken for adapting administrative records to statistical purposes		Other	3
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data		There are specific rules of access and confidentiality measures to treat these datasets	38
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data		The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	29
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data		The NSS has a contract with the data provider	26
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data		The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	23
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data		Consumers/citizens are informed that their data is being used for compiling official statistics	20
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins		Monitoring the timeliness of publications against the release calendar	89
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins		Using new technologies for reducing processing times	78
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins		Meeting with data providers to agree on deadlines	66
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins		Using standardized dissemination protocols, such as Special Data Dissemination Standard	60
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins		Releasing preliminary data to users	59
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins		Using staff overtime or hiring temporary staff	57
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins		Improving or changing methodologies, such as flash estimates	49
+Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins		Other	2
+Q05.3	Quality management framework(s) currently applied by the NSO		Data Quality Assessment Framework	46
+Q05.3	Quality management framework(s) currently applied by the NSO		European Statistical System Quality Assurance Framework	43
+Q05.3	Quality management framework(s) currently applied by the NSO		General Data Dissemination System	38
+Q05.3	Quality management framework(s) currently applied by the NSO		Total Quality Management	23
+Q05.3	Quality management framework(s) currently applied by the NSO		ISO EN 9001	13
+Q05.3	Quality management framework(s) currently applied by the NSO		Other	96
+Q05.3	Quality management framework(s) currently applied by the NSO		None Of The Above	6
+Q05.3a	Aspects considered in the quality management framework		Monitoring of production processes, including targets (e.g. number of records failing validation checks)	74
+Q05.3a	Aspects considered in the quality management framework		Monitoring of outputs (including after they have been published)	67
+Q05.3a	Aspects considered in the quality management framework		Training programme for staff	67
+Q05.3a	Aspects considered in the quality management framework		Quality management responsibilities (including assignment of tasks to specific unit(s) or position(s))	66
+Q05.3a	Aspects considered in the quality management framework		Revisions analysis (e.g. trade-offs between accuracy and timeliness of products)	59
+Q05.3a	Aspects considered in the quality management framework		External reviews	39
+Q05.3a	Aspects considered in the quality management framework		Other	8
+Q05.4	Measure(s) being applied to reduce respondent burden		Simplifying questionnaires and/or prefilling them	78
+Q05.4	Measure(s) being applied to reduce respondent burden		Repurposing administrative records and other data sources (e.g. big data) for statistical use	70
+Q05.4	Measure(s) being applied to reduce respondent burden		Having integrated surveys and/or coordinating surveys between government agencies	68
+Q05.4	Measure(s) being applied to reduce respondent burden		Reducing sample sizes and/or innovating on sampling techniques (for example, crowdsourcing)	47
+Q05.4	Measure(s) being applied to reduce respondent burden		Producing projections and estimates	47
+Q05.4	Measure(s) being applied to reduce respondent burden		Other	6
+Q05.4	Measure(s) being applied to reduce respondent burden		None Of The Above	3
+Q06.1a	Confidentiality provision in the laws applies to…		NSO	29
+Q06.1a	Confidentiality provision in the laws applies to…		NSS	71
+Q06.2	Aspects considered in the confidentiality policy of the NSO		Confidentiality agreement for staff, including penalties	88
+Q06.2	Aspects considered in the confidentiality policy of the NSO		Procedures for granting access to microdata	81
+Q06.2	Aspects considered in the confidentiality policy of the NSO		Training of staff on protecting individual data	81
+Q06.2	Aspects considered in the confidentiality policy of the NSO		Procedures for storing and destroying individual records	68
+Q06.2	Aspects considered in the confidentiality policy of the NSO		Checks before releasing micro-data	67
+Q06.2	Aspects considered in the confidentiality policy of the NSO		Obligation to inform respondents about uses of data	67
+Q06.2	Aspects considered in the confidentiality policy of the NSO		Contracts with non-staff who access microdata, including penalties	63
+Q06.2	Aspects considered in the confidentiality policy of the NSO		Research and innovation on confidentiality	33
+Q06.2	Aspects considered in the confidentiality policy of the NSO		Other	2
+Q06.3	Practices being implemented to anonymize statistical data		Removing individual names of persons or enterprises in databases	91
+Q06.3	Practices being implemented to anonymize statistical data		Suppression of information that allows for re-identification of respondents	84
+Q06.3	Practices being implemented to anonymize statistical data		Anonymizing microdata released for research purposes	76
+Q06.3	Practices being implemented to anonymize statistical data		Manually checking data prepared for dissemination	68
+Q06.3	Practices being implemented to anonymize statistical data		Applying confidentiality checks with specialized software	57
+Q06.3	Practices being implemented to anonymize statistical data		Having specific authorities scrutinize applications for accessing confidential data	28
+Q06.3	Practices being implemented to anonymize statistical data		Other	6
+Q06.3	Practices being implemented to anonymize statistical data		None Of The Above	2
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties		When the individual /enterprise consented	47
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties		When exchanging data with other statistical offices or agencies in the country	19
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties		When a court of law issues a request	16
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties		When working together with supranational statistical organizations, such as Eurostat	13
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties		In cases of emergency, such as a public health crisis	6
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties		When the High Statistical Council agrees	4
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties		When requested by a federal institution	3
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties		Other	10
+Q06.4	Circumnstances under which identifiable individual data can be disclosed to third parties		None Of The Above	27
+Q07.1	Existence of a general statistics law in the country		No	3
+Q07.1	Existence of a general statistics law in the country		Yes	97
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		The body responsible for statistics and its responsibilities	95
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		The status, mandate and functions of the NSO	91
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		Secrecy, confidentiality and privacy obligations (including sanctions for non-compliance)	90
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		Sanctions for not responding to mandatory statistical enquiries	86
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		The coordination of statistical activities across government	84
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		The role and status of the chief statistician	83
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		The definition of official statistics	82
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		Access to administrative data	80
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		The role and membership of the national statistical council	72
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		The role and the responsibilities of agencies other than the NSO	70
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		The staff of the NSO	69
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		The matters to be covered in the statistical work program	67
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		Participation in international statistical activities	65
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		Presumption of publication and the acceptable conditions for not publishing data collected	41
+Q07.2	Aspects of the NSS covered by regulations (e.g. Statistical Law, presidential decrees)		Other	5
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law		Statistical services in line ministries	52
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law		Statistical services in the Central Bank	44
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law		Custodians of administrative data	41
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law		Statistical offices at the sub-national level (region, province, etc.)	40
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law		Statistical research and training centres 	20
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law		Private institutions	14
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law		Chambers of commerce or other business networks	11
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law		Trade unions	8
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law		Supra-national bodies (e.g. Eurostat)	3
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law		Other	6
+Q07.2a	Agencies other than NSO whose role and responsibilities are covered by the law		None Of The Above	1
+Q07.3	How the NSO has encouraged respondents to answer surveys during the past five years		By launching awareness campaigns prior to censuses or large surveys	87
+Q07.3	How the NSO has encouraged respondents to answer surveys during the past five years		By sending pre-announcement letters	82
+Q07.3	How the NSO has encouraged respondents to answer surveys during the past five years		By providing an explanatory text on the front page of the survey	81
+Q07.3	How the NSO has encouraged respondents to answer surveys during the past five years		By requesting informed consent	40
+Q07.3	How the NSO has encouraged respondents to answer surveys during the past five years		By applying fines for not responding	38
+Q07.3	How the NSO has encouraged respondents to answer surveys during the past five years		By declaring the census day national holiday	6
+Q07.3	How the NSO has encouraged respondents to answer surveys during the past five years		Other	13
+Q07.4 	Person/office within the government to whom the head of the NSO reports		Ministry of planning or development	24
+Q07.4 	Person/office within the government to whom the head of the NSO reports		Prime Minister, chancellor or President	22
+Q07.4 	Person/office within the government to whom the head of the NSO reports		Ministry of economic affairs, industry or trade	12
+Q07.4 	Person/office within the government to whom the head of the NSO reports		Ministry of finance or comptroller general	12
+Q07.4 	Person/office within the government to whom the head of the NSO reports		Cabinet or Council of Ministers	10
+Q07.4 	Person/office within the government to whom the head of the NSO reports		Parliament/Congress	5
+Q07.4 	Person/office within the government to whom the head of the NSO reports		Ministry of the interior	2
+Q07.4 	Person/office within the government to whom the head of the NSO reports		Planning or development authority	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports		To general public	1
+Q07.4 	Person/office within the government to whom the head of the NSO reports		Other	12
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS		No such law exists	18
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS		No	9
+Q07.5 	A Freedom of Information or Access to Information law covers the NSS		Yes	73
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government		Statistical services in the Central Bank	90
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government		Statistical services in line ministries	86
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government		Statistical offices at the sub-national level (region, province, etc.)	47
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government		Public research institutions	24
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government		Statistical research and training centers	20
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government		Supra-national bodies (e.g. Eurostat)	13
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government		Private institutions	12
+Q08.1	Agencies other than the NSO which produce official statistics on behalf of the government		Other	8
+Q08.2	Activities currently being implemented for coordinating the NSS		Meeting in statistical committees, councils, etc. 	89
+Q08.2	Activities currently being implemented for coordinating the NSS		Sharing of information and databases	78
+Q08.2	Activities currently being implemented for coordinating the NSS		Signing of memorandums of understanding between agencies	76
+Q08.2	Activities currently being implemented for coordinating the NSS		Developing joint training programmes	63
+Q08.2	Activities currently being implemented for coordinating the NSS		Preparing annual or multi-annual consolidated program of statistical activities	54
+Q08.2	Activities currently being implemented for coordinating the NSS		Monitoring duplication of work between agencies	51
+Q08.2	Activities currently being implemented for coordinating the NSS		Embarking in joint data collection	45
+Q08.2	Activities currently being implemented for coordinating the NSS		Performing regular quality reviews of statistical programs across the NSS	31
+Q08.2	Activities currently being implemented for coordinating the NSS		Reviewing and clearing any planned data collection	29
+Q08.2	Activities currently being implemented for coordinating the NSS		Placement of NSO staff in other agencies	27
+Q08.2	Activities currently being implemented for coordinating the NSS		Exchanging staff between agencies	24
+Q08.2	Activities currently being implemented for coordinating the NSS		Sharing budget between statistical agencies	18
+Q08.2	Activities currently being implemented for coordinating the NSS		Other	73
+Q08.2	Activities currently being implemented for coordinating the NSS		None Of The Above	1
+Q08.3	Frequency of meetings between producers of official statistics during the past five years		Once over the five-year period	2
+Q08.3	Frequency of meetings between producers of official statistics during the past five years		Twice over the five-year period	2
+Q08.3	Frequency of meetings between producers of official statistics during the past five years		Once per year	12
+Q08.3	Frequency of meetings between producers of official statistics during the past five years		Twice or more per year	75
+Q08.3	Frequency of meetings between producers of official statistics during the past five years		Other	4
+Q08.3	Frequency of meetings between producers of official statistics during the past five years		None of the above	4
+Q08.4	How is dissemination coordinated across the NSS		Unified release calendar	30
+Q08.4	How is dissemination coordinated across the NSS		Standardized metadata structure	19
+Q08.4	How is dissemination coordinated across the NSS		Other	9
+Q08.4	How is dissemination coordinated across the NSS		Standardized microdata structure	8
+Q08.4	How is dissemination coordinated across the NSS		None Of The Above	45
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data		No	59
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data		Yes	35
+Q08.5	Existence of a central data portal where different members of the NSS publish official statistical data		No Answer	5
+Q09.1	Version of the SNA currently used		1993 SNA	20
+Q09.1	Version of the SNA currently used		2008 SNA	66
+Q09.1	Version of the SNA currently used		ESA 2010	5
+Q09.1	Version of the SNA currently used		None	2
+Q09.1	Version of the SNA currently used		Other	3
+Q09.2	Extent to which Principles and Recommendations for Population and Housing Censuses, Rev. 3 (for census undertaken after 2015) or Rev. 2 (for census undertaken before 2015) are being implemented in the latest census programme		Fully	72
+Q09.2	Extent to which Principles and Recommendations for Population and Housing Censuses, Rev. 3 (for census undertaken after 2015) or Rev. 2 (for census undertaken before 2015) are being implemented in the latest census programme		Partially	25
+Q09.2	Extent to which Principles and Recommendations for Population and Housing Censuses, Rev. 3 (for census undertaken after 2015) or Rev. 2 (for census undertaken before 2015) are being implemented in the latest census programme		Not implemented	3
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)		For the dissemination of time-use statistics, regardless of the type of instruments used for data collection	18
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)		To guide the collection of time-use data 	19
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)		As the basis for national classifications of activities for time-use statistics	14
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)		None of the above	35
+Q09.3	Use of the International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)		Time use is not compiled	35
+Q09.4	Existence of a programme on EEA*		Yes, we have compiled and published at least one EEA	46
+Q09.4	Existence of a programme on EEA*		Yes, we have compiled (or are compiling) at least one EEA but it has not been published	8
+Q09.4	Existence of a programme on EEA*		We plan (or have started) a programme on EEA, but do not yet compile any EEA	15
+Q09.4	Existence of a programme on EEA*		No, we do not have a programme on EEA 	31
+Q09.5	SDMX currently in use		Do not know	2
+Q09.5	SDMX currently in use		No	27
+Q09.5	SDMX currently in use		Partially, only in some statistical domains or data sets	34
+Q09.5	SDMX currently in use		Yes	37
+Q10.1	Types of international cooperation activities the NSS engages in		Participation in international working groups	96
+Q10.1	Types of international cooperation activities the NSS engages in		Participation in regional working groups	92
+Q10.1	Types of international cooperation activities the NSS engages in		Technical cooperation	89
+Q10.1	Types of international cooperation activities the NSS engages in		Training of statistical personnel	89
+Q10.1	Types of international cooperation activities the NSS engages in		Peer reviews and/or external evaluations	73
+Q10.1	Types of international cooperation activities the NSS engages in		Twinning (peer to peer collaboration)	47
+Q10.1	Types of international cooperation activities the NSS engages in		Other	6
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)		N/A	35
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)		No	30
+Q10.3	Existence of donor coordination mechanism or basket fund for statistics (if country receives support from donors)		Yes	34
+Q10.4	The NSO participates in or contributes to organizations or partnerships whose purpose is to promote open data		No	40
+Q10.4	The NSO participates in or contributes to organizations or partnerships whose purpose is to promote open data		Yes	60
+Q11.5_rev	How long did it take to fill out this questionnaire (in hours)?		Africa	9.7
+Q11.5_rev	How long did it take to fill out this questionnaire (in hours)?		Americas	3
+Q11.5_rev	How long did it take to fill out this questionnaire (in hours)?		Asia	3
+Q11.5_rev	How long did it take to fill out this questionnaire (in hours)?		Europe	4
+Q11.5_rev	How long did it take to fill out this questionnaire (in hours)?		Oceania	3
+Q11.5_rev	How long did it take to fill out this questionnaire (in hours)?		TOTAL	5

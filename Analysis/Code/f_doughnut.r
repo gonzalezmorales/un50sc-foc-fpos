@@ -102,7 +102,7 @@ doughnut <-
       lab <- as.character(labels[i])
       if (!is.na(lab) && nzchar(lab)) {
         lines(c(1, 1.05) * Pout$x, c(1, 1.05) * Pout$y)
-        text(1.1 * Pout$x, 1.1 * Pout$y, labels[i], 
+        text(1.2 * Pout$x, 1.2 * Pout$y, labels[i], 
              xpd = TRUE, adj = ifelse(Pout$x < 0, 1, 0), 
              ...)
       }

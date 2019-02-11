@@ -15,6 +15,7 @@ setwd("C:/Users/L.GonzalezMorales/Documents/GitHub/un50sc-foc-fpos/Analysis/")
 source('Code/f_doughnut.r')
 source('Code/f_read.tab2dataTable.r')
 source('Code/f_writeTable2tab.r')
+source('Code/f_h_barplot_stacked.r')
 
 #----------------------------------
 # Read raw data
