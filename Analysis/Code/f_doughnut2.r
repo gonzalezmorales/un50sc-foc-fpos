@@ -5,13 +5,12 @@ doughnut2 <-
 
     x.labels <- paste(x.labels, " (", x, "%)", sep = "")
     
-    length.labels <- round(max(nchar(x.labels))/2,0) + 10
+    length.labels <- round(max(nchar(x.labels))/3.5,0) + 10
     
     x.labels <- sapply(x.labels, 
                          function(s) paste(strwrap(s, length.labels), 
                                            collapse = "\n"), 
                          USE.NAMES = FALSE)
-                  
     
     
     print.labels <- x.labels
@@ -54,6 +53,7 @@ doughnut2 <-
              bty = "n",
              inset=c(0,0))
       
+     
     }
 
 }

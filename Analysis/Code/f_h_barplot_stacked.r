@@ -3,7 +3,7 @@ h_barplot_stacked <-
   function (x, x.labels, x.color, x.leged)
   {
 
-    par(mar=c(5,12,5,3), xpd = TRUE)
+    par(mar=c(5,12,1,3), xpd = TRUE)
     
     barplot(height = x,
             xlim = c(0,100),
@@ -31,4 +31,6 @@ h_barplot_stacked <-
            fill = x.color,
            bty = "n",
            inset=c(0.225,-.3))
+    
+    
 }

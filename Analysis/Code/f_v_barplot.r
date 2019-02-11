@@ -11,7 +11,7 @@ v_barplot <-
                                                collapse = "\n"), 
                              USE.NAMES = FALSE)
     
-    par(mar=c(label.lines,5,3,1), xpd = TRUE)
+    par(mar=c(label.lines,5,1,1), xpd = TRUE)
     
     mp <- barplot(height = x,
             names.arg = "",
@@ -19,15 +19,27 @@ v_barplot <-
             legend.text = FALSE,
             horiz = FALSE,
             col = x.color, 
-            ylab = "percent",
+            ylab = "",
             width = 0.75,
             space = 0.25,
             border = NA,
             axes = FALSE)
     
-    mtext(text = x.labels, side = 1, at = mp, line = label.lines-2)
+    mtext(text = x.labels, 
+          side = 1, 
+          at = mp, 
+          line = label.lines-5, 
+          padj = c(1),
+          cex = 0.8)
     
     # Add horizontal axis:
-    axis(side = 2, lwd = 0)
+    #axis(side = 2, lwd = 0)
+
+    
+    # Add values:
+    text(x = mp, y = x, 
+         label = paste(x, "%", sep =""), 
+         pos = 3, cex = 0.8)
+    
     
 }

@@ -29,10 +29,12 @@ data <- read.tab2dataTable("Data/PlotsData.txt")
 plotTypes   <- read.tab2dataTable("Data/PlotsTypes.txt")
 
 
+
 for(i in 1:nrow(plotTypes)){
   
   type <- plotTypes[i,Plot.Type]
   qID <- plotTypes[i,QuestionID]
+  qText <- data[QuestionID == qID,QuestionText][1]
   
   X <- data[QuestionID == qID,list(Group, Answer, x = TOTAL)]
   
@@ -40,7 +42,7 @@ for(i in 1:nrow(plotTypes)){
     
     x <- X[,x]
     x.labels <- X[,Answer]
-    x.color  <- brewer.pal(length(x),"Blues")[length(x):1]
+    x.color  <- brewer.pal(length(x),"Blues")
     x.legend <- x.labels
     
   } else {
@@ -73,8 +75,7 @@ for(i in 1:nrow(plotTypes)){
   
   # "Vertical bars - side by side"
   
-  
-  
+
   if(type == "Horizontal bars - stacked"){
  
       svg(filename=paste("Plot_", i, "_", qID, ".svg", sep = ""), width=8, height=4)
@@ -88,13 +89,13 @@ for(i in 1:nrow(plotTypes)){
       svg(filename=paste("Plot_", i, "_", qID, ".svg", sep = ""), width=8, height=4)
       
       doughnut2(x, x.labels, x.color, x.legend)
-      
+       
       dev.off()
   
     } else if (type == "Horizontal bars"){ 
       
-      if (length(x)>5) {
-        h <- 4 + round(length(x)/3) + .25
+      if (length(x)>3) {
+        h <- 4 + round(length(x)/2) + .25
       } else {
         h <- 4
       }
