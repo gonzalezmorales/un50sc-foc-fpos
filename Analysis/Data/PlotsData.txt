@@ -80,7 +80,7 @@ Q01.4c	Frequency of adjustments to the release dates specified in the calendar		
 Q01.4c	Frequency of adjustments to the release dates specified in the calendar		2	24
 Q01.4c	Frequency of adjustments to the release dates specified in the calendar		3	26
 Q01.4c	Frequency of adjustments to the release dates specified in the calendar		4	3
-Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Government departments/policy-makers	44
+Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Government departments / policy-makers	44
 Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Media	14
 Q01.6	Groups of users given access to statistics prior to their public release in the past five years		International organizations, including IFIs	9
 Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Chamber of commerce or other business networks	3

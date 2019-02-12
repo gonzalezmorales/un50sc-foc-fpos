@@ -38,13 +38,29 @@ for(i in 1:nrow(plotTypes)){
   
   X <- data[QuestionID == qID,list(Group, Answer, x = TOTAL)]
   
+  # only one vector
   if(X[!is.na(Group),.N] == 0){
     
     x <- X[,x]
     x.labels <- X[,Answer]
-    x.color  <- brewer.pal(length(x),"Blues")
+    
     x.legend <- x.labels
     
+    if(type == "Doughnut") {
+      if(length(x) > 2) {
+        x.color  <- brewer.pal(length(x),"Blues")[length(x):1]
+      } else if(length(x) == 2) {
+        
+        x.color  <- c("#2171B5","#BDD7E7")
+        
+      } else {
+        
+        x.color <- "#2171B5"
+      }
+    }
+    
+    
+  # a matrix (for sacked barplots)  
   } else {
     
     
@@ -56,11 +72,11 @@ for(i in 1:nrow(plotTypes)){
     x.labels  <- colnames(x) 
     x.legend <- dcast(X, Answer ~ Group, value.var = "x")[nrow(x):1,Answer]
     
-    if(length(x)>2) {
+    if(nrow(x)>2) {
       
       x.color  <- brewer.pal(nrow(x),"Blues")[nrow(x):1]
       
-    } else if(length(x) == 1) {
+    } else if(nrow(x) == 2) {
       
       x.color  <- c("#2171B5","#BDD7E7")
       
@@ -107,8 +123,15 @@ for(i in 1:nrow(plotTypes)){
       dev.off()
     
     } else if (type == "Vertical bars") {
+      
+      if (length(x)>3) {
+        h <- 4 + round(length(x)/3) + .25
+      } else {
+        h <- 4
+      }
+      
     
-      svg(filename=paste("Plot_", i, "_", qID, ".svg", sep = ""), width=8, height=4)
+      svg(filename=paste("Plot_", i, "_", qID, ".svg", sep = ""), width=h, height=4)
     
       v_barplot(x, x.labels, x.color = "#2171B5")
       
@@ -118,7 +141,9 @@ for(i in 1:nrow(plotTypes)){
   
     
   
-  
+cat("Plot_", i, "_", qID, ".svg\t",qText, "\n", sep="")  
   
   
 }
+
+

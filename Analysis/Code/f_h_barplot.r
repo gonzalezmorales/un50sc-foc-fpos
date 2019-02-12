@@ -3,9 +3,9 @@ h_barplot <-
   function (x, x.labels, x.color)
   {
 
-    length.labels <- round(max(nchar(x.labels))/2.5,0) + 5
+    length.labels <- round(max(nchar(x.labels))/2.9,0) + 5
     
-    par(mar=c(5,max(7,length.labels/2.4),4,1), xpd = TRUE)
+    par(mar=c(2,max(8,length.labels/2.2),2,1), xpd = TRUE)
     
     xx <- barplot(height = x[length(x):1],
             names.arg = sapply(x.labels[length(x):1], 

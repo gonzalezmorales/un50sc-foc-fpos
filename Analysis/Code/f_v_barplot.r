@@ -11,7 +11,7 @@ v_barplot <-
                                                collapse = "\n"), 
                              USE.NAMES = FALSE)
     
-    par(mar=c(label.lines,5,1,1), xpd = TRUE)
+    par(mar=c(label.lines,5,2,1), xpd = TRUE)
     
     mp <- barplot(height = x,
             names.arg = "",
@@ -39,7 +39,7 @@ v_barplot <-
     # Add values:
     text(x = mp, y = x, 
          label = paste(x, "%", sep =""), 
-         pos = 3, cex = 0.8)
+         pos = 3, cex = 0.9)
     
     
 }
