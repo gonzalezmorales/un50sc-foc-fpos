@@ -51,6 +51,7 @@ Q06.3	Horizontal bars
 Q06.4	Horizontal bars
 Q07.1	Doughnut
 Q07.2	Horizontal bars
+Q07.2a	Horizontal bars
 Q07.3	Horizontal bars
 Q07.4 	Horizontal bars
 Q07.5 	Doughnut
