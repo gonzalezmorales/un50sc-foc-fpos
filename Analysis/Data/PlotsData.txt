@@ -4,12 +4,12 @@ Q00.1	Answering on behalf of		National Statistical System (NSS)	12
 Q00.1	Answering on behalf of		Both NSO & NSS	1
 Q00.1	Answering on behalf of		Senior Statistician	1
 Q00.2	Awareness of existence UNFPOS	NSO / Chief Statistician	Yes	100
-Q00.2	Awareness of existence UNFPOS	Heads/Senior managers of other agencies of NSS	Yes	74
-Q00.2	Awareness of existence UNFPOS	Heads/Senior managers of other agencies of NSS	N/A	14
-Q00.2	Awareness of existence UNFPOS	Heads/Senior managers of other agencies of NSS	No	12
-Q00.2	Awareness of existence UNFPOS	Line ministry / Department to which NSO reports	Yes	57
-Q00.2	Awareness of existence UNFPOS	Line ministry / Department to which NSO reports	N/A	30
-Q00.2	Awareness of existence UNFPOS	Line ministry / Department to which NSO reports	No	13
+Q00.2	Awareness of existence UNFPOS	Heads/Senior managers \\nof other agencies of NSS	Yes	74
+Q00.2	Awareness of existence UNFPOS	Heads/Senior managers \\nof other agencies of NSS	N/A	14
+Q00.2	Awareness of existence UNFPOS	Heads/Senior managers \\nof other agencies of NSS	No	12
+Q00.2	Awareness of existence UNFPOS	Line ministry / Department \\nto which NSO reports	Yes	57
+Q00.2	Awareness of existence UNFPOS	Line ministry / Department \\nto which NSO reports	N/A	30
+Q00.2	Awareness of existence UNFPOS	Line ministry / Department \\nto which NSO reports	No	13
 Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework		Fully integrated in statistical law or legal framework	61
 Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework		Partially integrated in statistical law or legal framework	27
 Q00.3	Extent to which UNFPOS are integrated into the NSS institutional framework		Not integrated in statistical law or legal framework	6
@@ -80,7 +80,7 @@ Q01.4c	Frequency of adjustments to the release dates specified in the calendar		
 Q01.4c	Frequency of adjustments to the release dates specified in the calendar		2	24
 Q01.4c	Frequency of adjustments to the release dates specified in the calendar		3	26
 Q01.4c	Frequency of adjustments to the release dates specified in the calendar		4	3
-Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Government departments / policy-makers	44
+Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Government departments/policy-makers	44
 Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Media	14
 Q01.6	Groups of users given access to statistics prior to their public release in the past five years		International organizations, including IFIs	9
 Q01.6	Groups of users given access to statistics prior to their public release in the past five years		Chamber of commerce or other business networks	3
@@ -243,11 +243,11 @@ Q05.1b	Actions are being taken for adapting administrative records to statistica
 Q05.1b	Actions are being taken for adapting administrative records to statistical purposes		Training personnel of the custodians of administrative data	45
 Q05.1b	Actions are being taken for adapting administrative records to statistical purposes		None of the above	2
 Q05.1b	Actions are being taken for adapting administrative records to statistical purposes		Other	3
-Q05.1c	How the NSS accesses and uses big data or citizen-generated data		There are specific rules of access and confidentiality measures to treat these datasets	38
-Q05.1c	How the NSS accesses and uses big data or citizen-generated data		The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	29
-Q05.1c	How the NSS accesses and uses big data or citizen-generated data		The NSS has a contract with the data provider	26
-Q05.1c	How the NSS accesses and uses big data or citizen-generated data		The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	23
-Q05.1c	How the NSS accesses and uses big data or citizen-generated data		Consumers/citizens are informed that their data is being used for compiling official statistics	20
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data		There are specific rules of access and confidentiality measures to treat these datasets	69
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data		The data provider (whether a CSO or private institution) does not contribute to methodological decisions regarding the use of the data	53
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data		The NSS has a contract with the data provider	47
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data		The private provider of data (e.g. mobile phone operator) has been selected after weighing alternatives	41
+Q05.1c	How the NSS accesses and uses big data or citizen-generated data		Consumers/citizens are informed that their data is being used for compiling official statistics	37
 Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins		Monitoring the timeliness of publications against the release calendar	89
 Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins		Using new technologies for reducing processing times	78
 Q05.2	Measures taken to ensure timely release of survey results and/or statistical publications/bulletins		Meeting with data providers to agree on deadlines	66
